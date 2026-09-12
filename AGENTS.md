@@ -31,7 +31,7 @@ resolve it yourself. A wrong guess that compiles is worse than a question.
 ## Commands
 
     make collect     # one collection run
-    make parse       # raw JSON -> DuckDB
+    make parse       # raw JSON -> data/parsed/*.jsonl
     make drift       # compute metrics
     make report      # build report.html
     make test
