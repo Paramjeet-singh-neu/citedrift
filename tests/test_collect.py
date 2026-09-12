@@ -1,11 +1,12 @@
 from __future__ import annotations
 
+import os
 import tempfile
 import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from citedrift.collect.run import collect_one, load_queries, top_level_aio
+from citedrift.collect.run import collect_one, load_queries, runner_label, top_level_aio
 from citedrift.collect.serpapi import SEARCH_CAP, SerpApiAdapter
 
 
@@ -60,10 +61,12 @@ class CollectorLogicTests(unittest.TestCase):
                 Path(tmp),
             )
         self.assertTrue(row["aio_present"])
+        self.assertTrue(row["aio_complete"])
         self.assertEqual(row["delivery_mode"], "inline")
         self.assertEqual(row["reference_count"], 1)
         self.assertEqual(row["searches_used"], 1)
         self.assertIsNone(row["error"])
+        self.assertEqual(row["runner"], "local")
 
     def test_inline_without_refs_sets_error(self) -> None:
         adapter = FakeAdapter({"ai_overview": {"text_blocks": [{"snippet": "x"}]}})
@@ -74,6 +77,7 @@ class CollectorLogicTests(unittest.TestCase):
                 Path(tmp),
             )
         self.assertTrue(row["aio_present"])
+        self.assertFalse(row["aio_complete"])
         self.assertEqual(row["delivery_mode"], "inline")
         self.assertEqual(row["reference_count"], 0)
         self.assertEqual(row["error"], "aio_without_references")
@@ -91,6 +95,8 @@ class CollectorLogicTests(unittest.TestCase):
             )
             self.assertTrue((Path(tmp) / "q1_aio.json").is_file())
         self.assertEqual(row["delivery_mode"], "expanded")
+        self.assertTrue(row["aio_present"])
+        self.assertTrue(row["aio_complete"])
         self.assertEqual(row["reference_count"], 2)
         self.assertIsNone(row["error"])
         self.assertEqual(row["searches_used"], 2)
@@ -108,6 +114,7 @@ class CollectorLogicTests(unittest.TestCase):
             )
         self.assertEqual(row["delivery_mode"], "none")
         self.assertTrue(row["aio_present"])
+        self.assertFalse(row["aio_complete"])
         self.assertEqual(row["reference_count"], 0)
         self.assertEqual(row["error"], "expanded_aio_empty")
 
@@ -124,6 +131,7 @@ class CollectorLogicTests(unittest.TestCase):
             )
         self.assertEqual(row["delivery_mode"], "none")
         self.assertTrue(row["aio_present"])
+        self.assertFalse(row["aio_complete"])
         self.assertEqual(row["reference_count"], 0)
         self.assertEqual(row["error"], "token expired")
 
@@ -136,9 +144,36 @@ class CollectorLogicTests(unittest.TestCase):
                 Path(tmp),
             )
         self.assertFalse(row["aio_present"])
+        self.assertFalse(row["aio_complete"])
         self.assertEqual(row["delivery_mode"], "none")
         self.assertEqual(row["reference_count"], 0)
         self.assertIsNone(row["error"])
+
+    def test_expand_timeout_keeps_aio_present(self) -> None:
+        adapter = FakeAdapter(
+            {"ai_overview": {"page_token": "tok"}},
+            TimeoutError("The read operation timed out"),
+        )
+        with tempfile.TemporaryDirectory() as tmp:
+            row = collect_one(
+                adapter,  # type: ignore[arg-type]
+                {"id": "q1", "text": "hello"},
+                Path(tmp),
+            )
+            self.assertTrue((Path(tmp) / "q1_main.json").is_file())
+            self.assertFalse((Path(tmp) / "q1_aio.json").is_file())
+        self.assertTrue(row["aio_present"])
+        self.assertFalse(row["aio_complete"])
+        self.assertEqual(row["delivery_mode"], "none")
+        self.assertEqual(row["reference_count"], 0)
+        self.assertIn("timed out", row["error"])
+
+    def test_runner_actions_from_env(self) -> None:
+        with patch.dict(os.environ, {"CITEDRIFT_RUNNER": "actions"}):
+            self.assertEqual(runner_label(), "actions")
+        with patch.dict(os.environ, {"CITEDRIFT_RUNNER": ""}, clear=False):
+            os.environ.pop("CITEDRIFT_RUNNER", None)
+            self.assertEqual(runner_label(), "local")
 
 
 class CapTests(unittest.TestCase):
@@ -152,18 +187,25 @@ class CapTests(unittest.TestCase):
 
     def test_retry_counts_as_search(self) -> None:
         adapter = SerpApiAdapter("fake", search_cap=SEARCH_CAP)
-        err = __import__("urllib.error").error.URLError("down")
-
-        def boom(*_args, **_kwargs):
-            raise err
 
         with patch("citedrift.collect.serpapi.time.sleep"), patch(
-            "citedrift.collect.serpapi.urllib.request.urlopen",
-            side_effect=boom,
+            "citedrift.collect.serpapi._https_get",
+            side_effect=TimeoutError("The read operation timed out"),
         ):
             with self.assertRaises(RuntimeError):
                 adapter.google_search("q")
         self.assertEqual(adapter.searches_used, 2)
+
+    def test_expand_timeout_does_not_retry(self) -> None:
+        adapter = SerpApiAdapter("fake", search_cap=SEARCH_CAP)
+        with patch("citedrift.collect.serpapi.time.sleep") as slept, patch(
+            "citedrift.collect.serpapi._https_get",
+            side_effect=TimeoutError("The read operation timed out"),
+        ):
+            with self.assertRaises(RuntimeError):
+                adapter.google_ai_overview("tok")
+        slept.assert_not_called()
+        self.assertEqual(adapter.searches_used, 1)
 
 
 if __name__ == "__main__":

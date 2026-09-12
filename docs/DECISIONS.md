@@ -20,3 +20,7 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-11 | Deleted `config/queries.yaml`. `config/queries.json` is the only query source of truth. | Keep both files | n
 
+2026-09-11 | `aio_present` is whether the MAIN response had a top-level `ai_overview`. Expand timeout/failure leaves `aio_present=true`. New field `aio_complete` is true only when a reference list was obtained. Analysis must drop `aio_complete=false` rather than treat them as zero-AIO. Runs before this fix have an unreliable `aio_present` field — do not backfill. | Keep counting timed-out expands as no-AIO | n
+
+2026-09-11 | SerpApi HTTP uses stdlib `http.client`: 30s connect, 60s read. Main call still retries once on timeout/network/5xx. Expanded call does not retry (page_token ~60s). `CITEDRIFT_RUNNER` manifest field: `actions` in GHA, else `local`. | Single urlopen timeout; retry expand | y
+

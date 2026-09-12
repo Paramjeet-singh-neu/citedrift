@@ -78,6 +78,10 @@ def reference_list(aio: dict | None) -> list:
     return refs if isinstance(refs, list) else []
 
 
+def runner_label() -> str:
+    return "actions" if os.environ.get("CITEDRIFT_RUNNER", "").strip() == "actions" else "local"
+
+
 def collect_one(
     adapter: SerpApiAdapter,
     query: dict[str, Any],
@@ -90,59 +94,73 @@ def collect_one(
     error: str | None = None
     delivery_mode = "none"
     aio_present = False
+    aio_complete = False
     reference_count = 0
 
     try:
         main_payload = adapter.google_search(text)
         write_json(run_dir / f"{query_id}_main.json", main_payload)
-        if isinstance(main_payload.get("error"), str):
-            error = main_payload["error"]
-        aio = top_level_aio(main_payload)
-        aio_present = aio is not None
-        refs = reference_list(aio)
+    except Exception as exc:
+        return {
+            "query_id": query_id,
+            "fetched_at": iso_z(fetched_at),
+            "aio_present": False,
+            "aio_complete": False,
+            "delivery_mode": "none",
+            "reference_count": 0,
+            "searches_used": adapter.searches_used - used_before,
+            "error": str(exc),
+            "runner": runner_label(),
+        }
 
-        if aio is not None and aio.get("page_token") and not refs:
-            try:
-                aio_payload = adapter.google_ai_overview(str(aio["page_token"]))
-                write_json(run_dir / f"{query_id}_aio.json", aio_payload)
-            except Exception as exc:
+    if isinstance(main_payload.get("error"), str):
+        error = main_payload["error"]
+    aio = top_level_aio(main_payload)
+    aio_present = aio is not None
+    refs = reference_list(aio)
+
+    if aio is not None and aio.get("page_token") and not refs:
+        try:
+            aio_payload = adapter.google_ai_overview(str(aio["page_token"]))
+            write_json(run_dir / f"{query_id}_aio.json", aio_payload)
+        except Exception as exc:
+            delivery_mode = "none"
+            if error is None:
+                error = str(exc)
+        else:
+            if isinstance(aio_payload.get("error"), str) and error is None:
+                error = aio_payload["error"]
+            exp_refs = reference_list(top_level_aio(aio_payload))
+            if exp_refs:
+                delivery_mode = "expanded"
+                reference_count = len(exp_refs)
+            else:
                 delivery_mode = "none"
                 if error is None:
-                    error = str(exc)
-            else:
-                if isinstance(aio_payload.get("error"), str) and error is None:
-                    error = aio_payload["error"]
-                exp_refs = reference_list(top_level_aio(aio_payload))
-                if exp_refs:
-                    delivery_mode = "expanded"
-                    reference_count = len(exp_refs)
-                else:
-                    delivery_mode = "none"
-                    if error is None:
-                        error = "expanded_aio_empty"
-        elif aio is not None:
-            delivery_mode = "inline"
-            reference_count = len(refs)
+                    error = "expanded_aio_empty"
+    elif aio is not None:
+        delivery_mode = "inline"
+        reference_count = len(refs)
 
-        if aio_present and reference_count == 0 and error is None:
-            error = "aio_without_references"
-    except Exception as exc:
-        if error is None:
-            error = str(exc)
+    aio_complete = reference_count > 0
+    if aio_present and not aio_complete and error is None:
+        error = "aio_without_references"
 
     return {
         "query_id": query_id,
         "fetched_at": iso_z(fetched_at),
         "aio_present": aio_present,
+        "aio_complete": aio_complete,
         "delivery_mode": delivery_mode,
         "reference_count": reference_count,
         "searches_used": adapter.searches_used - used_before,
         "error": error,
+        "runner": runner_label(),
     }
 
 
 def print_summary(rows: list[dict[str, Any]], searches_used: int) -> None:
-    cols = ("query_id", "aio_present", "delivery_mode", "reference_count")
+    cols = ("query_id", "aio_present", "aio_complete", "delivery_mode", "reference_count")
     widths = {c: max(len(c), *(len(str(r[c])) for r in rows)) for c in cols} if rows else {c: len(c) for c in cols}
     header = "  ".join(c.ljust(widths[c]) for c in cols)
     print(header)

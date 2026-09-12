@@ -2,15 +2,17 @@
 
 from __future__ import annotations
 
+import http.client
 import json
+import ssl
 import time
-import urllib.error
 import urllib.parse
-import urllib.request
 
 SEARCH_URL = "https://serpapi.com/search"
 SEARCH_CAP = 30
 RETRY_WAIT_S = 5
+CONNECT_TIMEOUT_S = 30
+READ_TIMEOUT_S = 60
 
 LOCATION = "Austin, Texas, United States"
 HL = "en"
@@ -20,6 +22,23 @@ NO_CACHE = True
 
 class SearchCapExceeded(Exception):
     """Next SerpApi call would exceed SEARCH_CAP."""
+
+
+def _https_get(host: str, path: str) -> tuple[int, str]:
+    context = ssl.create_default_context()
+    conn = http.client.HTTPSConnection(
+        host, 443, timeout=CONNECT_TIMEOUT_S, context=context
+    )
+    try:
+        conn.connect()
+        if conn.sock is not None:
+            conn.sock.settimeout(READ_TIMEOUT_S)
+        conn.request("GET", path)
+        resp = conn.getresponse()
+        body = resp.read().decode("utf-8", errors="replace")
+        return resp.status, body
+    finally:
+        conn.close()
 
 
 class SerpApiAdapter:
@@ -54,22 +73,27 @@ class SerpApiAdapter:
 
     def _get(self, params: dict[str, str], *, retry: bool) -> dict:
         self.searches_used += 1
-        url = SEARCH_URL + "?" + urllib.parse.urlencode(params)
-        req = urllib.request.Request(url, method="GET")
+        parsed = urllib.parse.urlparse(SEARCH_URL + "?" + urllib.parse.urlencode(params))
+        host = parsed.hostname or "serpapi.com"
+        path = parsed.path or "/"
+        if parsed.query:
+            path = f"{path}?{parsed.query}"
         try:
-            with urllib.request.urlopen(req, timeout=60) as resp:
-                return json.loads(resp.read().decode("utf-8"))
-        except urllib.error.HTTPError as exc:
-            body = exc.read().decode("utf-8", errors="replace")
-            if retry and 500 <= exc.code <= 599:
+            status, body = _https_get(host, path)
+        except (TimeoutError, OSError, http.client.HTTPException) as exc:
+            if retry:
+                time.sleep(RETRY_WAIT_S)
+                return self._get(params, retry=False)
+            raise RuntimeError(f"network error from SerpApi: {exc}") from exc
+        if 500 <= status <= 599:
+            if retry:
                 time.sleep(RETRY_WAIT_S)
                 return self._get(params, retry=False)
             try:
                 return json.loads(body)
             except json.JSONDecodeError as parse_exc:
-                raise RuntimeError(f"HTTP {exc.code} from SerpApi: {body[:500]}") from parse_exc
-        except (urllib.error.URLError, TimeoutError, OSError) as exc:
-            if retry:
-                time.sleep(RETRY_WAIT_S)
-                return self._get(params, retry=False)
-            raise RuntimeError(f"network error from SerpApi: {exc}") from exc
+                raise RuntimeError(f"HTTP {status} from SerpApi: {body[:500]}") from parse_exc
+        try:
+            return json.loads(body)
+        except json.JSONDecodeError as parse_exc:
+            raise RuntimeError(f"HTTP {status} from SerpApi: {body[:500]}") from parse_exc

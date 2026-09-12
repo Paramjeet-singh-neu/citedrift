@@ -23,6 +23,7 @@ jobs:
       - name: Collect
         env:
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+          CITEDRIFT_RUNNER: actions
         run: python -m citedrift.collect
 
       - name: Commit raw data
