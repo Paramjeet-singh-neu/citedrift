@@ -1,0 +1,631 @@
+{
+  "search_metadata": {
+    "id": "6aa4b557484c09f2df5889fc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/X5iDy3D9BN9TxP9cW-jsow7D1F_vHwJuVUof_sxf7jE/6aa4b557484c09f2df5889fc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/X5iDy3D9BN9TxP9cW-jsow7D1F_vHwJuVUof_sxf7jE/6aa4b557484c09f2df5889fc.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/X5iDy3D9BN9TxP9cW-jsow7D1F_vHwJuVUof_sxf7jE/6aa4b557484c09f2df5889fc.json_with_pixel_position",
+    "created_at": "2026-09-12 02:13:43 UTC",
+    "processed_at": "2026-09-12 02:13:43 UTC",
+    "google_url": "https://www.google.com/search?q=jardiance+side+effects&oq=jardiance+side+effects&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/X5iDy3D9BN9TxP9cW-jsow7D1F_vHwJuVUof_sxf7jE/6aa4b557484c09f2df5889fc.html",
+    "total_time_taken": 4.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "jardiance side effects",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "jardiance side effects",
+    "total_results": 82,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is one of the worst side effects of medication?",
+      "type": "ai_overview",
+      "page_token": "U4kignicHdBLjtowAABQ9TKzHGJcqIKEqmZIYjETV3Hi76byJxAGByNASca7XqFn6Kl6mlY9wns_f_vT5fzn06_-8bjeN4vFNE3PxxCOvnu2YVjo-8fFLqz23mh73qy_rMHXg93mo81ebjar6fXKdiRp_D4a5mcLLFS-32FKpKE1sHwPyCl56LI4VReVVMLnHSKgjm5tStzjSCEdCtIhh7QnY4d81HTla-jyBuEloaqUA3t9ExVkkb0YHiYtCvm9BPyNFyvKz5Nh3xKZpKrjbnYs7ckgJ1yQO-EBaliM1KeVSADoyhWwA_6My_5VLfEHR_uW7bDqKJbt4CAXyreC1M2StSaqkaE-tLyfMVDI-OyfwbeEpjjvncDA3aTYL6uETBSq2SFc6yQVRBSZnMOppiTadz9QRgBhIVZ8zqpz2tidXDGUR4xw494LaQYVaP10sOMWPv2_3v44DI_N9RaOfwG9qIwP",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U4kignicHdBLjtowAABQ9TKzHGJcqIKEqmZIYjETV3Hi76byJxAGByNASca7XqFn6Kl6mlY9wns_f_vT5fzn06_-8bjeN4vFNE3PxxCOvnu2YVjo-8fFLqz23mh73qy_rMHXg93mo81ebjar6fXKdiRp_D4a5mcLLFS-32FKpKE1sHwPyCl56LI4VReVVMLnHSKgjm5tStzjSCEdCtIhh7QnY4d81HTla-jyBuEloaqUA3t9ExVkkb0YHiYtCvm9BPyNFyvKz5Nh3xKZpKrjbnYs7ckgJ1yQO-EBaliM1KeVSADoyhWwA_6My_5VLfEHR_uW7bDqKJbt4CAXyreC1M2StSaqkaE-tLyfMVDI-OyfwbeEpjjvncDA3aTYL6uETBSq2SFc6yQVRBSZnMOppiTadz9QRgBhIVZ8zqpz2tidXDGUR4xw494LaQYVaP10sOMWPv2_3v44DI_N9RaOfwG9qIwP",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJXaGF0IGlzIG9uZSBvZiB0aGUgd29yc3Qgc2lkZSBlZmZlY3RzIG9mIG1lZGljYXRpb24/IiwibGsiOiJjeFhKc1FrQUlBd0V3RDJzZmdjbkV2MWdDZzJZQjljWHI3MVM3MnlDSjJJVFlkQWticHdVMGdkQk0zYmxuOFhodmNsalB3IiwiYnMiOiJjNVhQUFEtQ01CQ0E0YmgyY21ZNlA4RGRqNWxWWFl5VGMwTVBld3E5aEI0Ml9IdUJCR1hCeExYMzNIdXBLdFgtWnJVQWVXQ0h3RG1JUlFoY2VRRlBCZ0h6SERQeDNhUkVRNWtXWXBkdUQ5RXVfTC1uVG1vNW5PdTg0ZUI2M2FxenJneHBsMkc2WFVXTE1LRWVnMUlYRmZjcFlkQXZKZ1BCVW9FZy1rbnVQcTRsMFRwTXcyX3dxcElqQnlpNGZmV1c2OEpBd3pWNDBVMzd4M0Z4RThYMmhfd2s1N00zIiwiaWQiOiJmY19XN1drYXJ2M0RwU3ZxdHNQa09XRXFBY18zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJXaGF0IGlzIG9uZSBvZiB0aGUgd29yc3Qgc2lkZSBlZmZlY3RzIG9mIG1lZGljYXRpb24%2FIiwibGsiOiJjeFhKc1FrQUlBd0V3RDJzZmdjbkV2MWdDZzJZQjljWHI3MVM3MnlDSjJJVFlkQWticHdVMGdkQk0zYmxuOFhodmNsalB3IiwiYnMiOiJjNVhQUFEtQ01CQ0E0YmgyY21ZNlA4RGRqNWxWWFl5VGMwTVBld3E5aEI0Ml9IdUJCR1hCeExYMzNIdXBLdFgtWnJVQWVXQ0h3RG1JUlFoY2VRRlBCZ0h6SERQeDNhUkVRNWtXWXBkdUQ5RXVfTC1uVG1vNW5PdTg0ZUI2M2FxenJneHBsMkc2WFVXTE1LRWVnMUlYRmZjcFlkQXZKZ1BCVW9FZy1rbnVQcTRsMFRwTXcyX3dxcElqQnlpNGZmV1c2OEpBd3pWNDBVMzd4M0Z4RThYMmhfd2s1N00zIiwiaWQiOiJmY19XN1drYXJ2M0RwU3ZxdHNQa09XRXFBY18zIn0%3D"
+    },
+    {
+      "question": "What is the downside of Jardiance?",
+      "type": "ai_overview",
+      "page_token": "2OWXZ3icHdBNbqMwGABQzWW6bDBkUiVSVMkTSEDFHX_ExngzMnbzAzbQlMYpu96lp-ppKs07wvv8sueu_f51PY3j8Laazbz398e-P9qXe927mXr76PRMK2trpdvV4mGBHg96Hb-n-M9riikbBr6BoOCY6snGait7E8OTavCZTuB1GIeyPam6lPC8sec98wFscEpbayE0fwnPUiXyOUHUF43cFSwPqUOElPaiS-Mh4mGdQC5ZNYIjJ2CjKx3P92jZ1G3Gix1-r1xW1eXS0SnpK66REdKRiHyYNmt1Z3DBUFq0v58hWCIVJBHfogPvElB8aGCbveYC5kzI636y_CXJb0QYHJ-MIMhcKpGFeQCeRfJmdoSqYClAJLi69WfKYNKNdUxkUu3sgnTJVIkWieh4k2yMqbCKRBBD7OfS3x30dR3d_f9c_zu4cTVc-uMPRe2DMg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2OWXZ3icHdBNbqMwGABQzWW6bDBkUiVSVMkTSEDFHX_ExngzMnbzAzbQlMYpu96lp-ppKs07wvv8sueu_f51PY3j8Laazbz398e-P9qXe927mXr76PRMK2trpdvV4mGBHg96Hb-n-M9riikbBr6BoOCY6snGait7E8OTavCZTuB1GIeyPam6lPC8sec98wFscEpbayE0fwnPUiXyOUHUF43cFSwPqUOElPaiS-Mh4mGdQC5ZNYIjJ2CjKx3P92jZ1G3Gix1-r1xW1eXS0SnpK66REdKRiHyYNmt1Z3DBUFq0v58hWCIVJBHfogPvElB8aGCbveYC5kzI636y_CXJb0QYHJ-MIMhcKpGFeQCeRfJmdoSqYClAJLi69WfKYNKNdUxkUu3sgnTJVIkWieh4k2yMqbCKRBBD7OfS3x30dR3d_f9c_zu4cTVc-uMPRe2DMg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkb3duc2lkZSBvZiBKYXJkaWFuY2U/IiwibGsiOiJHaUYzYUdGMElHbHpJSFJvWlNCa2IzZHVjMmxrWlNCdlppQnFZWEprYVdGdVkyVSIsImJzIjoiYzVYUFBRLUNNQkNBNGJoMmNtWTZQOERkajVsVlhZeVRjME1QZXdxOWhCNDJfSHVCQkdYQnhMWDMzSHVwS3RYLVpyVUFlV0NId0RtSVJRaGNlUUZQQmdIekhEUHgzYVJFUTVrV1lwZHVEOUV1X0wtblRtbzVuT3U4NGVCNjNhcXpyZ3hwbDJHNlhVV0xNS0VlZzFJWEZmY3BZZEF2SmdQQlVvRWcta251UHE0bDBUcE13Ml93cXBJakJ5aTRmZldXNjhKQXd6VjQwVTM3eDNGeEU4WDJoX3drNTdNMyIsImlkIjoiZmNfVzdXa2FydjNEcFN2cXRzUGtPV0VxQWNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkb3duc2lkZSBvZiBKYXJkaWFuY2U%2FIiwibGsiOiJHaUYzYUdGMElHbHpJSFJvWlNCa2IzZHVjMmxrWlNCdlppQnFZWEprYVdGdVkyVSIsImJzIjoiYzVYUFBRLUNNQkNBNGJoMmNtWTZQOERkajVsVlhZeVRjME1QZXdxOWhCNDJfSHVCQkdYQnhMWDMzSHVwS3RYLVpyVUFlV0NId0RtSVJRaGNlUUZQQmdIekhEUHgzYVJFUTVrV1lwZHVEOUV1X0wtblRtbzVuT3U4NGVCNjNhcXpyZ3hwbDJHNlhVV0xNS0VlZzFJWEZmY3BZZEF2SmdQQlVvRWcta251UHE0bDBUcE13Ml93cXBJakJ5aTRmZldXNjhKQXd6VjQwVTM3eDNGeEU4WDJoX3drNTdNMyIsImlkIjoiZmNfVzdXa2FydjNEcFN2cXRzUGtPV0VxQWNfMyJ9"
+    },
+    {
+      "question": "What to avoid while taking Jardiance?",
+      "type": "ai_overview",
+      "page_token": "U0DaCnicHdBdboIwAADg7DI-akvBZSZmkQmCCTUt_YG-LNj6t1ZgyoT5trvsVDvNlt3gy_f17U61_Xm4Hbuuvc4mk77vx4emObjdWDfnSXX9rPVEV85tK21n08cpfN7refSRhi_vaUh424olBSwJGXVhxiWGOcOfNKY1gQtf89jTwKRypXqTA5S7mOJkvZdL429WbYxlADDDUWbb084--TihA0aLoHRGUZkB5lJ_iwRQCMt8ud4YYd6Fd4RYdiwHSjA7nDTvLPEEKj0CBKKeWalECJVul4s7L9xHJtUtewFAMVExIS4GptCcqTV2bYkgvkEhwyjyM0ineRwXWgZ1dDQFhuZSFmsvA7TnSA0mwaQCTwUt4rAcmhPh9K7f3JlbgkpJLyU6Brs6DpQcpnnUg4rDRKPw_udNTT_a69scjf4_56_7czdrL83hF5lsfo0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=U0DaCnicHdBdboIwAADg7DI-akvBZSZmkQmCCTUt_YG-LNj6t1ZgyoT5trvsVDvNlt3gy_f17U61_Xm4Hbuuvc4mk77vx4emObjdWDfnSXX9rPVEV85tK21n08cpfN7refSRhi_vaUh424olBSwJGXVhxiWGOcOfNKY1gQtf89jTwKRypXqTA5S7mOJkvZdL429WbYxlADDDUWbb084--TihA0aLoHRGUZkB5lJ_iwRQCMt8ud4YYd6Fd4RYdiwHSjA7nDTvLPEEKj0CBKKeWalECJVul4s7L9xHJtUtewFAMVExIS4GptCcqTV2bYkgvkEhwyjyM0ineRwXWgZ1dDQFhuZSFmsvA7TnSA0mwaQCTwUt4rAcmhPh9K7f3JlbgkpJLyU6Brs6DpQcpnnUg4rDRKPw_udNTT_a69scjf4_56_7czdrL83hF5lsfo0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJXaGF0IHRvIGF2b2lkIHdoaWxlIHRha2luZyBKYXJkaWFuY2U/IiwibGsiOiJHaVIzYUdGMElIUnZJR0YyYjJsa0lIZG9hV3hsSUhSaGEybHVaeUJxWVhKa2FXRnVZMlUiLCJicyI6ImM1WFBQUS1DTUJDQTRiaDJjbVk2UDhEZGo1bFZYWXlUYzBNUGV3cTloQjQyX0h1QkJHWEJ4TFgzM0h1cEt0WC1aclVBZVdDSHdEbUlSUWhjZVFGUEJnSHpIRFB4M2FSRVE1a1dZcGR1RDlFdV9MLW5UbW81bk91ODRlQjYzYXF6cmd4cGwyRzZYVVdMTUtFZWcxSVhGZmNwWWRBdkpnUEJVb0VnLWtudVBxNGwwVHBNdzJfd3FwSWpCeWk0ZmZXVzY4SkF3elY0MFUzN3gzRnhFOFgyaF93azU3TTMiLCJpZCI6ImZjX1c3V2thcnYzRHBTdnF0c1BrT1dFcUFjXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJXaGF0IHRvIGF2b2lkIHdoaWxlIHRha2luZyBKYXJkaWFuY2U%2FIiwibGsiOiJHaVIzYUdGMElIUnZJR0YyYjJsa0lIZG9hV3hsSUhSaGEybHVaeUJxWVhKa2FXRnVZMlUiLCJicyI6ImM1WFBQUS1DTUJDQTRiaDJjbVk2UDhEZGo1bFZYWXlUYzBNUGV3cTloQjQyX0h1QkJHWEJ4TFgzM0h1cEt0WC1aclVBZVdDSHdEbUlSUWhjZVFGUEJnSHpIRFB4M2FSRVE1a1dZcGR1RDlFdV9MLW5UbW81bk91ODRlQjYzYXF6cmd4cGwyRzZYVVdMTUtFZWcxSVhGZmNwWWRBdkpnUEJVb0VnLWtudVBxNGwwVHBNdzJfd3FwSWpCeWk0ZmZXVzY4SkF3elY0MFUzN3gzRnhFOFgyaF93azU3TTMiLCJpZCI6ImZjX1c3V2thcnYzRHBTdnF0c1BrT1dFcUFjXzMifQ%3D%3D"
+    },
+    {
+      "question": "How long should you stay on Jardiance?",
+      "type": "ai_overview",
+      "page_token": "hg9dAXicHdDBboIwGADg7GU8zgLqoolZUqCoGTUUWmovC_CrOFphgoLe9i57qj3Nlt2_0_f1rU_n6ufpVnZd0y7G477vn491fdT756I246y9n4txkWmdZ0W1mL3MrNdDsfSva-x-rnHEm0Z4DCUBXPPA6mDFUeZpGzx1Tv35IJLdZO-JigWWSx2s96Z9qBW2QoMeynAHNLjcUwgSMt0GQ0rJPOS2ENLSJES8K4gykYE4d1gFZlPmPpSJzSY8EJlA_SSU4i4QdYBTHVv4EgnS7uzyQgn00iZSaBKzlJGoakpwShRXLFMCTtyjk8TvZExwsA1osg_mN7AHN_ePCATGfgmSWnDZyY0dItZzRw2wolGG5pJJgndDfYo4exQf2nAzrd9SIRSih4zALP4z6XlzUpK1uakdSMlM9aNDcVs6o__P5fvBdIvmUh9_AXePgP0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hg9dAXicHdDBboIwGADg7GU8zgLqoolZUqCoGTUUWmovC_CrOFphgoLe9i57qj3Nlt2_0_f1rU_n6ufpVnZd0y7G477vn491fdT756I246y9n4txkWmdZ0W1mL3MrNdDsfSva-x-rnHEm0Z4DCUBXPPA6mDFUeZpGzx1Tv35IJLdZO-JigWWSx2s96Z9qBW2QoMeynAHNLjcUwgSMt0GQ0rJPOS2ENLSJES8K4gykYE4d1gFZlPmPpSJzSY8EJlA_SSU4i4QdYBTHVv4EgnS7uzyQgn00iZSaBKzlJGoakpwShRXLFMCTtyjk8TvZExwsA1osg_mN7AHN_ePCATGfgmSWnDZyY0dItZzRw2wolGG5pJJgndDfYo4exQf2nAzrd9SIRSih4zALP4z6XlzUpK1uakdSMlM9aNDcVs6o__P5fvBdIvmUh9_AXePgP0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBzaG91bGQgeW91IHN0YXkgb24gSmFyZGlhbmNlPyIsImxrIjoiR2lWb2IzY2diRzl1WnlCemFHOTFiR1FnZVc5MUlITjBZWGtnYjI0Z2FtRnlaR2xoYm1ObCIsImJzIjoiYzVYUFBRLUNNQkNBNGJoMmNtWTZQOERkajVsVlhZeVRjME1QZXdxOWhCNDJfSHVCQkdYQnhMWDMzSHVwS3RYLVpyVUFlV0NId0RtSVJRaGNlUUZQQmdIekhEUHgzYVJFUTVrV1lwZHVEOUV1X0wtblRtbzVuT3U4NGVCNjNhcXpyZ3hwbDJHNlhVV0xNS0VlZzFJWEZmY3BZZEF2SmdQQlVvRWcta251UHE0bDBUcE13Ml93cXBJakJ5aTRmZldXNjhKQXd6VjQwVTM3eDNGeEU4WDJoX3drNTdNMyIsImlkIjoiZmNfVzdXa2FydjNEcFN2cXRzUGtPV0VxQWNfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFIaERkRGRXWDBnMVJGTkNTV1JrTW0xZldIUjNNalZyYVRSdmFXeFJhbmhVY1dGd1VqVnlPRVpzYm5GclJISnlXR2xzZDBsYWNWWnZXRmt0UzJnMFZtbEhNM1U1WTBsZlMxZE9ZMHRxTXpaWmFHaElaVmxzVFZsR1p4SVhWemRYYTJGeWRqTkVjRk4yY1hSelVHdFBWMFZ4UVdNYUlrRkVjM0k1WmxRNWRrMXdXVzVZV1haalN6UnFkbXhGT1d0UlZrVlhTSHB3UVhjIiwiZmN2IjoiMyIsImVpIjoiVzdXa2FydjNEcFN2cXRzUGtPV0VxQWMiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYMDBaVWtfIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBzaG91bGQgeW91IHN0YXkgb24gSmFyZGlhbmNlPyIsImxrIjoiR2lWb2IzY2diRzl1WnlCemFHOTFiR1FnZVc5MUlITjBZWGtnYjI0Z2FtRnlaR2xoYm1ObCIsImJzIjoiYzVYUFBRLUNNQkNBNGJoMmNtWTZQOERkajVsVlhZeVRjME1QZXdxOWhCNDJfSHVCQkdYQnhMWDMzSHVwS3RYLVpyVUFlV0NId0RtSVJRaGNlUUZQQmdIekhEUHgzYVJFUTVrV1lwZHVEOUV1X0wtblRtbzVuT3U4NGVCNjNhcXpyZ3hwbDJHNlhVV0xNS0VlZzFJWEZmY3BZZEF2SmdQQlVvRWcta251UHE0bDBUcE13Ml93cXBJakJ5aTRmZldXNjhKQXd6VjQwVTM3eDNGeEU4WDJoX3drNTdNMyIsImlkIjoiZmNfVzdXa2FydjNEcFN2cXRzUGtPV0VxQWNfMyJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Jardiance (empagliflozin) commonly causes increased urination, urinary tract infections (UTIs), and genital yeast infections.",
+        "snippet_highlighted_words": [
+          "increased urination, urinary tract infections (UTIs), and genital yeast infections"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Side Effects"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Urinating more often: Extra sugar leaves your body through your urine, which pulls more water with it. Taking your dose in the morning can help prevent overnight bathroom trips."
+          },
+          {
+            "snippet": "UTIs: Higher sugar levels in urine allow bacteria to grow more easily, causing burning, pain, or urgency when you pee."
+          },
+          {
+            "snippet": "Genital yeast infections: These affect both women (vaginal yeast infections) and men (skin infections around the penis), causing itching, redness, or discharge."
+          },
+          {
+            "snippet": "Increased thirst and mild dehydration: Fluid loss can lead to dry mouth or mild dizziness when standing up."
+          },
+          {
+            "snippet": "Other mild effects: Upper respiratory tract infections (like a common cold), joint pain, or mild nausea."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Rare and Serious Side Effects"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Diabetic Ketoacidosis (DKA): A dangerous buildup of acid in the blood\u2014even with normal blood sugar levels\u2014marked by nausea, vomiting, stomach pain, trouble breathing, and fruity-smelling breath."
+          },
+          {
+            "snippet": "Dehydration and kidney injury: Severe fluid loss that can cause dizziness, fainting, or sudden worsening of kidney function."
+          },
+          {
+            "snippet": "Fournier\u2019s Gangrene: A rare but severe and life-threatening genital or perineal bacterial infection causing intense pain, swelling, redness, and fever."
+          },
+          {
+            "snippet": "Severe allergic reactions: Swelling of the face, lips, tongue, or trouble breathing."
+          },
+          {
+            "snippet": "Low blood sugar (Hypoglycemia): More likely if combined with insulin or sulfonylureas."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can review full safety guidelines and prescribing details directly on the Jardiance Official Site. You can also read more about managing reactions through GoodRx on Jardiance Side Effects.",
+        "snippet_links": [
+          {
+            "text": "Jardiance Official Site",
+            "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects"
+          },
+          {
+            "text": "GoodRx on Jardiance Side Effects",
+            "link": "https://www.goodrx.com/jardiance/jardiance-side-effects"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you are taking Jardiance, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you experiencing any specific symptoms right now?"
+          },
+          {
+            "snippet": "Are you combining it with insulin or other diabetes medications?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you understand when to contact your doctor."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.goodrx.com/jardiance/jardiance-side-effects",
+        "source": "goodrx.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.youtube.com/shorts/wKmD1dkcC0U",
+        "source": "youtube.com",
+        "index": 1
+      },
+      {
+        "link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47",
+        "source": "ubiehealth.com",
+        "index": 2
+      },
+      {
+        "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects",
+        "source": "patient.boehringer-ingelheim.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa",
+        "source": "dailymed.nlm.nih.gov",
+        "index": 4
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=WTi2d2SMz9I&vl=en",
+        "source": "youtube.com",
+        "index": 5
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=752N_1pP8qY",
+        "source": "youtube.com",
+        "index": 6
+      },
+      {
+        "title": "10 Jardiance Side Effects: What You Need to Know - GoodRx",
+        "link": "https://www.goodrx.com/jardiance/jardiance-side-effects",
+        "snippet": "10 Jardiance Side Effects and How to Manage Them * Common Jardiance (empagliflozin) side effects include urinary tract infections (UTIs) and fungal (yeast) infecti...",
+        "source": "GoodRx",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO9l7LlGEQ5uXFUHQYd2kGYnd6i2XZjmX0il9UtvHbn1KEuGqA6Sb65AH9KEvEpUxT-3j9lpw4_9eoDTPYmh6gV-A-yimDcjA97KB",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.goodrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Jardiance Uses #diabetestreatment #bloodsugarcontrol #medicalcentric ...",
+        "link": "https://www.youtube.com/shorts/wKmD1dkcC0U",
+        "snippet": "Jardiance Uses #diabetestreatment #bloodsugarcontrol #medicalcentric #SGLT2inhibitor what is jardiance jardance emplyosin is a prescription medication for diabetes",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYFtWJfIQsd3tysRrwYmqwVeo4Gwctvah5DxeP084uiWSp5U6QCDEicD6_gOOuTAHgT27Cc2VYV4sXrWQcmOxKq-DrNZXCjczoVo2rPg",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Jardiance Side Effects? Why Your Body Is Reacting & Medically ... - Ubie",
+        "link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47",
+        "snippet": "Jardiance Side Effects? Why Your Body Is Reacting & Medically Approved Next Steps. ... Jardiance, which helps your kidneys excrete sugar, commonly causes increased...",
+        "source": "ubiehealth.com",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ubiehealth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Possible Side Effects | Jardiance\u00ae (empagliflozin) tablets",
+        "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects",
+        "snippet": "SERIOUS JARDIANCE SIDE EFFECTS INCLUDE: * Diabetic ketoacidosis (increased ketones in your blood or urine) * Dehydration. * Necrotizing fasciitis* * Urinary tract ...",
+        "source": "Boehringer Ingelheim",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR_iISYR2bFrkMl0ydSYvs1vgjgX6Oo2aGsLC_MsYXmRv4BBjTNsWCWw1uxy91GXKBhC9wohTz0M1UzgcSdvtSayq77F5t4fyweHVcT",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://patient.boehringer-ingelheim.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "JARDIANCE can cause serious side effects, including - DailyMed",
+        "link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa",
+        "snippet": "JARDIANCE can cause some people to become dehydrated (the loss of body water and salt). Dehydration may cause you to feel dizzy, faint, light-headed, or weak, espe...",
+        "source": "DailyMed (.gov)",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymed.nlm.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "Jardiance Side Effects: What's Common and When to Worry",
+        "link": "https://www.youtube.com/watch?v=WTi2d2SMz9I&vl=en&t=18",
+        "snippet": "Jardiance Side Effects: What\u2019s Common and When to Worry and you do not want to bother your doctor over nothing. but you also do not want to ignore a warning. sign ",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT21R39vahsbxaCIM3ljsS4Sjl8AlEqKaPtuV8EE9WrxrqbVQWottnnlWhdBkhl9Fu4qnsCyW_ezcZEDye4itv1xRNXFxtLNqIMN7c4UQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "Jardiance Commercial (2015-2016)",
+        "link": "https://www.youtube.com/watch?v=752N_1pP8qY&t=36",
+        "snippet": "Jardiance Commercial (2015-2016) it works by helping your body to get rid of some of the sugar it doesn't need through urination this can help you lower blood suga",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSqiVeDgXTlgwQA6BoiuMVT6_qE9oynInyr9-w6SPkRg9u6knQxrEnjYbJuKDFxWzwOHztS7PJjb8gUE9y9Xbpq0wryoNkpXr75T09FQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Possible Side Effects | Jardiance\u00ae (empagliflozin) tablets",
+      "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFWWCD3DGPDWJemoONNkp0OM7gryyHIs8He00YXyQBWGW38wbZroi4KmesYVVcxXr20ybHtzsgBkONIG6WJN2aP9WY1LCVcBGiMsLQZFxvcI6qFp2j02pzi8M57vcIIBWqRiJS7idYtfRIN2CK3ZjCYOQEoxH6uzPYvrdvof671ksfAacWWzFjV_BAMGRz5G7&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://patient.boehringer-ingelheim.com \u203a jardiance \u203a s...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUA5HwA5X0A5n0A6n8A2ncBy3AA7IADv2oGckUHICQHMioHUjcCx24GVzoHOy4EqF8A33oIABsGfEoHNiwA64AHQzEGYz8GaEEFkFQA5XwEnVkIFSEB0nMDuGcDrGEFiFAFjFIHTDUHSjQHPS8IHCMIABAICx8ILikIKCcGXDwDsmOq9A7-AAABLklEQVR4AY3SA6LEQAwA0GhSe1X9Ne9_wF-tmTqv44GfA4nwtRCzGCPM9Exq2Y7rea5j-_rALEEYxdpEHIWB8J1ZSaSMGkWKrFFi8Z0ZBtQ0y9IRgpobRUn8xmQ8IZqMBYH9JMYBdTpTgFwKZdZC8iYzm2pvZErO28qjqraqv7bCnMuK-hbnizYBOrbmi3o56nKLed-qhj51z5U1n9VBh-SvtX3mkED-iE0S2yTKRuERgUvBDp1XuBHsa6A8J6ABtXltk3nfVmYoNmR02SE3rzH5ofY1pDP1S91Cj_FWd77OhqGQcdTfa3LGRA9GHUPD9B0Lc49VcVTog2R3cm9xX--ELktW79a3GO7uF_SupHtrjQpee0vCj7uyxmYSFqcArBf7k3KCquoerwMRfo5_PA4X5TkvrtsAAAAASUVORK5CYII.png",
+      "snippet": "The most common side effects of JARDIANCE include urinary tract infections and yeast infections in females. These are not all the possible side effects of ...",
+      "snippet_highlighted_words": [
+        "urinary tract infections and yeast infections in females"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The most common side effects of JARDIANCE include urinary tract infections and yeast infections in females. These are not all the possible side effects of ...",
+          "source_info_link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUA5HwA5X0A5n0A6n8A2ncBy3AA7IADv2oGckUHICQHMioHUjcCx24GVzoHOy4EqF8A33oIABsGfEoHNiwA64AHQzEGYz8GaEEFkFQA5XwEnVkIFSEB0nMDuGcDrGEFiFAFjFIHTDUHSjQHPS8IHCMIABAICx8ILikIKCcGXDwDsmOq9A7-AAABLklEQVR4AY3SA6LEQAwA0GhSe1X9Ne9_wF-tmTqv44GfA4nwtRCzGCPM9Exq2Y7rea5j-_rALEEYxdpEHIWB8J1ZSaSMGkWKrFFi8Z0ZBtQ0y9IRgpobRUn8xmQ8IZqMBYH9JMYBdTpTgFwKZdZC8iYzm2pvZErO28qjqraqv7bCnMuK-hbnizYBOrbmi3o56nKLed-qhj51z5U1n9VBh-SvtX3mkED-iE0S2yTKRuERgUvBDp1XuBHsa6A8J6ABtXltk3nfVmYoNmR02SE3rzH5ofY1pDP1S91Cj_FWd77OhqGQcdTfa3LGRA9GHUPD9B0Lc49VcVTog2R3cm9xX--ELktW79a3GO7uF_SupHtrjQpee0vCj7uyxmYSFqcArBf7k3KCquoerwMRfo5_PA4X5TkvrtsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlAEB6zswFWWCD3DGPDWJemoONNkp0OM7gryyHIs8He00YXyQBWGW38wbZroi4KmesYVVcxXr20ybHtzsgBkONIG6WJN2aP9WY1LCVcBGiMsLQZFxvcI6qFp2j02pzi8M57vcIIBWqRiJS7idYtfRIN2CK3ZjCYOQEoxH6uzPYvrdvof671ksfAacWWzFjV_BAMGRz5G7&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlAEB6zswFWWCD3DGPDWJemoONNkp0OM7gryyHIs8He00YXyQBWGW38wbZroi4KmesYVVcxXr20ybHtzsgBkONIG6WJN2aP9WY1LCVcBGiMsLQZFxvcI6qFp2j02pzi8M57vcIIBWqRiJS7idYtfRIN2CK3ZjCYOQEoxH6uzPYvrdvof671ksfAacWWzFjV_BAMGRz5G7",
+      "source": "Boehringer Ingelheim",
+      "read_more_link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects#:~:text=The%20most%20common%20side%20effects,possible%20side%20effects%20of%20JARDIANCE."
+    },
+    {
+      "position": 2,
+      "title": "Empagliflozin (oral route) - Side effects & dosage",
+      "link": "https://www.mayoclinic.org/drugs-supplements/empagliflozin-oral-route/description/drg-20113010",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFY2Dm0dJN-zhavRolDZGZ74PS9VM99QnKL0jg5l91fiAOhmX5IabUQi4r5js9Y3Hiw3MukphjfvmAbB51mTdONMsbCwgFSsGyBBxjqNg1PAoyvEzLTwrParwaAWPq9wvpxXiI5nFnYTm3du3-Xj8p4lPkqGXwX6uRcMiq0-1XF_yKepWdYQO8L8ai2mctUwRbMA&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.mayoclinic.org \u203a drg-20113010",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwlJB8lIx8kIx8kIx4lJCAlJB8lJB8mJB8lJB8lJB8mJB-v4BpwAAAADHRSTlMAXRtKCRIrcYqnOskHXGiSAAAAyUlEQVR4AZXHgQbCUABG4d_W1lawiipBqRQgDRJISQQWUIIlUkClWgUuIIGLJMASSSBAj1ftrm0BduD44DeFK7dGfLNi05CUqtwhss17TtkKlEoZxugp0iD00AZL58aBgi6aTPxlKCxJc8hfLS4CRZANn6WCxSM-fOyyFFb9x6RGZ8a9emPW8HdRVc2QqupghY35M5wwnj-CWw_ycJl6pc8OZeyoXHIoabEvCexI0hT3Qe3H7hyYVuDUA-JwkwAKT6t23cuQCf-9ATwsKuG2GtVKAAAAAElFTkSuQmCC.png",
+      "date": "Jun 1, 2026",
+      "snippet": "Dry mouth \u00b7 fever \u00b7 flushed, dry skin \u00b7 fruit-like breath odor \u00b7 increased thirst \u00b7 itching, skin rash \u00b7 large, hive-like swelling on the face, ...",
+      "snippet_highlighted_words": [
+        "Dry mouth"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dry mouth \u00b7 fever \u00b7 flushed, dry skin \u00b7 fruit-like breath odor \u00b7 increased thirst \u00b7 itching, skin rash \u00b7 large, hive-like swelling on the face, ...",
+          "source_info_link": "https://www.mayoclinic.org/drugs-supplements/empagliflozin-oral-route/description/drg-20113010",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEVHcEwlJB8lIx8kIx8kIx4lJCAlJB8lJB8mJB8lJB8lJB8mJB-v4BpwAAAADHRSTlMAXRtKCRIrcYqnOskHXGiSAAAAyUlEQVR4AZXHgQbCUABG4d_W1lawiipBqRQgDRJISQQWUIIlUkClWgUuIIGLJMASSSBAj1ftrm0BduD44DeFK7dGfLNi05CUqtwhss17TtkKlEoZxugp0iD00AZL58aBgi6aTPxlKCxJc8hfLS4CRZANn6WCxSM-fOyyFFb9x6RGZ8a9emPW8HdRVc2QqupghY35M5wwnj-CWw_ycJl6pc8OZeyoXHIoabEvCexI0hT3Qe3H7hyYVuDUA-JwkwAKT6t23cuQCf-9ATwsKuG2GtVKAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESlgEB6zswFY2Dm0dJN-zhavRolDZGZ74PS9VM99QnKL0jg5l91fiAOhmX5IabUQi4r5js9Y3Hiw3MukphjfvmAbB51mTdONMsbCwgFSsGyBBxjqNg1PAoyvEzLTwrParwaAWPq9wvpxXiI5nFnYTm3du3-Xj8p4lPkqGXwX6uRcMiq0-1XF_yKepWdYQO8L8ai2mctUwRbMA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESlgEB6zswFY2Dm0dJN-zhavRolDZGZ74PS9VM99QnKL0jg5l91fiAOhmX5IabUQi4r5js9Y3Hiw3MukphjfvmAbB51mTdONMsbCwgFSsGyBBxjqNg1PAoyvEzLTwrParwaAWPq9wvpxXiI5nFnYTm3du3-Xj8p4lPkqGXwX6uRcMiq0-1XF_yKepWdYQO8L8ai2mctUwRbMA",
+      "source": "Mayo Clinic",
+      "read_more_link": "https://www.mayoclinic.org/drugs-supplements/empagliflozin-oral-route/description/drg-20113010#:~:text=Dry%20mouth&text=fever&text=flushed%2C%20dry%20skin&text=fruit%2Dlike%20breath%20odor&text=increased%20thirst&text=itching%2C%20skin%20rash&text=large%2C%20hive%2Dlike%20swelling%20on%20the,hands%2C%20legs%2C%20feet%2C%20or%20genitals"
+    },
+    {
+      "position": 3,
+      "title": "HF | CKD Medication | Jardiance\u00ae (empagliflozin) tablets",
+      "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVWSXUmjBkPGQH03ZzoOQzm6dEAQqeJeyfYbsye7l_N1gZKI6lnKKhxDgVIJ3Et22ch9IQRu4rcnZVW-rwopyU4tmxPhm5AgvyfdLns_8CJKr3bfv1nfJd9z8bddaaezvuj1m5Dp1i9s_6Jnskmps7GJM8&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://patient.boehringer-ingelheim.com \u203a products \u203a j...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUA5HwA5X0A5n0A6n8A2ncBy3AA7IADv2oGckUHICQHMioHUjcCx24GVzoHOy4EqF8A33oIABsGfEoHNiwA64AHQzEGYz8GaEEFkFQA5XwEnVkIFSEB0nMDuGcDrGEFiFAFjFIHTDUHSjQHPS8IHCMIABAICx8ILikIKCcGXDwDsmOq9A7-AAABLklEQVR4AY3SA6LEQAwA0GhSe1X9Ne9_wF-tmTqv44GfA4nwtRCzGCPM9Exq2Y7rea5j-_rALEEYxdpEHIWB8J1ZSaSMGkWKrFFi8Z0ZBtQ0y9IRgpobRUn8xmQ8IZqMBYH9JMYBdTpTgFwKZdZC8iYzm2pvZErO28qjqraqv7bCnMuK-hbnizYBOrbmi3o56nKLed-qhj51z5U1n9VBh-SvtX3mkED-iE0S2yTKRuERgUvBDp1XuBHsa6A8J6ABtXltk3nfVmYoNmR02SE3rzH5ofY1pDP1S91Cj_FWd77OhqGQcdTfa3LGRA9GHUPD9B0Lc49VcVTog2R3cm9xX--ELktW79a3GO7uF_SupHtrjQpee0vCj7uyxmYSFqcArBf7k3KCquoerwMRfo5_PA4X5TkvrtsAAAAASUVORK5CYII.png",
+      "snippet": "The most common side effects of JARDIANCE include urinary tract infections and yeast infections in females. These are not all the possible side effects of ...",
+      "snippet_highlighted_words": [
+        "urinary tract infections and yeast infections in females"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The most common side effects of JARDIANCE include urinary tract infections and yeast infections in females. These are not all the possible side effects of ...",
+          "source_info_link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUA5HwA5X0A5n0A6n8A2ncBy3AA7IADv2oGckUHICQHMioHUjcCx24GVzoHOy4EqF8A33oIABsGfEoHNiwA64AHQzEGYz8GaEEFkFQA5XwEnVkIFSEB0nMDuGcDrGEFiFAFjFIHTDUHSjQHPS8IHCMIABAICx8ILikIKCcGXDwDsmOq9A7-AAABLklEQVR4AY3SA6LEQAwA0GhSe1X9Ne9_wF-tmTqv44GfA4nwtRCzGCPM9Exq2Y7rea5j-_rALEEYxdpEHIWB8J1ZSaSMGkWKrFFi8Z0ZBtQ0y9IRgpobRUn8xmQ8IZqMBYH9JMYBdTpTgFwKZdZC8iYzm2pvZErO28qjqraqv7bCnMuK-hbnizYBOrbmi3o56nKLed-qhj51z5U1n9VBh-SvtX3mkED-iE0S2yTKRuERgUvBDp1XuBHsa6A8J6ABtXltk3nfVmYoNmR02SE3rzH5ofY1pDP1S91Cj_FWd77OhqGQcdTfa3LGRA9GHUPD9B0Lc49VcVTog2R3cm9xX--ELktW79a3GO7uF_SupHtrjQpee0vCj7uyxmYSFqcArBf7k3KCquoerwMRfo5_PA4X5TkvrtsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESdwHrOzAVWSXUmjBkPGQH03ZzoOQzm6dEAQqeJeyfYbsye7l_N1gZKI6lnKKhxDgVIJ3Et22ch9IQRu4rcnZVW-rwopyU4tmxPhm5AgvyfdLns_8CJKr3bfv1nfJd9z8bddaaezvuj1m5Dp1i9s_6Jnskmps7GJM8&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESdwHrOzAVWSXUmjBkPGQH03ZzoOQzm6dEAQqeJeyfYbsye7l_N1gZKI6lnKKhxDgVIJ3Et22ch9IQRu4rcnZVW-rwopyU4tmxPhm5AgvyfdLns_8CJKr3bfv1nfJd9z8bddaaezvuj1m5Dp1i9s_6Jnskmps7GJM8",
+      "source": "Boehringer Ingelheim",
+      "read_more_link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/#:~:text=The%20most%20common%20side%20effects,possible%20side%20effects%20of%20JARDIANCE."
+    },
+    {
+      "position": 4,
+      "title": "JARDIANCE can cause serious side effects, including",
+      "link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFRGdZ5CBcs9WQPEHo9SMMJH9o3m5nfcQn776MhAoHz0pZpZMZJmwo0CeWXtFfCaWejJQaas5L-XWlFDre2XDFKfrUEl1MFh7oPligrqm7ApPCDpL_Fx8Y1Lqb3rC_2HkYwIRgsLDigjOMovwxOrpo3dg4kx-twgREnx5Dz_14F6RoOrvqZ8bNcGld-O8AUfBwhx7x7o&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.dailymed.nlm.nih.gov \u203a medguide",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX_____7c7-3aL-1474pFP4pVb6tXb817f__vv_9OL-0Hj-ymf-y2n-zG73jRj3hwD3lSn96tj_9-n-4a_-1If-zXH3iQD7zKD83sL3jAD-7t7-0X3_8tv95c74oUr_89383b__6sX80ar-5bn-8-n4mzr-2pj3kR35ql37w5H6t3H6vYH6unnNXln46unw1NLWf3zlrqvRbGjVd3Prw8Lbj4vgoqDdlpP6v4joubf14eB34I8mAAABBklEQVR4Ac3QNYLDMBBA0QkrFgVlhxnMjPe_V8AUqLbb_PYJB_6vRrOV1-486_bQi_oSxpjQR4zxvMGwshGlZNwYT6bTKROyovS6nM3mJU7IAi0lQnNcwaP5QKzLQwne9PGTaoQtF8XBOyzBpLAagfE9PDvgyZFMv_DE5RIXffyNgxKXmDa-dx4FV-AZmtKz9IVdcUHleDCd1jgEQPOr4D0oO9TK2LrTPs0EV6Fu2SI4j-eJtgLvjZZ5yrPVEf6Ypqmgz3vyykCGadmO47ieH1QI8rar9vTV6rTy3DD03SACr0KktvW1qitIg9CJY9-2Y6tCOdnKMEy2-n4PqZ2lUeyGcQY_2B1vbR9IieDCwAAAAABJRU5ErkJggg.png",
+      "snippet": "JARDIANCE can cause some people to become dehydrated (the loss of body water and salt). Dehydration may cause you to feel dizzy, faint, light-headed, or weak, ...",
+      "snippet_highlighted_words": [
+        "JARDIANCE can cause some people to become dehydrated"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "JARDIANCE can cause some people to become dehydrated (the loss of body water and salt). Dehydration may cause you to feel dizzy, faint, light-headed, or weak, ...",
+          "source_info_link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX_____7c7-3aL-1474pFP4pVb6tXb817f__vv_9OL-0Hj-ymf-y2n-zG73jRj3hwD3lSn96tj_9-n-4a_-1If-zXH3iQD7zKD83sL3jAD-7t7-0X3_8tv95c74oUr_89383b__6sX80ar-5bn-8-n4mzr-2pj3kR35ql37w5H6t3H6vYH6unnNXln46unw1NLWf3zlrqvRbGjVd3Prw8Lbj4vgoqDdlpP6v4joubf14eB34I8mAAABBklEQVR4Ac3QNYLDMBBA0QkrFgVlhxnMjPe_V8AUqLbb_PYJB_6vRrOV1-486_bQi_oSxpjQR4zxvMGwshGlZNwYT6bTKROyovS6nM3mJU7IAi0lQnNcwaP5QKzLQwne9PGTaoQtF8XBOyzBpLAagfE9PDvgyZFMv_DE5RIXffyNgxKXmDa-dx4FV-AZmtKz9IVdcUHleDCd1jgEQPOr4D0oO9TK2LrTPs0EV6Fu2SI4j-eJtgLvjZZ5yrPVEf6Ypqmgz3vyykCGadmO47ieH1QI8rar9vTV6rTy3DD03SACr0KktvW1qitIg9CJY9-2Y6tCOdnKMEy2-n4PqZ2lUeyGcQY_2B1vbR9IieDCwAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESmQEB6zswFRGdZ5CBcs9WQPEHo9SMMJH9o3m5nfcQn776MhAoHz0pZpZMZJmwo0CeWXtFfCaWejJQaas5L-XWlFDre2XDFKfrUEl1MFh7oPligrqm7ApPCDpL_Fx8Y1Lqb3rC_2HkYwIRgsLDigjOMovwxOrpo3dg4kx-twgREnx5Dz_14F6RoOrvqZ8bNcGld-O8AUfBwhx7x7o&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESmQEB6zswFRGdZ5CBcs9WQPEHo9SMMJH9o3m5nfcQn776MhAoHz0pZpZMZJmwo0CeWXtFfCaWejJQaas5L-XWlFDre2XDFKfrUEl1MFh7oPligrqm7ApPCDpL_Fx8Y1Lqb3rC_2HkYwIRgsLDigjOMovwxOrpo3dg4kx-twgREnx5Dz_14F6RoOrvqZ8bNcGld-O8AUfBwhx7x7o",
+      "source": "DailyMed (.gov)",
+      "read_more_link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa#:~:text=JARDIANCE%20can%20cause%20some%20people,you%20stand%20up%20(orthostatic%20hypotension)."
+    },
+    {
+      "position": 5,
+      "title": "10 Jardiance Side Effects: What You Need to Know",
+      "link": "https://www.goodrx.com/jardiance/jardiance-side-effects?srsltid=AfmBOor_Q4BRPpLl-RAAxP97_jV8CuSZmXBoKN8oDX58AWFTvoTtpi5P",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFeP0RGpBxt3PVoXy9AhB5bZkqk1K50VrByL3_Ffefzy6RxGToamipVCRIDFmCjbU5tkyhlLXfni4V0VS8EbvPukE4gkcJlhb51B4Rx1UYXTLxGhNKE4nEJcKCq_zfuipD6rGUjia0RGmHS4-dpcPOOqHK3Z_TLPRCep3SEtIT-IjrHQ854ewio38_dfSgmqEyOauNZgqocK-Z3VzjSKgzosi6gdpWylOWF0pjA&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECC8QAQ&uoh=1",
+      "displayed_link": "https://www.goodrx.com \u203a ... \u203a Drugs \u203a Jardiance",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png",
+      "snippet": "Common Jardiance (empagliflozin) side effects include urinary tract infections (UTIs) and fungal (yeast) infections of the genitals.",
+      "snippet_highlighted_words": [
+        "urinary tract infections (UTIs"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Jardiance side effects list",
+            "link": "https://www.goodrx.com/jardiance/jardiance-side-effects#jardiance-side-effects-list"
+          },
+          {
+            "title": "UTIs",
+            "link": "https://www.goodrx.com/jardiance/jardiance-side-effects#utis"
+          },
+          {
+            "title": "Genital infections",
+            "link": "https://www.goodrx.com/jardiance/jardiance-side-effects#genital-infections"
+          },
+          {
+            "title": "Respiratory infections",
+            "link": "https://www.goodrx.com/jardiance/jardiance-side-effects#respiratory-infections"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Common Jardiance (empagliflozin) side effects include urinary tract infections (UTIs) and fungal (yeast) infections of the genitals.",
+          "source_info_link": "https://www.goodrx.com/jardiance/jardiance-side-effects?srsltid=AfmBOor_Q4BRPpLl-RAAxP97_jV8CuSZmXBoKN8oDX58AWFTvoTtpi5P",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESsAEB6zswFeP0RGpBxt3PVoXy9AhB5bZkqk1K50VrByL3_Ffefzy6RxGToamipVCRIDFmCjbU5tkyhlLXfni4V0VS8EbvPukE4gkcJlhb51B4Rx1UYXTLxGhNKE4nEJcKCq_zfuipD6rGUjia0RGmHS4-dpcPOOqHK3Z_TLPRCep3SEtIT-IjrHQ854ewio38_dfSgmqEyOauNZgqocK-Z3VzjSKgzosi6gdpWylOWF0pjA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESsAEB6zswFeP0RGpBxt3PVoXy9AhB5bZkqk1K50VrByL3_Ffefzy6RxGToamipVCRIDFmCjbU5tkyhlLXfni4V0VS8EbvPukE4gkcJlhb51B4Rx1UYXTLxGhNKE4nEJcKCq_zfuipD6rGUjia0RGmHS4-dpcPOOqHK3Z_TLPRCep3SEtIT-IjrHQ854ewio38_dfSgmqEyOauNZgqocK-Z3VzjSKgzosi6gdpWylOWF0pjA",
+      "source": "GoodRx"
+    },
+    {
+      "position": 6,
+      "title": "Jardiance Side Effects? Why Your Body Is Reacting ... - Ubie",
+      "link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFejGdaYfEahzcrFvz5eCfCs8rZBFExZCAd2ZhYymfp9fThdj7145rQ3U_X1yVucppKtg05d6_2e5lNBgVY3ydZIMgTNTiKAKUJGE2Ce34Ndl-DRjjakcqjuKQ-GkYygcQ9_DnIJ1XgdtUpPxVe1Cb6_im2B9r_rXQ_1s5QD2RojZwR96m_J-yad2oA&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://ubiehealth.com \u203a doctors-note \u203a jardiance-side-e...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEX____09vz_9vn8ytz7vtP92-ezvemms-dqgNd3i9p6j9vt8_z3cqT2a5_4i7KZp-JedtT6-_6mq-HAZK73d6b4kLXr7fk4Wc09YM-Ijdf_kbP94uy6xOyDld0URMj_eKMZSclXW8dvXsP4gKzy3Oq-u-X-7vPi5verZbbVa6vl1uv5pcPb3N-EiJGAhI3O0NPX2NtHTV3y8vNaYG2goqnf4OKxs7lES1u_wcV1eYNiZ3MsNUmzyx7TAAAA0UlEQVR4AcTPQwLEABAEwI5tW2v8_3lrhKeorsPGugg8kBTNdEssxwuiRMmKrKgkmjTdgGFasv0gO82a6xmcH4Sy_aJEjWKcSKlnZfabTDWLIpEX9pfCNIqSR7Dlb7BCE6e7G-VTs6NOFH9bvWvODh17_ZA9azT6GNpRlisGA07qmcSULlcY9-Km4gBgGAixTzwc0f3nqjybBXquEJ8AhIRTckEtmcFgUmjHku-yjzlmWo3fb_Vn6YlhcdDM4yNkCXWv7mcKM9STVYAkqMJ7_Cc3vBwYheP64YoAAAAASUVORK5CYII.png",
+      "date": "Mar 2, 2026",
+      "snippet": "Common Jardiance Side Effects \u00b7 1. Increased Urination \u00b7 2. Urinary Tract Infections (UTIs) \u00b7 3. Genital Yeast Infections \u00b7 4. Dehydration and ...",
+      "snippet_highlighted_words": [
+        "Increased Urination"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common Jardiance Side Effects \u00b7 1. Increased Urination \u00b7 2. Urinary Tract Infections (UTIs) \u00b7 3. Genital Yeast Infections \u00b7 4. Dehydration and ...",
+          "source_info_link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAtFBMVEX____09vz_9vn8ytz7vtP92-ezvemms-dqgNd3i9p6j9vt8_z3cqT2a5_4i7KZp-JedtT6-_6mq-HAZK73d6b4kLXr7fk4Wc09YM-Ijdf_kbP94uy6xOyDld0URMj_eKMZSclXW8dvXsP4gKzy3Oq-u-X-7vPi5verZbbVa6vl1uv5pcPb3N-EiJGAhI3O0NPX2NtHTV3y8vNaYG2goqnf4OKxs7lES1u_wcV1eYNiZ3MsNUmzyx7TAAAA0UlEQVR4AcTPQwLEABAEwI5tW2v8_3lrhKeorsPGugg8kBTNdEssxwuiRMmKrKgkmjTdgGFasv0gO82a6xmcH4Sy_aJEjWKcSKlnZfabTDWLIpEX9pfCNIqSR7Dlb7BCE6e7G-VTs6NOFH9bvWvODh17_ZA9azT6GNpRlisGA07qmcSULlcY9-Km4gBgGAixTzwc0f3nqjybBXquEJ8AhIRTckEtmcFgUmjHku-yjzlmWo3fb_Vn6YlhcdDM4yNkCXWv7mcKM9STVYAkqMJ7_Cc3vBwYheP64YoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjwEB6zswFejGdaYfEahzcrFvz5eCfCs8rZBFExZCAd2ZhYymfp9fThdj7145rQ3U_X1yVucppKtg05d6_2e5lNBgVY3ydZIMgTNTiKAKUJGE2Ce34Ndl-DRjjakcqjuKQ-GkYygcQ9_DnIJ1XgdtUpPxVe1Cb6_im2B9r_rXQ_1s5QD2RojZwR96m_J-yad2oA&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjwEB6zswFejGdaYfEahzcrFvz5eCfCs8rZBFExZCAd2ZhYymfp9fThdj7145rQ3U_X1yVucppKtg05d6_2e5lNBgVY3ydZIMgTNTiKAKUJGE2Ce34Ndl-DRjjakcqjuKQ-GkYygcQ9_DnIJ1XgdtUpPxVe1Cb6_im2B9r_rXQ_1s5QD2RojZwR96m_J-yad2oA",
+      "source": "ubiehealth.com",
+      "read_more_link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47#:~:text=Common%20Jardiance%20Side%20Effects&text=1.%20Increased%20Urination&text=2.%20Urinary%20Tract%20Infections%20(UTIs)&text=3.%20Genital%20Yeast%20Infections&text=4.%20Dehydration%20and%20Low%20Blood,Pressure"
+    },
+    {
+      "position": 7,
+      "title": "Empagliflozin (Jardiance): Uses & Side Effects",
+      "link": "https://my.clevelandclinic.org/health/drugs/20359-empagliflozin-tablets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVhhZ6XPFm3kMsgGEpj58fTdXYe0IkF14qy_vwVAeiJT1BJ4yRXlztvySVRslu12TiJblqF8T_bRT1qNH-yBhH8nUXggWKNDWDXsRu-K83lGbNPNtxgcbYLdwLOH8sFbZ37jwf_4IgaT1KWH13ZwINqaP7b2cHET38fbQ&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://my.clevelandclinic.org \u203a health \u203a drugs \u203a 20359...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEX___9HcEz_______________8JhEEGeb8AfTEAcbzB1uvD2smkx8NTlctUnW_nYckkAAAABnRSTlP_AOoNmTnE_icJAAAAnUlEQVQoka2T2RLDIAhFL2qsW_L_n1tc0qAZbWba8yJ4HkAGQaSNwg1lNBFou5vKRtAzB1YGCL6xA_sZB7Diev7V8CFcMVBamUk8k7VQLT9Kn64ukx-lfMN_ZHl4J-tAKoGRsssjI6XMD8dImfPjjK21vRQXP0o5vlHa3ISLsRx2lOWC5Sf-KtVcqrxgyTWONpBMygu2XM3lUq--wxuJ4QrRHTCrwAAAAABJRU5ErkJggg.png",
+      "snippet": "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat Dehydration\u2014increased thirst, dry mouth, feeling faint or ...",
+      "snippet_highlighted_words": [
+        "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat Dehydration\u2014increased thirst, dry mouth, feeling faint or ...",
+          "source_info_link": "https://my.clevelandclinic.org/health/drugs/20359-empagliflozin-tablets",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEX___9HcEz_______________8JhEEGeb8AfTEAcbzB1uvD2smkx8NTlctUnW_nYckkAAAABnRSTlP_AOoNmTnE_icJAAAAnUlEQVQoka2T2RLDIAhFL2qsW_L_n1tc0qAZbWba8yJ4HkAGQaSNwg1lNBFou5vKRtAzB1YGCL6xA_sZB7Diev7V8CFcMVBamUk8k7VQLT9Kn64ukx-lfMN_ZHl4J-tAKoGRsssjI6XMD8dImfPjjK21vRQXP0o5vlHa3ISLsRx2lOWC5Sf-KtVcqrxgyTWONpBMygu2XM3lUq--wxuJ4QrRHTCrwAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESfwHrOzAVhhZ6XPFm3kMsgGEpj58fTdXYe0IkF14qy_vwVAeiJT1BJ4yRXlztvySVRslu12TiJblqF8T_bRT1qNH-yBhH8nUXggWKNDWDXsRu-K83lGbNPNtxgcbYLdwLOH8sFbZ37jwf_4IgaT1KWH13ZwINqaP7b2cHET38fbQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESfwHrOzAVhhZ6XPFm3kMsgGEpj58fTdXYe0IkF14qy_vwVAeiJT1BJ4yRXlztvySVRslu12TiJblqF8T_bRT1qNH-yBhH8nUXggWKNDWDXsRu-K83lGbNPNtxgcbYLdwLOH8sFbZ37jwf_4IgaT1KWH13ZwINqaP7b2cHET38fbQ",
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 8,
+      "title": "What are the dangers of taking jardiance?",
+      "link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFd-RQzqUL8SVtyvZSoK4I7ZSBK5ljiEcxEafDOXgUeI-mQCgT-RBl5GZ0bIygjTu2JZ2Ip-Ki-QMBSVOrTAJl8sw0CWkq_B1fzLL0gkhM3nTvFhMqIsw-qBp7-3diIYajIpVhGzFBBSgSSwaAXaHQFNw3j4Ublx6g2jo9Pd06gsPO_G4&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECEgQAQ&uoh=1",
+      "displayed_link": "https://www.universaldrugstore.com \u203a blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEwnT3kmUHklUHolUHslUHslUHsmUHomUHolUHolUHolUHomUHomUHotzftGAAAADnRSTlMAFDKFvvD_q0NnldEiT6AG7RAAAACgSURBVHgBY6AvYFRSEoBzlF3TgCAcyjNNA4MUjmQQb1oaBGRxpmUyMHABWVvCQrZ5ZbLvclvA0AbkHthWcJCBh5GBMZehDMhlSDNgmKLAYLo8HcqdwJsWwCAclg5SnM2U1sCeFnCSgT0XZFQ6UxoDZ9qFa5mcBSCLUhjuMDL0MHCsYAJZbJY2gaHNgONCA8yR20DOyF4BdzWPktIB-gYaAP-cMiXUU3IEAAAAAElFTkSuQmCC.png",
+      "date": "Jul 7, 2025",
+      "snippet": "Serious side effects \u00b7 Nausea, vomiting, stomach pain \u00b7 Fruity-smelling breath \u00b7 Unusual tiredness, increased thirst, dry mouth \u00b7 Difficulty ...",
+      "snippet_highlighted_words": [
+        "Nausea, vomiting, stomach pain"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Shop Medications",
+            "link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance#:~:text=for.-,Shop%20Medications"
+          },
+          {
+            "title": "Most Common Side Effects",
+            "link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance#:~:text=Most%20common%20side%20effects"
+          },
+          {
+            "title": "Serious Side Effects",
+            "link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance#:~:text=Serious%20side%20effects,-Diabetic%20ketoacidosis%20%28DKA%29"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Serious side effects \u00b7 Nausea, vomiting, stomach pain \u00b7 Fruity-smelling breath \u00b7 Unusual tiredness, increased thirst, dry mouth \u00b7 Difficulty ...",
+          "source_info_link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAKlBMVEVHcEwnT3kmUHklUHolUHslUHslUHsmUHomUHolUHolUHolUHomUHomUHotzftGAAAADnRSTlMAFDKFvvD_q0NnldEiT6AG7RAAAACgSURBVHgBY6AvYFRSEoBzlF3TgCAcyjNNA4MUjmQQb1oaBGRxpmUyMHABWVvCQrZ5ZbLvclvA0AbkHthWcJCBh5GBMZehDMhlSDNgmKLAYLo8HcqdwJsWwCAclg5SnM2U1sCeFnCSgT0XZFQ6UxoDZ9qFa5mcBSCLUhjuMDL0MHCsYAJZbJY2gaHNgONCA8yR20DOyF4BdzWPktIB-gYaAP-cMiXUU3IEAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESiAEB6zswFd-RQzqUL8SVtyvZSoK4I7ZSBK5ljiEcxEafDOXgUeI-mQCgT-RBl5GZ0bIygjTu2JZ2Ip-Ki-QMBSVOrTAJl8sw0CWkq_B1fzLL0gkhM3nTvFhMqIsw-qBp7-3diIYajIpVhGzFBBSgSSwaAXaHQFNw3j4Ublx6g2jo9Pd06gsPO_G4&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESiAEB6zswFd-RQzqUL8SVtyvZSoK4I7ZSBK5ljiEcxEafDOXgUeI-mQCgT-RBl5GZ0bIygjTu2JZ2Ip-Ki-QMBSVOrTAJl8sw0CWkq_B1fzLL0gkhM3nTvFhMqIsw-qBp7-3diIYajIpVhGzFBBSgSSwaAXaHQFNw3j4Ublx6g2jo9Pd06gsPO_G4",
+      "source": "Universal Drugstore",
+      "read_more_link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance#:~:text=Serious%20side%20effects&text=Nausea%2C%20vomiting%2C%20stomach%20pain&text=Fruity%2Dsmelling%20breath&text=Unusual%20tiredness%2C%20increased%20thirst%2C%20dry,mouth&text=Difficulty%20breathing"
+    },
+    {
+      "position": 9,
+      "title": "FAQs | Jardiance\u00ae (empagliflozin) tablets",
+      "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/support/faqs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFQWjUb2U6a_lTYjCgvRMNuMWegZTPxowPQUDDvmFIpZefo-GVzibqm2NxCtEQUs5Kj-tuqy_7t_3jrqLbRdDUNlAlp2UNd8gRDgZTko8HKXd6O72N0h7mgsKE7j29PhoKlAMVysRy-m98f3dLmiv_Pbr_OXtq-6xdhrJQ32LeQ&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://patient.boehringer-ingelheim.com \u203a support \u203a faqs",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUA5HwA5X0A5n0A6n8A2ncBy3AA7IADv2oGckUHICQHMioHUjcCx24GVzoHOy4EqF8A33oIABsGfEoHNiwA64AHQzEGYz8GaEEFkFQA5XwEnVkIFSEB0nMDuGcDrGEFiFAFjFIHTDUHSjQHPS8IHCMIABAICx8ILikIKCcGXDwDsmOq9A7-AAABLklEQVR4AY3SA6LEQAwA0GhSe1X9Ne9_wF-tmTqv44GfA4nwtRCzGCPM9Exq2Y7rea5j-_rALEEYxdpEHIWB8J1ZSaSMGkWKrFFi8Z0ZBtQ0y9IRgpobRUn8xmQ8IZqMBYH9JMYBdTpTgFwKZdZC8iYzm2pvZErO28qjqraqv7bCnMuK-hbnizYBOrbmi3o56nKLed-qhj51z5U1n9VBh-SvtX3mkED-iE0S2yTKRuERgUvBDp1XuBHsa6A8J6ABtXltk3nfVmYoNmR02SE3rzH5ofY1pDP1S91Cj_FWd77OhqGQcdTfa3LGRA9GHUPD9B0Lc49VcVTog2R3cm9xX--ELktW79a3GO7uF_SupHtrjQpee0vCj7uyxmYSFqcArBf7k3KCquoerwMRfo5_PA4X5TkvrtsAAAAASUVORK5CYII.png",
+      "snippet": "The most common side effects of JARDIANCE include urinary tract infections and yeast infections in females. These are not all the possible side effects of ...",
+      "snippet_highlighted_words": [
+        "urinary tract infections and yeast infections in females"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The most common side effects of JARDIANCE include urinary tract infections and yeast infections in females. These are not all the possible side effects of ...",
+          "source_info_link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/support/faqs",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAgVBMVEUA5HwA5X0A5n0A6n8A2ncBy3AA7IADv2oGckUHICQHMioHUjcCx24GVzoHOy4EqF8A33oIABsGfEoHNiwA64AHQzEGYz8GaEEFkFQA5XwEnVkIFSEB0nMDuGcDrGEFiFAFjFIHTDUHSjQHPS8IHCMIABAICx8ILikIKCcGXDwDsmOq9A7-AAABLklEQVR4AY3SA6LEQAwA0GhSe1X9Ne9_wF-tmTqv44GfA4nwtRCzGCPM9Exq2Y7rea5j-_rALEEYxdpEHIWB8J1ZSaSMGkWKrFFi8Z0ZBtQ0y9IRgpobRUn8xmQ8IZqMBYH9JMYBdTpTgFwKZdZC8iYzm2pvZErO28qjqraqv7bCnMuK-hbnizYBOrbmi3o56nKLed-qhj51z5U1n9VBh-SvtX3mkED-iE0S2yTKRuERgUvBDp1XuBHsa6A8J6ABtXltk3nfVmYoNmR02SE3rzH5ofY1pDP1S91Cj_FWd77OhqGQcdTfa3LGRA9GHUPD9B0Lc49VcVTog2R3cm9xX--ELktW79a3GO7uF_SupHtrjQpee0vCj7uyxmYSFqcArBf7k3KCquoerwMRfo5_PA4X5TkvrtsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESgwEB6zswFQWjUb2U6a_lTYjCgvRMNuMWegZTPxowPQUDDvmFIpZefo-GVzibqm2NxCtEQUs5Kj-tuqy_7t_3jrqLbRdDUNlAlp2UNd8gRDgZTko8HKXd6O72N0h7mgsKE7j29PhoKlAMVysRy-m98f3dLmiv_Pbr_OXtq-6xdhrJQ32LeQ&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESgwEB6zswFQWjUb2U6a_lTYjCgvRMNuMWegZTPxowPQUDDvmFIpZefo-GVzibqm2NxCtEQUs5Kj-tuqy_7t_3jrqLbRdDUNlAlp2UNd8gRDgZTko8HKXd6O72N0h7mgsKE7j29PhoKlAMVysRy-m98f3dLmiv_Pbr_OXtq-6xdhrJQ32LeQ",
+      "source": "Boehringer Ingelheim",
+      "read_more_link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/support/faqs#:~:text=The%20most%20common%20side%20effects,possible%20side%20effects%20of%20JARDIANCE."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Jardiance medication",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+medication&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+medication"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance side effects in females",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+side+effects+in+females&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+side+effects+in+females"
+    },
+    {
+      "block_position": 1,
+      "query": "Worst side effects of Jardiance",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Worst+side+effects+of+Jardiance&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Worst+side+effects+of+Jardiance"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance side effects in elderly",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+side+effects+in+elderly&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+side+effects+in+elderly"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance side effects in males",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+side+effects+in+males&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+side+effects+in+males"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance benefits",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+benefits&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+benefits"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance side effects on eyes",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+side+effects+on+eyes&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+side+effects+on+eyes"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance side effects reddit",
+      "link": "https://www.google.com/search?sca_esv=84bb5e68fac1764f&gl=us&hl=en&q=Jardiance+side+effects+reddit&sa=X&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+side+effects+reddit"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=10&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8NMDegQIOBAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=10&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=20&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=30&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=40&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=50&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=60&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=84bb5e68fac1764f&gl=us&hl=en&ei=W7Wkarv3DpSvqtsPkOWEqAc&start=70&sa=N&sstk=AS6-VmIVEpmcjx2vGu4jcGq29-bSf4vT0bDREczSBXK9_IwSVmvtk_RIlE_r50KY4Z1vlznJTpgFdpT20kTXlAG-vwfTwsifsUsRvg&ved=2ahUKEwj7kJ6C_OeWAxWUl2oFHZAyAXUQ8tMDegQIOBAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=70"
+    }
+  }
+}

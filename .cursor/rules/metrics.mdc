@@ -1,0 +1,31 @@
+---
+description: Exact drift metric definitions — do not simplify or substitute
+globs: ["**/analyze/**", "**/*drift*.py", "**/*metric*.py"]
+alwaysApply: false
+---
+
+# Drift metrics
+
+Implement exactly as specified in PROPOSAL §6. Re-read that section before
+writing any of this. All five are required. Do not drop one as redundant.
+
+1. **AIO presence rate** — P(aio_fired) per query across runs
+2. **Jaccard** — |A∩B|/|A∪B| over canonical URLs, consecutive runs
+3. **RBO** — rank-biased overlap, p=0.9, with the extrapolation term for
+   unequal-length lists. This is NOT interchangeable with Jaccard. Jaccard
+   measures set membership; RBO measures top-weighted order. Report both.
+4. **Source survival** — P(cited at run N+k | cited at run N), k=1..K
+5. **Domain-level vs URL-level decomposition** — compute 2 and 3 twice, once
+   over canonical URLs, once over registered domains (use `tldextract`,
+   not string splitting — `.co.uk` will break naive splits)
+
+Metric 5 is the project's core finding. It is not optional and it is not
+a variant of metric 2.
+
+**Report distributions, not means.** Every metric renders as a histogram or
+per-query breakdown. A mean over a bimodal distribution is a lie, and this
+data is likely bimodal (contested vs uncontested queries).
+
+**Null results are valid output.** If drift comes back low, report it low.
+Do not tune windows, thresholds, or query subsets to produce a more
+interesting number. If you find yourself considering that, stop and tell me.

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "t2d_symptoms",
+    "text": "early signs of type 2 diabetes",
+    "condition": "type_2_diabetes",
+    "journey_stage": "symptoms",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "t2d_diagnosis",
+    "text": "how is type 2 diabetes diagnosed",
+    "condition": "type_2_diabetes",
+    "journey_stage": "diagnosis",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "t2d_treatment",
+    "text": "type 2 diabetes treatment options",
+    "condition": "type_2_diabetes",
+    "journey_stage": "treatment",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "t2d_branded",
+    "text": "jardiance side effects",
+    "condition": "type_2_diabetes",
+    "journey_stage": "branded",
+    "audience": "patient",
+    "target_drug": "empagliflozin"
+  },
+  {
+    "id": "t2d_hcp",
+    "text": "SGLT2 inhibitor vs GLP-1 first line type 2 diabetes",
+    "condition": "type_2_diabetes",
+    "journey_stage": "treatment",
+    "audience": "hcp",
+    "target_drug": null
+  },
+  {
+    "id": "htn_symptoms",
+    "text": "signs of high blood pressure",
+    "condition": "hypertension",
+    "journey_stage": "symptoms",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "htn_diagnosis",
+    "text": "what blood pressure numbers are considered high",
+    "condition": "hypertension",
+    "journey_stage": "diagnosis",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "htn_treatment",
+    "text": "high blood pressure treatment options",
+    "condition": "hypertension",
+    "journey_stage": "treatment",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "htn_branded",
+    "text": "losartan side effects",
+    "condition": "hypertension",
+    "journey_stage": "branded",
+    "audience": "patient",
+    "target_drug": "losartan"
+  },
+  {
+    "id": "htn_hcp",
+    "text": "ACE inhibitor vs ARB first line hypertension",
+    "condition": "hypertension",
+    "journey_stage": "treatment",
+    "audience": "hcp",
+    "target_drug": null
+  },
+  {
+    "id": "pah_symptoms",
+    "text": "pulmonary arterial hypertension symptoms",
+    "condition": "pulmonary_arterial_hypertension",
+    "journey_stage": "symptoms",
+    "audience": "patient",
+    "target_drug": null
+  },
+  {
+    "id": "pah_branded",
+    "text": "opsumit side effects",
+    "condition": "pulmonary_arterial_hypertension",
+    "journey_stage": "branded",
+    "audience": "patient",
+    "target_drug": "macitentan"
+  }
+]

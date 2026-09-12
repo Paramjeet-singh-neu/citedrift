@@ -1,0 +1,35 @@
+---
+description: Eval set construction — human-authored labels only
+globs: ["evals/**", "**/*eval*.py"]
+alwaysApply: false
+---
+
+# Eval set
+
+## The rule
+
+**You may not write, generate, label, paraphrase, or modify any eval case.**
+
+All 50 cases are authored by hand by the human. LLM-generated cases scored by
+an LLM is a circular test that measures nothing, and producing one would waste
+the most important artifact in the project.
+
+If `evals/cases.jsonl` is empty or missing, say so and stop. Do not populate it.
+Do not create placeholder cases. Do not create example cases "to show the format."
+
+## What you build
+
+The runner, the schema validator, the scoring code, the results table. Not the data.
+
+## Required metrics, in this order
+
+1. **False-supported rate** — fraction of `contradicted` cases classified
+   `supported`. Report this FIRST and most prominently. It is the only metric
+   that matters for safety.
+2. Precision/recall per verdict class
+3. Abstention rate, plus precision on non-abstained decisions only
+4. BM25 vs embedding retrieval, side by side
+5. Adversarial subset (10 near-miss cases) broken out separately from the rest
+
+Never report only aggregate accuracy. Aggregate accuracy on this task is
+dominated by the easy cases and hides exactly the failure that matters.

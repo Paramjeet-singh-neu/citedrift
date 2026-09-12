@@ -1,0 +1,48 @@
+---
+description: Phase B claim extraction and label grounding — abstain path is mandatory
+globs: ["**/ground/**", "**/*claim*.py", "**/*verdict*.py", "**/*label*.py"]
+alwaysApply: false
+---
+
+# Grounding layer (Phase B)
+
+Read PROPOSAL §7 before implementing. Do not start this before Phase A ships.
+
+## Span validation — non-negotiable
+
+Every extracted claim carries `verbatim_span`. Validate that the span is an
+exact substring of `observation.answer_text`. Reject the claim if it is not.
+No fuzzy matching, no normalization, no "close enough."
+
+Without this you get hallucinated claims about hallucinations. This check is
+the difference between a real system and a demo.
+
+## Abstain path — mandatory, not an edge case
+
+Five verdict classes: supported, contradicted, unsupported, out_of_scope,
+**abstained**.
+
+`abstained` is a first-class outcome, not an error state and not a fallback
+to `unsupported`. When label retrieval confidence is below threshold, the
+system renders NO verdict and routes to the human queue with the retrieved
+candidates attached.
+
+Do not collapse `abstained` into `unsupported`. Do not add a default verdict.
+Do not "handle" abstention by picking the most likely class. Abstention rate
+is a reported metric, and a high one is a good result, not a bug.
+
+## Section routing
+
+Route each claim_type to its LOINC-coded label section (PROPOSAL §7.2) rather
+than searching the whole SPL document. Cache labels locally by setid.
+
+## Retrieval
+
+Implement BM25 first. Implement embeddings second, as a comparison. Report
+both in the eval. Do not skip BM25 on the assumption embeddings win — label
+language is formulaic and lexical matching may beat dense retrieval here.
+
+## Language
+
+"Flags claims for human review." Never "verifies," "validates," "confirms,"
+"checks accuracy," or "fact-checks" — in any string, comment, or docstring.

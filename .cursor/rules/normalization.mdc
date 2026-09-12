@@ -1,0 +1,34 @@
+---
+description: URL canonicalization rules — drift metrics depend entirely on this
+globs: ["**/normalize/**", "**/*normaliz*.py", "**/*canonical*.py"]
+alwaysApply: false
+---
+
+# URL normalization
+
+Drift is a set comparison over URLs. Every un-canonicalized variant registers
+as fake churn and corrupts the headline finding. This module is the highest-risk
+component in the project.
+
+**Write the tests first.** Minimum 12 cases covering every rule below, including
+at least 3 that SHOULD normalize to different URLs (over-normalization is as
+bad as under-normalization).
+
+Rules, in order:
+1. Lowercase scheme and host. Preserve path case.
+2. Strip `www.` prefix
+3. Drop default ports (:80, :443)
+4. Remove tracking params: utm_*, gclid, fbclid, msclkid, ref, source, mc_cid
+5. PRESERVE content-bearing params: id, article, page, p, q, v
+6. Remove fragments EXCEPT where the fragment is the content anchor
+   (some medical reference sites route on fragment — flag any you find)
+7. Normalize trailing slash: strip, except on bare host
+8. Follow redirects to final URL. Cache aggressively — this is the slow step.
+9. AMP → canonical: `/amp/` path segment, `?amp=1`, `amp.` subdomain
+10. When the page is fetched, honor `<link rel="canonical">` over the URL
+
+Persist BOTH `url_raw_first_seen` and `url_canonical`. The report shows drift
+computed both ways so the normalization delta is visible and auditable.
+
+Do not add normalization rules beyond this list without asking. Aggressive
+normalization that collapses genuinely distinct pages hides real churn.

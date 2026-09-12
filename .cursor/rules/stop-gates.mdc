@@ -1,0 +1,31 @@
+---
+description: Decisions requiring explicit human approval before implementation
+alwaysApply: true
+---
+
+# Full stop — ask before proceeding
+
+Post the question and wait. Do not implement, do not propose-and-proceed.
+
+1. Changing any metric definition in PROPOSAL §6
+2. Changing the abstain threshold or abstain behavior (§7.4)
+3. Adding, removing, or rewording any query in `config/queries.yaml`
+4. Generating, labeling, or modifying ANY eval case (§8)
+5. Swapping or adding a SERP provider
+6. Any write, edit, or delete under `data/raw/`
+7. Adding a dependency not already in `pyproject.toml`
+8. Anything touching auth, tenancy, user accounts, or a hosted dashboard
+9. Wording of the README headline finding or any report copy
+10. Changing what a verdict class means (§7.4)
+
+# Green light — proceed without asking
+
+Refactors within a module, test additions, type hints, docstrings, logging,
+error handling, formatting, dependency version pins, CLI ergonomics,
+performance work that doesn't change output values.
+
+# Never silently
+
+If a spec section is ambiguous, contradictory, or silent on what you need —
+stop and say which section and what's missing. Do not pick the reasonable
+interpretation and continue.
