@@ -66,3 +66,7 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-13 | Report intro findings replaced with human-authored 5-run paragraphs (59 of 60, academic 37.5% / 0 of 150, YouTube 68). Scope sentence still derived from metrics.json. Stability and source-category paragraphs unchanged. | Also rewrite the 19-of-23 stability sentence | y
 
+2026-09-13 | Report intro stability paragraph replaced with human-authored short-vs-long interval copy. Agent does not rewrite findings. | Keep 19-of-23 sentence | n
+
+2026-09-13 | Report intro: YouTube line is "13 of those 68 appear in the top three." Stability is 15 of 16 short-interval pairs identical (33–47 min); long-interval movement described per query class. Replaced because prior copy contradicted the pair table (t2d_diagnosis 0.4000 at 35.7 min; htn_symptoms 0.2500 at 784.9 min). | Write 19.1%; keep prior stability paragraph | n
+
