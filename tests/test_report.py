@@ -63,13 +63,20 @@ class ReportHtmlTests(unittest.TestCase):
         ):
             self.assertIn(heading, html)
         self.assertNotIn("Citation stability by audience", html)
-        self.assertIn("n=273", html)
-        self.assertIn("n=105", html)
+        metrics = json.loads(METRICS.read_text(encoding="utf-8"))
+        n_all = metrics["authority_composition"]["all_positions"]["n"]
+        n_top = metrics["authority_composition"]["positions_0_2"]["n"]
+        genuine = sum(
+            int(row["runs_genuine_absence"])
+            for row in metrics["aio_presence"]["by_query"].values()
+        )
+        self.assertIn(f"n={n_all}", html)
+        self.assertIn(f"n={n_top}", html)
         self.assertIn("runs_genuine_absence", html)
         self.assertIn("runs_failed_fetch", html)
         self.assertIn("complete_fetch_rate", html)
         self.assertNotIn(">presence_rate<", html)
-        self.assertIn("runs_genuine_absence summed across queries: 0", html)
+        self.assertIn(f"runs_genuine_absence summed across queries: {genuine}", html)
         self.assertIn("Patient-only", html)
         self.assertIn("All queries (patient + HCP)", html)
         self.assertIn("Position concentration", html)
@@ -78,6 +85,8 @@ class ReportHtmlTests(unittest.TestCase):
         self.assertEqual(html.count("jaccard url_canonical"), 1)
         self.assertEqual(html.count("rbo url_canonical"), 1)
         self.assertIn("Three things stand out in the data so far.", html)
+        self.assertIn("59 of 60 attempts", html)
+        self.assertNotIn("36 of 36 attempts", html)
         self.assertIn("config/source_classes.json", html)
         self.assertIn("The current window is hours, not weeks.", html)
         self.assertIn(LOCATION, html)
@@ -102,8 +111,28 @@ class ReportHtmlTests(unittest.TestCase):
 
     def test_presence_numbers_from_metrics(self) -> None:
         html = _render()
+        metrics = json.loads(METRICS.read_text(encoding="utf-8"))
+        attempted = metrics["aio_presence"]["by_query"]["t2d_hcp"]["runs_attempted"]
         self.assertIn("t2d_hcp", html)
-        self.assertRegex(html, r"t2d_hcp</td><td class=\"num\">3</td>")
+        self.assertRegex(html, rf"t2d_hcp</td><td class=\"num\">{attempted}</td>")
+
+    def test_intro_scope_from_metrics(self) -> None:
+        from citedrift.report.run import collect_times_and_runs
+
+        metrics = json.loads(METRICS.read_text(encoding="utf-8"))
+        queries = json.loads(QUERIES.read_text(encoding="utf-8"))
+        html = render_html(metrics, queries, "0 14 * * *")
+        n_cit = metrics["n_citations"]
+        _times, runs = collect_times_and_runs(metrics)
+        self.assertIn(f"{n_cit} citations in total", html)
+        self.assertIn(f"{len(runs)} runs over", html)
+        self.assertNotIn("273 citations in total", html)
+        self.assertNotIn("3 runs over 1.4 hours", html)
+        tweaked = json.loads(json.dumps(metrics))
+        tweaked["n_citations"] = 999
+        html2 = render_html(tweaked, queries, "0 14 * * *")
+        self.assertIn("999 citations in total", html2)
+        self.assertNotIn(f"{n_cit} citations in total", html2)
 
     def test_report_all_writes(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

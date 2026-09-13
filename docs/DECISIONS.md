@@ -58,3 +58,11 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-13 | README replaced with human-authored copy (headline, report link, findings, limitations, pipeline). Agent does not rewrite findings. | Keep prior two-paragraph README | n
 
+2026-09-13 | Human classified 14 previously unclassified domains in `config/source_classes.json`. `ucdavis.edu` is `health_system`, not academic. New class `insurer` (`uhc.com`, `primetherapeutics.com`). | Treat ucdavis.edu as academic; fold insurers into commerce | n
+
+2026-09-13 | Report intro scope sentence derives run count (unique `run_id`), `n_citations`, date range, and window hours from metrics.json min/max `fetched_at`. Same-day range stays "on {day}"; multi-day uses "from … to …". Query count, conditions, locale, and all other intro paragraphs stay as written. | Keep hardcoded 3 runs / 273 / 1.4 hours | y
+
+2026-09-13 | README sample line and "What it found so far" replaced with human-authored 5-run copy. Limitations section unchanged. | Also rewrite limitations and report intro findings | n
+
+2026-09-13 | Report intro findings replaced with human-authored 5-run paragraphs (59 of 60, academic 37.5% / 0 of 150, YouTube 68). Scope sentence still derived from metrics.json. Stability and source-category paragraphs unchanged. | Also rewrite the 19-of-23 stability sentence | y
+

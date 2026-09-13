@@ -143,23 +143,55 @@ def table(headers: list[tuple[str, bool]], rows: list[list[str]], caption: str) 
     )
 
 
-INTRO_PARAS = (
-    "This measures which sources Google's AI Overview cites when someone searches a health question, and whether that set of sources stays the same when you ask again.",
-    "The scope is small and worth stating up front: 12 queries, 3 conditions, 3 runs over 1.4 hours on 12 September 2026, one locale (Austin, TX), Google only, 273 citations in total. That is enough to describe what was cited. It is not yet enough to say much about change over time — the collector runs daily, and a longer window will follow.",
+INTRO_LEAD = (
+    "This measures which sources Google's AI Overview cites when someone searches a health question, and whether that set of sources stays the same when you ask again."
+)
+INTRO_TAIL = (
     "Three things stand out in the data so far.",
-    "AI Overviews were present every time. 36 of 36 attempts returned one, with zero genuine absences. The single incomplete record was a network timeout on the collector's side, logged separately rather than counted as an absence.",
-    "What gets cited first depends on how the question is phrased. Across the top three cited positions, academic sources accounted for 53% of citations on clinician-phrased queries and 0% of 90 on patient-phrased ones. Hospital and health-system sites were the reverse: 30% of patient top-three citations, and absent from clinician-phrased results entirely. The two phrasings also arrived through different delivery paths — all 30 patient observations returned the AI Overview inline, all 5 clinician observations required a second fetch.",
-    "Being cited and being cited first are not the same thing. YouTube was the single most-cited domain in the sample, at 46 citations, but only 17% of those landed in the top three positions. Professional medical societies — AAFP, the American College of Cardiology — were cited 11 times and never once in the top three. Commercial sites were the inverse: fewer citations overall, but 68% of them in the top three.",
+    "AI Overviews appeared on 59 of 60 attempts. The single genuine absence was on a clinician-phrased query; one further record is a collector-side network timeout, logged separately rather than counted as an absence.",
+    "What gets cited first depends on how the question is phrased. Across the top three cited positions, academic sources were 37.5% of citations on clinician-phrased queries and 0 of 150 on patient-phrased ones — academic sources do appear in patient results, 10 times across all positions, but never near the top. Health-system sites were the reverse: 30% of patient top-three citations, and absent from clinician-phrased results at any position. The two phrasings also arrived through different delivery paths, with patient observations returning the AI Overview inline and clinician observations requiring a second fetch.",
+    "Being cited and being cited first are different things. YouTube was the most-cited domain in the sample at 68 citations — ahead of Mayo Clinic at 38 and NIH at 33 — but a minority of those appear in the top three. Professional medical societies were cited 15 times and never once in the top three positions of either audience.",
     "Citation sets were otherwise stable across this window: 19 of 23 consecutive run-pairs were identical. All three clinician-phrased pairs changed, at intervals where every patient-phrased pair held still.",
     "Source categories are a judgment call. The full mapping is in config/source_classes.json and open to disagreement.",
 )
 
 
-def section_intro() -> str:
-    paras = "\n".join(f"<p>{esc(p)}</p>" for p in INTRO_PARAS)
+def fmt_day(dt: datetime) -> str:
+    return f"{dt.day} {dt.strftime('%B %Y')}"
+
+
+def intro_scope_sentence(metrics: dict[str, Any]) -> str:
+    times, runs = collect_times_and_runs(metrics)
+    n_runs = len(runs)
+    n_citations = int(metrics.get("n_citations") or 0)
+    parsed = [parse_z(t) for t in times]
+    tmin = min(parsed) if parsed else None
+    tmax = max(parsed) if parsed else None
+    hours = 0.0
+    if tmin and tmax:
+        hours = (tmax - tmin).total_seconds() / 3600.0
+        if tmin.date() == tmax.date():
+            when = f"on {fmt_day(tmin)}"
+        else:
+            when = f"from {fmt_day(tmin)} to {fmt_day(tmax)}"
+    else:
+        when = "on a date not available in metrics.json"
+    run_word = "run" if n_runs == 1 else "runs"
+    return (
+        "The scope is small and worth stating up front: 12 queries, 3 conditions, "
+        f"{n_runs} {run_word} over {hours:.1f} hours {when}, one locale (Austin, TX), "
+        f"Google only, {n_citations} citations in total. That is enough to describe "
+        "what was cited. It is not yet enough to say much about change over time — "
+        "the collector runs daily, and a longer window will follow."
+    )
+
+
+def section_intro(metrics: dict[str, Any]) -> str:
+    paras = [INTRO_LEAD, intro_scope_sentence(metrics), *INTRO_TAIL]
+    body = "\n".join(f"<p>{esc(p)}</p>" for p in paras)
     return (
         "<div class='intro'>\n"
-        f"{paras}\n"
+        f"{body}\n"
         "</div>"
     )
 
@@ -771,7 +803,7 @@ def render_html(
     body = "\n".join(
         [
             "<h1>CiteDrift</h1>",
-            section_intro(),
+            section_intro(metrics),
             "<p class='note'>Numbers in the tables and charts are from data/analysis/metrics.json. "
             "Locale and cadence are configuration, not measurements.</p>",
             section_method(metrics, queries, cron),

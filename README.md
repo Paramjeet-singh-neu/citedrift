@@ -13,30 +13,29 @@ diagnosis, treatment, branded) and two audiences (patient-phrased and
 clinician-phrased). Collected daily via GitHub Actions, one locale
 (Austin, TX), Google only.
 
-Current sample: 3 runs, 273 citations, 12 September 2026, spanning
-1.4 hours.
+Current sample: 5 runs, 454 citations, 12–13 September 2026, spanning
+23.2 hours.
 
 ## What it found so far
 
-**AI Overviews were present every time.** 36 of 36 attempts returned
-one, zero genuine absences. The single incomplete record was a network
-timeout on the collector's side, logged separately rather than counted
-as an absence.
+**AI Overviews appeared on 59 of 60 attempts.** One genuine absence,
+on a clinician-phrased query. One further record is a collector-side
+network timeout, logged separately rather than counted as an absence.
+Patient-phrased queries were complete on all 50 attempts; clinician-
+phrased queries on 8 of 10.
 
 **What gets cited first depends on how the question is phrased.**
-Across the top three cited positions, academic sources were 53% of
-citations on clinician-phrased queries and 0 of 90 on patient-phrased
-ones. Health-system sites were the reverse: 30% of patient top-three
-citations, absent from clinician results entirely. The two phrasings
-also arrived through different delivery paths — all 30 patient
-observations returned the AI Overview inline; all 5 clinician
-observations required a second fetch.
+Across the top three cited positions, academic sources were 37.5% of
+citations on clinician-phrased queries and 0 of 150 on patient-phrased
+ones. Academic sources are not absent from patient results — they
+appear 10 times across all positions — but never near the top.
+Health-system sites were the reverse: 30% of patient top-three
+citations, and absent from clinician-phrased results at any position.
 
-**Being cited and being cited first are different things.** YouTube was
-the most-cited domain at 46 citations, but only 17% landed in the top
-three. Professional medical societies were cited 11 times and never
-once in the top three. Commercial sites were the inverse: fewer
-citations, 68% of them in the top three.
+**Being cited and being cited first are different things.** YouTube
+was the most-cited domain at 68 citations, ahead of Mayo Clinic (38)
+and NIH (33), but a minority land in the top three. Professional
+medical societies were cited 15 times and never once in the top three.
 
 ## Limitations
 
