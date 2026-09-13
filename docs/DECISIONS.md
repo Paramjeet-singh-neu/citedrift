@@ -36,3 +36,21 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-12 | tldextract uses the bundled PSL (`suffix_list_urls=()`), no live PSL fetch. Unknown query params are kept (only listed tracking keys are dropped) so we do not over-normalize. | Live PSL updates; drop unknown params | y
 
+2026-09-12 | Jaccard empty pairs store `null` plus `jaccard_note`=`both_empty` or `union_empty`. Nulls are omitted from `values` and counted in `n_null_excluded`. A 0 would look like total churn; a 1 like perfect stability. | Store 0; store 1; drop the pair | y
+
+2026-09-12 | AIO presence denominator is `data/raw/*/manifest.jsonl`, not `answers.jsonl`. Incomplete rows split into `runs_failed_fetch` (error set) and `runs_genuine_absence` (error null, not complete); those counts are never added into one missing field. Presence rate is complete/attempted. | Denominator = answers.jsonl; lump incomplete | n
+
+2026-09-12 | RBO is Webber, Moffat, Zobel 2010 eq. 32 (extrapolated), p=0.9. Domain lists are unique registered domains in first-citation order. Both-empty lists → `null` + `rbo_note=both_empty`, excluded like Jaccard. A shorter list that is a prefix of a longer list scores 1.0 — that is the extrapolation, not a bug. | rbo_min only; include duplicate domains | y
+
+2026-09-12 | Source survival uses complete observations only, ordered by fetched_at; k is lag in that sequence (failed fetches are not a zero-citation run). Computed for `url_canonical` and `domain`. Empty run N contributes no instances. | Lag across all attempts; URL only | y
+
+2026-09-12 | `make analyze` writes `data/analysis/metrics.json` (rebuild each run). `make drift` is an alias. | `make drift` only, matching AGENTS.md naming | y
+
+2026-09-12 | Report is stdlib HTML + inline SVG. No Jinja2, matplotlib, or plotly. PROPOSAL §12 stack table (Jinja2 + matplotlib/plotly) is superseded for this deliverable: the report is one file:// page, those libraries are not in pyproject.toml, and adding them is a stop-gate. | Add Jinja2/plotly | y
+
+2026-09-12 | Report copy is numbers and method/limitations facts only. Section 4 RBO is labelled "Citation stability by audience" with values grouped by audience; no claim sentence. Locale and cadence are labelled configuration (collector constants + workflow cron). Date range and run count are derived from fetched_at / run_id in metrics.json. | Interpret HCP movement in the report | n
+
+2026-09-12 | Report: one consecutive-pair table (audience + interval_minutes + Jaccard/RBO url and domain). Patient-only journey-stage table is treatment minus by_audience HCP, not a recrawl of citations. Display column `complete_fetch_rate` reads `presence_rate` from metrics.json. | Keep four pair tables; recompute patient composition from citations | y
+
+2026-09-12 | README headline and report intro copy are the human-authored text inserted verbatim. Agent does not rewrite findings. | Summarize or tighten the copy | n
+
