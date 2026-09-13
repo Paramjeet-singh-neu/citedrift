@@ -56,3 +56,5 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-12 | Daily collect workflow rebuilds parse/normalize/analyze/report and commits `data` plus `docs/index.html`, not only `data/raw`. CI pip-installs `requests` and `tldextract`; `requests` is not a pyproject dependency (collector uses stdlib HTTP). | Keep raw-only commit; `pip install -e .` | y
 
+2026-09-13 | README replaced with human-authored copy (headline, report link, findings, limitations, pipeline). Agent does not rewrite findings. | Keep prior two-paragraph README | n
+
