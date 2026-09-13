@@ -1,0 +1,673 @@
+{
+  "search_metadata": {
+    "id": "6aa580ad7bf2f927d7c8ff0d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/1SR-R3UF0K_M0aPE5OotIrgXVBP-9xjcSD7gLPeuscQ/6aa580ad7bf2f927d7c8ff0d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/1SR-R3UF0K_M0aPE5OotIrgXVBP-9xjcSD7gLPeuscQ/6aa580ad7bf2f927d7c8ff0d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/1SR-R3UF0K_M0aPE5OotIrgXVBP-9xjcSD7gLPeuscQ/6aa580ad7bf2f927d7c8ff0d.json_with_pixel_position",
+    "created_at": "2026-09-12 16:41:17 UTC",
+    "processed_at": "2026-09-12 16:41:17 UTC",
+    "google_url": "https://www.google.com/search?q=losartan+side+effects&oq=losartan+side+effects&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/1SR-R3UF0K_M0aPE5OotIrgXVBP-9xjcSD7gLPeuscQ/6aa580ad7bf2f927d7c8ff0d.html",
+    "total_time_taken": 6.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "losartan side effects",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "losartan side effects",
+    "total_results": 114,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What should I avoid taking with losartan?",
+      "type": "ai_overview",
+      "page_token": "WiP2vnicHdDBboIwHIDx7GU8ahnoEhOzhNkqbjAptAUuC7YKyh-piiK97V32VHuamV2_w-_wff_A_lj9Pt3KttWX6WjUdd2waJoCtkPZ1KP80h_lSOYAm1xW08nLxHrdyRm-eu7byXNDpjWfUxQdmE0ry1GYMw70PUpWROBVlQK9KpS5OW7rMAFMBV2nAuoIA42wMtvIOscLaOhSxWIBnuBw4gYcZdyLf8zmCqWt5OpEF9qLE1VnuM3iY9UGBITkxGFL7afCuXPmd5QEB4bGH5FFTzwm7JPdo63w0EaMkW-yNSVlEwHhG1w5ipClYNlcGmkzU6Z-pSyFdEkxEfJZ27hUJsDBJU38nqPgOY95rxgPpSn60OZudm_2IaNGHqBmgt8DeDRUaoFpSYWG1HZ5Wuk-YC15SEZ1g528zezB_8_Z165up_rcFH87wIWZ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WiP2vnicHdDBboIwHIDx7GU8ahnoEhOzhNkqbjAptAUuC7YKyh-piiK97V32VHuamV2_w-_wff_A_lj9Pt3KttWX6WjUdd2waJoCtkPZ1KP80h_lSOYAm1xW08nLxHrdyRm-eu7byXNDpjWfUxQdmE0ry1GYMw70PUpWROBVlQK9KpS5OW7rMAFMBV2nAuoIA42wMtvIOscLaOhSxWIBnuBw4gYcZdyLf8zmCqWt5OpEF9qLE1VnuM3iY9UGBITkxGFL7afCuXPmd5QEB4bGH5FFTzwm7JPdo63w0EaMkW-yNSVlEwHhG1w5ipClYNlcGmkzU6Z-pSyFdEkxEfJZ27hUJsDBJU38nqPgOY95rxgPpSn60OZudm_2IaNGHqBmgt8DeDRUaoFpSYWG1HZ5Wuk-YC15SEZ1g528zezB_8_Z165up_rcFH87wIWZ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IldoYXQgc2hvdWxkIEkgYXZvaWQgdGFraW5nIHdpdGggbG9zYXJ0YW4/IiwibGsiOiJHaWgzYUdGMElITm9iM1ZzWkNCcElHRjJiMmxrSUhSaGEybHVaeUIzYVhSb0lHeHZjMkZ5ZEdGdSIsImJzIjoiYzVXUHNVN0RRQkJFUlhzVnRhc3BJVktDTUNXRmEzLUI2NDF2N1Z0eDhWcDNtX2ozRXpzeW9FU0FLRmQ2YjJiSE5lNjVDV1RJUVlfUm93YWRWRHlNUG1Ub01Za0ZSTTJVaklhcTNCUlAwemRZZm9GZGN1OU5rRFpnSDFVOXhzUTVIeFBqd0Y1YU10RUJnVElzTUNKVHZvU0taM0RYY1d1NUt0LUsxNV9GYTlPZDVkaVZ5eGk2NEV1d0R2M1dPQjFXQXRxdDMzNnRlaW0yMDJyTkJ2NHdITGxkblQ5UEVQYmtiMmVPRWlOTVo1ZVhDdm1QOGZod0JnIiwiaWQiOiJmY19zNENsYXMyV0N2aTVydUVQczgyQ3VBZ180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IldoYXQgc2hvdWxkIEkgYXZvaWQgdGFraW5nIHdpdGggbG9zYXJ0YW4%2FIiwibGsiOiJHaWgzYUdGMElITm9iM1ZzWkNCcElHRjJiMmxrSUhSaGEybHVaeUIzYVhSb0lHeHZjMkZ5ZEdGdSIsImJzIjoiYzVXUHNVN0RRQkJFUlhzVnRhc3BJVktDTUNXRmEzLUI2NDF2N1Z0eDhWcDNtX2ozRXpzeW9FU0FLRmQ2YjJiSE5lNjVDV1RJUVlfUm93YWRWRHlNUG1Ub01Za0ZSTTJVaklhcTNCUlAwemRZZm9GZGN1OU5rRFpnSDFVOXhzUTVIeFBqd0Y1YU10RUJnVElzTUNKVHZvU0taM0RYY1d1NUt0LUsxNV9GYTlPZDVkaVZ5eGk2NEV1d0R2M1dPQjFXQXRxdDMzNnRlaW0yMDJyTkJ2NHdITGxkblQ5UEVQYmtiMmVPRWlOTVo1ZVhDdm1QOGZod0JnIiwiaWQiOiJmY19zNENsYXMyV0N2aTVydUVQczgyQ3VBZ180In0%3D"
+    },
+    {
+      "question": "Which blood pressure medication has the least side effects?",
+      "type": "ai_overview",
+      "page_token": "ADuGD3icHZDbjqIwAEAzPzOPIzfZaGI20aEl3VCG0ov2ZQMFRSnQ0UaEt_mF-Yb9qv2aNft-Tk5yvv7oc9_-fflurDW39WIxjuPbaRhOun5TQ7coblOvFqrQuixUuw5_hO7Po9pEd7XdXdU2Y8bwd-LkAu1L3wjmgWsdE5Q5qE163tRnVzBokHQeCWHcowD7KZSt1IaVkFjZ2g_i2Tnp8CygiXm0TGl88DPnYBmvZCqakApLhVhRzCzKu0dQw8wq0OS5B8LE5TEHiFdgJVJOxqw1iL2DQPRqSjkIcp_4T-eTeKuP5ILhk5vKzkDloiGNza6ASUAouaVCO0SQTsaHR-GhpGwBKIAcJeS7qjVjrXHw7Cwrge5RU804wrfDPpm4g72C8qliPFPzacp8vpWP4ZwxMquL7thF_sojzRKKlthBS8GbUOx1R3p-pi4wtOX7anw9qvvGf_3_evP72Nm1uQ6nf5T6jIw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ADuGD3icHZDbjqIwAEAzPzOPIzfZaGI20aEl3VCG0ov2ZQMFRSnQ0UaEt_mF-Yb9qv2aNft-Tk5yvv7oc9_-fflurDW39WIxjuPbaRhOun5TQ7coblOvFqrQuixUuw5_hO7Po9pEd7XdXdU2Y8bwd-LkAu1L3wjmgWsdE5Q5qE163tRnVzBokHQeCWHcowD7KZSt1IaVkFjZ2g_i2Tnp8CygiXm0TGl88DPnYBmvZCqakApLhVhRzCzKu0dQw8wq0OS5B8LE5TEHiFdgJVJOxqw1iL2DQPRqSjkIcp_4T-eTeKuP5ILhk5vKzkDloiGNza6ASUAouaVCO0SQTsaHR-GhpGwBKIAcJeS7qjVjrXHw7Cwrge5RU804wrfDPpm4g72C8qliPFPzacp8vpWP4ZwxMquL7thF_sojzRKKlthBS8GbUOx1R3p-pi4wtOX7anw9qvvGf_3_evP72Nm1uQ6nf5T6jIw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IldoaWNoIGJsb29kIHByZXNzdXJlIG1lZGljYXRpb24gaGFzIHRoZSBsZWFzdCBzaWRlIGVmZmVjdHM/IiwibGsiOiJHakZpYkc5dlpDQndjbVZ6YzNWeVpTQnRaV1JwWTJGMGFXOXVJSGRwZEdnZ2JHVmhjM1FnYzJsa1pTQmxabVpsWTNSeiIsImJzIjoiYzVXUHNVN0RRQkJFUlhzVnRhc3BJVktDTUNXRmEzLUI2NDF2N1Z0eDhWcDNtX2ozRXpzeW9FU0FLRmQ2YjJiSE5lNjVDV1RJUVlfUm93YWRWRHlNUG1Ub01Za0ZSTTJVaklhcTNCUlAwemRZZm9GZGN1OU5rRFpnSDFVOXhzUTVIeFBqd0Y1YU10RUJnVElzTUNKVHZvU0taM0RYY1d1NUt0LUsxNV9GYTlPZDVkaVZ5eGk2NEV1d0R2M1dPQjFXQXRxdDMzNnRlaW0yMDJyTkJ2NHdITGxkblQ5UEVQYmtiMmVPRWlOTVo1ZVhDdm1QOGZod0JnIiwiaWQiOiJmY19zNENsYXMyV0N2aTVydUVQczgyQ3VBZ180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IldoaWNoIGJsb29kIHByZXNzdXJlIG1lZGljYXRpb24gaGFzIHRoZSBsZWFzdCBzaWRlIGVmZmVjdHM%2FIiwibGsiOiJHakZpYkc5dlpDQndjbVZ6YzNWeVpTQnRaV1JwWTJGMGFXOXVJSGRwZEdnZ2JHVmhjM1FnYzJsa1pTQmxabVpsWTNSeiIsImJzIjoiYzVXUHNVN0RRQkJFUlhzVnRhc3BJVktDTUNXRmEzLUI2NDF2N1Z0eDhWcDNtX2ozRXpzeW9FU0FLRmQ2YjJiSE5lNjVDV1RJUVlfUm93YWRWRHlNUG1Ub01Za0ZSTTJVaklhcTNCUlAwemRZZm9GZGN1OU5rRFpnSDFVOXhzUTVIeFBqd0Y1YU10RUJnVElzTUNKVHZvU0taM0RYY1d1NUt0LUsxNV9GYTlPZDVkaVZ5eGk2NEV1d0R2M1dPQjFXQXRxdDMzNnRlaW0yMDJyTkJ2NHdITGxkblQ5UEVQYmtiMmVPRWlOTVo1ZVhDdm1QOGZod0JnIiwiaWQiOiJmY19zNENsYXMyV0N2aTVydUVQczgyQ3VBZ180In0%3D"
+    },
+    {
+      "question": "What are the long-term effects of taking losartan?",
+      "type": "ai_overview",
+      "page_token": "ka4Q83icHdBRbpswAABQ7TL9bGwYrRYpmkYxSVHtyATb4J_JGIgbDFgJSYC_XaFn6Kl6mkp7R3j_Pu173379-DDj6C7r1ep-vz8eh-Fo60c9dCt1mXu90sraUul2_fT8BH83eoNuOnw565Ay53iUgkNmYtE6xr3gykDhYUTvzPKwRswvUeoTAV3BqjhtZZfZREobFyQiTSEmp8AU1pGxpc9FtoWCembiMHzd525QvWnT7WVUsTFvLN6lL_CqgcEywh5rZVMeIKYwvtZRWFD-S5S5ERKBpUaj3O_0TPoU73fylLYxKT1O6GLPRWeiGplEZxUvvACUvcsPHV6qbcVSXjnWsSADya0WMtH5nzHbBq-qnSDteIA9ckKmWggilyLHMwfEUxmfK8apXo4z9Xkop-GdsnTRJ9sxNgkOJiyhbCQPneidL7NEUYH8SgQ_Wcstow-Nvm38h__Xm79NN67deTh-A1n8jWw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ka4Q83icHdBRbpswAABQ7TL9bGwYrRYpmkYxSVHtyATb4J_JGIgbDFgJSYC_XaFn6Kl6mkp7R3j_Pu173379-DDj6C7r1ep-vz8eh-Fo60c9dCt1mXu90sraUul2_fT8BH83eoNuOnw565Ay53iUgkNmYtE6xr3gykDhYUTvzPKwRswvUeoTAV3BqjhtZZfZREobFyQiTSEmp8AU1pGxpc9FtoWCembiMHzd525QvWnT7WVUsTFvLN6lL_CqgcEywh5rZVMeIKYwvtZRWFD-S5S5ERKBpUaj3O_0TPoU73fylLYxKT1O6GLPRWeiGplEZxUvvACUvcsPHV6qbcVSXjnWsSADya0WMtH5nzHbBq-qnSDteIA9ckKmWggilyLHMwfEUxmfK8apXo4z9Xkop-GdsnTRJ9sxNgkOJiyhbCQPneidL7NEUYH8SgQ_Wcstow-Nvm38h__Xm79NN67deTh-A1n8jWw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBsb25nLXRlcm0gZWZmZWN0cyBvZiB0YWtpbmcgbG9zYXJ0YW4/IiwibGsiOiJHaTEzYUdGMElHRnlaU0JzYjI1bklIUmxjbTBnWldabVpXTjBjeUJ2WmlCMFlXdHBibWNnYkc5ellYSjBZVzQiLCJicyI6ImM1V1BzVTdEUUJCRVJYc1Z0YXNwSVZLQ01DV0ZhMy1CNjQxdjdWdHg4VnAzbV9qM0V6c3lvRVNBS0ZkNmIyYkhOZTY1Q1dUSVFZX1Jvd2FkVkR5TVBtVG9NWWtGUk0yVWpJYXEzQlJQMHpkWWZvRmRjdTlOa0RaZ0gxVTl4c1E1SHhQandGNWFNdEVCZ1RJc01DSlR2b1NLWjNEWGNXdTVLdC1LMTVfRmE5T2Q1ZGlWeXhpNjRFdXdEdjNXT0IxV0F0cXQzMzZ0ZWltMjAyck5CdjR3SExsZG5UOVBFUGJrYjJlT0VpTk1aNWVYQ3ZtUDhmaHdCZyIsImlkIjoiZmNfczRDbGFzMldDdmk1cnVFUHM4MkN1QWdfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBsb25nLXRlcm0gZWZmZWN0cyBvZiB0YWtpbmcgbG9zYXJ0YW4%2FIiwibGsiOiJHaTEzYUdGMElHRnlaU0JzYjI1bklIUmxjbTBnWldabVpXTjBjeUJ2WmlCMFlXdHBibWNnYkc5ellYSjBZVzQiLCJicyI6ImM1V1BzVTdEUUJCRVJYc1Z0YXNwSVZLQ01DV0ZhMy1CNjQxdjdWdHg4VnAzbV9qM0V6c3lvRVNBS0ZkNmIyYkhOZTY1Q1dUSVFZX1Jvd2FkVkR5TVBtVG9NWWtGUk0yVWpJYXEzQlJQMHpkWWZvRmRjdTlOa0RaZ0gxVTl4c1E1SHhQandGNWFNdEVCZ1RJc01DSlR2b1NLWjNEWGNXdTVLdC1LMTVfRmE5T2Q1ZGlWeXhpNjRFdXdEdjNXT0IxV0F0cXQzMzZ0ZWltMjAyck5CdjR3SExsZG5UOVBFUGJrYjJlT0VpTk1aNWVYQ3ZtUDhmaHdCZyIsImlkIjoiZmNfczRDbGFzMldDdmk1cnVFUHM4MkN1QWdfNCJ9"
+    },
+    {
+      "question": "Is losartan a bad blood pressure pill to take?",
+      "type": "ai_overview",
+      "page_token": "ecIJTXicHdBBjpswFABQ9TKznEBQUiVSVIkAyVDhqcH-gDeVsZM4tcFkoAG86xV6hp6qp6nUd4T364-5d_rvp99qHPthv1pN0_R6s_ZmLq_Ctis-LJ1YCW5Mw4Xebz9v_S9XcYifIjx-iBDTvoco90jc99KXjhLzIM7c6xKWpkuzC8A3EgDHXXLnAMfCKVSWtcsA3pp4LEptl6yFt4IkiCa7r0WlJ3Jm7zxBdV1uhqZNuvysZxLJGleyvZj-JwcWNetxKtabKuvYyD3F8y58MF8EmR78EtS6rFKEPbCsVIRRO1FfWhbUM4U44LEkXJuA0rSmJCXIS9Ki61Fp2JnFu0hqmIiXze-nzVY4Y8kp4chXR3JiV-EpFivpUIyGusoW8NCaE1gkBSzcbcEBhGy2d0xzJ36Yluoxyl36uJxUX0Rs5hQNBHZP6u8Q1rGTLgwxfrmK5yF4-X99-H5tx33_YW__AOl1j-Y",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ecIJTXicHdBBjpswFABQ9TKznEBQUiVSVIkAyVDhqcH-gDeVsZM4tcFkoAG86xV6hp6qp6nUd4T364-5d_rvp99qHPthv1pN0_R6s_ZmLq_Ctis-LJ1YCW5Mw4Xebz9v_S9XcYifIjx-iBDTvoco90jc99KXjhLzIM7c6xKWpkuzC8A3EgDHXXLnAMfCKVSWtcsA3pp4LEptl6yFt4IkiCa7r0WlJ3Jm7zxBdV1uhqZNuvysZxLJGleyvZj-JwcWNetxKtabKuvYyD3F8y58MF8EmR78EtS6rFKEPbCsVIRRO1FfWhbUM4U44LEkXJuA0rSmJCXIS9Ki61Fp2JnFu0hqmIiXze-nzVY4Y8kp4chXR3JiV-EpFivpUIyGusoW8NCaE1gkBSzcbcEBhGy2d0xzJ36Yluoxyl36uJxUX0Rs5hQNBHZP6u8Q1rGTLgwxfrmK5yF4-X99-H5tx33_YW__AOl1j-Y",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IklzIGxvc2FydGFuIGEgYmFkIGJsb29kIHByZXNzdXJlIHBpbGwgdG8gdGFrZT8iLCJsayI6IkdpMXBjeUJzYjNOaGNuUmhiaUJoSUdKaFpDQmliRzl2WkNCd2NtVnpjM1Z5WlNCd2FXeHNJSFJ2SUhSaGEyVSIsImJzIjoiYzVXUHNVN0RRQkJFUlhzVnRhc3BJVktDTUNXRmEzLUI2NDF2N1Z0eDhWcDNtX2ozRXpzeW9FU0FLRmQ2YjJiSE5lNjVDV1RJUVlfUm93YWRWRHlNUG1Ub01Za0ZSTTJVaklhcTNCUlAwemRZZm9GZGN1OU5rRFpnSDFVOXhzUTVIeFBqd0Y1YU10RUJnVElzTUNKVHZvU0taM0RYY1d1NUt0LUsxNV9GYTlPZDVkaVZ5eGk2NEV1d0R2M1dPQjFXQXRxdDMzNnRlaW0yMDJyTkJ2NHdITGxkblQ5UEVQYmtiMmVPRWlOTVo1ZVhDdm1QOGZod0JnIiwiaWQiOiJmY19zNENsYXMyV0N2aTVydUVQczgyQ3VBZ180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1pHaEdZMkpCTWtSSExWOXhkVWt3TkZCWE1uVlVRWE4wTjNkSFIwVlBVRzVUTkhReFFXOVFXbE5UWjNKNk0yWXhOMFYxV25wVWRVNXhTUzFoTVdGeFRGaHZaakJFT1VOSUxVMXdZMGRhWDNaSmExTnRRVXhNV1VWblVSSVhjelJEYkdGek1sZERkbWsxY25WRlVITTRNa04xUVdjYUlrRkVjM0k1WmxOMFRtOW5jbTEzYWs0dE1rUnFTMlpHYm1SaVpHSnVZVTkwVjNjIiwiZmN2IjoiMyIsImVpIjoiczRDbGFzMldDdmk1cnVFUHM4MkN1QWciLCJxYyI6IkNoVnNiM05oY25SaGJpQnphV1JsSUdWbVptVmpkSE1RQUJnQmZVME1NVDgiLCJxdWVzdGlvbiI6IklzIGxvc2FydGFuIGEgYmFkIGJsb29kIHByZXNzdXJlIHBpbGwgdG8gdGFrZT8iLCJsayI6IkdpMXBjeUJzYjNOaGNuUmhiaUJoSUdKaFpDQmliRzl2WkNCd2NtVnpjM1Z5WlNCd2FXeHNJSFJ2SUhSaGEyVSIsImJzIjoiYzVXUHNVN0RRQkJFUlhzVnRhc3BJVktDTUNXRmEzLUI2NDF2N1Z0eDhWcDNtX2ozRXpzeW9FU0FLRmQ2YjJiSE5lNjVDV1RJUVlfUm93YWRWRHlNUG1Ub01Za0ZSTTJVaklhcTNCUlAwemRZZm9GZGN1OU5rRFpnSDFVOXhzUTVIeFBqd0Y1YU10RUJnVElzTUNKVHZvU0taM0RYY1d1NUt0LUsxNV9GYTlPZDVkaVZ5eGk2NEV1d0R2M1dPQjFXQXRxdDMzNnRlaW0yMDJyTkJ2NHdITGxkblQ5UEVQYmtiMmVPRWlOTVo1ZVhDdm1QOGZod0JnIiwiaWQiOiJmY19zNENsYXMyV0N2aTVydUVQczgyQ3VBZ180In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Losartan is a prescription medication used to treat high blood pressure and protect kidney function, and its common side effects include dizziness, fatigue, and mild stomach upset.",
+        "snippet_highlighted_words": [
+          "dizziness, fatigue, and mild stomach upset"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Side Effects"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Most mild side effects improve over time as your body adjusts to the medication:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Dizziness or lightheadedness: Caused by lowered blood pressure, especially when standing up quickly."
+          },
+          {
+            "snippet": "Fatigue: Feeling more tired than usual while your body adapts."
+          },
+          {
+            "snippet": "Nasal congestion: A stuffy nose or cold-like symptoms."
+          },
+          {
+            "snippet": "Headaches: Mild head pain or discomfort."
+          },
+          {
+            "snippet": "Digestive issues: Nausea, vomiting, diarrhea, or stomach pain."
+          },
+          {
+            "snippet": "Aches: Back pain or joint pain."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Serious Side Effects"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Though rare, serious complications can occur:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "High potassium (hyperkalemia): Can cause muscle weakness or irregular heartbeat, which is why doctors order routine blood tests."
+          },
+          {
+            "snippet": "Kidney function changes: Worsening kidney injury or decreased urination."
+          },
+          {
+            "snippet": "Severe low blood pressure: Extreme lightheadedness or fainting."
+          },
+          {
+            "snippet": "Angioedema: A dangerous allergic reaction causing swelling of the face, lips, tongue, or throat and trouble breathing."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can read more comprehensive details on the Mayo Clinic guide or the MedlinePlus drug information page. You can also review patient guidance provided by the NHS.",
+        "snippet_links": [
+          {
+            "text": "Mayo Clinic",
+            "link": "https://www.mayoclinic.org/drugs-supplements/losartan-oral-route/description/drg-20067341"
+          },
+          {
+            "text": "MedlinePlus",
+            "link": "https://medlineplus.gov/druginfo/meds/a695008.html"
+          },
+          {
+            "text": "NHS",
+            "link": "https://www.nhs.uk/medicines/losartan/"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.goodrx.com/losartan/common-side-effects",
+        "source": "goodrx.com",
+        "index": 0
+      },
+      {
+        "link": "https://ubiehealth.com/doctors-note/losartan-side-effects-body-reacting-steps-57-guide",
+        "source": "ubiehealth.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.nhs.uk/medicines/losartan/",
+        "source": "nhs.uk",
+        "index": 2
+      },
+      {
+        "link": "https://medlineplus.gov/druginfo/meds/a695008.html",
+        "source": "medlineplus.gov",
+        "index": 3
+      },
+      {
+        "link": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/losartan",
+        "source": "mskcc.org",
+        "index": 4
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=zPw7JP3BNpc",
+        "source": "youtube.com",
+        "index": 5
+      },
+      {
+        "link": "https://www.mayoclinic.org/drugs-supplements/losartan-oral-route/description/drg-20067341",
+        "source": "mayoclinic.org",
+        "index": 6
+      },
+      {
+        "link": "https://www.rxlist.com/losartan/generic-drug.htm",
+        "source": "rxlist.com",
+        "index": 7
+      },
+      {
+        "link": "https://www.buzzrx.com/blog/losartan-potassium-uses-and-side-effects",
+        "source": "buzzrx.com",
+        "index": 8
+      },
+      {
+        "title": "13 Losartan Side Effects You Should Know About - GoodRx",
+        "link": "https://www.goodrx.com/losartan/common-side-effects",
+        "snippet": "Key takeaways: * Losartan (Cozaar) is an angiotensin II receptor blocker (ARB) commonly prescribed to treat high blood pressure. * Common losartan side effects inc...",
+        "source": "GoodRx",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-jeXeb9VobzbmcL-ksFSv1ms4H1OyzLEF7b51XG3ImOKNnFIMAmwiRObvXRDr3xry1TlRvjQlZKfW7nAK6MPLxdKA7TFbeAQxGopb",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.goodrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Losartan Side Effects? Why Your Body is Reacting & Medically Approved ...",
+        "link": "https://ubiehealth.com/doctors-note/losartan-side-effects-body-reacting-steps-57-guide",
+        "snippet": "Losartan Side Effects? Why Your Body is Reacting & Medically Approved Next Steps. ... Losartan side effects range from common dizziness or lightheadedness, fatigue...",
+        "source": "ubiehealth.com",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ubiehealth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Losartan: medicine for high blood pressure - NHS",
+        "link": "https://www.nhs.uk/medicines/losartan/",
+        "snippet": "Always check the packet or leaflet that comes with your medicine. Ask a pharmacist or doctor for advice if you're not sure how to take it or have any problems taki...",
+        "source": "nhs.uk",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nhs.uk&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "Losartan: MedlinePlus Drug Information",
+        "link": "https://medlineplus.gov/druginfo/meds/a695008.html",
+        "snippet": "Your doctor may need to change the doses of your medications or monitor you carefully for side effects. the following nonprescription products may interact with lo...",
+        "source": "MedlinePlus (.gov)",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBfX0fcAAodWzqyCob1oa__6ksMaV6WBAZLrSLKu4bU4bioFgW91Dyay_hK_iPhed6JfjJYPLEdCHWHtlDgQC_3Qze0OMA81kblrk4",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://medlineplus.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "Losartan - Memorial Sloan Kettering Cancer Center",
+        "link": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/losartan",
+        "snippet": "All drugs may cause side effects. However, many people have no side effects or only have minor side effects. Call your doctor or get medical help if any of these s...",
+        "source": "Memorial Sloan Kettering Cancer Center",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.mskcc.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      },
+      {
+        "title": "LOSARTAN [Cozaar/Lozol] | Uses, Common Doses, Side Effects & more ...",
+        "link": "https://www.youtube.com/watch?v=zPw7JP3BNpc&t=189",
+        "snippet": "LOSARTAN [Cozaar/Lozol] | Uses, Common Doses, Side Effects & more [Educational video] now if you've got severe diarrhea or vomiting. contact your doctor they might",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRfxYBycHlnWe4AW1TfAg5NI_re9hRohurY7_EV3hERgmuXXsA3gvpcM3X-s5m6-ffSULgfNexmRVAg5pBktqt_R5Sy4PcS0RLQl8QcpA",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 14
+      },
+      {
+        "title": "Losartan (oral route) - Side effects & dosage - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/drugs-supplements/losartan-oral-route/description/drg-20067341",
+        "snippet": "Angioedema (an allergic reaction) with other blood pressure medicines (eg, benazepril, enalapril, lisinopril, Lotrel, Vasotec, Zestoretic, Zestril), history of\u2014Use...",
+        "source": "Mayo Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 15
+      },
+      {
+        "title": "Losartan: Side Effects, Uses, Dosage, Interactions, Warnings - RxList",
+        "link": "https://www.rxlist.com/losartan/generic-drug.htm",
+        "snippet": "What Are Side Effects Associated with Using Losartan? Side effects of losartan include: fatigue. low blood glucose. anemia. urinary tract infection. chest pain. we...",
+        "source": "RxList",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rxlist.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 16
+      },
+      {
+        "title": "Losartan Potassium Uses & Side Effects - BuzzRx",
+        "link": "https://www.buzzrx.com/blog/losartan-potassium-uses-and-side-effects",
+        "snippet": "What are the negative side effects of Losartan? * Kidney injury with symptoms include swelling in the feet, ankles, and hands, producing a lot less urine, and shor...",
+        "source": "BuzzRx",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Wr9SX-tasBjCOS-xe1hiHR2a5Ok_iRqsGuP4AUlEcEH4ugvG3Zi8amzvGsNzWSYiOX9gp-Ku_DLSQ5AATiOnqt0yDgwgGX0cSJCb",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.buzzrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 17
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Losartan (oral route) - Side effects & dosage",
+      "link": "https://www.mayoclinic.org/drugs-supplements/losartan-oral-route/description/drg-20067341",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFX0_bsSdiOuhqDyXmzmDDyfqLBks83SRzxiDWfNHu9i3vt0O4JJaJJlgVtzSEWh73T6sdEgOHn7YCimVKZUss8tYcJGC0aVyfvbgoysIRinnshpUBfUl_XOInLj5rNZe-O0KuMQZbkOvOZHM5WNMJJKcSDF1SsCLAVTgjfszx7LQzmlse9UIosBJBJnr&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.mayoclinic.org \u203a drg-20067341",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpAAgQOIGeAeuVnR_dA498xQaQ6rFG8gf3ndkqzWJi5AAA_vYKMWBP-r-HNmcyXa4pkfQHdoFYE0y3Hpp_Okj8s5C_giLFvKqALNslb4pW7F9qlPUORjVPmXknkujc011-nWbyaSekjoXWhdhuT_VjOs7y3_-6HbiieRVcRjpRq69Rs7zphUdPNaW5MutnbEFty-r-A2QHsZpv4UXKT1slZpbMrHYmFkC_YUZXsUS-_xAyjaSxahu_tonLZEIt_w3BV_UL5kC9xd_lwTcLRL2OeP6McS_6Mie0rRW_WSYAAAAA.webp",
+      "snippet": "If it continues for a long time, the heart and arteries may not function properly. This can damage the blood vessels of the brain, heart, and kidneys, resulting ...",
+      "about_this_result": {
+        "source": {
+          "description": "If it continues for a long time, the heart and arteries may not function properly. This can damage the blood vessels of the brain, heart, and kidneys, resulting ...",
+          "source_info_link": "https://www.mayoclinic.org/drugs-supplements/losartan-oral-route/description/drg-20067341",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpAAgQOIGeAeuVnR_dA498xQaQ6rFG8gf3ndkqzWJi5AAA_vYKMWBP-r-HNmcyXa4pkfQHdoFYE0y3Hpp_Okj8s5C_giLFvKqALNslb4pW7F9qlPUORjVPmXknkujc011-nWbyaSekjoXWhdhuT_VjOs7y3_-6HbiieRVcRjpRq69Rs7zphUdPNaW5MutnbEFty-r-A2QHsZpv4UXKT1slZpbMrHYmFkC_YUZXsUS-_xAyjaSxahu_tonLZEIt_w3BV_UL5kC9xd_lwTcLRL2OeP6McS_6Mie0rRW_WSYAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESkQEB6zswFX0_bsSdiOuhqDyXmzmDDyfqLBks83SRzxiDWfNHu9i3vt0O4JJaJJlgVtzSEWh73T6sdEgOHn7YCimVKZUss8tYcJGC0aVyfvbgoysIRinnshpUBfUl_XOInLj5rNZe-O0KuMQZbkOvOZHM5WNMJJKcSDF1SsCLAVTgjfszx7LQzmlse9UIosBJBJnr&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESkQEB6zswFX0_bsSdiOuhqDyXmzmDDyfqLBks83SRzxiDWfNHu9i3vt0O4JJaJJlgVtzSEWh73T6sdEgOHn7YCimVKZUss8tYcJGC0aVyfvbgoysIRinnshpUBfUl_XOInLj5rNZe-O0KuMQZbkOvOZHM5WNMJJKcSDF1SsCLAVTgjfszx7LQzmlse9UIosBJBJnr",
+      "source": "Mayo Clinic",
+      "read_more_link": "https://www.mayoclinic.org/drugs-supplements/losartan-oral-route/description/drg-20067341#:~:text=If%20it%20continues%20for%20a,heart%20failure%2C%20or%20kidney%20failure."
+    },
+    {
+      "position": 2,
+      "title": "13 Losartan Side Effects You Should Know About",
+      "link": "https://www.goodrx.com/losartan/common-side-effects?srsltid=AfmBOooQsk_a4JyIR8gvroUDiThcR4iGc3O3r_qPUXemp2rBUfxaFo0j",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFQ6kS1hkhrxZc6euQfxa8BiXgu7zJ_qU6biAX1AVKs6r9yHkiDzydH8njSQ42ZVu88HJjfaBbdcYnD6KfUCqB6bFavNHwy-bcDFZWc7H4IZlQ8PB9tRdpOj6BJTT9T7VPBgTCQdML_wNPmmrNYDuwtYZqFYba3XeefqsXGbAO8UdBJvAzox77Yh2lWUpNS5W1CiptY3-wPPc5_oI2tNFMik7QLj_WAyz&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.goodrx.com \u203a ... \u203a Drugs \u203a Losartan",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png",
+      "snippet": "Common losartan side effects include dizziness, respiratory infections, and back or joint pain. Fatigue, headache, and digestive issues are also possible. These ...",
+      "snippet_highlighted_words": [
+        "dizziness, respiratory infections, and back or joint pain"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Losartan side effects list",
+            "link": "https://www.goodrx.com/losartan/common-side-effects#losartan-side-effects-list"
+          },
+          {
+            "title": "Dizziness",
+            "link": "https://www.goodrx.com/losartan/common-side-effects#dizziness"
+          },
+          {
+            "title": "Digestive side effects",
+            "link": "https://www.goodrx.com/losartan/common-side-effects#digestive-side-effects"
+          },
+          {
+            "title": "Headache",
+            "link": "https://www.goodrx.com/losartan/common-side-effects#headache"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Common losartan side effects include dizziness, respiratory infections, and back or joint pain. Fatigue, headache, and digestive issues are also possible. These ...",
+          "source_info_link": "https://www.goodrx.com/losartan/common-side-effects?srsltid=AfmBOooQsk_a4JyIR8gvroUDiThcR4iGc3O3r_qPUXemp2rBUfxaFo0j",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESrAEB6zswFQ6kS1hkhrxZc6euQfxa8BiXgu7zJ_qU6biAX1AVKs6r9yHkiDzydH8njSQ42ZVu88HJjfaBbdcYnD6KfUCqB6bFavNHwy-bcDFZWc7H4IZlQ8PB9tRdpOj6BJTT9T7VPBgTCQdML_wNPmmrNYDuwtYZqFYba3XeefqsXGbAO8UdBJvAzox77Yh2lWUpNS5W1CiptY3-wPPc5_oI2tNFMik7QLj_WAyz&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESrAEB6zswFQ6kS1hkhrxZc6euQfxa8BiXgu7zJ_qU6biAX1AVKs6r9yHkiDzydH8njSQ42ZVu88HJjfaBbdcYnD6KfUCqB6bFavNHwy-bcDFZWc7H4IZlQ8PB9tRdpOj6BJTT9T7VPBgTCQdML_wNPmmrNYDuwtYZqFYba3XeefqsXGbAO8UdBJvAzox77Yh2lWUpNS5W1CiptY3-wPPc5_oI2tNFMik7QLj_WAyz",
+      "source": "GoodRx",
+      "read_more_link": "https://www.goodrx.com/losartan/common-side-effects?srsltid=AfmBOooQsk_a4JyIR8gvroUDiThcR4iGc3O3r_qPUXemp2rBUfxaFo0j#:~:text=Common%20losartan%20side%20effects%20include,gets%20used%20to%20the%20medication."
+    },
+    {
+      "position": 3,
+      "title": "Losartan Tablets",
+      "link": "https://my.clevelandclinic.org/health/drugs/20489-losartan-tablets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV5_rY-THPng1PS91EwDbAPnZmNSOwbWlboUH2CnVmxA-hkFUtt2VUjR0vZSSMKVAbed5b7O7Gu4pJCEfO-UynGN3ySq5ZK_apwRrBbvBZLBl3IZ_utph4rFv1FNYTTRI0MZYM0wbKKryydOAyfmcMkD7m2K6Q&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECC8QAQ&uoh=1",
+      "displayed_link": "https://my.clevelandclinic.org \u203a health \u203a drugs \u203a 20489...",
+      "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH4dphagCiASX-Fm7ckynuPFJbjKWKUBjC3iljgAAP6HHzR-_TSBGFqnI_ZlPOILnU912_XxcLWYnXgjtO2UWvM4dnC0pV7tzrIeL897H2zXQ4AwwVo4uDTsHodej0SkNnMZjvcQrKaXoFw4__E814MnFQ_OEwyb1z3Csh-td3GjOzO-v5sIJy1nIPW6Bfkx_CrfgDF-MNf1twuwT3pJ_j1fOczGHHyYt6nId4D1D_v4N_YjgvIAeao69eqkn1jwpqMtWY-tltfZXs2xB4OZlsjB0cqZUSWDnSj9sQZ5pv9vbXs-SYAAAA.webp",
+      "snippet": "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat \u00b7 High potassium level\u2014muscle weakness, fast or irregular heartbeat ...",
+      "snippet_highlighted_words": [
+        "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat \u00b7 High potassium level\u2014muscle weakness, fast or irregular heartbeat ...",
+          "source_info_link": "https://my.clevelandclinic.org/health/drugs/20489-losartan-tablets",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH4dphagCiASX-Fm7ckynuPFJbjKWKUBjC3iljgAAP6HHzR-_TSBGFqnI_ZlPOILnU912_XxcLWYnXgjtO2UWvM4dnC0pV7tzrIeL897H2zXQ4AwwVo4uDTsHodej0SkNnMZjvcQrKaXoFw4__E814MnFQ_OEwyb1z3Csh-td3GjOzO-v5sIJy1nIPW6Bfkx_CrfgDF-MNf1twuwT3pJ_j1fOczGHHyYt6nId4D1D_v4N_YjgvIAeao69eqkn1jwpqMtWY-tltfZXs2xB4OZlsjB0cqZUSWDnSj9sQZ5pv9vbXs-SYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESegHrOzAV5_rY-THPng1PS91EwDbAPnZmNSOwbWlboUH2CnVmxA-hkFUtt2VUjR0vZSSMKVAbed5b7O7Gu4pJCEfO-UynGN3ySq5ZK_apwRrBbvBZLBl3IZ_utph4rFv1FNYTTRI0MZYM0wbKKryydOAyfmcMkD7m2K6Q&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESegHrOzAV5_rY-THPng1PS91EwDbAPnZmNSOwbWlboUH2CnVmxA-hkFUtt2VUjR0vZSSMKVAbed5b7O7Gu4pJCEfO-UynGN3ySq5ZK_apwRrBbvBZLBl3IZ_utph4rFv1FNYTTRI0MZYM0wbKKryydOAyfmcMkD7m2K6Q",
+      "source": "Cleveland Clinic",
+      "read_more_link": "https://my.clevelandclinic.org/health/drugs/20489-losartan-tablets#:~:text=Allergic%20reactions%E2%80%94skin%20rash%2C%20itching%2C%20hives%2C,face%2C%20lips%2C%20tongue%2C%20or%20throat&text=High%20potassium%20level%E2%80%94muscle%20weakness%2C%20fast,or%20irregular%20heartbeat"
+    },
+    {
+      "position": 4,
+      "title": "Losartan",
+      "link": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/losartan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFR7UgYG-yWhr7O-qI7iSeGPUC6Yji2xJjnVOvcTLPawkaQFz5UmtygV5Tn2mp1QIi0YMVSSowTiq10r5x-hIL9CtqVGvq2u5Q4cQA-2DlzFaOX4o-c0HMhb8aBaSR7t7KunSV2P6td2Y9zkhKDpS0AE4gkxr94yPXYtS0qqPtuDghw&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.mskcc.org \u203a medications \u203a adult \u203a losartan",
+      "favicon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAADwBgCdASocABwAPtEutFooIagoGAEAGglpABFWvMGsDF2f8bzB5rG-ADATYqXiMDqw4sIdPetjlh4fntOTzAwAAP72E87mpmuNOL48y_BQIJcFUnSYZodiXwLe5vDnPAZwOrun4g5izlTLs1jtywOg7936_-okgs7l9K86XFwSd3CM3SXjx4o8vQ4pvNtUjTNgmulO6ErLXraMIueuO0DPqpsrD4tsptkkv-rYhbFjts-Zsm-VgydrwdeO3QCmzOizA_l5X3F37hpQN2ya9iKxGCZmJvJ9R8FztNRh2Q_lkid9-NmaLfPqOFUmS_S0KBRa2uSkR_jAxLC8buOzKP8q0KIvO0peXoCPQnRToCENbGL-QUe1eFM9s5JTo8Iagz19sTX3dBz0_FK2DkenKk-v5nx7I0JZv_Q-GyBHazTwdAdlN1Ojfhs9I_jbpj1UAAA.webp",
+      "snippet": "What are some other side effects of this drug? \u00b7 Signs of a common cold. \u00b7 Feeling dizzy, tired, or weak. \u00b7 Diarrhea. \u00b7 Back pain. \u00b7 Stuffy nose.",
+      "snippet_highlighted_words": [
+        "Signs of a common cold"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What are some other side effects of this drug? \u00b7 Signs of a common cold. \u00b7 Feeling dizzy, tired, or weak. \u00b7 Diarrhea. \u00b7 Back pain. \u00b7 Stuffy nose.",
+          "source_info_link": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/losartan",
+          "icon": "https://serpapi.com/images/i/UklGRlwBAABXRUJQVlA4IFABAADwBgCdASocABwAPtEutFooIagoGAEAGglpABFWvMGsDF2f8bzB5rG-ADATYqXiMDqw4sIdPetjlh4fntOTzAwAAP72E87mpmuNOL48y_BQIJcFUnSYZodiXwLe5vDnPAZwOrun4g5izlTLs1jtywOg7936_-okgs7l9K86XFwSd3CM3SXjx4o8vQ4pvNtUjTNgmulO6ErLXraMIueuO0DPqpsrD4tsptkkv-rYhbFjts-Zsm-VgydrwdeO3QCmzOizA_l5X3F37hpQN2ya9iKxGCZmJvJ9R8FztNRh2Q_lkid9-NmaLfPqOFUmS_S0KBRa2uSkR_jAxLC8buOzKP8q0KIvO0peXoCPQnRToCENbGL-QUe1eFM9s5JTo8Iagz19sTX3dBz0_FK2DkenKk-v5nx7I0JZv_Q-GyBHazTwdAdlN1Ojfhs9I_jbpj1UAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAEShgEB6zswFR7UgYG-yWhr7O-qI7iSeGPUC6Yji2xJjnVOvcTLPawkaQFz5UmtygV5Tn2mp1QIi0YMVSSowTiq10r5x-hIL9CtqVGvq2u5Q4cQA-2DlzFaOX4o-c0HMhb8aBaSR7t7KunSV2P6td2Y9zkhKDpS0AE4gkxr94yPXYtS0qqPtuDghw&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAEShgEB6zswFR7UgYG-yWhr7O-qI7iSeGPUC6Yji2xJjnVOvcTLPawkaQFz5UmtygV5Tn2mp1QIi0YMVSSowTiq10r5x-hIL9CtqVGvq2u5Q4cQA-2DlzFaOX4o-c0HMhb8aBaSR7t7KunSV2P6td2Y9zkhKDpS0AE4gkxr94yPXYtS0qqPtuDghw",
+      "source": "Memorial Sloan Kettering Cancer Center",
+      "read_more_link": "https://www.mskcc.org/cancer-care/patient-education/medications/adult/losartan#:~:text=What%20are%20some%20other%20side,effects%20of%20this%20drug%3F&text=Signs%20of%20a%20common%20cold.&text=Feeling%20dizzy%2C%20tired%2C%20or%20weak.&text=Diarrhea.&text=Back%20pain.&text=Stuffy%20nose."
+    },
+    {
+      "position": 5,
+      "title": "Losartan: medicine for high blood pressure",
+      "link": "https://www.nhs.uk/medicines/losartan/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVEBDwom4SkTKg_rP_hHi8NZbvXIBMPAZH8Oq4O25ow-8Ebzd_wxVMmWABWTKIPIWns-F5H89gvlLY93yz2YdEVhDypw5ta3BgKHRpebq723dZZfcAQ0wld-U&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://www.nhs.uk \u203a medicines \u203a losartan",
+      "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAAAwBwCdASocABwAPtEwtFooIigoGAEAGglsAEuBQgNsBuAN4A3lKuAK3fzuPPIwNbESTuKdHKKcP1nzqewEazV4YwAA_vYBc7l7m3CaaBZhSdiZyQRkAVo7cvwXLfCMNGIouhORfM0VEhuTfFMPG17L-YpuV-7Vz9qPjaVP_Q2CD-i3LRQ3-ypVW2e-vbQE_iuK_n6a-Q0Esr3nJevt-kbfn-WYhV51frbuzcCB9CWD_DXKPvAE4CCIzVxA6RhAmP-MlSfLNPmYJLfL-p40eTYbHG8mv5uh98PR5sTrCbX8189aRbOYg1Vj3keAQ3XY-kCkWkSXRltdk557NothhwSGCdMGHNnEwmhVxMlv0SHqin-1SmROZ9YY8I1fCVDzKr1hHLy85T8YOSA9ZHzmOwkHGR9ioaycEYVkAA.webp",
+      "snippet": "Common side effects \u00b7 dizziness \u00b7 tiredness \u00b7 headache \u00b7 tummy pain \u00b7 feeling sick (nausea) or being sick (vomiting) \u00b7 swelling in your legs, ankles or feet (oedema).",
+      "snippet_highlighted_words": [
+        "dizziness"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common side effects \u00b7 dizziness \u00b7 tiredness \u00b7 headache \u00b7 tummy pain \u00b7 feeling sick (nausea) or being sick (vomiting) \u00b7 swelling in your legs, ankles or feet (oedema).",
+          "source_info_link": "https://www.nhs.uk/medicines/losartan/",
+          "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAAAwBwCdASocABwAPtEwtFooIigoGAEAGglsAEuBQgNsBuAN4A3lKuAK3fzuPPIwNbESTuKdHKKcP1nzqewEazV4YwAA_vYBc7l7m3CaaBZhSdiZyQRkAVo7cvwXLfCMNGIouhORfM0VEhuTfFMPG17L-YpuV-7Vz9qPjaVP_Q2CD-i3LRQ3-ypVW2e-vbQE_iuK_n6a-Q0Esr3nJevt-kbfn-WYhV51frbuzcCB9CWD_DXKPvAE4CCIzVxA6RhAmP-MlSfLNPmYJLfL-p40eTYbHG8mv5uh98PR5sTrCbX8189aRbOYg1Vj3keAQ3XY-kCkWkSXRltdk557NothhwSGCdMGHNnEwmhVxMlv0SHqin-1SmROZ9YY8I1fCVDzKr1hHLy85T8YOSA9ZHzmOwkHGR9ioaycEYVkAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESXgHrOzAVEBDwom4SkTKg_rP_hHi8NZbvXIBMPAZH8Oq4O25ow-8Ebzd_wxVMmWABWTKIPIWns-F5H89gvlLY93yz2YdEVhDypw5ta3BgKHRpebq723dZZfcAQ0wld-U&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESXgHrOzAVEBDwom4SkTKg_rP_hHi8NZbvXIBMPAZH8Oq4O25ow-8Ebzd_wxVMmWABWTKIPIWns-F5H89gvlLY93yz2YdEVhDypw5ta3BgKHRpebq723dZZfcAQ0wld-U",
+      "source": "nhs.uk",
+      "read_more_link": "https://www.nhs.uk/medicines/losartan/#:~:text=Common%20side%20effects&text=dizziness&text=tiredness&text=headache&text=tummy%20pain&text=feeling%20sick%20(nausea)%20or%20being,sick%20(vomiting)&text=swelling%20in%20your%20legs%2C%20ankles,or%20feet%20(oedema)"
+    },
+    {
+      "position": 6,
+      "title": "Losartan Side Effects? Why Your Body is Reacting ... - Ubie",
+      "link": "https://ubiehealth.com/doctors-note/losartan-side-effects-body-reacting-steps-57-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFdP04pbRtXetyd-iJE36UEDo86wEvOD3DzO_uPGYefDdCuGFQJc2Ya4TlYKrkDMdTFCNCO90dl6dZgp1jBN79FtmdKtqN6bYQbrLDMd_v1O-JXD0fU3qOUpNvr_MvFwg6YBCi4N1LXH1M57Rg7s7QxLL01o0XRxDyY8RR5se2EY9Zb007BQNi3c_&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://ubiehealth.com \u203a doctors-note \u203a losartan-side-ef...",
+      "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAADQBACdASocABwAPtE-tFooIigoFAEAGglsAMoB3At4I42jAF4UqS1nvWys5yyYAAD-9gL3D3qqMuIkeYoKR1g4deI7OlxljnoumjS7oT2YWh7rRqVWzsLz-Ey07YUQ5MF27m8lZTnuPPvVTMltOm5L2wGG7faQ1ItkAiW7A57quoMDbuPqwIPCAC6NpbByoQPcWvmAv-1JacvDwlB5dhxZ7tL99P_8yAU61eGvRsZIgtP0yD_Cl_ZrH1yOJmhHZY4RV35oQ8KNjW23NHvB_g2PO--YO43SPBsx2YwwCYGAAA.webp",
+      "date": "Mar 2, 2026",
+      "snippet": "Losartan side effects range from common dizziness or lightheadedness, fatigue, nasal congestion, mild stomach upset, and back pain to less ...",
+      "snippet_highlighted_words": [
+        "Losartan side effects"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Losartan side effects range from common dizziness or lightheadedness, fatigue, nasal congestion, mild stomach upset, and back pain to less ...",
+          "source_info_link": "https://ubiehealth.com/doctors-note/losartan-side-effects-body-reacting-steps-57-guide",
+          "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAADQBACdASocABwAPtE-tFooIigoFAEAGglsAMoB3At4I42jAF4UqS1nvWys5yyYAAD-9gL3D3qqMuIkeYoKR1g4deI7OlxljnoumjS7oT2YWh7rRqVWzsLz-Ey07YUQ5MF27m8lZTnuPPvVTMltOm5L2wGG7faQ1ItkAiW7A57quoMDbuPqwIPCAC6NpbByoQPcWvmAv-1JacvDwlB5dhxZ7tL99P_8yAU61eGvRsZIgtP0yD_Cl_ZrH1yOJmhHZY4RV35oQ8KNjW23NHvB_g2PO--YO43SPBsx2YwwCYGAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESjgEB6zswFdP04pbRtXetyd-iJE36UEDo86wEvOD3DzO_uPGYefDdCuGFQJc2Ya4TlYKrkDMdTFCNCO90dl6dZgp1jBN79FtmdKtqN6bYQbrLDMd_v1O-JXD0fU3qOUpNvr_MvFwg6YBCi4N1LXH1M57Rg7s7QxLL01o0XRxDyY8RR5se2EY9Zb007BQNi3c_&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESjgEB6zswFdP04pbRtXetyd-iJE36UEDo86wEvOD3DzO_uPGYefDdCuGFQJc2Ya4TlYKrkDMdTFCNCO90dl6dZgp1jBN79FtmdKtqN6bYQbrLDMd_v1O-JXD0fU3qOUpNvr_MvFwg6YBCi4N1LXH1M57Rg7s7QxLL01o0XRxDyY8RR5se2EY9Zb007BQNi3c_",
+      "source": "ubiehealth.com",
+      "read_more_link": "https://ubiehealth.com/doctors-note/losartan-side-effects-body-reacting-steps-57-guide#:~:text=Losartan%20side%20effects%20range%20from,and%20back%20pain%20to%20less"
+    },
+    {
+      "position": 7,
+      "title": "Uses and side effects of losartan",
+      "link": "https://www.poison.org/articles/losartan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVZxFAQbGh6dt-PmEFKOE60acR0oWoBsSHfd7n-wcAIux_AIUfLu68HAvashDSkfOJgOMAF-Tz6GSwtkFWFOzDwxPuc3wZ5ow5KX4j9-8gmHnJsnK5mC_dVnFX4A&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://www.poison.org \u203a articles \u203a losartan",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEX1TT31TT31Oyb____1TDv93tz1RjX8ycX2XU_3d2380M3-7Or5o51Nk0MGAAAAAXRSTlNay1hgjAAAAK5JREFUKJF10tEShCAIBVADg9T-_3sX1BKwvS8-nJFBJKXjb9JuGSQ0dKPCrXGBvGOGij2smoKdiI8GNIZYyKEzvZr-GTaLwRxGs2U3Mw2pHWytvk9RuwiMnu8QhsnBzjpOkzw6THFZnnenKcqsh_UivEyQyrIj07VMEKp2PeNMsd30bR6DKfJTNpptaLP-FMYLiKBEG0NgrPd9yqy9zfHpOtYSbf4K6SJH-lz5ZT_MCAeXqhNfMgAAAABJRU5ErkJggg.png",
+      "author": "by B Age",
+      "snippet": "Common side effects are nausea, vomiting, constipation, dry mouth, sweating, headache, tiredness, drowsiness, and dizziness. It can also cause seizures and ...",
+      "snippet_highlighted_words": [
+        "side effects"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common side effects are nausea, vomiting, constipation, dry mouth, sweating, headache, tiredness, drowsiness, and dizziness. It can also cause seizures and ...",
+          "source_info_link": "https://www.poison.org/articles/losartan",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJ1BMVEX1TT31TT31Oyb____1TDv93tz1RjX8ycX2XU_3d2380M3-7Or5o51Nk0MGAAAAAXRSTlNay1hgjAAAAK5JREFUKJF10tEShCAIBVADg9T-_3sX1BKwvS8-nJFBJKXjb9JuGSQ0dKPCrXGBvGOGij2smoKdiI8GNIZYyKEzvZr-GTaLwRxGs2U3Mw2pHWytvk9RuwiMnu8QhsnBzjpOkzw6THFZnnenKcqsh_UivEyQyrIj07VMEKp2PeNMsd30bR6DKfJTNpptaLP-FMYLiKBEG0NgrPd9yqy9zfHpOtYSbf4K6SJH-lz5ZT_MCAeXqhNfMgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYAHrOzAVZxFAQbGh6dt-PmEFKOE60acR0oWoBsSHfd7n-wcAIux_AIUfLu68HAvashDSkfOJgOMAF-Tz6GSwtkFWFOzDwxPuc3wZ5ow5KX4j9-8gmHnJsnK5mC_dVnFX4A&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYAHrOzAVZxFAQbGh6dt-PmEFKOE60acR0oWoBsSHfd7n-wcAIux_AIUfLu68HAvashDSkfOJgOMAF-Tz6GSwtkFWFOzDwxPuc3wZ5ow5KX4j9-8gmHnJsnK5mC_dVnFX4A",
+      "source": "Poison Control",
+      "read_more_link": "https://www.poison.org/articles/losartan#:~:text=Common%20side%20effects%20are%20nausea%2C,cause%20seizures%20and%20serotonin%20syndrome."
+    },
+    {
+      "position": 8,
+      "title": "Losartan Side Effects (& Why They Occur)",
+      "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8",
+      "displayed_link": "624.5K+ views \u00b7 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGmMyINMlldx6IPdGQq7LoanIsmdF55pX-p-1bLQip-7JvEwNu0IEIgA&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "I was on losartan for 10 years. I didn't notice side effects, but I started exercising more, lost weight, and I didn't need it anymore. Doctors ...",
+      "duration": "9:13",
+      "key_moments": [
+        {
+          "time": "00:33",
+          "title": "Mechanism of Action of Lowartin",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=33"
+        },
+        {
+          "time": "02:03",
+          "title": "Common Side Effects of Low Certain",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=123"
+        },
+        {
+          "time": "02:07",
+          "title": "Fatigue",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=127"
+        },
+        {
+          "time": "03:23",
+          "title": "Reason for the Anemia",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=203"
+        },
+        {
+          "time": "04:36",
+          "title": "Anemia and Hypoglycemia",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=276"
+        },
+        {
+          "time": "05:12",
+          "title": "Symptoms of a Urinary Tract Infection",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=312"
+        },
+        {
+          "time": "05:51",
+          "title": "Diarrhea",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=351"
+        },
+        {
+          "time": "06:55",
+          "title": "Hypotension",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=415"
+        },
+        {
+          "time": "07:31",
+          "title": "Dizziness",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=451"
+        },
+        {
+          "time": "08:38",
+          "title": "Chest Pain",
+          "link": "https://www.youtube.com/watch?v=YOfdyhJO9r8&t=518"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I was on losartan for 10 years. I didn't notice side effects, but I started exercising more, lost weight, and I didn't need it anymore. Doctors ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVXMvrGnVrYIRPSB4vXZdrEh7MVR2gyE_QuKugnSRp8Ein_ICv4lpZPImCLeYmRZLJpJbFU8PTXmshcpP4d3W0ibe1JXFpiVrjEniU1RQUGHCzfPMAIZX1lG6f0aNX2A&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVXMvrGnVrYIRPSB4vXZdrEh7MVR2gyE_QuKugnSRp8Ein_ICv4lpZPImCLeYmRZLJpJbFU8PTXmshcpP4d3W0ibe1JXFpiVrjEniU1RQUGHCzfPMAIZX1lG6f0aNX2A",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQwD8ulkMQ9KGBN5IFk0lvKX2egfn1AUBoizw",
+      "source": "YouTube \u00b7 JJ Medicine"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Losartan 25 mg",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=Losartan+25+mg&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Losartan+25+mg"
+    },
+    {
+      "block_position": 1,
+      "query": "Losartan side effects in Females",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=Losartan+side+effects+in+Females&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Losartan+side+effects+in+Females"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the long term side effects of losartan",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=What+are+the+long+term+side+effects+of+losartan&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+are+the+long+term+side+effects+of+losartan"
+    },
+    {
+      "block_position": 1,
+      "query": "Losartan side effects in men",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=Losartan+side+effects+in+men&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Losartan+side+effects+in+men"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the worst side effects of losartan",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=What+are+the+worst+side+effects+of+losartan&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+are+the+worst+side+effects+of+losartan"
+    },
+    {
+      "block_position": 1,
+      "query": "Losartan is killing me",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=Losartan+is+killing+me&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Losartan+is+killing+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Losartan side effects in elderly",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=Losartan+side+effects+in+elderly&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Losartan+side+effects+in+elderly"
+    },
+    {
+      "block_position": 1,
+      "query": "Losartan 50 mg side effects",
+      "link": "https://www.google.com/search?sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&q=Losartan+50+mg+side+effects&sa=X&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Losartan+50+mg+side+effects"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Medication side effects",
+      "link": "https://connect.mayoclinic.org/discussion/medication-side-effects-1/",
+      "date": "1 year ago",
+      "source": "Mayo Clinic Connect",
+      "answers": [
+        {
+          "link": "https://connect.mayoclinic.org/discussion/medication-side-effects-1/"
+        }
+      ]
+    },
+    {
+      "title": "Has anyone experienced fatigue after taking losartan for years?",
+      "link": "https://connect.mayoclinic.org/discussion/has-anyone-experienced-fatigue-after-taking-losartan-for-years/",
+      "date": "2 years ago",
+      "source": "Mayo Clinic Connect",
+      "answers": [
+        {
+          "link": "https://connect.mayoclinic.org/discussion/has-anyone-experienced-fatigue-after-taking-losartan-for-years/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=10&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8NMDegQIMhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=10&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAE",
+      "3": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=20&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAG",
+      "4": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=30&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAI",
+      "5": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=40&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAK",
+      "6": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=50&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAM",
+      "7": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=60&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAO",
+      "8": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=70&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAQ",
+      "9": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=80&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAS",
+      "10": "https://www.google.com/search?q=losartan+side+effects&sca_esv=d05431fbb69307f7&gl=us&hl=en&sxsrf=APpeQntdPgDjQQq3f0uqc3wefoD0EjhOAQ:1789231283172&ei=s4Clas2WCvi5ruEPs82CuAg&start=90&sa=N&sstk=AS6-VmKATiaWWzChENRqeoV29zct2yEu8MsNxqVPG-nDZF9-IhImkv4uc8UnuVov7gx0I7HaoJQPUIntI3lKB64BuUYBB2nBBc-Xwg&ved=2ahUKEwiNvLf4vemWAxX4nCsGHbOmAIcQ8tMDegQIMhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=losartan+side+effects&start=90"
+    }
+  }
+}
