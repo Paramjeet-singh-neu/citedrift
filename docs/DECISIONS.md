@@ -70,3 +70,5 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-13 | Report intro: YouTube line is "13 of those 68 appear in the top three." Stability is 15 of 16 short-interval pairs identical (33–47 min); long-interval movement described per query class. Replaced because prior copy contradicted the pair table (t2d_diagnosis 0.4000 at 35.7 min; htn_symptoms 0.2500 at 784.9 min). | Write 19.1%; keep prior stability paragraph | n
 
+2026-09-13 | Intro lead is "Four things stand out". Limitations "One day" replaced by derived "N calendar dates, hours, runs" plus derived clinician n (queries, complete observations, top-three). Section 6 adds human-authored Jardiance/Opsumit sentence. | Drop the stand-out sentence; hardcode 23.2 / 5 | y
+

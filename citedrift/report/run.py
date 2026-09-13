@@ -147,7 +147,7 @@ INTRO_LEAD = (
     "This measures which sources Google's AI Overview cites when someone searches a health question, and whether that set of sources stays the same when you ask again."
 )
 INTRO_TAIL = (
-    "Three things stand out in the data so far.",
+    "Four things stand out in the data so far.",
     "AI Overviews appeared on 59 of 60 attempts. The single genuine absence was on a clinician-phrased query; one further record is a collector-side network timeout, logged separately rather than counted as an absence.",
     "What gets cited first depends on how the question is phrased. Across the top three cited positions, academic sources were 37.5% of citations on clinician-phrased queries and 0 of 150 on patient-phrased ones — academic sources do appear in patient results, 10 times across all positions, but never near the top. Health-system sites were the reverse: 30% of patient top-three citations, and absent from clinician-phrased results at any position. The two phrasings also arrived through different delivery paths, with patient observations returning the AI Overview inline and clinician observations requiring a second fetch.",
     "Being cited and being cited first are different things. YouTube was the most-cited domain in the sample at 68 citations — ahead of Mayo Clinic at 38 and NIH at 33 — but 13 of those 68 appear in the top three. Professional medical societies were cited 15 times and never once in the top three positions of either audience.",
@@ -729,6 +729,7 @@ def section_manufacturer(metrics: dict[str, Any]) -> str:
     return "\n".join(
         [
             "<h2>6. Manufacturer presence on branded queries</h2>",
+            "<p>Jardiance's manufacturer domain appeared in four runs and disappeared in the fifth, while Opsumit's held at 3 in all five. A brand's presence in its own branded AI Overview isn't stable.</p>",
             table(
                 [
                     ("query_id", False),
@@ -757,11 +758,53 @@ def section_manufacturer(metrics: dict[str, Any]) -> str:
     )
 
 
+def _calendar_dates_phrase(n_dates: int) -> str:
+    if n_dates == 1:
+        return "One calendar date"
+    if n_dates == 2:
+        return "Two calendar dates"
+    return f"{n_dates} calendar dates"
+
+
+def limitation_window_line(metrics: dict[str, Any]) -> str:
+    times, runs = collect_times_and_runs(metrics)
+    parsed = [parse_z(t) for t in times]
+    n_runs = len(runs)
+    n_dates = len({dt.date() for dt in parsed})
+    hours = 0.0
+    if parsed:
+        hours = (max(parsed) - min(parsed)).total_seconds() / 3600.0
+    run_word = "run" if n_runs == 1 else "runs"
+    return f"{_calendar_dates_phrase(n_dates)}, {hours:.1f} hours, {n_runs} {run_word}"
+
+
+def clinician_limitation_line(
+    metrics: dict[str, Any],
+    queries: list[dict[str, Any]],
+) -> str:
+    n_q = sum(1 for q in queries if str(q.get("audience") or "") == "hcp")
+    n_complete = int(
+        metrics.get("delivery_mode", {}).get("by_audience", {}).get("hcp", {}).get("n") or 0
+    )
+    n_top = int(
+        metrics.get("authority_composition", {})
+        .get("positions_0_2", {})
+        .get("by_audience", {})
+        .get("hcp", {})
+        .get("n")
+        or 0
+    )
+    return (
+        f"Clinician-phrased findings rest on {n_q} queries, "
+        f"{n_complete} complete observations, {n_top} top-three citations"
+    )
+
+
 def section_limitations(
     metrics: dict[str, Any],
+    queries: list[dict[str, Any]],
     cron: str | None,
     n_runs: int,
-    date_span: str,
 ) -> str:
     cron_text = cron if cron is not None else "(not found in workflow file)"
     return "\n".join(
@@ -772,7 +815,8 @@ def section_limitations(
             f"<li>Single locale (configuration): location=<code>{esc(LOCATION)}</code>, "
             f"hl=<code>{esc(HL)}</code>, gl=<code>{esc(GL)}</code>.</li>",
             "<li>Single engine (configuration): Google, via the collector adapter.</li>",
-            f"<li>One day: {esc(date_span)}.</li>",
+            f"<li>{esc(limitation_window_line(metrics))}.</li>",
+            f"<li>{esc(clinician_limitation_line(metrics, queries))}.</li>",
             f"<li>Cadence (configuration): cron <code>{esc(cron_text)}</code> UTC.</li>",
             "</ul>",
         ]
@@ -793,13 +837,6 @@ def render_html(
     ]
     query_ids = query_ids + extra
     times, runs = collect_times_and_runs(metrics)
-    parsed = [parse_z(t) for t in times]
-    if parsed:
-        dmin = min(parsed).strftime("%Y-%m-%d")
-        dmax = max(parsed).strftime("%Y-%m-%d")
-        date_span = dmin if dmin == dmax else f"{dmin} to {dmax}"
-    else:
-        date_span = "not available in metrics.json"
     body = "\n".join(
         [
             "<h1>CiteDrift</h1>",
@@ -812,7 +849,7 @@ def render_html(
             section_audience(metrics),
             section_stability(metrics, query_ids, meta),
             section_manufacturer(metrics),
-            section_limitations(metrics, cron, len(runs), date_span),
+            section_limitations(metrics, queries, cron, len(runs)),
         ]
     )
     return (

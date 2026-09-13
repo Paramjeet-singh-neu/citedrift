@@ -7,7 +7,13 @@ import unittest
 from pathlib import Path
 
 from citedrift.collect.serpapi import GL, HL, LOCATION
-from citedrift.report.run import cadence_cron, render_html, report_all
+from citedrift.report.run import (
+    cadence_cron,
+    clinician_limitation_line,
+    limitation_window_line,
+    render_html,
+    report_all,
+)
 from citedrift.report.svg import stacked_percent
 
 
@@ -84,7 +90,16 @@ class ReportHtmlTests(unittest.TestCase):
         self.assertIn("source_class by audience", html)
         self.assertEqual(html.count("jaccard url_canonical"), 1)
         self.assertEqual(html.count("rbo url_canonical"), 1)
-        self.assertIn("Three things stand out in the data so far.", html)
+        self.assertIn("Four things stand out in the data so far.", html)
+        self.assertNotIn("Three things stand out in the data so far.", html)
+        self.assertNotIn("One day:", html)
+        queries = json.loads(QUERIES.read_text(encoding="utf-8"))
+        self.assertIn(limitation_window_line(metrics), html)
+        self.assertIn(clinician_limitation_line(metrics, queries), html)
+        self.assertIn(
+            "Jardiance's manufacturer domain appeared in four runs and disappeared in the fifth",
+            html,
+        )
         self.assertIn("59 of 60 attempts", html)
         self.assertIn("13 of those 68 appear in the top three", html)
         self.assertIn("15 of 16 pairs sampled 33–47 minutes apart", html)
