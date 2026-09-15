@@ -148,10 +148,10 @@ INTRO_LEAD = (
 )
 INTRO_TAIL = (
     "Four things stand out in the data so far.",
-    "AI Overviews appeared on 59 of 60 attempts. The single genuine absence was on a clinician-phrased query; one further record is a collector-side network timeout, logged separately rather than counted as an absence.",
-    "What gets cited first depends on how the question is phrased. Across the top three cited positions, academic sources were 37.5% of citations on clinician-phrased queries and 0 of 150 on patient-phrased ones — academic sources do appear in patient results, 10 times across all positions, but never near the top. Health-system sites were the reverse: 30% of patient top-three citations, and absent from clinician-phrased results at any position. The two phrasings also arrived through different delivery paths, with patient observations returning the AI Overview inline and clinician observations requiring a second fetch.",
-    "Being cited and being cited first are different things. YouTube was the most-cited domain in the sample at 68 citations — ahead of Mayo Clinic at 38 and NIH at 33 — but 13 of those 68 appear in the top three. Professional medical societies were cited 15 times and never once in the top three positions of either audience.",
-    "Within short intervals, citation sets were almost always identical: 15 of 16 pairs sampled 33–47 minutes apart matched exactly. Across intervals of 8–22 hours, they moved, and unevenly. The two clinician-phrased queries degraded most — one fell from 0.33 to 0.09 Jaccard across successive comparisons, ending with one shared citation in eleven. Branded queries for type 2 diabetes and hypertension moved substantially. Treatment queries and both pulmonary arterial hypertension queries were unchanged across every pair in the sample.",
+    "AI Overviews appeared on 83 of 84 attempts. The single genuine absence was on a clinician-phrased query; one further record is a collector-side network timeout, logged separately rather than counted as an absence.",
+    "What gets cited first depends on how the question is phrased. Across the top three cited positions, academic sources were 33.3% of citations on clinician-phrased queries and 0 of 210 on patient-phrased ones — academic sources do appear in patient results, 12 times across all positions, but never near the top. Health-system sites were the reverse: 29.5% of patient top-three citations, and none of the 36 clinician top-three citations, though they appear twice at lower positions. The two phrasings also arrived through different delivery paths, with patient observations returning the AI Overview inline and clinician observations requiring a second fetch.",
+    "Being cited and being cited first are different things. YouTube was the most-cited domain in the sample at 98 citations — ahead of Mayo Clinic at 55 and NIH at 45 — but 17 of those 98 appear in the top three. Professional medical societies were cited 19 times and never once in the top three positions of either audience.",
+    "Within short intervals of 34–47 minutes, 15 of 18 pairs matched exactly. The three exceptions were one patient diagnosis query and both pairs from one clinician-phrased query. Across longer gaps — 8 to 41 hours — citation sets moved, and unevenly. The two clinician-phrased queries never matched on any pair, at any interval, falling as low as 0.07 Jaccard. Branded queries moved on most long-interval pairs across all three drugs. Three queries were unchanged across all six of their pairs: both treatment queries and the pulmonary arterial hypertension symptoms query.",
     "Source categories are a judgment call. The full mapping is in config/source_classes.json and open to disagreement.",
 )
 
@@ -729,7 +729,7 @@ def section_manufacturer(metrics: dict[str, Any]) -> str:
     return "\n".join(
         [
             "<h2>6. Manufacturer presence on branded queries</h2>",
-            "<p>Jardiance's manufacturer domain appeared in four runs and disappeared in the fifth, while Opsumit's held at 3 in all five. A brand's presence in its own branded AI Overview isn't stable.</p>",
+            "<p>Manufacturer presence on branded queries varied by product. On the Jardiance query, boehringer-ingelheim.com appeared in six of seven runs, at counts between zero and three; jardiance.com was never cited. On the Opsumit query, opsumit.com and opsumithcp.com appeared in all seven, stepping from three citations to two. The losartan query — a generic with no brand owner marketing it — drew zero manufacturer citations in any run.</p>",
             table(
                 [
                     ("query_id", False),

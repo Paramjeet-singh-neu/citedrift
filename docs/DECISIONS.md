@@ -72,3 +72,9 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-13 | Intro lead is "Four things stand out". Limitations "One day" replaced by derived "N calendar dates, hours, runs" plus derived clinician n (queries, complete observations, top-three). Section 6 adds human-authored Jardiance/Opsumit sentence. | Drop the stand-out sentence; hardcode 23.2 / 5 | y
 
+2026-09-15 | Report intro stability is 15 of 18 pairs at 34–47 min (bound 34.0–47.3 excludes 33.6–33.7 and t2d_hcp 81.8). Section 6 manufacturer copy is 7-run Jardiance/Opsumit/losartan. | Keep 5-run manufacturer sentence | n
+
+2026-09-15 | Intro remaining 5-run sentences replaced with 7-run counts: 83 of 84 presence; academic 33.3% / 0 of 210 / 12 patient all-positions; health-system 29.5% patient top-three and none of 36 clinician top-three (twice at lower positions); YouTube 98 / 17 top-three, Mayo 55, NIH 45, societies 19. Short-interval exceptions wording is one diagnosis query plus both pairs from one clinician query. | Leave Mayo/NIH at 38/33; keep health-system “absent at any position” | n
+
+2026-09-15 | Human classified 4 domains: `diabetes.org.uk` advocacy, `medicinenet.com` and `news-medical.net` consumer_health, `uspharmacist.com` clinical_reference. | Leave unclassified | n
+
