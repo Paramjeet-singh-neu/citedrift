@@ -78,3 +78,5 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-15 | Human classified 4 domains: `diabetes.org.uk` advocacy, `medicinenet.com` and `news-medical.net` consumer_health, `uspharmacist.com` clinical_reference. | Leave unclassified | n
 
+2026-09-15 | Intro: “were the reverse” → “ran the other way” (health-system is not a mirror of academic). Clinician Jaccard floor written 0.067 (table 0.0667), not 0.07. README and portfolio snapshot `citedrift.html` brought to the 7-run copy. Checking intro against tables in this round caught the reverse, the rounding, two stale published copies, and the false “both PAH queries unchanged.” | Keep 0.07; keep “the reverse” | n
+

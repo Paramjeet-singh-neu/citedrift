@@ -13,36 +13,46 @@ diagnosis, treatment, branded) and two audiences (patient-phrased and
 clinician-phrased). Collected daily via GitHub Actions, one locale
 (Austin, TX), Google only.
 
-Current sample: 5 runs, 454 citations, 12–13 September 2026, spanning
-23.2 hours.
+Current sample: 7 runs, 630 citations, 12–15 September 2026, spanning
+87.6 hours.
 
 ## What it found so far
 
-**AI Overviews appeared on 59 of 60 attempts.** One genuine absence,
+**AI Overviews appeared on 83 of 84 attempts.** One genuine absence,
 on a clinician-phrased query. One further record is a collector-side
 network timeout, logged separately rather than counted as an absence.
-Patient-phrased queries were complete on all 50 attempts; clinician-
-phrased queries on 8 of 10.
+Patient-phrased queries were complete on all 70 attempts; clinician-
+phrased queries on 12 of 14.
 
 **What gets cited first depends on how the question is phrased.**
-Across the top three cited positions, academic sources were 37.5% of
-citations on clinician-phrased queries and 0 of 150 on patient-phrased
+Across the top three cited positions, academic sources were 33.3% of
+citations on clinician-phrased queries and 0 of 210 on patient-phrased
 ones. Academic sources are not absent from patient results — they
-appear 10 times across all positions — but never near the top.
-Health-system sites were the reverse: 30% of patient top-three
-citations, and absent from clinician-phrased results at any position.
+appear 12 times across all positions — but never near the top.
+Health-system sites ran the other way: 29.5% of patient top-three
+citations, and none of the 36 clinician top-three citations, though
+they appear twice at lower positions.
 
 **Being cited and being cited first are different things.** YouTube
-was the most-cited domain at 68 citations, ahead of Mayo Clinic (38)
-and NIH (33), but a minority land in the top three. Professional
-medical societies were cited 15 times and never once in the top three.
+was the most-cited domain at 98 citations, ahead of Mayo Clinic (55)
+and NIH (45), but 17 of those 98 appear in the top three. Professional
+medical societies were cited 19 times and never once in the top three.
+
+**Citation sets were stable at short intervals and moved over hours.**
+Within short intervals of 34–47 minutes, 15 of 18 pairs matched
+exactly. The three exceptions were one patient diagnosis query and
+both pairs from one clinician-phrased query. The two clinician-phrased
+queries never matched on any pair, at any interval, falling as low as
+0.067 Jaccard. Three queries were unchanged across all six of their
+pairs: both treatment queries and the pulmonary arterial hypertension
+symptoms query.
 
 ## Limitations
 
-- 3 runs over 1.4 hours. Not enough to characterise change over time.
-- The clinician-phrased findings rest on 2 queries, 3 run-pairs, and
-  15 top-three citations.
-- 3 conditions, one locale, one engine, one day.
+- 7 runs over 87.6 hours. Not enough to characterise change over time.
+- The clinician-phrased findings rest on 2 queries, 12 complete
+  observations, and 36 top-three citations.
+- 3 conditions, one locale, one engine, four calendar dates.
 - Source categories are a judgment call. The full mapping is in
   `config/source_classes.json` and open to disagreement.
 
