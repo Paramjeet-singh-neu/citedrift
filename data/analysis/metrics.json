@@ -1,104 +1,104 @@
 {
-  "n_manifest_rows": 84,
-  "n_citations": 630,
-  "n_answers": 82,
+  "n_manifest_rows": 96,
+  "n_citations": 705,
+  "n_answers": 93,
   "aio_presence": {
     "by_query": {
       "t2d_symptoms": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "t2d_diagnosis": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "t2d_treatment": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "t2d_branded": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "t2d_hcp": {
-        "runs_attempted": 7,
+        "runs_attempted": 8,
         "runs_with_complete_aio": 6,
         "runs_failed_fetch": 1,
-        "runs_genuine_absence": 0,
-        "presence_rate": 0.8571428571428571,
-        "n": 7
+        "runs_genuine_absence": 1,
+        "presence_rate": 0.75,
+        "n": 8
       },
       "htn_symptoms": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "htn_diagnosis": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "htn_treatment": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "htn_branded": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "htn_hcp": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 6,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 7,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 1,
-        "presence_rate": 0.8571428571428571,
-        "n": 7
+        "presence_rate": 0.875,
+        "n": 8
       },
       "pah_symptoms": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       },
       "pah_branded": {
-        "runs_attempted": 7,
-        "runs_with_complete_aio": 7,
+        "runs_attempted": 8,
+        "runs_with_complete_aio": 8,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 7
+        "n": 8
       }
     },
     "n_queries": 12
@@ -106,90 +106,90 @@
   "delivery_mode": {
     "by_query": {
       "t2d_symptoms": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "t2d_diagnosis": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "t2d_treatment": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "t2d_branded": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "t2d_hcp": {
         "inline": 0,
         "expanded": 6,
-        "none": 1,
-        "n": 7
+        "none": 2,
+        "n": 8
       },
       "htn_symptoms": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "htn_diagnosis": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "htn_treatment": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "htn_branded": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "htn_hcp": {
         "inline": 0,
-        "expanded": 6,
+        "expanded": 7,
         "none": 1,
-        "n": 7
+        "n": 8
       },
       "pah_symptoms": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       },
       "pah_branded": {
-        "inline": 7,
+        "inline": 8,
         "expanded": 0,
         "none": 0,
-        "n": 7
+        "n": 8
       }
     },
     "by_audience": {
       "patient": {
-        "inline": 70,
+        "inline": 80,
         "expanded": 0,
         "none": 0,
-        "n": 70
+        "n": 80
       },
       "hcp": {
         "inline": 0,
-        "expanded": 12,
+        "expanded": 13,
         "none": 0,
-        "n": 12
+        "n": 13
       }
     }
   },
@@ -251,9 +251,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:19Z",
+              "fetched_at_b": "2026-09-16T17:52:15Z",
+              "jaccard": 0.5,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -261,7 +270,8 @@
             1.0,
             0.45454545454545453,
             1.0,
-            1.0
+            1.0,
+            0.5
           ]
         },
         "t2d_diagnosis": {
@@ -319,9 +329,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:21Z",
+              "fetched_at_b": "2026-09-16T17:52:16Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -329,6 +348,7 @@
             1.0,
             1.0,
             0.3333333333333333,
+            1.0,
             1.0
           ]
         },
@@ -387,9 +407,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:33Z",
+              "fetched_at_b": "2026-09-16T17:52:17Z",
+              "jaccard": 0.1875,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -397,7 +426,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.1875
           ]
         },
         "t2d_branded": {
@@ -455,9 +485,18 @@
               "jaccard": 0.4166666666666667,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:35Z",
+              "fetched_at_b": "2026-09-16T17:52:18Z",
+              "jaccard": 0.5454545454545454,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -465,7 +504,8 @@
             0.2857142857142857,
             0.26666666666666666,
             0.6,
-            0.4166666666666667
+            0.4166666666666667,
+            0.5454545454545454
           ]
         },
         "t2d_hcp": {
@@ -581,9 +621,18 @@
               "jaccard": 0.3333333333333333,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:56Z",
+              "fetched_at_b": "2026-09-16T17:53:05Z",
+              "jaccard": 0.2222222222222222,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -591,7 +640,8 @@
             0.25,
             1.0,
             0.6363636363636364,
-            0.3333333333333333
+            0.3333333333333333,
+            0.2222222222222222
           ]
         },
         "htn_diagnosis": {
@@ -649,9 +699,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:04Z",
+              "fetched_at_b": "2026-09-16T17:53:07Z",
+              "jaccard": 0.42857142857142855,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -659,7 +718,8 @@
             1.0,
             0.7142857142857143,
             0.42857142857142855,
-            1.0
+            1.0,
+            0.42857142857142855
           ]
         },
         "htn_treatment": {
@@ -717,9 +777,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:13Z",
+              "fetched_at_b": "2026-09-16T17:53:08Z",
+              "jaccard": 0.2,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -727,7 +796,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.2
           ]
         },
         "htn_branded": {
@@ -785,9 +855,18 @@
               "jaccard": 0.3333333333333333,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:24Z",
+              "fetched_at_b": "2026-09-16T17:53:09Z",
+              "jaccard": 0.42857142857142855,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -795,7 +874,8 @@
             0.4,
             0.45454545454545453,
             0.7777777777777778,
-            0.3333333333333333
+            0.3333333333333333,
+            0.42857142857142855
           ]
         },
         "htn_hcp": {
@@ -844,16 +924,26 @@
               "jaccard": 0.38461538461538464,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:27Z",
+              "fetched_at_b": "2026-09-16T17:53:29Z",
+              "jaccard": 0.14285714285714285,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 5,
+          "n_pairs": 6,
           "n_null_excluded": 0,
           "values": [
             0.5384615384615384,
             0.35714285714285715,
             0.13333333333333333,
             0.3076923076923077,
-            0.38461538461538464
+            0.38461538461538464,
+            0.14285714285714285
           ]
         },
         "pah_symptoms": {
@@ -911,9 +1001,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:39Z",
+              "fetched_at_b": "2026-09-16T17:53:44Z",
+              "jaccard": 0.4444444444444444,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -921,7 +1020,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.4444444444444444
           ]
         },
         "pah_branded": {
@@ -979,9 +1079,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:40Z",
+              "fetched_at_b": "2026-09-16T17:53:45Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -989,11 +1098,12 @@
             1.0,
             1.0,
             0.4444444444444444,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 70,
+      "n_pairs": 81,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -1002,6 +1112,7 @@
         0.45454545454545453,
         1.0,
         1.0,
+        0.5,
         1.0,
         0.4,
         1.0,
@@ -1015,11 +1126,14 @@
         1.0,
         1.0,
         1.0,
+        0.1875,
+        1.0,
         1.0,
         0.2857142857142857,
         0.26666666666666666,
         0.6,
         0.4166666666666667,
+        0.5454545454545454,
         0.3333333333333333,
         0.13333333333333333,
         0.09090909090909091,
@@ -1031,10 +1145,13 @@
         1.0,
         0.6363636363636364,
         0.3333333333333333,
+        0.2222222222222222,
         1.0,
         1.0,
         1.0,
         0.7142857142857143,
+        0.42857142857142855,
+        1.0,
         0.42857142857142855,
         1.0,
         1.0,
@@ -1042,22 +1159,20 @@
         1.0,
         1.0,
         1.0,
-        1.0,
+        0.2,
         1.0,
         1.0,
         0.4,
         0.45454545454545453,
         0.7777777777777778,
         0.3333333333333333,
+        0.42857142857142855,
         0.5384615384615384,
         0.35714285714285715,
         0.13333333333333333,
         0.3076923076923077,
         0.38461538461538464,
-        1.0,
-        1.0,
-        1.0,
-        1.0,
+        0.14285714285714285,
         1.0,
         1.0,
         1.0,
@@ -1065,6 +1180,12 @@
         1.0,
         1.0,
         0.4444444444444444,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.4444444444444444,
+        1.0,
         1.0
       ]
     },
@@ -1125,9 +1246,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:19Z",
+              "fetched_at_b": "2026-09-16T17:52:15Z",
+              "jaccard": 0.5,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1135,7 +1265,8 @@
             1.0,
             0.45454545454545453,
             1.0,
-            1.0
+            1.0,
+            0.5
           ]
         },
         "t2d_diagnosis": {
@@ -1193,9 +1324,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:21Z",
+              "fetched_at_b": "2026-09-16T17:52:16Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1203,6 +1343,7 @@
             1.0,
             1.0,
             0.36363636363636365,
+            1.0,
             1.0
           ]
         },
@@ -1261,9 +1402,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:33Z",
+              "fetched_at_b": "2026-09-16T17:52:17Z",
+              "jaccard": 0.23076923076923078,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1271,7 +1421,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.23076923076923078
           ]
         },
         "t2d_branded": {
@@ -1329,9 +1480,18 @@
               "jaccard": 0.625,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:35Z",
+              "fetched_at_b": "2026-09-16T17:52:18Z",
+              "jaccard": 0.75,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1339,7 +1499,8 @@
             0.7142857142857143,
             0.4444444444444444,
             0.5,
-            0.625
+            0.625,
+            0.75
           ]
         },
         "t2d_hcp": {
@@ -1455,9 +1616,18 @@
               "jaccard": 0.3333333333333333,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:56Z",
+              "fetched_at_b": "2026-09-16T17:53:05Z",
+              "jaccard": 0.25,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1465,7 +1635,8 @@
             0.25,
             1.0,
             0.6363636363636364,
-            0.3333333333333333
+            0.3333333333333333,
+            0.25
           ]
         },
         "htn_diagnosis": {
@@ -1523,9 +1694,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:04Z",
+              "fetched_at_b": "2026-09-16T17:53:07Z",
+              "jaccard": 0.3333333333333333,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1533,7 +1713,8 @@
             1.0,
             0.6666666666666666,
             0.3333333333333333,
-            1.0
+            1.0,
+            0.3333333333333333
           ]
         },
         "htn_treatment": {
@@ -1591,9 +1772,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:13Z",
+              "fetched_at_b": "2026-09-16T17:53:08Z",
+              "jaccard": 0.5,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1601,7 +1791,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.5
           ]
         },
         "htn_branded": {
@@ -1659,9 +1850,18 @@
               "jaccard": 0.375,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:24Z",
+              "fetched_at_b": "2026-09-16T17:53:09Z",
+              "jaccard": 0.42857142857142855,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1669,7 +1869,8 @@
             0.4,
             0.45454545454545453,
             0.875,
-            0.375
+            0.375,
+            0.42857142857142855
           ]
         },
         "htn_hcp": {
@@ -1718,16 +1919,26 @@
               "jaccard": 0.5555555555555556,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:27Z",
+              "fetched_at_b": "2026-09-16T17:53:29Z",
+              "jaccard": 0.3333333333333333,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 5,
+          "n_pairs": 6,
           "n_null_excluded": 0,
           "values": [
             0.8571428571428571,
             0.625,
             0.3333333333333333,
             0.3333333333333333,
-            0.5555555555555556
+            0.5555555555555556,
+            0.3333333333333333
           ]
         },
         "pah_symptoms": {
@@ -1785,9 +1996,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:39Z",
+              "fetched_at_b": "2026-09-16T17:53:44Z",
+              "jaccard": 0.5,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1795,7 +2015,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.5
           ]
         },
         "pah_branded": {
@@ -1853,9 +2074,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:40Z",
+              "fetched_at_b": "2026-09-16T17:53:45Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1863,11 +2093,12 @@
             1.0,
             1.0,
             0.5714285714285714,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 70,
+      "n_pairs": 81,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -1876,6 +2107,7 @@
         0.45454545454545453,
         1.0,
         1.0,
+        0.5,
         1.0,
         0.4444444444444444,
         1.0,
@@ -1889,11 +2121,14 @@
         1.0,
         1.0,
         1.0,
+        0.23076923076923078,
+        1.0,
         1.0,
         0.7142857142857143,
         0.4444444444444444,
         0.5,
         0.625,
+        0.75,
         0.5454545454545454,
         0.3,
         0.25,
@@ -1905,40 +2140,47 @@
         1.0,
         0.6363636363636364,
         0.3333333333333333,
+        0.25,
         1.0,
         1.0,
         1.0,
         0.6666666666666666,
         0.3333333333333333,
         1.0,
+        0.3333333333333333,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
+        0.5,
         1.0,
         1.0,
         0.4,
         0.45454545454545453,
         0.875,
         0.375,
+        0.42857142857142855,
         0.8571428571428571,
         0.625,
         0.3333333333333333,
         0.3333333333333333,
         0.5555555555555556,
+        0.3333333333333333,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
+        0.5,
         1.0,
         1.0,
         1.0,
         1.0,
         0.5714285714285714,
+        1.0,
         1.0
       ]
     }
@@ -2007,9 +2249,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:19Z",
+              "fetched_at_b": "2026-09-16T17:52:15Z",
+              "rbo": 0.6414759999999999,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2017,7 +2269,8 @@
             1.0,
             0.870238,
             1.0,
-            1.0
+            1.0,
+            0.6414759999999999
           ]
         },
         "t2d_diagnosis": {
@@ -2081,9 +2334,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:21Z",
+              "fetched_at_b": "2026-09-16T17:52:16Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2091,6 +2354,7 @@
             1.0,
             1.0,
             0.43812347258571427,
+            1.0,
             1.0
           ]
         },
@@ -2155,9 +2419,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:33Z",
+              "fetched_at_b": "2026-09-16T17:52:17Z",
+              "rbo": 0.43069736607142856,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             0.9999999999999999,
@@ -2165,7 +2439,8 @@
             0.9999999999999999,
             0.9999999999999999,
             0.9999999999999999,
-            0.9999999999999999
+            0.9999999999999999,
+            0.43069736607142856
           ]
         },
         "t2d_branded": {
@@ -2229,9 +2504,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:35Z",
+              "fetched_at_b": "2026-09-16T17:52:18Z",
+              "rbo": 0.6095403096428571,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2239,7 +2524,8 @@
             0.47245614247051937,
             0.4564009203662337,
             0.7278337607142856,
-            0.4714856196428572
+            0.4714856196428572,
+            0.6095403096428571
           ]
         },
         "t2d_hcp": {
@@ -2366,9 +2652,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:56Z",
+              "fetched_at_b": "2026-09-16T17:53:05Z",
+              "rbo": 0.1748037857142857,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2376,7 +2672,8 @@
             0.5378272434357143,
             1.0,
             0.8240353589285714,
-            0.6232871124999999
+            0.6232871124999999,
+            0.1748037857142857
           ]
         },
         "htn_diagnosis": {
@@ -2440,9 +2737,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:04Z",
+              "fetched_at_b": "2026-09-16T17:53:07Z",
+              "rbo": 0.64575,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2450,7 +2757,8 @@
             1.0,
             0.843238,
             0.64575,
-            0.9999999999999999
+            0.9999999999999999,
+            0.64575
           ]
         },
         "htn_treatment": {
@@ -2514,9 +2822,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:13Z",
+              "fetched_at_b": "2026-09-16T17:53:08Z",
+              "rbo": 0.2169816428571429,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2524,7 +2842,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.2169816428571429
           ]
         },
         "htn_branded": {
@@ -2588,9 +2907,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:24Z",
+              "fetched_at_b": "2026-09-16T17:53:09Z",
+              "rbo": 0.6178702857142857,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2598,7 +2927,8 @@
             0.823555,
             0.7390077142857143,
             0.8856458055357143,
-            0.7388084012499999
+            0.7388084012499999,
+            0.6178702857142857
           ]
         },
         "htn_hcp": {
@@ -2652,16 +2982,27 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:27Z",
+              "fetched_at_b": "2026-09-16T17:53:29Z",
+              "rbo": 0.4332172857142857,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 5,
+          "n_pairs": 6,
           "n_null_excluded": 0,
           "values": [
             0.7094942696928571,
             0.5581286967571428,
             0.3403547392857143,
             0.4729970703571429,
-            0.5326243235714285
+            0.5326243235714285,
+            0.4332172857142857
           ]
         },
         "pah_symptoms": {
@@ -2725,9 +3066,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:39Z",
+              "fetched_at_b": "2026-09-16T17:53:44Z",
+              "rbo": 0.5459811428571428,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2735,7 +3086,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.5459811428571428
           ]
         },
         "pah_branded": {
@@ -2799,9 +3151,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:40Z",
+              "fetched_at_b": "2026-09-16T17:53:45Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2809,11 +3171,12 @@
             1.0,
             1.0,
             0.7338971125,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 70,
+      "n_pairs": 81,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -2822,24 +3185,28 @@
         0.870238,
         1.0,
         1.0,
+        0.6414759999999999,
         1.0,
         0.5404652392857143,
         1.0,
         1.0,
         0.43812347258571427,
         1.0,
+        1.0,
         0.9999999999999999,
         0.9999999999999999,
         0.9999999999999999,
         0.9999999999999999,
         0.9999999999999999,
         0.9999999999999999,
+        0.43069736607142856,
         1.0,
         1.0,
         0.47245614247051937,
         0.4564009203662337,
         0.7278337607142856,
         0.4714856196428572,
+        0.6095403096428571,
         0.2556380261877101,
         0.285634446151736,
         0.25425,
@@ -2851,40 +3218,47 @@
         1.0,
         0.8240353589285714,
         0.6232871124999999,
+        0.1748037857142857,
         1.0,
         1.0,
         1.0,
         0.843238,
         0.64575,
         0.9999999999999999,
+        0.64575,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
+        0.2169816428571429,
         1.0,
         1.0,
         0.823555,
         0.7390077142857143,
         0.8856458055357143,
         0.7388084012499999,
+        0.6178702857142857,
         0.7094942696928571,
         0.5581286967571428,
         0.3403547392857143,
         0.4729970703571429,
         0.5326243235714285,
+        0.4332172857142857,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
+        0.5459811428571428,
         1.0,
         1.0,
         1.0,
         1.0,
         0.7338971125,
+        1.0,
         1.0
       ],
       "p": 0.9
@@ -2952,9 +3326,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:19Z",
+              "fetched_at_b": "2026-09-16T17:52:15Z",
+              "rbo": 0.6414759999999999,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2962,7 +3346,8 @@
             1.0,
             0.870238,
             1.0,
-            1.0
+            1.0,
+            0.6414759999999999
           ]
         },
         "t2d_diagnosis": {
@@ -3026,9 +3411,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:21Z",
+              "fetched_at_b": "2026-09-16T17:52:16Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3036,6 +3431,7 @@
             1.0,
             1.0,
             0.4913394155357143,
+            1.0,
             1.0
           ]
         },
@@ -3100,9 +3496,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:33Z",
+              "fetched_at_b": "2026-09-16T17:52:17Z",
+              "rbo": 0.5051009285714285,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3110,7 +3516,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.5051009285714285
           ]
         },
         "t2d_branded": {
@@ -3174,9 +3581,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:35Z",
+              "fetched_at_b": "2026-09-16T17:52:18Z",
+              "rbo": 0.8558913571428572,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3184,7 +3601,8 @@
             0.7544751428571429,
             0.5642061428571428,
             0.645048,
-            0.698238
+            0.698238,
+            0.8558913571428572
           ]
         },
         "t2d_hcp": {
@@ -3311,9 +3729,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:50:56Z",
+              "fetched_at_b": "2026-09-16T17:53:05Z",
+              "rbo": 0.209952,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3321,7 +3749,8 @@
             0.5378272434357143,
             1.0,
             0.8240353589285714,
-            0.6232871124999999
+            0.6232871124999999,
+            0.209952
           ]
         },
         "htn_diagnosis": {
@@ -3385,9 +3814,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:04Z",
+              "fetched_at_b": "2026-09-16T17:53:07Z",
+              "rbo": 0.585,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3395,7 +3834,8 @@
             1.0,
             0.823555,
             0.585,
-            1.0
+            1.0,
+            0.585
           ]
         },
         "htn_treatment": {
@@ -3459,9 +3899,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:13Z",
+              "fetched_at_b": "2026-09-16T17:53:08Z",
+              "rbo": 0.44234678571428576,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3469,7 +3919,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.44234678571428576
           ]
         },
         "htn_branded": {
@@ -3533,9 +3984,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:24Z",
+              "fetched_at_b": "2026-09-16T17:53:09Z",
+              "rbo": 0.6178702857142857,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3543,7 +4004,8 @@
             0.823555,
             0.7390077142857143,
             0.9426784696428572,
-            0.7523791267857143
+            0.7523791267857143,
+            0.6178702857142857
           ]
         },
         "htn_hcp": {
@@ -3597,16 +4059,27 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:27Z",
+              "fetched_at_b": "2026-09-16T17:53:29Z",
+              "rbo": 0.647335,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 5,
+          "n_pairs": 6,
           "n_null_excluded": 0,
           "values": [
             0.9060361428571428,
             0.7800130000000001,
             0.583885,
             0.5468101428571429,
-            0.6438192142857143
+            0.6438192142857143,
+            0.647335
           ]
         },
         "pah_symptoms": {
@@ -3670,9 +4143,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:39Z",
+              "fetched_at_b": "2026-09-16T17:53:44Z",
+              "rbo": 0.568476,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3680,7 +4163,8 @@
             1.0,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.568476
           ]
         },
         "pah_branded": {
@@ -3744,9 +4228,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260915T175019Z",
+              "run_id_b": "20260916T175215Z",
+              "fetched_at_a": "2026-09-15T17:51:40Z",
+              "fetched_at_b": "2026-09-16T17:53:45Z",
+              "rbo": 0.9999999999999999,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 6,
+          "n_pairs": 7,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3754,11 +4248,12 @@
             1.0,
             1.0,
             0.8666701428571428,
+            0.9999999999999999,
             0.9999999999999999
           ]
         }
       },
-      "n_pairs": 70,
+      "n_pairs": 81,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -3767,6 +4262,7 @@
         0.870238,
         1.0,
         1.0,
+        0.6414759999999999,
         1.0,
         0.6189811428571428,
         1.0,
@@ -3780,11 +4276,14 @@
         1.0,
         1.0,
         1.0,
+        0.5051009285714285,
+        1.0,
         1.0,
         0.7544751428571429,
         0.5642061428571428,
         0.645048,
         0.698238,
+        0.8558913571428572,
         0.45112680964285723,
         0.4979004155357143,
         0.46349999999999997,
@@ -3796,10 +4295,13 @@
         1.0,
         0.8240353589285714,
         0.6232871124999999,
+        0.209952,
         1.0,
         1.0,
         1.0,
         0.823555,
+        0.585,
+        1.0,
         0.585,
         1.0,
         1.0,
@@ -3807,29 +4309,33 @@
         1.0,
         1.0,
         1.0,
-        1.0,
+        0.44234678571428576,
         1.0,
         1.0,
         0.823555,
         0.7390077142857143,
         0.9426784696428572,
         0.7523791267857143,
+        0.6178702857142857,
         0.9060361428571428,
         0.7800130000000001,
         0.583885,
         0.5468101428571429,
         0.6438192142857143,
+        0.647335,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
         1.0,
+        0.568476,
         1.0,
         1.0,
         1.0,
         1.0,
         0.8666701428571428,
+        0.9999999999999999,
         0.9999999999999999
       ],
       "p": 0.9
@@ -3841,170 +4347,194 @@
         "t2d_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.9038461538461539,
-              "n_instances": 52,
-              "n_pairs": 6,
-              "n_survived": 47
+              "rate": 0.8793103448275862,
+              "n_instances": 58,
+              "n_pairs": 7,
+              "n_survived": 51
             },
             "2": {
-              "rate": 0.782608695652174,
-              "n_instances": 46,
-              "n_pairs": 5,
-              "n_survived": 36
+              "rate": 0.7692307692307693,
+              "n_instances": 52,
+              "n_pairs": 6,
+              "n_survived": 40
             },
             "3": {
-              "rate": 0.625,
-              "n_instances": 40,
-              "n_pairs": 4,
-              "n_survived": 25
+              "rate": 0.6304347826086957,
+              "n_instances": 46,
+              "n_pairs": 5,
+              "n_survived": 29
             },
             "4": {
+              "rate": 0.5,
+              "n_instances": 40,
+              "n_pairs": 4,
+              "n_survived": 20
+            },
+            "5": {
               "rate": 0.5,
               "n_instances": 30,
               "n_pairs": 3,
               "n_survived": 15
             },
-            "5": {
+            "6": {
               "rate": 0.5,
               "n_instances": 20,
               "n_pairs": 2,
               "n_survived": 10
             },
-            "6": {
+            "7": {
               "rate": 0.5,
               "n_instances": 10,
               "n_pairs": 1,
               "n_survived": 5
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_diagnosis": {
           "by_k": {
             "1": {
-              "rate": 0.8636363636363636,
-              "n_instances": 44,
-              "n_pairs": 6,
-              "n_survived": 38
+              "rate": 0.8888888888888888,
+              "n_instances": 54,
+              "n_pairs": 7,
+              "n_survived": 48
             },
             "2": {
-              "rate": 0.6470588235294118,
-              "n_instances": 34,
-              "n_pairs": 5,
-              "n_survived": 22
+              "rate": 0.7272727272727273,
+              "n_instances": 44,
+              "n_pairs": 6,
+              "n_survived": 32
             },
             "3": {
-              "rate": 0.5714285714285714,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 16
+              "rate": 0.5882352941176471,
+              "n_instances": 34,
+              "n_pairs": 5,
+              "n_survived": 20
             },
             "4": {
-              "rate": 0.5909090909090909,
-              "n_instances": 22,
-              "n_pairs": 3,
-              "n_survived": 13
+              "rate": 0.6071428571428571,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 17
             },
             "5": {
+              "rate": 0.6363636363636364,
+              "n_instances": 22,
+              "n_pairs": 3,
+              "n_survived": 14
+            },
+            "6": {
               "rate": 0.625,
               "n_instances": 16,
               "n_pairs": 2,
               "n_survived": 10
             },
-            "6": {
+            "7": {
               "rate": 0.625,
               "n_instances": 8,
               "n_pairs": 1,
               "n_survived": 5
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_treatment": {
           "by_k": {
             "1": {
-              "rate": 1.0,
-              "n_instances": 66,
-              "n_pairs": 6,
-              "n_survived": 66
+              "rate": 0.8961038961038961,
+              "n_instances": 77,
+              "n_pairs": 7,
+              "n_survived": 69
             },
             "2": {
-              "rate": 1.0,
-              "n_instances": 55,
-              "n_pairs": 5,
-              "n_survived": 55
+              "rate": 0.8787878787878788,
+              "n_instances": 66,
+              "n_pairs": 6,
+              "n_survived": 58
             },
             "3": {
-              "rate": 1.0,
-              "n_instances": 44,
-              "n_pairs": 4,
-              "n_survived": 44
+              "rate": 0.8545454545454545,
+              "n_instances": 55,
+              "n_pairs": 5,
+              "n_survived": 47
             },
             "4": {
-              "rate": 1.0,
-              "n_instances": 33,
-              "n_pairs": 3,
-              "n_survived": 33
+              "rate": 0.8181818181818182,
+              "n_instances": 44,
+              "n_pairs": 4,
+              "n_survived": 36
             },
             "5": {
-              "rate": 1.0,
-              "n_instances": 22,
-              "n_pairs": 2,
-              "n_survived": 22
+              "rate": 0.7575757575757576,
+              "n_instances": 33,
+              "n_pairs": 3,
+              "n_survived": 25
             },
             "6": {
-              "rate": 1.0,
+              "rate": 0.6363636363636364,
+              "n_instances": 22,
+              "n_pairs": 2,
+              "n_survived": 14
+            },
+            "7": {
+              "rate": 0.2727272727272727,
               "n_instances": 11,
               "n_pairs": 1,
-              "n_survived": 11
+              "n_survived": 3
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_branded": {
           "by_k": {
             "1": {
-              "rate": 0.6875,
-              "n_instances": 48,
-              "n_pairs": 6,
-              "n_survived": 33
+              "rate": 0.6842105263157895,
+              "n_instances": 57,
+              "n_pairs": 7,
+              "n_survived": 39
             },
             "2": {
-              "rate": 0.65,
-              "n_instances": 40,
-              "n_pairs": 5,
-              "n_survived": 26
+              "rate": 0.625,
+              "n_instances": 48,
+              "n_pairs": 6,
+              "n_survived": 30
             },
             "3": {
-              "rate": 0.625,
-              "n_instances": 32,
-              "n_pairs": 4,
-              "n_survived": 20
+              "rate": 0.6,
+              "n_instances": 40,
+              "n_pairs": 5,
+              "n_survived": 24
             },
             "4": {
+              "rate": 0.5625,
+              "n_instances": 32,
+              "n_pairs": 4,
+              "n_survived": 18
+            },
+            "5": {
               "rate": 0.6190476190476191,
               "n_instances": 21,
               "n_pairs": 3,
               "n_survived": 13
             },
-            "5": {
-              "rate": 0.6428571428571429,
+            "6": {
+              "rate": 0.5714285714285714,
               "n_instances": 14,
               "n_pairs": 2,
-              "n_survived": 9
+              "n_survived": 8
             },
-            "6": {
+            "7": {
               "rate": 0.5714285714285714,
               "n_instances": 7,
               "n_pairs": 1,
               "n_survived": 4
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_hcp": {
           "by_k": {
@@ -4045,501 +4575,573 @@
         "htn_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.7674418604651163,
-              "n_instances": 43,
-              "n_pairs": 6,
-              "n_survived": 33
+              "rate": 0.7446808510638298,
+              "n_instances": 47,
+              "n_pairs": 7,
+              "n_survived": 35
             },
             "2": {
-              "rate": 0.6,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 21
+              "rate": 0.5581395348837209,
+              "n_instances": 43,
+              "n_pairs": 6,
+              "n_survived": 24
             },
             "3": {
+              "rate": 0.45714285714285713,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 16
+            },
+            "4": {
               "rate": 0.48,
               "n_instances": 25,
               "n_pairs": 4,
               "n_survived": 12
             },
-            "4": {
-              "rate": 0.5333333333333333,
+            "5": {
+              "rate": 0.4666666666666667,
               "n_instances": 15,
               "n_pairs": 3,
-              "n_survived": 8
-            },
-            "5": {
-              "rate": 0.5,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 5
+              "n_survived": 7
             },
             "6": {
+              "rate": 0.4,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 4
+            },
+            "7": {
               "rate": 0.4,
               "n_instances": 5,
               "n_pairs": 1,
               "n_survived": 2
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_diagnosis": {
           "by_k": {
             "1": {
-              "rate": 0.8823529411764706,
-              "n_instances": 34,
-              "n_pairs": 6,
-              "n_survived": 30
+              "rate": 0.868421052631579,
+              "n_instances": 38,
+              "n_pairs": 7,
+              "n_survived": 33
             },
             "2": {
-              "rate": 0.7666666666666667,
-              "n_instances": 30,
-              "n_pairs": 5,
-              "n_survived": 23
+              "rate": 0.7647058823529411,
+              "n_instances": 34,
+              "n_pairs": 6,
+              "n_survived": 26
             },
             "3": {
-              "rate": 0.7083333333333334,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 17
+              "rate": 0.7,
+              "n_instances": 30,
+              "n_pairs": 5,
+              "n_survived": 21
             },
             "4": {
-              "rate": 0.6111111111111112,
-              "n_instances": 18,
-              "n_pairs": 3,
-              "n_survived": 11
+              "rate": 0.5833333333333334,
+              "n_instances": 24,
+              "n_pairs": 4,
+              "n_survived": 14
             },
             "5": {
+              "rate": 0.5,
+              "n_instances": 18,
+              "n_pairs": 3,
+              "n_survived": 9
+            },
+            "6": {
               "rate": 0.5,
               "n_instances": 12,
               "n_pairs": 2,
               "n_survived": 6
             },
-            "6": {
+            "7": {
               "rate": 0.5,
               "n_instances": 6,
               "n_pairs": 1,
               "n_survived": 3
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_treatment": {
           "by_k": {
             "1": {
-              "rate": 1.0,
-              "n_instances": 42,
-              "n_pairs": 6,
-              "n_survived": 42
+              "rate": 0.8979591836734694,
+              "n_instances": 49,
+              "n_pairs": 7,
+              "n_survived": 44
             },
             "2": {
-              "rate": 1.0,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 35
+              "rate": 0.8809523809523809,
+              "n_instances": 42,
+              "n_pairs": 6,
+              "n_survived": 37
             },
             "3": {
-              "rate": 1.0,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 28
+              "rate": 0.8571428571428571,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 30
             },
             "4": {
-              "rate": 1.0,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 21
+              "rate": 0.8214285714285714,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 23
             },
             "5": {
-              "rate": 1.0,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 14
+              "rate": 0.7619047619047619,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 16
             },
             "6": {
-              "rate": 1.0,
+              "rate": 0.6428571428571429,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 9
+            },
+            "7": {
+              "rate": 0.2857142857142857,
               "n_instances": 7,
               "n_pairs": 1,
-              "n_survived": 7
+              "n_survived": 2
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_branded": {
           "by_k": {
             "1": {
-              "rate": 0.725,
-              "n_instances": 40,
-              "n_pairs": 6,
-              "n_survived": 29
+              "rate": 0.7441860465116279,
+              "n_instances": 43,
+              "n_pairs": 7,
+              "n_survived": 32
             },
             "2": {
+              "rate": 0.7,
+              "n_instances": 40,
+              "n_pairs": 6,
+              "n_survived": 28
+            },
+            "3": {
               "rate": 0.6774193548387096,
               "n_instances": 31,
               "n_pairs": 5,
               "n_survived": 21
             },
-            "3": {
-              "rate": 0.5833333333333334,
+            "4": {
+              "rate": 0.6666666666666666,
               "n_instances": 24,
               "n_pairs": 4,
-              "n_survived": 14
+              "n_survived": 16
             },
-            "4": {
+            "5": {
               "rate": 0.7333333333333333,
               "n_instances": 15,
               "n_pairs": 3,
               "n_survived": 11
             },
-            "5": {
+            "6": {
               "rate": 0.7,
               "n_instances": 10,
               "n_pairs": 2,
               "n_survived": 7
             },
-            "6": {
-              "rate": 0.6,
+            "7": {
+              "rate": 0.8,
               "n_instances": 5,
               "n_pairs": 1,
-              "n_survived": 3
+              "n_survived": 4
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_hcp": {
           "by_k": {
             "1": {
-              "rate": 0.5,
+              "rate": 0.45454545454545453,
+              "n_instances": 55,
+              "n_pairs": 6,
+              "n_survived": 25
+            },
+            "2": {
+              "rate": 0.5217391304347826,
               "n_instances": 46,
               "n_pairs": 5,
-              "n_survived": 23
-            },
-            "2": {
-              "rate": 0.5405405405405406,
-              "n_instances": 37,
-              "n_pairs": 4,
-              "n_survived": 20
-            },
-            "3": {
-              "rate": 0.5172413793103449,
-              "n_instances": 29,
-              "n_pairs": 3,
-              "n_survived": 15
-            },
-            "4": {
-              "rate": 0.55,
-              "n_instances": 20,
-              "n_pairs": 2,
-              "n_survived": 11
-            },
-            "5": {
-              "rate": 0.6,
-              "n_instances": 10,
-              "n_pairs": 1,
-              "n_survived": 6
-            }
-          },
-          "n_complete_runs": 6,
-          "k_max": 5
-        },
-        "pah_symptoms": {
-          "by_k": {
-            "1": {
-              "rate": 1.0,
-              "n_instances": 42,
-              "n_pairs": 6,
-              "n_survived": 42
-            },
-            "2": {
-              "rate": 1.0,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 35
-            },
-            "3": {
-              "rate": 1.0,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 28
-            },
-            "4": {
-              "rate": 1.0,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 21
-            },
-            "5": {
-              "rate": 1.0,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 14
-            },
-            "6": {
-              "rate": 1.0,
-              "n_instances": 7,
-              "n_pairs": 1,
-              "n_survived": 7
-            }
-          },
-          "n_complete_runs": 7,
-          "k_max": 6
-        },
-        "pah_branded": {
-          "by_k": {
-            "1": {
-              "rate": 0.9111111111111111,
-              "n_instances": 45,
-              "n_pairs": 6,
-              "n_survived": 41
-            },
-            "2": {
-              "rate": 0.8,
-              "n_instances": 40,
-              "n_pairs": 5,
-              "n_survived": 32
-            },
-            "3": {
-              "rate": 0.75,
-              "n_instances": 32,
-              "n_pairs": 4,
               "n_survived": 24
             },
+            "3": {
+              "rate": 0.4864864864864865,
+              "n_instances": 37,
+              "n_pairs": 4,
+              "n_survived": 18
+            },
             "4": {
-              "rate": 0.6666666666666666,
-              "n_instances": 24,
+              "rate": 0.4482758620689655,
+              "n_instances": 29,
               "n_pairs": 3,
-              "n_survived": 16
+              "n_survived": 13
             },
             "5": {
               "rate": 0.5,
-              "n_instances": 16,
+              "n_instances": 20,
               "n_pairs": 2,
-              "n_survived": 8
+              "n_survived": 10
             },
             "6": {
-              "rate": 0.5,
-              "n_instances": 8,
+              "rate": 0.4,
+              "n_instances": 10,
               "n_pairs": 1,
               "n_survived": 4
             }
           },
           "n_complete_runs": 7,
           "k_max": 6
+        },
+        "pah_symptoms": {
+          "by_k": {
+            "1": {
+              "rate": 0.9387755102040817,
+              "n_instances": 49,
+              "n_pairs": 7,
+              "n_survived": 46
+            },
+            "2": {
+              "rate": 0.9285714285714286,
+              "n_instances": 42,
+              "n_pairs": 6,
+              "n_survived": 39
+            },
+            "3": {
+              "rate": 0.9142857142857143,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 32
+            },
+            "4": {
+              "rate": 0.8928571428571429,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 25
+            },
+            "5": {
+              "rate": 0.8571428571428571,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 18
+            },
+            "6": {
+              "rate": 0.7857142857142857,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 11
+            },
+            "7": {
+              "rate": 0.5714285714285714,
+              "n_instances": 7,
+              "n_pairs": 1,
+              "n_survived": 4
+            }
+          },
+          "n_complete_runs": 8,
+          "k_max": 7
+        },
+        "pah_branded": {
+          "by_k": {
+            "1": {
+              "rate": 0.92,
+              "n_instances": 50,
+              "n_pairs": 7,
+              "n_survived": 46
+            },
+            "2": {
+              "rate": 0.8222222222222222,
+              "n_instances": 45,
+              "n_pairs": 6,
+              "n_survived": 37
+            },
+            "3": {
+              "rate": 0.7,
+              "n_instances": 40,
+              "n_pairs": 5,
+              "n_survived": 28
+            },
+            "4": {
+              "rate": 0.625,
+              "n_instances": 32,
+              "n_pairs": 4,
+              "n_survived": 20
+            },
+            "5": {
+              "rate": 0.5,
+              "n_instances": 24,
+              "n_pairs": 3,
+              "n_survived": 12
+            },
+            "6": {
+              "rate": 0.5,
+              "n_instances": 16,
+              "n_pairs": 2,
+              "n_survived": 8
+            },
+            "7": {
+              "rate": 0.5,
+              "n_instances": 8,
+              "n_pairs": 1,
+              "n_survived": 4
+            }
+          },
+          "n_complete_runs": 8,
+          "k_max": 7
         }
       },
       "overall": {
         "1": {
-          "rate": 0.8003663003663004,
-          "n_instances": 546,
-          "n_pairs": 70,
-          "n_survived": 437
+          "rate": 0.7745571658615137,
+          "n_instances": 621,
+          "n_pairs": 81,
+          "n_survived": 481
         },
         "2": {
-          "rate": 0.7444933920704846,
-          "n_instances": 454,
-          "n_pairs": 58,
-          "n_survived": 338
+          "rate": 0.7193308550185874,
+          "n_instances": 538,
+          "n_pairs": 69,
+          "n_survived": 387
         },
         "3": {
-          "rate": 0.6906077348066298,
-          "n_instances": 362,
-          "n_pairs": 46,
-          "n_survived": 250
+          "rate": 0.6569506726457399,
+          "n_instances": 446,
+          "n_pairs": 57,
+          "n_survived": 293
         },
         "4": {
-          "rate": 0.6742424242424242,
-          "n_instances": 264,
-          "n_pairs": 34,
-          "n_survived": 178
+          "rate": 0.611731843575419,
+          "n_instances": 358,
+          "n_pairs": 45,
+          "n_survived": 219
         },
         "5": {
-          "rate": 0.6804733727810651,
-          "n_instances": 169,
-          "n_pairs": 22,
-          "n_survived": 115
+          "rate": 0.6135458167330677,
+          "n_instances": 251,
+          "n_pairs": 33,
+          "n_survived": 154
         },
         "6": {
-          "rate": 0.6891891891891891,
+          "rate": 0.5759493670886076,
+          "n_instances": 158,
+          "n_pairs": 21,
+          "n_survived": 91
+        },
+        "7": {
+          "rate": 0.4864864864864865,
           "n_instances": 74,
           "n_pairs": 10,
-          "n_survived": 51
+          "n_survived": 36
         }
       },
-      "k_max": 6
+      "k_max": 7
     },
     "domain": {
       "by_query": {
         "t2d_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.9038461538461539,
-              "n_instances": 52,
-              "n_pairs": 6,
-              "n_survived": 47
+              "rate": 0.8793103448275862,
+              "n_instances": 58,
+              "n_pairs": 7,
+              "n_survived": 51
             },
             "2": {
-              "rate": 0.782608695652174,
-              "n_instances": 46,
-              "n_pairs": 5,
-              "n_survived": 36
+              "rate": 0.7692307692307693,
+              "n_instances": 52,
+              "n_pairs": 6,
+              "n_survived": 40
             },
             "3": {
-              "rate": 0.625,
-              "n_instances": 40,
-              "n_pairs": 4,
-              "n_survived": 25
+              "rate": 0.6304347826086957,
+              "n_instances": 46,
+              "n_pairs": 5,
+              "n_survived": 29
             },
             "4": {
-              "rate": 0.5,
-              "n_instances": 30,
-              "n_pairs": 3,
-              "n_survived": 15
+              "rate": 0.525,
+              "n_instances": 40,
+              "n_pairs": 4,
+              "n_survived": 21
             },
             "5": {
-              "rate": 0.5,
-              "n_instances": 20,
-              "n_pairs": 2,
-              "n_survived": 10
+              "rate": 0.5333333333333333,
+              "n_instances": 30,
+              "n_pairs": 3,
+              "n_survived": 16
             },
             "6": {
-              "rate": 0.5,
+              "rate": 0.55,
+              "n_instances": 20,
+              "n_pairs": 2,
+              "n_survived": 11
+            },
+            "7": {
+              "rate": 0.6,
               "n_instances": 10,
               "n_pairs": 1,
-              "n_survived": 5
+              "n_survived": 6
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_diagnosis": {
           "by_k": {
             "1": {
-              "rate": 0.8780487804878049,
-              "n_instances": 41,
-              "n_pairs": 6,
-              "n_survived": 36
+              "rate": 0.9,
+              "n_instances": 50,
+              "n_pairs": 7,
+              "n_survived": 45
             },
             "2": {
-              "rate": 0.6875,
-              "n_instances": 32,
-              "n_pairs": 5,
-              "n_survived": 22
+              "rate": 0.7560975609756098,
+              "n_instances": 41,
+              "n_pairs": 6,
+              "n_survived": 31
             },
             "3": {
-              "rate": 0.6153846153846154,
-              "n_instances": 26,
-              "n_pairs": 4,
-              "n_survived": 16
+              "rate": 0.625,
+              "n_instances": 32,
+              "n_pairs": 5,
+              "n_survived": 20
             },
             "4": {
-              "rate": 0.65,
-              "n_instances": 20,
-              "n_pairs": 3,
-              "n_survived": 13
+              "rate": 0.6538461538461539,
+              "n_instances": 26,
+              "n_pairs": 4,
+              "n_survived": 17
             },
             "5": {
+              "rate": 0.7,
+              "n_instances": 20,
+              "n_pairs": 3,
+              "n_survived": 14
+            },
+            "6": {
               "rate": 0.7142857142857143,
               "n_instances": 14,
               "n_pairs": 2,
               "n_survived": 10
             },
-            "6": {
+            "7": {
               "rate": 0.7142857142857143,
               "n_instances": 7,
               "n_pairs": 1,
               "n_survived": 5
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_treatment": {
           "by_k": {
             "1": {
-              "rate": 1.0,
-              "n_instances": 54,
-              "n_pairs": 6,
-              "n_survived": 54
+              "rate": 0.9047619047619048,
+              "n_instances": 63,
+              "n_pairs": 7,
+              "n_survived": 57
             },
             "2": {
-              "rate": 1.0,
-              "n_instances": 45,
-              "n_pairs": 5,
-              "n_survived": 45
+              "rate": 0.8888888888888888,
+              "n_instances": 54,
+              "n_pairs": 6,
+              "n_survived": 48
             },
             "3": {
-              "rate": 1.0,
-              "n_instances": 36,
-              "n_pairs": 4,
-              "n_survived": 36
+              "rate": 0.8666666666666667,
+              "n_instances": 45,
+              "n_pairs": 5,
+              "n_survived": 39
             },
             "4": {
-              "rate": 1.0,
-              "n_instances": 27,
-              "n_pairs": 3,
-              "n_survived": 27
+              "rate": 0.8333333333333334,
+              "n_instances": 36,
+              "n_pairs": 4,
+              "n_survived": 30
             },
             "5": {
-              "rate": 1.0,
-              "n_instances": 18,
-              "n_pairs": 2,
-              "n_survived": 18
+              "rate": 0.7777777777777778,
+              "n_instances": 27,
+              "n_pairs": 3,
+              "n_survived": 21
             },
             "6": {
-              "rate": 1.0,
+              "rate": 0.6666666666666666,
+              "n_instances": 18,
+              "n_pairs": 2,
+              "n_survived": 12
+            },
+            "7": {
+              "rate": 0.3333333333333333,
               "n_instances": 9,
               "n_pairs": 1,
-              "n_survived": 9
+              "n_survived": 3
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_branded": {
           "by_k": {
             "1": {
-              "rate": 0.8235294117647058,
-              "n_instances": 34,
-              "n_pairs": 6,
-              "n_survived": 28
+              "rate": 0.8292682926829268,
+              "n_instances": 41,
+              "n_pairs": 7,
+              "n_survived": 34
             },
             "2": {
+              "rate": 0.8823529411764706,
+              "n_instances": 34,
+              "n_pairs": 6,
+              "n_survived": 30
+            },
+            "3": {
               "rate": 0.8928571428571429,
               "n_instances": 28,
               "n_pairs": 5,
               "n_survived": 25
             },
-            "3": {
-              "rate": 0.9090909090909091,
+            "4": {
+              "rate": 0.8636363636363636,
               "n_instances": 22,
               "n_pairs": 4,
-              "n_survived": 20
-            },
-            "4": {
-              "rate": 0.9333333333333333,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 14
+              "n_survived": 19
             },
             "5": {
+              "rate": 1.0,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 15
+            },
+            "6": {
               "rate": 1.0,
               "n_instances": 10,
               "n_pairs": 2,
               "n_survived": 10
             },
-            "6": {
+            "7": {
               "rate": 1.0,
               "n_instances": 5,
               "n_pairs": 1,
               "n_survived": 5
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "t2d_hcp": {
           "by_k": {
@@ -4580,1033 +5182,1133 @@
         "htn_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.7674418604651163,
-              "n_instances": 43,
-              "n_pairs": 6,
-              "n_survived": 33
+              "rate": 0.7446808510638298,
+              "n_instances": 47,
+              "n_pairs": 7,
+              "n_survived": 35
             },
             "2": {
-              "rate": 0.6,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 21
+              "rate": 0.5813953488372093,
+              "n_instances": 43,
+              "n_pairs": 6,
+              "n_survived": 25
             },
             "3": {
+              "rate": 0.4857142857142857,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 17
+            },
+            "4": {
               "rate": 0.52,
               "n_instances": 25,
               "n_pairs": 4,
               "n_survived": 13
             },
-            "4": {
-              "rate": 0.6,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 9
-            },
             "5": {
-              "rate": 0.6,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 6
-            },
-            "6": {
-              "rate": 0.4,
-              "n_instances": 5,
-              "n_pairs": 1,
-              "n_survived": 2
-            }
-          },
-          "n_complete_runs": 7,
-          "k_max": 6
-        },
-        "htn_diagnosis": {
-          "by_k": {
-            "1": {
-              "rate": 0.8571428571428571,
-              "n_instances": 28,
-              "n_pairs": 6,
-              "n_survived": 24
-            },
-            "2": {
-              "rate": 0.72,
-              "n_instances": 25,
-              "n_pairs": 5,
-              "n_survived": 18
-            },
-            "3": {
-              "rate": 0.65,
-              "n_instances": 20,
-              "n_pairs": 4,
-              "n_survived": 13
-            },
-            "4": {
               "rate": 0.5333333333333333,
               "n_instances": 15,
               "n_pairs": 3,
               "n_survived": 8
             },
-            "5": {
+            "6": {
               "rate": 0.4,
               "n_instances": 10,
               "n_pairs": 2,
               "n_survived": 4
             },
-            "6": {
+            "7": {
               "rate": 0.4,
               "n_instances": 5,
               "n_pairs": 1,
               "n_survived": 2
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
+        },
+        "htn_diagnosis": {
+          "by_k": {
+            "1": {
+              "rate": 0.8387096774193549,
+              "n_instances": 31,
+              "n_pairs": 7,
+              "n_survived": 26
+            },
+            "2": {
+              "rate": 0.7142857142857143,
+              "n_instances": 28,
+              "n_pairs": 6,
+              "n_survived": 20
+            },
+            "3": {
+              "rate": 0.64,
+              "n_instances": 25,
+              "n_pairs": 5,
+              "n_survived": 16
+            },
+            "4": {
+              "rate": 0.5,
+              "n_instances": 20,
+              "n_pairs": 4,
+              "n_survived": 10
+            },
+            "5": {
+              "rate": 0.4,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 6
+            },
+            "6": {
+              "rate": 0.4,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 4
+            },
+            "7": {
+              "rate": 0.4,
+              "n_instances": 5,
+              "n_pairs": 1,
+              "n_survived": 2
+            }
+          },
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_treatment": {
           "by_k": {
             "1": {
-              "rate": 1.0,
-              "n_instances": 42,
-              "n_pairs": 6,
-              "n_survived": 42
+              "rate": 0.9387755102040817,
+              "n_instances": 49,
+              "n_pairs": 7,
+              "n_survived": 46
             },
             "2": {
-              "rate": 1.0,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 35
+              "rate": 0.9285714285714286,
+              "n_instances": 42,
+              "n_pairs": 6,
+              "n_survived": 39
             },
             "3": {
-              "rate": 1.0,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 28
+              "rate": 0.9142857142857143,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 32
             },
             "4": {
-              "rate": 1.0,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 21
+              "rate": 0.8928571428571429,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 25
             },
             "5": {
-              "rate": 1.0,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 14
+              "rate": 0.8571428571428571,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 18
             },
             "6": {
-              "rate": 1.0,
+              "rate": 0.7857142857142857,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 11
+            },
+            "7": {
+              "rate": 0.5714285714285714,
               "n_instances": 7,
               "n_pairs": 1,
-              "n_survived": 7
+              "n_survived": 4
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_branded": {
           "by_k": {
             "1": {
+              "rate": 0.7619047619047619,
+              "n_instances": 42,
+              "n_pairs": 7,
+              "n_survived": 32
+            },
+            "2": {
               "rate": 0.7435897435897436,
               "n_instances": 39,
               "n_pairs": 6,
               "n_survived": 29
             },
-            "2": {
-              "rate": 0.7096774193548387,
+            "3": {
+              "rate": 0.6774193548387096,
               "n_instances": 31,
               "n_pairs": 5,
-              "n_survived": 22
-            },
-            "3": {
-              "rate": 0.5833333333333334,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 14
+              "n_survived": 21
             },
             "4": {
+              "rate": 0.6666666666666666,
+              "n_instances": 24,
+              "n_pairs": 4,
+              "n_survived": 16
+            },
+            "5": {
               "rate": 0.7333333333333333,
               "n_instances": 15,
               "n_pairs": 3,
               "n_survived": 11
             },
-            "5": {
+            "6": {
               "rate": 0.7,
               "n_instances": 10,
               "n_pairs": 2,
               "n_survived": 7
             },
-            "6": {
-              "rate": 0.6,
+            "7": {
+              "rate": 0.8,
               "n_instances": 5,
               "n_pairs": 1,
-              "n_survived": 3
+              "n_survived": 4
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "htn_hcp": {
           "by_k": {
             "1": {
-              "rate": 0.6875,
-              "n_instances": 32,
-              "n_pairs": 5,
-              "n_survived": 22
+              "rate": 0.6410256410256411,
+              "n_instances": 39,
+              "n_pairs": 6,
+              "n_survived": 25
             },
             "2": {
-              "rate": 0.68,
-              "n_instances": 25,
-              "n_pairs": 4,
-              "n_survived": 17
+              "rate": 0.65625,
+              "n_instances": 32,
+              "n_pairs": 5,
+              "n_survived": 21
             },
             "3": {
-              "rate": 0.7,
-              "n_instances": 20,
-              "n_pairs": 3,
-              "n_survived": 14
+              "rate": 0.72,
+              "n_instances": 25,
+              "n_pairs": 4,
+              "n_survived": 18
             },
             "4": {
-              "rate": 0.7692307692307693,
-              "n_instances": 13,
-              "n_pairs": 2,
-              "n_survived": 10
+              "rate": 0.65,
+              "n_instances": 20,
+              "n_pairs": 3,
+              "n_survived": 13
             },
             "5": {
+              "rate": 0.6923076923076923,
+              "n_instances": 13,
+              "n_pairs": 2,
+              "n_survived": 9
+            },
+            "6": {
               "rate": 0.7142857142857143,
               "n_instances": 7,
               "n_pairs": 1,
               "n_survived": 5
             }
           },
-          "n_complete_runs": 6,
-          "k_max": 5
+          "n_complete_runs": 7,
+          "k_max": 6
         },
         "pah_symptoms": {
           "by_k": {
             "1": {
-              "rate": 1.0,
-              "n_instances": 36,
-              "n_pairs": 6,
-              "n_survived": 36
+              "rate": 0.9523809523809523,
+              "n_instances": 42,
+              "n_pairs": 7,
+              "n_survived": 40
             },
             "2": {
-              "rate": 1.0,
-              "n_instances": 30,
-              "n_pairs": 5,
-              "n_survived": 30
+              "rate": 0.9444444444444444,
+              "n_instances": 36,
+              "n_pairs": 6,
+              "n_survived": 34
             },
             "3": {
-              "rate": 1.0,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 24
+              "rate": 0.9333333333333333,
+              "n_instances": 30,
+              "n_pairs": 5,
+              "n_survived": 28
             },
             "4": {
-              "rate": 1.0,
-              "n_instances": 18,
-              "n_pairs": 3,
-              "n_survived": 18
+              "rate": 0.9166666666666666,
+              "n_instances": 24,
+              "n_pairs": 4,
+              "n_survived": 22
             },
             "5": {
-              "rate": 1.0,
-              "n_instances": 12,
-              "n_pairs": 2,
-              "n_survived": 12
+              "rate": 0.8888888888888888,
+              "n_instances": 18,
+              "n_pairs": 3,
+              "n_survived": 16
             },
             "6": {
-              "rate": 1.0,
+              "rate": 0.8333333333333334,
+              "n_instances": 12,
+              "n_pairs": 2,
+              "n_survived": 10
+            },
+            "7": {
+              "rate": 0.6666666666666666,
               "n_instances": 6,
               "n_pairs": 1,
-              "n_survived": 6
+              "n_survived": 4
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         },
         "pah_branded": {
           "by_k": {
             "1": {
-              "rate": 0.9230769230769231,
-              "n_instances": 39,
-              "n_pairs": 6,
-              "n_survived": 36
+              "rate": 0.9302325581395349,
+              "n_instances": 43,
+              "n_pairs": 7,
+              "n_survived": 40
             },
             "2": {
-              "rate": 0.8285714285714286,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 29
+              "rate": 0.8461538461538461,
+              "n_instances": 39,
+              "n_pairs": 6,
+              "n_survived": 33
             },
             "3": {
-              "rate": 0.7857142857142857,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 22
+              "rate": 0.7428571428571429,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 26
             },
             "4": {
-              "rate": 0.7142857142857143,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 15
+              "rate": 0.6785714285714286,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 19
             },
             "5": {
+              "rate": 0.5714285714285714,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 12
+            },
+            "6": {
               "rate": 0.5714285714285714,
               "n_instances": 14,
               "n_pairs": 2,
               "n_survived": 8
             },
-            "6": {
+            "7": {
               "rate": 0.5714285714285714,
               "n_instances": 7,
               "n_pairs": 1,
               "n_survived": 4
             }
           },
-          "n_complete_runs": 7,
-          "k_max": 6
+          "n_complete_runs": 8,
+          "k_max": 7
         }
       },
       "overall": {
         "1": {
-          "rate": 0.8565400843881856,
-          "n_instances": 474,
-          "n_pairs": 70,
-          "n_survived": 406
+          "rate": 0.8348794063079777,
+          "n_instances": 539,
+          "n_pairs": 81,
+          "n_survived": 450
         },
         "2": {
-          "rate": 0.8071065989847716,
-          "n_instances": 394,
-          "n_pairs": 58,
-          "n_survived": 318
+          "rate": 0.7880085653104925,
+          "n_instances": 467,
+          "n_pairs": 69,
+          "n_survived": 368
         },
         "3": {
-          "rate": 0.7547770700636943,
-          "n_instances": 314,
-          "n_pairs": 46,
-          "n_survived": 237
+          "rate": 0.729381443298969,
+          "n_instances": 388,
+          "n_pairs": 57,
+          "n_survived": 283
         },
         "4": {
-          "rate": 0.7533039647577092,
-          "n_instances": 227,
-          "n_pairs": 34,
-          "n_survived": 171
+          "rate": 0.6935483870967742,
+          "n_instances": 310,
+          "n_pairs": 45,
+          "n_survived": 215
         },
         "5": {
-          "rate": 0.7346938775510204,
-          "n_instances": 147,
-          "n_pairs": 22,
-          "n_survived": 108
+          "rate": 0.6880733944954128,
+          "n_instances": 218,
+          "n_pairs": 33,
+          "n_survived": 150
         },
         "6": {
-          "rate": 0.7272727272727273,
+          "rate": 0.6618705035971223,
+          "n_instances": 139,
+          "n_pairs": 21,
+          "n_survived": 92
+        },
+        "7": {
+          "rate": 0.5909090909090909,
           "n_instances": 66,
           "n_pairs": 10,
-          "n_survived": 48
+          "n_survived": 39
         }
       },
-      "k_max": 6
+      "k_max": 7
     }
   },
   "authority_composition": {
     "all_positions": {
       "by_journey_stage": {
         "branded": {
-          "n": 150,
+          "n": 170,
           "classes": {
             "commerce": {
-              "count": 33,
-              "pct": 22.0
+              "count": 37,
+              "pct": 21.764705882352942
             },
             "consumer_health": {
-              "count": 29,
-              "pct": 19.333333333333332
+              "count": 33,
+              "pct": 19.41176470588235
             },
             "gov_health": {
-              "count": 16,
-              "pct": 10.666666666666666
+              "count": 19,
+              "pct": 11.176470588235293
             },
             "health_system": {
-              "count": 24,
-              "pct": 16.0
+              "count": 29,
+              "pct": 17.058823529411764
             },
             "manufacturer": {
-              "count": 28,
-              "pct": 18.666666666666668
+              "count": 31,
+              "pct": 18.235294117647058
             },
             "video": {
-              "count": 20,
-              "pct": 13.333333333333334
+              "count": 21,
+              "pct": 12.352941176470589
             }
           }
         },
         "diagnosis": {
-          "n": 92,
+          "n": 108,
           "classes": {
             "academic": {
               "count": 5,
-              "pct": 5.434782608695652
+              "pct": 4.62962962962963
             },
             "advocacy": {
-              "count": 21,
-              "pct": 22.82608695652174
+              "count": 24,
+              "pct": 22.22222222222222
             },
             "clinical_reference": {
               "count": 3,
-              "pct": 3.260869565217391
+              "pct": 2.7777777777777777
             },
             "commerce": {
-              "count": 5,
-              "pct": 5.434782608695652
+              "count": 6,
+              "pct": 5.555555555555555
             },
             "consumer_health": {
-              "count": 10,
-              "pct": 10.869565217391305
+              "count": 11,
+              "pct": 10.185185185185185
             },
             "gov_health": {
-              "count": 23,
-              "pct": 25.0
+              "count": 26,
+              "pct": 24.074074074074073
             },
             "health_system": {
-              "count": 14,
-              "pct": 15.217391304347826
+              "count": 19,
+              "pct": 17.59259259259259
             },
             "video": {
-              "count": 11,
-              "pct": 11.956521739130435
+              "count": 14,
+              "pct": 12.962962962962964
             }
           }
         },
         "symptoms": {
-          "n": 154,
+          "n": 173,
           "classes": {
             "advocacy": {
-              "count": 25,
-              "pct": 16.233766233766232
+              "count": 28,
+              "pct": 16.184971098265898
             },
             "commerce": {
-              "count": 7,
-              "pct": 4.545454545454546
+              "count": 8,
+              "pct": 4.624277456647399
             },
             "consumer_health": {
-              "count": 18,
-              "pct": 11.688311688311689
+              "count": 20,
+              "pct": 11.560693641618498
             },
             "gov_health": {
-              "count": 19,
-              "pct": 12.337662337662337
+              "count": 22,
+              "pct": 12.716763005780347
             },
             "health_system": {
-              "count": 46,
-              "pct": 29.87012987012987
+              "count": 51,
+              "pct": 29.479768786127167
             },
             "insurer": {
               "count": 3,
-              "pct": 1.948051948051948
+              "pct": 1.7341040462427746
             },
             "manufacturer": {
               "count": 7,
-              "pct": 4.545454545454546
+              "pct": 4.046242774566474
             },
             "social": {
               "count": 7,
-              "pct": 4.545454545454546
+              "pct": 4.046242774566474
+            },
+            "unclassified": {
+              "count": 2,
+              "pct": 1.1560693641618498
             },
             "video": {
-              "count": 22,
-              "pct": 14.285714285714286
+              "count": 25,
+              "pct": 14.45086705202312
             }
           }
         },
         "treatment": {
-          "n": 234,
+          "n": 254,
           "classes": {
             "academic": {
-              "count": 29,
-              "pct": 12.393162393162394
+              "count": 32,
+              "pct": 12.598425196850394
             },
             "advocacy": {
-              "count": 19,
-              "pct": 8.11965811965812
+              "count": 22,
+              "pct": 8.661417322834646
             },
             "clinical_reference": {
               "count": 17,
-              "pct": 7.264957264957265
+              "pct": 6.692913385826771
             },
             "commerce": {
-              "count": 8,
-              "pct": 3.4188034188034186
+              "count": 9,
+              "pct": 3.543307086614173
             },
             "consumer_health": {
               "count": 1,
-              "pct": 0.42735042735042733
+              "pct": 0.3937007874015748
             },
             "gov_health": {
-              "count": 35,
-              "pct": 14.957264957264957
+              "count": 38,
+              "pct": 14.960629921259843
             },
             "health_system": {
-              "count": 58,
-              "pct": 24.786324786324787
+              "count": 61,
+              "pct": 24.015748031496063
             },
             "insurer": {
               "count": 2,
-              "pct": 0.8547008547008547
+              "pct": 0.7874015748031497
             },
             "professional_society": {
               "count": 19,
-              "pct": 8.11965811965812
+              "pct": 7.480314960629921
             },
             "social": {
               "count": 1,
-              "pct": 0.42735042735042733
+              "pct": 0.3937007874015748
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 0.3937007874015748
             },
             "video": {
-              "count": 45,
-              "pct": 19.23076923076923
+              "count": 51,
+              "pct": 20.078740157480315
             }
           }
         }
       },
       "by_audience": {
         "hcp": {
-          "n": 108,
+          "n": 115,
           "classes": {
             "academic": {
-              "count": 22,
-              "pct": 20.37037037037037
+              "count": 24,
+              "pct": 20.869565217391305
             },
             "advocacy": {
-              "count": 5,
-              "pct": 4.62962962962963
+              "count": 6,
+              "pct": 5.217391304347826
             },
             "clinical_reference": {
               "count": 10,
-              "pct": 9.25925925925926
+              "pct": 8.695652173913043
             },
             "commerce": {
-              "count": 8,
-              "pct": 7.407407407407407
+              "count": 9,
+              "pct": 7.826086956521739
             },
             "consumer_health": {
               "count": 1,
-              "pct": 0.9259259259259259
+              "pct": 0.8695652173913043
             },
             "gov_health": {
               "count": 21,
-              "pct": 19.444444444444443
+              "pct": 18.26086956521739
             },
             "health_system": {
               "count": 2,
-              "pct": 1.8518518518518519
+              "pct": 1.7391304347826086
             },
             "insurer": {
               "count": 2,
-              "pct": 1.8518518518518519
+              "pct": 1.7391304347826086
             },
             "professional_society": {
               "count": 12,
-              "pct": 11.11111111111111
+              "pct": 10.434782608695652
             },
             "social": {
               "count": 1,
-              "pct": 0.9259259259259259
+              "pct": 0.8695652173913043
             },
             "video": {
-              "count": 24,
-              "pct": 22.22222222222222
+              "count": 27,
+              "pct": 23.47826086956522
             }
           }
         },
         "patient": {
-          "n": 522,
+          "n": 590,
           "classes": {
             "academic": {
-              "count": 12,
-              "pct": 2.2988505747126435
+              "count": 13,
+              "pct": 2.2033898305084745
             },
             "advocacy": {
-              "count": 60,
-              "pct": 11.494252873563218
+              "count": 68,
+              "pct": 11.525423728813559
             },
             "clinical_reference": {
               "count": 10,
-              "pct": 1.9157088122605364
+              "pct": 1.694915254237288
             },
             "commerce": {
-              "count": 45,
-              "pct": 8.620689655172415
+              "count": 51,
+              "pct": 8.64406779661017
             },
             "consumer_health": {
-              "count": 57,
-              "pct": 10.919540229885058
+              "count": 64,
+              "pct": 10.847457627118644
             },
             "gov_health": {
-              "count": 72,
-              "pct": 13.793103448275861
+              "count": 84,
+              "pct": 14.23728813559322
             },
             "health_system": {
-              "count": 140,
-              "pct": 26.81992337164751
+              "count": 158,
+              "pct": 26.779661016949152
             },
             "insurer": {
               "count": 3,
-              "pct": 0.5747126436781609
+              "pct": 0.5084745762711864
             },
             "manufacturer": {
-              "count": 35,
-              "pct": 6.704980842911877
+              "count": 38,
+              "pct": 6.440677966101695
             },
             "professional_society": {
               "count": 7,
-              "pct": 1.3409961685823755
+              "pct": 1.1864406779661016
             },
             "social": {
               "count": 7,
-              "pct": 1.3409961685823755
+              "pct": 1.1864406779661016
+            },
+            "unclassified": {
+              "count": 3,
+              "pct": 0.5084745762711864
             },
             "video": {
-              "count": 74,
-              "pct": 14.17624521072797
+              "count": 84,
+              "pct": 14.23728813559322
             }
           }
         }
       },
       "by_condition": {
         "hypertension": {
-          "n": 232,
+          "n": 264,
           "classes": {
             "academic": {
-              "count": 27,
-              "pct": 11.637931034482758
+              "count": 30,
+              "pct": 11.363636363636363
             },
             "advocacy": {
-              "count": 30,
-              "pct": 12.931034482758621
+              "count": 35,
+              "pct": 13.257575757575758
             },
             "clinical_reference": {
               "count": 1,
-              "pct": 0.43103448275862066
+              "pct": 0.3787878787878788
             },
             "commerce": {
-              "count": 17,
-              "pct": 7.327586206896552
+              "count": 20,
+              "pct": 7.575757575757576
             },
             "consumer_health": {
-              "count": 17,
-              "pct": 7.327586206896552
+              "count": 19,
+              "pct": 7.196969696969697
             },
             "gov_health": {
-              "count": 50,
-              "pct": 21.551724137931036
+              "count": 54,
+              "pct": 20.454545454545453
             },
             "health_system": {
-              "count": 50,
-              "pct": 21.551724137931036
+              "count": 58,
+              "pct": 21.96969696969697
             },
             "insurer": {
               "count": 3,
-              "pct": 1.293103448275862
+              "pct": 1.1363636363636365
             },
             "professional_society": {
               "count": 6,
-              "pct": 2.586206896551724
+              "pct": 2.272727272727273
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 0.3787878787878788
             },
             "video": {
-              "count": 31,
-              "pct": 13.362068965517242
+              "count": 37,
+              "pct": 14.015151515151516
             }
           }
         },
         "pulmonary_arterial_hypertension": {
-          "n": 99,
+          "n": 110,
           "classes": {
             "advocacy": {
-              "count": 7,
-              "pct": 7.070707070707071
+              "count": 8,
+              "pct": 7.2727272727272725
             },
             "commerce": {
-              "count": 12,
-              "pct": 12.121212121212121
+              "count": 13,
+              "pct": 11.818181818181818
             },
             "consumer_health": {
-              "count": 12,
-              "pct": 12.121212121212121
+              "count": 13,
+              "pct": 11.818181818181818
+            },
+            "gov_health": {
+              "count": 1,
+              "pct": 0.9090909090909091
             },
             "health_system": {
-              "count": 28,
-              "pct": 28.282828282828284
+              "count": 31,
+              "pct": 28.181818181818183
             },
             "manufacturer": {
-              "count": 26,
-              "pct": 26.262626262626263
+              "count": 28,
+              "pct": 25.454545454545453
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 0.9090909090909091
             },
             "video": {
-              "count": 14,
-              "pct": 14.141414141414142
+              "count": 15,
+              "pct": 13.636363636363637
             }
           }
         },
         "type_2_diabetes": {
-          "n": 299,
+          "n": 331,
           "classes": {
             "academic": {
               "count": 7,
-              "pct": 2.3411371237458196
+              "pct": 2.1148036253776437
             },
             "advocacy": {
-              "count": 28,
-              "pct": 9.364548494983278
+              "count": 31,
+              "pct": 9.365558912386707
             },
             "clinical_reference": {
               "count": 19,
-              "pct": 6.354515050167224
+              "pct": 5.740181268882175
             },
             "commerce": {
-              "count": 24,
-              "pct": 8.02675585284281
+              "count": 27,
+              "pct": 8.157099697885196
             },
             "consumer_health": {
-              "count": 29,
-              "pct": 9.698996655518394
+              "count": 33,
+              "pct": 9.969788519637461
             },
             "gov_health": {
-              "count": 43,
-              "pct": 14.381270903010034
+              "count": 50,
+              "pct": 15.105740181268882
             },
             "health_system": {
-              "count": 64,
-              "pct": 21.40468227424749
+              "count": 71,
+              "pct": 21.45015105740181
             },
             "insurer": {
               "count": 2,
-              "pct": 0.6688963210702341
+              "pct": 0.6042296072507553
             },
             "manufacturer": {
-              "count": 9,
-              "pct": 3.0100334448160537
+              "count": 10,
+              "pct": 3.0211480362537766
             },
             "professional_society": {
               "count": 13,
-              "pct": 4.3478260869565215
+              "pct": 3.9274924471299095
             },
             "social": {
               "count": 8,
-              "pct": 2.6755852842809364
+              "pct": 2.416918429003021
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 0.3021148036253776
             },
             "video": {
-              "count": 53,
-              "pct": 17.725752508361204
+              "count": 59,
+              "pct": 17.82477341389728
             }
           }
         }
       },
-      "n": 630
+      "n": 705
     },
     "positions_0_2": {
       "by_journey_stage": {
         "branded": {
-          "n": 63,
+          "n": 72,
           "classes": {
             "commerce": {
-              "count": 21,
+              "count": 24,
               "pct": 33.333333333333336
             },
             "consumer_health": {
-              "count": 15,
-              "pct": 23.80952380952381
+              "count": 17,
+              "pct": 23.61111111111111
             },
             "gov_health": {
               "count": 3,
-              "pct": 4.761904761904762
+              "pct": 4.166666666666667
             },
             "health_system": {
-              "count": 4,
-              "pct": 6.349206349206349
+              "count": 6,
+              "pct": 8.333333333333334
             },
             "manufacturer": {
-              "count": 15,
-              "pct": 23.80952380952381
+              "count": 17,
+              "pct": 23.61111111111111
             },
             "video": {
               "count": 5,
-              "pct": 7.936507936507937
+              "pct": 6.944444444444445
             }
           }
         },
         "diagnosis": {
-          "n": 42,
+          "n": 48,
           "classes": {
             "advocacy": {
-              "count": 5,
-              "pct": 11.904761904761905
+              "count": 6,
+              "pct": 12.5
             },
             "consumer_health": {
-              "count": 8,
-              "pct": 19.047619047619047
+              "count": 9,
+              "pct": 18.75
             },
             "gov_health": {
-              "count": 19,
-              "pct": 45.23809523809524
+              "count": 21,
+              "pct": 43.75
             },
             "health_system": {
-              "count": 7,
-              "pct": 16.666666666666668
+              "count": 9,
+              "pct": 18.75
             },
             "video": {
               "count": 3,
-              "pct": 7.142857142857143
+              "pct": 6.25
             }
           }
         },
         "symptoms": {
-          "n": 63,
+          "n": 72,
           "classes": {
             "advocacy": {
-              "count": 23,
-              "pct": 36.507936507936506
+              "count": 24,
+              "pct": 33.333333333333336
             },
             "commerce": {
               "count": 4,
-              "pct": 6.349206349206349
+              "pct": 5.555555555555555
             },
             "consumer_health": {
-              "count": 7,
+              "count": 8,
               "pct": 11.11111111111111
             },
             "gov_health": {
-              "count": 6,
-              "pct": 9.523809523809524
+              "count": 7,
+              "pct": 9.722222222222221
             },
             "health_system": {
-              "count": 23,
-              "pct": 36.507936507936506
+              "count": 26,
+              "pct": 36.111111111111114
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 1.3888888888888888
+            },
+            "video": {
+              "count": 2,
+              "pct": 2.7777777777777777
             }
           }
         },
         "treatment": {
-          "n": 78,
+          "n": 87,
           "classes": {
             "academic": {
-              "count": 12,
-              "pct": 15.384615384615385
+              "count": 14,
+              "pct": 16.091954022988507
             },
             "advocacy": {
-              "count": 2,
-              "pct": 2.5641025641025643
+              "count": 3,
+              "pct": 3.4482758620689653
             },
             "clinical_reference": {
               "count": 8,
-              "pct": 10.256410256410257
+              "pct": 9.195402298850574
             },
             "commerce": {
               "count": 5,
-              "pct": 6.410256410256411
+              "pct": 5.747126436781609
             },
             "gov_health": {
-              "count": 12,
-              "pct": 15.384615384615385
+              "count": 15,
+              "pct": 17.24137931034483
             },
             "health_system": {
-              "count": 28,
-              "pct": 35.8974358974359
+              "count": 29,
+              "pct": 33.333333333333336
             },
             "insurer": {
               "count": 2,
-              "pct": 2.5641025641025643
+              "pct": 2.2988505747126435
             },
             "video": {
-              "count": 9,
-              "pct": 11.538461538461538
+              "count": 11,
+              "pct": 12.64367816091954
             }
           }
         }
       },
       "by_audience": {
         "hcp": {
-          "n": 36,
+          "n": 39,
           "classes": {
             "academic": {
-              "count": 12,
+              "count": 13,
               "pct": 33.333333333333336
             },
             "advocacy": {
-              "count": 2,
-              "pct": 5.555555555555555
+              "count": 3,
+              "pct": 7.6923076923076925
             },
             "clinical_reference": {
               "count": 8,
-              "pct": 22.22222222222222
+              "pct": 20.512820512820515
             },
             "commerce": {
               "count": 5,
-              "pct": 13.88888888888889
+              "pct": 12.820512820512821
             },
             "gov_health": {
               "count": 5,
-              "pct": 13.88888888888889
+              "pct": 12.820512820512821
             },
             "insurer": {
               "count": 2,
-              "pct": 5.555555555555555
+              "pct": 5.128205128205129
             },
             "video": {
-              "count": 2,
-              "pct": 5.555555555555555
+              "count": 3,
+              "pct": 7.6923076923076925
             }
           }
         },
         "patient": {
-          "n": 210,
+          "n": 240,
           "classes": {
+            "academic": {
+              "count": 1,
+              "pct": 0.4166666666666667
+            },
             "advocacy": {
-              "count": 28,
-              "pct": 13.333333333333334
+              "count": 30,
+              "pct": 12.5
             },
             "commerce": {
-              "count": 25,
-              "pct": 11.904761904761905
+              "count": 28,
+              "pct": 11.666666666666666
             },
             "consumer_health": {
-              "count": 30,
-              "pct": 14.285714285714286
+              "count": 34,
+              "pct": 14.166666666666666
             },
             "gov_health": {
-              "count": 35,
-              "pct": 16.666666666666668
+              "count": 41,
+              "pct": 17.083333333333332
             },
             "health_system": {
-              "count": 62,
-              "pct": 29.523809523809526
+              "count": 70,
+              "pct": 29.166666666666668
             },
             "manufacturer": {
-              "count": 15,
-              "pct": 7.142857142857143
+              "count": 17,
+              "pct": 7.083333333333333
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 0.4166666666666667
             },
             "video": {
-              "count": 15,
-              "pct": 7.142857142857143
+              "count": 18,
+              "pct": 7.5
             }
           }
         }
       },
       "by_condition": {
         "hypertension": {
-          "n": 102,
+          "n": 117,
           "classes": {
             "academic": {
-              "count": 10,
-              "pct": 9.803921568627452
+              "count": 12,
+              "pct": 10.256410256410257
             },
             "advocacy": {
-              "count": 16,
-              "pct": 15.686274509803921
+              "count": 18,
+              "pct": 15.384615384615385
             },
             "clinical_reference": {
               "count": 1,
-              "pct": 0.9803921568627451
+              "pct": 0.8547008547008547
             },
             "commerce": {
-              "count": 13,
-              "pct": 12.745098039215685
+              "count": 14,
+              "pct": 11.965811965811966
             },
             "consumer_health": {
-              "count": 11,
-              "pct": 10.784313725490197
+              "count": 12,
+              "pct": 10.256410256410257
             },
             "gov_health": {
-              "count": 30,
-              "pct": 29.41176470588235
+              "count": 32,
+              "pct": 27.35042735042735
             },
             "health_system": {
-              "count": 20,
-              "pct": 19.607843137254903
+              "count": 23,
+              "pct": 19.65811965811966
+            },
+            "unclassified": {
+              "count": 1,
+              "pct": 0.8547008547008547
             },
             "video": {
-              "count": 1,
-              "pct": 0.9803921568627451
+              "count": 4,
+              "pct": 3.4188034188034186
             }
           }
         },
         "pulmonary_arterial_hypertension": {
-          "n": 42,
+          "n": 48,
           "classes": {
             "advocacy": {
-              "count": 7,
+              "count": 8,
               "pct": 16.666666666666668
             },
             "commerce": {
-              "count": 7,
+              "count": 8,
               "pct": 16.666666666666668
             },
             "consumer_health": {
-              "count": 2,
-              "pct": 4.761904761904762
+              "count": 3,
+              "pct": 6.25
+            },
+            "gov_health": {
+              "count": 1,
+              "pct": 2.0833333333333335
             },
             "health_system": {
-              "count": 14,
-              "pct": 33.333333333333336
+              "count": 15,
+              "pct": 31.25
             },
             "manufacturer": {
-              "count": 12,
-              "pct": 28.571428571428573
+              "count": 13,
+              "pct": 27.083333333333332
             }
           }
         },
         "type_2_diabetes": {
-          "n": 102,
+          "n": 114,
           "classes": {
             "academic": {
               "count": 2,
-              "pct": 1.9607843137254901
+              "pct": 1.7543859649122806
             },
             "advocacy": {
               "count": 7,
-              "pct": 6.862745098039215
+              "pct": 6.140350877192983
             },
             "clinical_reference": {
               "count": 7,
-              "pct": 6.862745098039215
+              "pct": 6.140350877192983
             },
             "commerce": {
-              "count": 10,
-              "pct": 9.803921568627452
+              "count": 11,
+              "pct": 9.649122807017545
             },
             "consumer_health": {
-              "count": 17,
+              "count": 19,
               "pct": 16.666666666666668
             },
             "gov_health": {
-              "count": 10,
-              "pct": 9.803921568627452
+              "count": 13,
+              "pct": 11.403508771929825
             },
             "health_system": {
-              "count": 28,
-              "pct": 27.45098039215686
+              "count": 32,
+              "pct": 28.07017543859649
             },
             "insurer": {
               "count": 2,
-              "pct": 1.9607843137254901
+              "pct": 1.7543859649122806
             },
             "manufacturer": {
-              "count": 3,
-              "pct": 2.9411764705882355
+              "count": 4,
+              "pct": 3.508771929824561
             },
             "video": {
-              "count": 16,
-              "pct": 15.686274509803921
+              "count": 17,
+              "pct": 14.912280701754385
             }
           }
         }
       },
-      "n": 246
+      "n": 279
     }
   },
   "manufacturer_presence": {
     "t2d_branded": {
-      "n_citations": 57,
-      "n_manufacturer": 9,
+      "n_citations": 65,
+      "n_manufacturer": 10,
       "any_manufacturer": true,
-      "n": 57,
+      "n": 65,
       "by_run": [
         {
           "run_id": "20260912T021246Z",
@@ -5663,14 +6365,22 @@
           "n_manufacturer": 2,
           "any_manufacturer": true,
           "n": 9
+        },
+        {
+          "run_id": "20260916T175215Z",
+          "fetched_at": "2026-09-16T17:52:18Z",
+          "n_citations": 8,
+          "n_manufacturer": 1,
+          "any_manufacturer": true,
+          "n": 8
         }
       ]
     },
     "htn_branded": {
-      "n_citations": 43,
+      "n_citations": 50,
       "n_manufacturer": 0,
       "any_manufacturer": false,
-      "n": 43,
+      "n": 50,
       "by_run": [
         {
           "run_id": "20260912T021246Z",
@@ -5727,14 +6437,22 @@
           "n_manufacturer": 0,
           "any_manufacturer": false,
           "n": 3
+        },
+        {
+          "run_id": "20260916T175215Z",
+          "fetched_at": "2026-09-16T17:53:09Z",
+          "n_citations": 7,
+          "n_manufacturer": 0,
+          "any_manufacturer": false,
+          "n": 7
         }
       ]
     },
     "pah_branded": {
-      "n_citations": 50,
-      "n_manufacturer": 19,
+      "n_citations": 55,
+      "n_manufacturer": 21,
       "any_manufacturer": true,
-      "n": 50,
+      "n": 55,
       "by_run": [
         {
           "run_id": "20260912T021246Z",
@@ -5787,6 +6505,14 @@
         {
           "run_id": "20260915T175019Z",
           "fetched_at": "2026-09-15T17:51:40Z",
+          "n_citations": 5,
+          "n_manufacturer": 2,
+          "any_manufacturer": true,
+          "n": 5
+        },
+        {
+          "run_id": "20260916T175215Z",
+          "fetched_at": "2026-09-16T17:53:45Z",
           "n_citations": 5,
           "n_manufacturer": 2,
           "any_manufacturer": true,
