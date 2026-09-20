@@ -1,104 +1,104 @@
 {
-  "n_manifest_rows": 132,
-  "n_citations": 975,
-  "n_answers": 128,
+  "n_manifest_rows": 144,
+  "n_citations": 1082,
+  "n_answers": 140,
   "aio_presence": {
     "by_query": {
       "t2d_symptoms": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "t2d_diagnosis": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "t2d_treatment": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "t2d_branded": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "t2d_hcp": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 9,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 10,
         "runs_failed_fetch": 1,
         "runs_genuine_absence": 1,
-        "presence_rate": 0.8181818181818182,
-        "n": 11
+        "presence_rate": 0.8333333333333334,
+        "n": 12
       },
       "htn_symptoms": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "htn_diagnosis": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "htn_treatment": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 10,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 11,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 1,
-        "presence_rate": 0.9090909090909091,
-        "n": 11
+        "presence_rate": 0.9166666666666666,
+        "n": 12
       },
       "htn_branded": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "htn_hcp": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 10,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 11,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 1,
-        "presence_rate": 0.9090909090909091,
-        "n": 11
+        "presence_rate": 0.9166666666666666,
+        "n": 12
       },
       "pah_symptoms": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       },
       "pah_branded": {
-        "runs_attempted": 11,
-        "runs_with_complete_aio": 11,
+        "runs_attempted": 12,
+        "runs_with_complete_aio": 12,
         "runs_failed_fetch": 0,
         "runs_genuine_absence": 0,
         "presence_rate": 1.0,
-        "n": 11
+        "n": 12
       }
     },
     "n_queries": 12
@@ -106,90 +106,90 @@
   "delivery_mode": {
     "by_query": {
       "t2d_symptoms": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "t2d_diagnosis": {
-        "inline": 10,
+        "inline": 11,
         "expanded": 1,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "t2d_treatment": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "t2d_branded": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "t2d_hcp": {
         "inline": 0,
-        "expanded": 9,
+        "expanded": 10,
         "none": 2,
-        "n": 11
+        "n": 12
       },
       "htn_symptoms": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "htn_diagnosis": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "htn_treatment": {
-        "inline": 9,
+        "inline": 10,
         "expanded": 1,
         "none": 1,
-        "n": 11
+        "n": 12
       },
       "htn_branded": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "htn_hcp": {
         "inline": 0,
-        "expanded": 10,
+        "expanded": 11,
         "none": 1,
-        "n": 11
+        "n": 12
       },
       "pah_symptoms": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       },
       "pah_branded": {
-        "inline": 11,
+        "inline": 12,
         "expanded": 0,
         "none": 0,
-        "n": 11
+        "n": 12
       }
     },
     "by_audience": {
       "patient": {
-        "inline": 107,
+        "inline": 117,
         "expanded": 2,
         "none": 0,
-        "n": 109
+        "n": 119
       },
       "hcp": {
         "inline": 0,
-        "expanded": 19,
+        "expanded": 21,
         "none": 0,
-        "n": 19
+        "n": 21
       }
     }
   },
@@ -287,9 +287,18 @@
               "jaccard": 0.2,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:28Z",
+              "fetched_at_b": "2026-09-20T17:09:33Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -301,7 +310,8 @@
             0.5,
             0.15384615384615385,
             0.25,
-            0.2
+            0.2,
+            1.0
           ]
         },
         "t2d_diagnosis": {
@@ -395,9 +405,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:32Z",
+              "fetched_at_b": "2026-09-20T17:10:16Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -409,6 +428,7 @@
             1.0,
             0.4,
             0.2,
+            1.0,
             1.0
           ]
         },
@@ -503,9 +523,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:46Z",
+              "fetched_at_b": "2026-09-20T17:10:19Z",
+              "jaccard": 0.35714285714285715,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -517,7 +546,8 @@
             0.1875,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.35714285714285715
           ]
         },
         "t2d_branded": {
@@ -611,9 +641,18 @@
               "jaccard": 0.36363636363636365,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:01Z",
+              "fetched_at_b": "2026-09-20T17:10:42Z",
+              "jaccard": 0.3333333333333333,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -625,7 +664,8 @@
             0.5454545454545454,
             0.7,
             0.5454545454545454,
-            0.36363636363636365
+            0.36363636363636365,
+            0.3333333333333333
           ]
         },
         "t2d_hcp": {
@@ -701,9 +741,18 @@
               "jaccard": 0.23076923076923078,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:02Z",
+              "fetched_at_b": "2026-09-20T17:10:48Z",
+              "jaccard": 0.1875,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 8,
+          "n_pairs": 9,
           "n_null_excluded": 0,
           "values": [
             0.3333333333333333,
@@ -713,7 +762,8 @@
             0.21428571428571427,
             0.5,
             0.46153846153846156,
-            0.23076923076923078
+            0.23076923076923078,
+            0.1875
           ]
         },
         "htn_symptoms": {
@@ -807,9 +857,18 @@
               "jaccard": 0.6666666666666666,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:04Z",
+              "fetched_at_b": "2026-09-20T17:11:05Z",
+              "jaccard": 0.3333333333333333,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -821,7 +880,8 @@
             0.2222222222222222,
             0.4,
             0.625,
-            0.6666666666666666
+            0.6666666666666666,
+            0.3333333333333333
           ]
         },
         "htn_diagnosis": {
@@ -915,9 +975,18 @@
               "jaccard": 0.4,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:24Z",
+              "fetched_at_b": "2026-09-20T17:11:14Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -929,7 +998,8 @@
             0.42857142857142855,
             0.5,
             0.625,
-            0.4
+            0.4,
+            1.0
           ]
         },
         "htn_treatment": {
@@ -1014,9 +1084,18 @@
               "jaccard": 0.3333333333333333,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:33Z",
+              "fetched_at_b": "2026-09-20T17:11:15Z",
+              "jaccard": 0.4,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1027,7 +1106,8 @@
             1.0,
             0.2,
             1.0,
-            0.3333333333333333
+            0.3333333333333333,
+            0.4
           ]
         },
         "htn_branded": {
@@ -1121,9 +1201,18 @@
               "jaccard": 0.45454545454545453,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:48Z",
+              "fetched_at_b": "2026-09-20T17:11:17Z",
+              "jaccard": 0.3076923076923077,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1135,7 +1224,8 @@
             0.42857142857142855,
             0.5555555555555556,
             0.36363636363636365,
-            0.45454545454545453
+            0.45454545454545453,
+            0.3076923076923077
           ]
         },
         "htn_hcp": {
@@ -1220,9 +1310,18 @@
               "jaccard": 0.42857142857142855,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:05Z",
+              "fetched_at_b": "2026-09-20T17:11:22Z",
+              "jaccard": 0.5833333333333334,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             0.5384615384615384,
@@ -1233,7 +1332,8 @@
             0.14285714285714285,
             0.5454545454545454,
             0.6153846153846154,
-            0.42857142857142855
+            0.42857142857142855,
+            0.5833333333333334
           ]
         },
         "pah_symptoms": {
@@ -1327,9 +1427,18 @@
               "jaccard": 0.3,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:27Z",
+              "fetched_at_b": "2026-09-20T17:11:44Z",
+              "jaccard": 0.45454545454545453,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1341,7 +1450,8 @@
             0.4444444444444444,
             1.0,
             1.0,
-            0.3
+            0.3,
+            0.45454545454545453
           ]
         },
         "pah_branded": {
@@ -1435,9 +1545,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:28Z",
+              "fetched_at_b": "2026-09-20T17:11:45Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1449,11 +1568,12 @@
             1.0,
             1.0,
             0.4444444444444444,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 116,
+      "n_pairs": 128,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -1467,6 +1587,7 @@
         0.25,
         0.2,
         1.0,
+        1.0,
         0.4,
         1.0,
         1.0,
@@ -1482,10 +1603,12 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.1875,
         1.0,
         1.0,
         1.0,
+        0.35714285714285715,
         1.0,
         1.0,
         0.2857142857142857,
@@ -1497,6 +1620,7 @@
         0.5454545454545454,
         0.36363636363636365,
         0.3333333333333333,
+        0.3333333333333333,
         0.13333333333333333,
         0.09090909090909091,
         0.06666666666666667,
@@ -1504,6 +1628,7 @@
         0.5,
         0.46153846153846156,
         0.23076923076923078,
+        0.1875,
         1.0,
         1.0,
         0.25,
@@ -1514,6 +1639,7 @@
         0.4,
         0.625,
         0.6666666666666666,
+        0.3333333333333333,
         1.0,
         1.0,
         1.0,
@@ -1530,9 +1656,11 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.2,
         1.0,
         0.3333333333333333,
+        0.4,
         1.0,
         1.0,
         0.4,
@@ -1543,6 +1671,7 @@
         0.5555555555555556,
         0.36363636363636365,
         0.45454545454545453,
+        0.3076923076923077,
         0.5384615384615384,
         0.35714285714285715,
         0.13333333333333333,
@@ -1552,6 +1681,7 @@
         0.5454545454545454,
         0.6153846153846154,
         0.42857142857142855,
+        0.5833333333333334,
         1.0,
         1.0,
         1.0,
@@ -1562,6 +1692,7 @@
         1.0,
         1.0,
         0.3,
+        0.45454545454545453,
         1.0,
         1.0,
         1.0,
@@ -1571,6 +1702,7 @@
         1.0,
         1.0,
         0.4444444444444444,
+        1.0,
         1.0
       ]
     },
@@ -1667,9 +1799,18 @@
               "jaccard": 0.3333333333333333,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:28Z",
+              "fetched_at_b": "2026-09-20T17:09:33Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1681,7 +1822,8 @@
             0.5,
             0.3,
             0.3333333333333333,
-            0.3333333333333333
+            0.3333333333333333,
+            1.0
           ]
         },
         "t2d_diagnosis": {
@@ -1775,9 +1917,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:32Z",
+              "fetched_at_b": "2026-09-20T17:10:16Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1789,6 +1940,7 @@
             1.0,
             0.5,
             0.2727272727272727,
+            1.0,
             1.0
           ]
         },
@@ -1883,9 +2035,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:46Z",
+              "fetched_at_b": "2026-09-20T17:10:19Z",
+              "jaccard": 0.38461538461538464,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -1897,7 +2058,8 @@
             0.23076923076923078,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.38461538461538464
           ]
         },
         "t2d_branded": {
@@ -1991,9 +2153,18 @@
               "jaccard": 0.5555555555555556,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:01Z",
+              "fetched_at_b": "2026-09-20T17:10:42Z",
+              "jaccard": 0.625,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2005,7 +2176,8 @@
             0.75,
             0.75,
             0.875,
-            0.5555555555555556
+            0.5555555555555556,
+            0.625
           ]
         },
         "t2d_hcp": {
@@ -2081,9 +2253,18 @@
               "jaccard": 0.6666666666666666,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:02Z",
+              "fetched_at_b": "2026-09-20T17:10:48Z",
+              "jaccard": 0.4166666666666667,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 8,
+          "n_pairs": 9,
           "n_null_excluded": 0,
           "values": [
             0.5454545454545454,
@@ -2093,7 +2274,8 @@
             0.4444444444444444,
             0.75,
             0.6666666666666666,
-            0.6666666666666666
+            0.6666666666666666,
+            0.4166666666666667
           ]
         },
         "htn_symptoms": {
@@ -2187,9 +2369,18 @@
               "jaccard": 0.6666666666666666,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:04Z",
+              "fetched_at_b": "2026-09-20T17:11:05Z",
+              "jaccard": 0.375,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2201,7 +2392,8 @@
             0.25,
             0.3333333333333333,
             0.7142857142857143,
-            0.6666666666666666
+            0.6666666666666666,
+            0.375
           ]
         },
         "htn_diagnosis": {
@@ -2295,9 +2487,18 @@
               "jaccard": 0.5555555555555556,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:24Z",
+              "fetched_at_b": "2026-09-20T17:11:14Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2309,7 +2510,8 @@
             0.3333333333333333,
             0.5714285714285714,
             0.625,
-            0.5555555555555556
+            0.5555555555555556,
+            1.0
           ]
         },
         "htn_treatment": {
@@ -2394,9 +2596,18 @@
               "jaccard": 0.5,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:33Z",
+              "fetched_at_b": "2026-09-20T17:11:15Z",
+              "jaccard": 0.7142857142857143,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2407,7 +2618,8 @@
             1.0,
             0.5,
             1.0,
-            0.5
+            0.5,
+            0.7142857142857143
           ]
         },
         "htn_branded": {
@@ -2501,9 +2713,18 @@
               "jaccard": 0.6666666666666666,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:48Z",
+              "fetched_at_b": "2026-09-20T17:11:17Z",
+              "jaccard": 0.36363636363636365,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2515,7 +2736,8 @@
             0.42857142857142855,
             0.5555555555555556,
             0.5555555555555556,
-            0.6666666666666666
+            0.6666666666666666,
+            0.36363636363636365
           ]
         },
         "htn_hcp": {
@@ -2600,9 +2822,18 @@
               "jaccard": 0.6666666666666666,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:05Z",
+              "fetched_at_b": "2026-09-20T17:11:22Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             0.8571428571428571,
@@ -2613,7 +2844,8 @@
             0.3333333333333333,
             0.8333333333333334,
             0.5555555555555556,
-            0.6666666666666666
+            0.6666666666666666,
+            1.0
           ]
         },
         "pah_symptoms": {
@@ -2707,9 +2939,18 @@
               "jaccard": 0.4444444444444444,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:27Z",
+              "fetched_at_b": "2026-09-20T17:11:44Z",
+              "jaccard": 0.5,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2721,7 +2962,8 @@
             0.5,
             1.0,
             1.0,
-            0.4444444444444444
+            0.4444444444444444,
+            0.5
           ]
         },
         "pah_branded": {
@@ -2815,9 +3057,18 @@
               "jaccard": 1.0,
               "jaccard_note": null,
               "n": 2
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:28Z",
+              "fetched_at_b": "2026-09-20T17:11:45Z",
+              "jaccard": 1.0,
+              "jaccard_note": null,
+              "n": 2
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -2829,11 +3080,12 @@
             1.0,
             1.0,
             0.6666666666666666,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 116,
+      "n_pairs": 128,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -2846,6 +3098,7 @@
         0.3,
         0.3333333333333333,
         0.3333333333333333,
+        1.0,
         1.0,
         0.4444444444444444,
         1.0,
@@ -2862,10 +3115,12 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.23076923076923078,
         1.0,
         1.0,
         1.0,
+        0.38461538461538464,
         1.0,
         1.0,
         0.7142857142857143,
@@ -2876,6 +3131,7 @@
         0.75,
         0.875,
         0.5555555555555556,
+        0.625,
         0.5454545454545454,
         0.3,
         0.25,
@@ -2884,6 +3140,7 @@
         0.75,
         0.6666666666666666,
         0.6666666666666666,
+        0.4166666666666667,
         1.0,
         1.0,
         0.25,
@@ -2894,6 +3151,7 @@
         0.3333333333333333,
         0.7142857142857143,
         0.6666666666666666,
+        0.375,
         1.0,
         1.0,
         1.0,
@@ -2910,9 +3168,11 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.5,
         1.0,
         0.5,
+        0.7142857142857143,
         1.0,
         1.0,
         0.4,
@@ -2923,6 +3183,7 @@
         0.5555555555555556,
         0.5555555555555556,
         0.6666666666666666,
+        0.36363636363636365,
         0.8571428571428571,
         0.625,
         0.3333333333333333,
@@ -2938,10 +3199,12 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.5,
         1.0,
         1.0,
         0.4444444444444444,
+        0.5,
         1.0,
         1.0,
         1.0,
@@ -2951,6 +3214,7 @@
         1.0,
         1.0,
         0.6666666666666666,
+        1.0,
         1.0
       ]
     }
@@ -3059,9 +3323,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:28Z",
+              "fetched_at_b": "2026-09-20T17:09:33Z",
+              "rbo": 0.9999999999999999,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3073,7 +3347,8 @@
             0.6414759999999999,
             0.400177,
             0.44800669000000004,
-            0.10049343980522729
+            0.10049343980522729,
+            0.9999999999999999
           ]
         },
         "t2d_diagnosis": {
@@ -3177,9 +3452,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:32Z",
+              "fetched_at_b": "2026-09-20T17:10:16Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3191,6 +3476,7 @@
             1.0,
             0.4939692517928571,
             0.3006010306133766,
+            1.0,
             1.0
           ]
         },
@@ -3295,9 +3581,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:46Z",
+              "fetched_at_b": "2026-09-20T17:10:19Z",
+              "rbo": 0.6066441196428571,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             0.9999999999999999,
@@ -3309,7 +3605,8 @@
             0.43069736607142856,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.6066441196428571
           ]
         },
         "t2d_branded": {
@@ -3413,9 +3710,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:01Z",
+              "fetched_at_b": "2026-09-20T17:10:42Z",
+              "rbo": 0.4409093298214286,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3427,7 +3734,8 @@
             0.6095403096428571,
             0.8568403589285714,
             0.7752543239285716,
-            0.4589845714285714
+            0.4589845714285714,
+            0.4409093298214286
           ]
         },
         "t2d_hcp": {
@@ -3511,9 +3819,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:02Z",
+              "fetched_at_b": "2026-09-20T17:10:48Z",
+              "rbo": 0.3129862323214285,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 8,
+          "n_pairs": 9,
           "n_null_excluded": 0,
           "values": [
             0.2556380261877101,
@@ -3523,7 +3841,8 @@
             0.33828938035714284,
             0.7663093708269806,
             0.6542983305853896,
-            0.2919124285714286
+            0.2919124285714286,
+            0.3129862323214285
           ]
         },
         "htn_symptoms": {
@@ -3627,9 +3946,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:04Z",
+              "fetched_at_b": "2026-09-20T17:11:05Z",
+              "rbo": 0.64575,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3641,7 +3970,8 @@
             0.1748037857142857,
             0.3948325714285714,
             0.680013,
-            0.9292869999999999
+            0.9292869999999999,
+            0.64575
           ]
         },
         "htn_diagnosis": {
@@ -3745,9 +4075,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:24Z",
+              "fetched_at_b": "2026-09-20T17:11:14Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3759,7 +4099,8 @@
             0.64575,
             0.6414759999999999,
             0.798238,
-            0.5678990714285714
+            0.5678990714285714,
+            1.0
           ]
         },
         "htn_treatment": {
@@ -3853,9 +4194,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:33Z",
+              "fetched_at_b": "2026-09-20T17:11:15Z",
+              "rbo": 0.3817105714285714,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3866,7 +4217,8 @@
             1.0,
             0.2169816428571429,
             1.0,
-            0.3831267857142857
+            0.3831267857142857,
+            0.3817105714285714
           ]
         },
         "htn_branded": {
@@ -3970,9 +4322,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:48Z",
+              "fetched_at_b": "2026-09-20T17:11:17Z",
+              "rbo": 0.42614299285714285,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -3984,7 +4346,8 @@
             0.6178702857142857,
             0.6937827142857143,
             0.6982460714285712,
-            0.5510776339285715
+            0.5510776339285715,
+            0.42614299285714285
           ]
         },
         "htn_hcp": {
@@ -4078,9 +4441,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:05Z",
+              "fetched_at_b": "2026-09-20T17:11:22Z",
+              "rbo": 0.8443941689285713,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             0.7094942696928571,
@@ -4091,7 +4464,8 @@
             0.4332172857142857,
             0.7294084434357142,
             0.7227852076642856,
-            0.6979448225776623
+            0.6979448225776623,
+            0.8443941689285713
           ]
         },
         "pah_symptoms": {
@@ -4195,9 +4569,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:27Z",
+              "fetched_at_b": "2026-09-20T17:11:44Z",
+              "rbo": 0.3935505198214286,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -4209,7 +4593,8 @@
             0.5459811428571428,
             1.0,
             1.0,
-            0.398061
+            0.398061,
+            0.3935505198214286
           ]
         },
         "pah_branded": {
@@ -4313,9 +4698,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:28Z",
+              "fetched_at_b": "2026-09-20T17:11:45Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -4327,11 +4722,12 @@
             1.0,
             1.0,
             0.6348977392857142,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 116,
+      "n_pairs": 128,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -4344,6 +4740,7 @@
         0.400177,
         0.44800669000000004,
         0.10049343980522729,
+        0.9999999999999999,
         1.0,
         0.5404652392857143,
         1.0,
@@ -4353,6 +4750,7 @@
         1.0,
         0.4939692517928571,
         0.3006010306133766,
+        1.0,
         1.0,
         0.9999999999999999,
         0.9999999999999999,
@@ -4364,6 +4762,7 @@
         1.0,
         1.0,
         1.0,
+        0.6066441196428571,
         1.0,
         1.0,
         0.47245614247051937,
@@ -4374,6 +4773,7 @@
         0.8568403589285714,
         0.7752543239285716,
         0.4589845714285714,
+        0.4409093298214286,
         0.2556380261877101,
         0.285634446151736,
         0.25425,
@@ -4382,6 +4782,7 @@
         0.7663093708269806,
         0.6542983305853896,
         0.2919124285714286,
+        0.3129862323214285,
         1.0,
         1.0,
         0.5378272434357143,
@@ -4392,6 +4793,7 @@
         0.3948325714285714,
         0.680013,
         0.9292869999999999,
+        0.64575,
         1.0,
         1.0,
         1.0,
@@ -4408,9 +4810,11 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.2169816428571429,
         1.0,
         0.3831267857142857,
+        0.3817105714285714,
         1.0,
         1.0,
         0.823555,
@@ -4421,6 +4825,7 @@
         0.6937827142857143,
         0.6982460714285712,
         0.5510776339285715,
+        0.42614299285714285,
         0.7094942696928571,
         0.5581286967571428,
         0.3403547392857143,
@@ -4430,6 +4835,7 @@
         0.7294084434357142,
         0.7227852076642856,
         0.6979448225776623,
+        0.8443941689285713,
         1.0,
         1.0,
         1.0,
@@ -4440,6 +4846,7 @@
         1.0,
         1.0,
         0.398061,
+        0.3935505198214286,
         1.0,
         1.0,
         1.0,
@@ -4449,6 +4856,7 @@
         1.0,
         1.0,
         0.6348977392857142,
+        1.0,
         1.0
       ],
       "p": 0.9
@@ -4556,9 +4964,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:28Z",
+              "fetched_at_b": "2026-09-20T17:09:33Z",
+              "rbo": 0.9999999999999999,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -4570,7 +4988,8 @@
             0.6414759999999999,
             0.543061,
             0.6021099999999999,
-            0.306298398232987
+            0.306298398232987,
+            0.9999999999999999
           ]
         },
         "t2d_diagnosis": {
@@ -4674,9 +5093,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:32Z",
+              "fetched_at_b": "2026-09-20T17:10:16Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -4688,6 +5117,7 @@
             1.0,
             0.5654259932142858,
             0.42390691553571425,
+            1.0,
             1.0
           ]
         },
@@ -4792,9 +5222,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:55:46Z",
+              "fetched_at_b": "2026-09-20T17:10:19Z",
+              "rbo": 0.6273549965776624,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -4806,7 +5246,8 @@
             0.5051009285714285,
             1.0,
             1.0,
-            1.0
+            1.0,
+            0.6273549965776624
           ]
         },
         "t2d_branded": {
@@ -4910,9 +5351,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:01Z",
+              "fetched_at_b": "2026-09-20T17:10:42Z",
+              "rbo": 0.5993961428571429,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -4924,7 +5375,8 @@
             0.8558913571428572,
             0.8558913571428572,
             0.9156784696428573,
-            0.5693851125
+            0.5693851125,
+            0.5993961428571429
           ]
         },
         "t2d_hcp": {
@@ -5008,9 +5460,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:56:02Z",
+              "fetched_at_b": "2026-09-20T17:10:48Z",
+              "rbo": 0.5243026339285715,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 8,
+          "n_pairs": 9,
           "n_null_excluded": 0,
           "values": [
             0.45112680964285723,
@@ -5020,7 +5482,8 @@
             0.541476,
             0.9547749999999999,
             0.7656663571428572,
-            0.6656663571428572
+            0.6656663571428572,
+            0.5243026339285715
           ]
         },
         "htn_symptoms": {
@@ -5124,9 +5587,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:04Z",
+              "fetched_at_b": "2026-09-20T17:11:05Z",
+              "rbo": 0.64575,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -5138,7 +5611,8 @@
             0.209952,
             0.366714,
             0.680013,
-            0.9292869999999999
+            0.9292869999999999,
+            0.64575
           ]
         },
         "htn_diagnosis": {
@@ -5242,9 +5716,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:24Z",
+              "fetched_at_b": "2026-09-20T17:11:14Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -5256,7 +5740,8 @@
             0.585,
             0.7457499999999999,
             0.798238,
-            0.7120077142857142
+            0.7120077142857142,
+            1.0
           ]
         },
         "htn_treatment": {
@@ -5350,9 +5835,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:33Z",
+              "fetched_at_b": "2026-09-20T17:11:15Z",
+              "rbo": 0.6187917857142857,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -5363,7 +5858,8 @@
             1.0,
             0.44234678571428576,
             1.0,
-            0.5325717857142858
+            0.5325717857142858,
+            0.6187917857142857
           ]
         },
         "htn_branded": {
@@ -5467,9 +5963,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:57:48Z",
+              "fetched_at_b": "2026-09-20T17:11:17Z",
+              "rbo": 0.49086257142857137,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -5481,7 +5987,8 @@
             0.6178702857142857,
             0.6937827142857143,
             0.7971297142857142,
-            0.6926663571428571
+            0.6926663571428571,
+            0.49086257142857137
           ]
         },
         "htn_hcp": {
@@ -5575,9 +6082,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:05Z",
+              "fetched_at_b": "2026-09-20T17:11:22Z",
+              "rbo": 0.9770364999999999,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 9,
+          "n_pairs": 10,
           "n_null_excluded": 0,
           "values": [
             0.9060361428571428,
@@ -5588,7 +6105,8 @@
             0.647335,
             0.87697,
             0.753013,
-            0.8108913571428571
+            0.8108913571428571,
+            0.9770364999999999
           ]
         },
         "pah_symptoms": {
@@ -5692,9 +6210,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:27Z",
+              "fetched_at_b": "2026-09-20T17:11:44Z",
+              "rbo": 0.42761968392857147,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -5706,7 +6234,8 @@
             0.568476,
             1.0,
             1.0,
-            0.4739811428571428
+            0.4739811428571428,
+            0.42761968392857147
           ]
         },
         "pah_branded": {
@@ -5810,9 +6339,19 @@
               "rbo_note": null,
               "n": 2,
               "p": 0.9
+            },
+            {
+              "run_id_a": "20260919T165528Z",
+              "run_id_b": "20260920T170933Z",
+              "fetched_at_a": "2026-09-19T16:58:28Z",
+              "fetched_at_b": "2026-09-20T17:11:45Z",
+              "rbo": 1.0,
+              "rbo_note": null,
+              "n": 2,
+              "p": 0.9
             }
           ],
-          "n_pairs": 10,
+          "n_pairs": 11,
           "n_null_excluded": 0,
           "values": [
             1.0,
@@ -5824,11 +6363,12 @@
             0.9999999999999999,
             0.9999999999999999,
             0.889165,
+            1.0,
             1.0
           ]
         }
       },
-      "n_pairs": 116,
+      "n_pairs": 128,
       "n_null_excluded": 0,
       "values": [
         1.0,
@@ -5841,6 +6381,7 @@
         0.543061,
         0.6021099999999999,
         0.306298398232987,
+        0.9999999999999999,
         1.0,
         0.6189811428571428,
         1.0,
@@ -5857,10 +6398,12 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.5051009285714285,
         1.0,
         1.0,
         1.0,
+        0.6273549965776624,
         1.0,
         1.0,
         0.7544751428571429,
@@ -5871,6 +6414,7 @@
         0.8558913571428572,
         0.9156784696428573,
         0.5693851125,
+        0.5993961428571429,
         0.45112680964285723,
         0.4979004155357143,
         0.46349999999999997,
@@ -5879,6 +6423,7 @@
         0.9547749999999999,
         0.7656663571428572,
         0.6656663571428572,
+        0.5243026339285715,
         1.0,
         1.0,
         0.5378272434357143,
@@ -5889,6 +6434,7 @@
         0.366714,
         0.680013,
         0.9292869999999999,
+        0.64575,
         1.0,
         1.0,
         1.0,
@@ -5905,9 +6451,11 @@
         1.0,
         1.0,
         1.0,
+        1.0,
         0.44234678571428576,
         1.0,
         0.5325717857142858,
+        0.6187917857142857,
         1.0,
         1.0,
         0.823555,
@@ -5918,6 +6466,7 @@
         0.6937827142857143,
         0.7971297142857142,
         0.6926663571428571,
+        0.49086257142857137,
         0.9060361428571428,
         0.7800130000000001,
         0.583885,
@@ -5927,6 +6476,7 @@
         0.87697,
         0.753013,
         0.8108913571428571,
+        0.9770364999999999,
         1.0,
         1.0,
         1.0,
@@ -5937,6 +6487,7 @@
         1.0,
         1.0,
         0.4739811428571428,
+        0.42761968392857147,
         1.0,
         1.0,
         1.0,
@@ -5946,6 +6497,7 @@
         0.9999999999999999,
         0.9999999999999999,
         0.889165,
+        1.0,
         1.0
       ],
       "p": 0.9
@@ -5957,658 +6509,1427 @@
         "t2d_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.7468354430379747,
-              "n_instances": 79,
-              "n_pairs": 10,
-              "n_survived": 59
+              "rate": 0.7802197802197802,
+              "n_instances": 91,
+              "n_pairs": 11,
+              "n_survived": 71
             },
             "2": {
-              "rate": 0.6986301369863014,
-              "n_instances": 73,
-              "n_pairs": 9,
-              "n_survived": 51
+              "rate": 0.6835443037974683,
+              "n_instances": 79,
+              "n_pairs": 10,
+              "n_survived": 54
             },
             "3": {
-              "rate": 0.578125,
-              "n_instances": 64,
-              "n_pairs": 8,
-              "n_survived": 37
+              "rate": 0.5753424657534246,
+              "n_instances": 73,
+              "n_pairs": 9,
+              "n_survived": 42
             },
             "4": {
-              "rate": 0.4827586206896552,
-              "n_instances": 58,
-              "n_pairs": 7,
-              "n_survived": 28
+              "rate": 0.5,
+              "n_instances": 64,
+              "n_pairs": 8,
+              "n_survived": 32
             },
             "5": {
+              "rate": 0.5172413793103449,
+              "n_instances": 58,
+              "n_pairs": 7,
+              "n_survived": 30
+            },
+            "6": {
               "rate": 0.5,
               "n_instances": 52,
               "n_pairs": 6,
               "n_survived": 26
             },
-            "6": {
-              "rate": 0.4782608695652174,
+            "7": {
+              "rate": 0.5217391304347826,
               "n_instances": 46,
               "n_pairs": 5,
-              "n_survived": 22
-            },
-            "7": {
-              "rate": 0.5,
-              "n_instances": 40,
-              "n_pairs": 4,
-              "n_survived": 20
+              "n_survived": 24
             },
             "8": {
-              "rate": 0.5,
-              "n_instances": 30,
-              "n_pairs": 3,
-              "n_survived": 15
+              "rate": 0.55,
+              "n_instances": 40,
+              "n_pairs": 4,
+              "n_survived": 22
             },
             "9": {
-              "rate": 0.5,
-              "n_instances": 20,
-              "n_pairs": 2,
-              "n_survived": 10
+              "rate": 0.5666666666666667,
+              "n_instances": 30,
+              "n_pairs": 3,
+              "n_survived": 17
             },
             "10": {
+              "rate": 0.7,
+              "n_instances": 20,
+              "n_pairs": 2,
+              "n_survived": 14
+            },
+            "11": {
               "rate": 0.7,
               "n_instances": 10,
               "n_pairs": 1,
               "n_survived": 7
             }
           },
-          "n_complete_runs": 11,
-          "k_max": 10
+          "n_complete_runs": 12,
+          "k_max": 11
         },
         "t2d_diagnosis": {
           "by_k": {
             "1": {
-              "rate": 0.7804878048780488,
-              "n_instances": 82,
-              "n_pairs": 10,
-              "n_survived": 64
+              "rate": 0.797752808988764,
+              "n_instances": 89,
+              "n_pairs": 11,
+              "n_survived": 71
             },
             "2": {
-              "rate": 0.6133333333333333,
-              "n_instances": 75,
-              "n_pairs": 9,
-              "n_survived": 46
+              "rate": 0.6463414634146342,
+              "n_instances": 82,
+              "n_pairs": 10,
+              "n_survived": 53
             },
             "3": {
+              "rate": 0.52,
+              "n_instances": 75,
+              "n_pairs": 9,
+              "n_survived": 39
+            },
+            "4": {
               "rate": 0.5625,
               "n_instances": 64,
               "n_pairs": 8,
               "n_survived": 36
             },
-            "4": {
-              "rate": 0.5740740740740741,
+            "5": {
+              "rate": 0.5925925925925926,
               "n_instances": 54,
               "n_pairs": 7,
-              "n_survived": 31
+              "n_survived": 32
             },
-            "5": {
+            "6": {
               "rate": 0.6136363636363636,
               "n_instances": 44,
               "n_pairs": 6,
               "n_survived": 27
             },
-            "6": {
-              "rate": 0.6470588235294118,
+            "7": {
+              "rate": 0.7058823529411765,
               "n_instances": 34,
               "n_pairs": 5,
-              "n_survived": 22
-            },
-            "7": {
-              "rate": 0.7142857142857143,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 20
+              "n_survived": 24
             },
             "8": {
-              "rate": 0.6363636363636364,
-              "n_instances": 22,
-              "n_pairs": 3,
-              "n_survived": 14
+              "rate": 0.6428571428571429,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 18
             },
             "9": {
+              "rate": 0.45454545454545453,
+              "n_instances": 22,
+              "n_pairs": 3,
+              "n_survived": 10
+            },
+            "10": {
               "rate": 0.375,
               "n_instances": 16,
               "n_pairs": 2,
               "n_survived": 6
             },
-            "10": {
+            "11": {
               "rate": 0.375,
               "n_instances": 8,
               "n_pairs": 1,
               "n_survived": 3
             }
           },
-          "n_complete_runs": 11,
-          "k_max": 10
+          "n_complete_runs": 12,
+          "k_max": 11
         },
         "t2d_treatment": {
           "by_k": {
             "1": {
-              "rate": 0.9207920792079208,
-              "n_instances": 101,
-              "n_pairs": 10,
-              "n_survived": 93
+              "rate": 0.8990825688073395,
+              "n_instances": 109,
+              "n_pairs": 11,
+              "n_survived": 98
             },
             "2": {
-              "rate": 0.8279569892473119,
-              "n_instances": 93,
-              "n_pairs": 9,
-              "n_survived": 77
+              "rate": 0.8118811881188119,
+              "n_instances": 101,
+              "n_pairs": 10,
+              "n_survived": 82
             },
             "3": {
-              "rate": 0.7176470588235294,
-              "n_instances": 85,
-              "n_pairs": 8,
-              "n_survived": 61
+              "rate": 0.7096774193548387,
+              "n_instances": 93,
+              "n_pairs": 9,
+              "n_survived": 66
             },
             "4": {
-              "rate": 0.5844155844155844,
-              "n_instances": 77,
-              "n_pairs": 7,
-              "n_survived": 45
+              "rate": 0.5882352941176471,
+              "n_instances": 85,
+              "n_pairs": 8,
+              "n_survived": 50
             },
             "5": {
-              "rate": 0.5151515151515151,
-              "n_instances": 66,
-              "n_pairs": 6,
-              "n_survived": 34
+              "rate": 0.5324675324675324,
+              "n_instances": 77,
+              "n_pairs": 7,
+              "n_survived": 41
             },
             "6": {
-              "rate": 0.41818181818181815,
-              "n_instances": 55,
-              "n_pairs": 5,
-              "n_survived": 23
+              "rate": 0.45454545454545453,
+              "n_instances": 66,
+              "n_pairs": 6,
+              "n_survived": 30
             },
             "7": {
-              "rate": 0.2727272727272727,
-              "n_instances": 44,
-              "n_pairs": 4,
-              "n_survived": 12
+              "rate": 0.34545454545454546,
+              "n_instances": 55,
+              "n_pairs": 5,
+              "n_survived": 19
             },
             "8": {
-              "rate": 0.2727272727272727,
-              "n_instances": 33,
-              "n_pairs": 3,
-              "n_survived": 9
+              "rate": 0.36363636363636365,
+              "n_instances": 44,
+              "n_pairs": 4,
+              "n_survived": 16
             },
             "9": {
-              "rate": 0.2727272727272727,
-              "n_instances": 22,
-              "n_pairs": 2,
-              "n_survived": 6
+              "rate": 0.3939393939393939,
+              "n_instances": 33,
+              "n_pairs": 3,
+              "n_survived": 13
             },
             "10": {
-              "rate": 0.2727272727272727,
+              "rate": 0.45454545454545453,
+              "n_instances": 22,
+              "n_pairs": 2,
+              "n_survived": 10
+            },
+            "11": {
+              "rate": 0.6363636363636364,
               "n_instances": 11,
               "n_pairs": 1,
-              "n_survived": 3
+              "n_survived": 7
             }
           },
-          "n_complete_runs": 11,
-          "k_max": 10
+          "n_complete_runs": 12,
+          "k_max": 11
         },
         "t2d_branded": {
           "by_k": {
             "1": {
-              "rate": 0.6829268292682927,
-              "n_instances": 82,
-              "n_pairs": 10,
-              "n_survived": 56
+              "rate": 0.6741573033707865,
+              "n_instances": 89,
+              "n_pairs": 11,
+              "n_survived": 60
             },
             "2": {
-              "rate": 0.6486486486486487,
-              "n_instances": 74,
-              "n_pairs": 9,
-              "n_survived": 48
+              "rate": 0.6585365853658537,
+              "n_instances": 82,
+              "n_pairs": 10,
+              "n_survived": 54
             },
             "3": {
-              "rate": 0.6153846153846154,
-              "n_instances": 65,
-              "n_pairs": 8,
-              "n_survived": 40
+              "rate": 0.6216216216216216,
+              "n_instances": 74,
+              "n_pairs": 9,
+              "n_survived": 46
             },
             "4": {
-              "rate": 0.5964912280701754,
-              "n_instances": 57,
-              "n_pairs": 7,
-              "n_survived": 34
+              "rate": 0.6,
+              "n_instances": 65,
+              "n_pairs": 8,
+              "n_survived": 39
             },
             "5": {
-              "rate": 0.5625,
-              "n_instances": 48,
-              "n_pairs": 6,
-              "n_survived": 27
+              "rate": 0.5614035087719298,
+              "n_instances": 57,
+              "n_pairs": 7,
+              "n_survived": 32
             },
             "6": {
-              "rate": 0.5,
-              "n_instances": 40,
-              "n_pairs": 5,
-              "n_survived": 20
+              "rate": 0.5416666666666666,
+              "n_instances": 48,
+              "n_pairs": 6,
+              "n_survived": 26
             },
             "7": {
-              "rate": 0.59375,
-              "n_instances": 32,
-              "n_pairs": 4,
-              "n_survived": 19
+              "rate": 0.575,
+              "n_instances": 40,
+              "n_pairs": 5,
+              "n_survived": 23
             },
             "8": {
-              "rate": 0.5714285714285714,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 12
+              "rate": 0.53125,
+              "n_instances": 32,
+              "n_pairs": 4,
+              "n_survived": 17
             },
             "9": {
-              "rate": 0.5714285714285714,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 8
+              "rate": 0.6190476190476191,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 13
             },
             "10": {
-              "rate": 0.5714285714285714,
+              "rate": 0.6428571428571429,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 9
+            },
+            "11": {
+              "rate": 0.7142857142857143,
               "n_instances": 7,
               "n_pairs": 1,
-              "n_survived": 4
+              "n_survived": 5
             }
           },
-          "n_complete_runs": 11,
-          "k_max": 10
+          "n_complete_runs": 12,
+          "k_max": 11
         },
         "t2d_hcp": {
           "by_k": {
             "1": {
+              "rate": 0.3950617283950617,
+              "n_instances": 81,
+              "n_pairs": 9,
+              "n_survived": 32
+            },
+            "2": {
               "rate": 0.4027777777777778,
               "n_instances": 72,
               "n_pairs": 8,
               "n_survived": 29
             },
-            "2": {
-              "rate": 0.38461538461538464,
+            "3": {
+              "rate": 0.3076923076923077,
               "n_instances": 65,
               "n_pairs": 7,
-              "n_survived": 25
+              "n_survived": 20
             },
-            "3": {
+            "4": {
               "rate": 0.3018867924528302,
               "n_instances": 53,
               "n_pairs": 6,
               "n_survived": 16
             },
-            "4": {
-              "rate": 0.2727272727272727,
+            "5": {
+              "rate": 0.36363636363636365,
               "n_instances": 44,
               "n_pairs": 5,
-              "n_survived": 12
-            },
-            "5": {
-              "rate": 0.3888888888888889,
-              "n_instances": 36,
-              "n_pairs": 4,
-              "n_survived": 14
+              "n_survived": 16
             },
             "6": {
-              "rate": 0.32142857142857145,
-              "n_instances": 28,
-              "n_pairs": 3,
-              "n_survived": 9
+              "rate": 0.3611111111111111,
+              "n_instances": 36,
+              "n_pairs": 4,
+              "n_survived": 13
             },
             "7": {
+              "rate": 0.25,
+              "n_instances": 28,
+              "n_pairs": 3,
+              "n_survived": 7
+            },
+            "8": {
               "rate": 0.20833333333333334,
               "n_instances": 24,
               "n_pairs": 2,
               "n_survived": 5
             },
-            "8": {
-              "rate": 0.18181818181818182,
+            "9": {
+              "rate": 0.2727272727272727,
               "n_instances": 11,
               "n_pairs": 1,
-              "n_survived": 2
-            }
-          },
-          "n_complete_runs": 9,
-          "k_max": 8
-        },
-        "htn_symptoms": {
-          "by_k": {
-            "1": {
-              "rate": 0.7164179104477612,
-              "n_instances": 67,
-              "n_pairs": 10,
-              "n_survived": 48
-            },
-            "2": {
-              "rate": 0.5737704918032787,
-              "n_instances": 61,
-              "n_pairs": 9,
-              "n_survived": 35
-            },
-            "3": {
-              "rate": 0.5,
-              "n_instances": 54,
-              "n_pairs": 8,
-              "n_survived": 27
-            },
-            "4": {
-              "rate": 0.5106382978723404,
-              "n_instances": 47,
-              "n_pairs": 7,
-              "n_survived": 24
-            },
-            "5": {
-              "rate": 0.4418604651162791,
-              "n_instances": 43,
-              "n_pairs": 6,
-              "n_survived": 19
-            },
-            "6": {
-              "rate": 0.4,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 14
-            },
-            "7": {
-              "rate": 0.4,
-              "n_instances": 25,
-              "n_pairs": 4,
-              "n_survived": 10
-            },
-            "8": {
-              "rate": 0.4,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 6
-            },
-            "9": {
-              "rate": 0.4,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 4
-            },
-            "10": {
-              "rate": 0.4,
-              "n_instances": 5,
-              "n_pairs": 1,
-              "n_survived": 2
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "htn_diagnosis": {
-          "by_k": {
-            "1": {
-              "rate": 0.8070175438596491,
-              "n_instances": 57,
-              "n_pairs": 10,
-              "n_survived": 46
-            },
-            "2": {
-              "rate": 0.72,
-              "n_instances": 50,
-              "n_pairs": 9,
-              "n_survived": 36
-            },
-            "3": {
-              "rate": 0.6818181818181818,
-              "n_instances": 44,
-              "n_pairs": 8,
-              "n_survived": 30
-            },
-            "4": {
-              "rate": 0.5526315789473685,
-              "n_instances": 38,
-              "n_pairs": 7,
-              "n_survived": 21
-            },
-            "5": {
-              "rate": 0.5,
-              "n_instances": 34,
-              "n_pairs": 6,
-              "n_survived": 17
-            },
-            "6": {
-              "rate": 0.5333333333333333,
-              "n_instances": 30,
-              "n_pairs": 5,
-              "n_survived": 16
-            },
-            "7": {
-              "rate": 0.5,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 12
-            },
-            "8": {
-              "rate": 0.5,
-              "n_instances": 18,
-              "n_pairs": 3,
-              "n_survived": 9
-            },
-            "9": {
-              "rate": 0.5,
-              "n_instances": 12,
-              "n_pairs": 2,
-              "n_survived": 6
-            },
-            "10": {
-              "rate": 0.5,
-              "n_instances": 6,
-              "n_pairs": 1,
               "n_survived": 3
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "htn_treatment": {
-          "by_k": {
-            "1": {
-              "rate": 0.8813559322033898,
-              "n_instances": 59,
-              "n_pairs": 9,
-              "n_survived": 52
-            },
-            "2": {
-              "rate": 0.7777777777777778,
-              "n_instances": 54,
-              "n_pairs": 8,
-              "n_survived": 42
-            },
-            "3": {
-              "rate": 0.6938775510204082,
-              "n_instances": 49,
-              "n_pairs": 7,
-              "n_survived": 34
-            },
-            "4": {
-              "rate": 0.6428571428571429,
-              "n_instances": 42,
-              "n_pairs": 6,
-              "n_survived": 27
-            },
-            "5": {
-              "rate": 0.5714285714285714,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 20
-            },
-            "6": {
-              "rate": 0.4642857142857143,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 13
-            },
-            "7": {
-              "rate": 0.2857142857142857,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 6
-            },
-            "8": {
-              "rate": 0.2857142857142857,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 4
-            },
-            "9": {
-              "rate": 0.2857142857142857,
-              "n_instances": 7,
-              "n_pairs": 1,
-              "n_survived": 2
             }
           },
           "n_complete_runs": 10,
           "k_max": 9
         },
-        "htn_branded": {
+        "htn_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.7076923076923077,
-              "n_instances": 65,
-              "n_pairs": 10,
-              "n_survived": 46
+              "rate": 0.7183098591549296,
+              "n_instances": 71,
+              "n_pairs": 11,
+              "n_survived": 51
             },
             "2": {
-              "rate": 0.6842105263157895,
-              "n_instances": 57,
-              "n_pairs": 9,
-              "n_survived": 39
+              "rate": 0.5970149253731343,
+              "n_instances": 67,
+              "n_pairs": 10,
+              "n_survived": 40
             },
             "3": {
-              "rate": 0.66,
-              "n_instances": 50,
-              "n_pairs": 8,
-              "n_survived": 33
+              "rate": 0.5081967213114754,
+              "n_instances": 61,
+              "n_pairs": 9,
+              "n_survived": 31
             },
             "4": {
-              "rate": 0.6511627906976745,
-              "n_instances": 43,
-              "n_pairs": 7,
-              "n_survived": 28
+              "rate": 0.5,
+              "n_instances": 54,
+              "n_pairs": 8,
+              "n_survived": 27
             },
             "5": {
-              "rate": 0.6,
-              "n_instances": 40,
-              "n_pairs": 6,
-              "n_survived": 24
+              "rate": 0.48936170212765956,
+              "n_instances": 47,
+              "n_pairs": 7,
+              "n_survived": 23
             },
             "6": {
-              "rate": 0.5806451612903226,
-              "n_instances": 31,
-              "n_pairs": 5,
-              "n_survived": 18
+              "rate": 0.46511627906976744,
+              "n_instances": 43,
+              "n_pairs": 6,
+              "n_survived": 20
             },
             "7": {
-              "rate": 0.5833333333333334,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 14
+              "rate": 0.42857142857142855,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 15
             },
             "8": {
-              "rate": 0.6,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 9
+              "rate": 0.44,
+              "n_instances": 25,
+              "n_pairs": 4,
+              "n_survived": 11
             },
             "9": {
+              "rate": 0.5333333333333333,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 8
+            },
+            "10": {
               "rate": 0.6,
               "n_instances": 10,
               "n_pairs": 2,
               "n_survived": 6
             },
-            "10": {
+            "11": {
               "rate": 0.8,
               "n_instances": 5,
               "n_pairs": 1,
               "n_survived": 4
             }
           },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "htn_diagnosis": {
+          "by_k": {
+            "1": {
+              "rate": 0.828125,
+              "n_instances": 64,
+              "n_pairs": 11,
+              "n_survived": 53
+            },
+            "2": {
+              "rate": 0.7017543859649122,
+              "n_instances": 57,
+              "n_pairs": 10,
+              "n_survived": 40
+            },
+            "3": {
+              "rate": 0.68,
+              "n_instances": 50,
+              "n_pairs": 9,
+              "n_survived": 34
+            },
+            "4": {
+              "rate": 0.5909090909090909,
+              "n_instances": 44,
+              "n_pairs": 8,
+              "n_survived": 26
+            },
+            "5": {
+              "rate": 0.5,
+              "n_instances": 38,
+              "n_pairs": 7,
+              "n_survived": 19
+            },
+            "6": {
+              "rate": 0.5294117647058824,
+              "n_instances": 34,
+              "n_pairs": 6,
+              "n_survived": 18
+            },
+            "7": {
+              "rate": 0.5333333333333333,
+              "n_instances": 30,
+              "n_pairs": 5,
+              "n_survived": 16
+            },
+            "8": {
+              "rate": 0.5,
+              "n_instances": 24,
+              "n_pairs": 4,
+              "n_survived": 12
+            },
+            "9": {
+              "rate": 0.5,
+              "n_instances": 18,
+              "n_pairs": 3,
+              "n_survived": 9
+            },
+            "10": {
+              "rate": 0.5,
+              "n_instances": 12,
+              "n_pairs": 2,
+              "n_survived": 6
+            },
+            "11": {
+              "rate": 0.5,
+              "n_instances": 6,
+              "n_pairs": 1,
+              "n_survived": 3
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "htn_treatment": {
+          "by_k": {
+            "1": {
+              "rate": 0.8484848484848485,
+              "n_instances": 66,
+              "n_pairs": 10,
+              "n_survived": 56
+            },
+            "2": {
+              "rate": 0.7796610169491526,
+              "n_instances": 59,
+              "n_pairs": 9,
+              "n_survived": 46
+            },
+            "3": {
+              "rate": 0.7037037037037037,
+              "n_instances": 54,
+              "n_pairs": 8,
+              "n_survived": 38
+            },
+            "4": {
+              "rate": 0.6122448979591837,
+              "n_instances": 49,
+              "n_pairs": 7,
+              "n_survived": 30
+            },
+            "5": {
+              "rate": 0.5476190476190477,
+              "n_instances": 42,
+              "n_pairs": 6,
+              "n_survived": 23
+            },
+            "6": {
+              "rate": 0.45714285714285713,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 16
+            },
+            "7": {
+              "rate": 0.32142857142857145,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 9
+            },
+            "8": {
+              "rate": 0.3333333333333333,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 7
+            },
+            "9": {
+              "rate": 0.35714285714285715,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 5
+            },
+            "10": {
+              "rate": 0.42857142857142855,
+              "n_instances": 7,
+              "n_pairs": 1,
+              "n_survived": 3
+            }
+          },
           "n_complete_runs": 11,
           "k_max": 10
+        },
+        "htn_branded": {
+          "by_k": {
+            "1": {
+              "rate": 0.684931506849315,
+              "n_instances": 73,
+              "n_pairs": 11,
+              "n_survived": 50
+            },
+            "2": {
+              "rate": 0.6615384615384615,
+              "n_instances": 65,
+              "n_pairs": 10,
+              "n_survived": 43
+            },
+            "3": {
+              "rate": 0.6666666666666666,
+              "n_instances": 57,
+              "n_pairs": 9,
+              "n_survived": 38
+            },
+            "4": {
+              "rate": 0.66,
+              "n_instances": 50,
+              "n_pairs": 8,
+              "n_survived": 33
+            },
+            "5": {
+              "rate": 0.627906976744186,
+              "n_instances": 43,
+              "n_pairs": 7,
+              "n_survived": 27
+            },
+            "6": {
+              "rate": 0.6,
+              "n_instances": 40,
+              "n_pairs": 6,
+              "n_survived": 24
+            },
+            "7": {
+              "rate": 0.6129032258064516,
+              "n_instances": 31,
+              "n_pairs": 5,
+              "n_survived": 19
+            },
+            "8": {
+              "rate": 0.5833333333333334,
+              "n_instances": 24,
+              "n_pairs": 4,
+              "n_survived": 14
+            },
+            "9": {
+              "rate": 0.6666666666666666,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 10
+            },
+            "10": {
+              "rate": 0.8,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 8
+            },
+            "11": {
+              "rate": 0.8,
+              "n_instances": 5,
+              "n_pairs": 1,
+              "n_survived": 4
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
         },
         "htn_hcp": {
           "by_k": {
             "1": {
-              "rate": 0.5421686746987951,
-              "n_instances": 83,
-              "n_pairs": 9,
-              "n_survived": 45
+              "rate": 0.5652173913043478,
+              "n_instances": 92,
+              "n_pairs": 10,
+              "n_survived": 52
             },
             "2": {
+              "rate": 0.5783132530120482,
+              "n_instances": 83,
+              "n_pairs": 9,
+              "n_survived": 48
+            },
+            "3": {
               "rate": 0.5555555555555556,
               "n_instances": 72,
               "n_pairs": 8,
               "n_survived": 40
             },
-            "3": {
-              "rate": 0.5161290322580645,
+            "4": {
+              "rate": 0.5645161290322581,
               "n_instances": 62,
               "n_pairs": 7,
-              "n_survived": 32
-            },
-            "4": {
-              "rate": 0.5272727272727272,
-              "n_instances": 55,
-              "n_pairs": 6,
-              "n_survived": 29
+              "n_survived": 35
             },
             "5": {
+              "rate": 0.4909090909090909,
+              "n_instances": 55,
+              "n_pairs": 6,
+              "n_survived": 27
+            },
+            "6": {
               "rate": 0.5,
               "n_instances": 46,
               "n_pairs": 5,
               "n_survived": 23
             },
-            "6": {
+            "7": {
               "rate": 0.4864864864864865,
               "n_instances": 37,
               "n_pairs": 4,
               "n_survived": 18
             },
-            "7": {
+            "8": {
               "rate": 0.5172413793103449,
               "n_instances": 29,
               "n_pairs": 3,
               "n_survived": 15
             },
-            "8": {
-              "rate": 0.6,
+            "9": {
+              "rate": 0.55,
               "n_instances": 20,
+              "n_pairs": 2,
+              "n_survived": 11
+            },
+            "10": {
+              "rate": 0.5,
+              "n_instances": 10,
+              "n_pairs": 1,
+              "n_survived": 5
+            }
+          },
+          "n_complete_runs": 11,
+          "k_max": 10
+        },
+        "pah_symptoms": {
+          "by_k": {
+            "1": {
+              "rate": 0.8918918918918919,
+              "n_instances": 74,
+              "n_pairs": 11,
+              "n_survived": 66
+            },
+            "2": {
+              "rate": 0.835820895522388,
+              "n_instances": 67,
+              "n_pairs": 10,
+              "n_survived": 56
+            },
+            "3": {
+              "rate": 0.7704918032786885,
+              "n_instances": 61,
+              "n_pairs": 9,
+              "n_survived": 47
+            },
+            "4": {
+              "rate": 0.7454545454545455,
+              "n_instances": 55,
+              "n_pairs": 8,
+              "n_survived": 41
+            },
+            "5": {
+              "rate": 0.7346938775510204,
+              "n_instances": 49,
+              "n_pairs": 7,
+              "n_survived": 36
+            },
+            "6": {
+              "rate": 0.6904761904761905,
+              "n_instances": 42,
+              "n_pairs": 6,
+              "n_survived": 29
+            },
+            "7": {
+              "rate": 0.6285714285714286,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 22
+            },
+            "8": {
+              "rate": 0.6428571428571429,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 18
+            },
+            "9": {
+              "rate": 0.6666666666666666,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 14
+            },
+            "10": {
+              "rate": 0.7142857142857143,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 10
+            },
+            "11": {
+              "rate": 0.8571428571428571,
+              "n_instances": 7,
+              "n_pairs": 1,
+              "n_survived": 6
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "pah_branded": {
+          "by_k": {
+            "1": {
+              "rate": 0.9342105263157895,
+              "n_instances": 76,
+              "n_pairs": 11,
+              "n_survived": 71
+            },
+            "2": {
+              "rate": 0.8529411764705882,
+              "n_instances": 68,
+              "n_pairs": 10,
+              "n_survived": 58
+            },
+            "3": {
+              "rate": 0.75,
+              "n_instances": 60,
+              "n_pairs": 9,
+              "n_survived": 45
+            },
+            "4": {
+              "rate": 0.6545454545454545,
+              "n_instances": 55,
+              "n_pairs": 8,
+              "n_survived": 36
+            },
+            "5": {
+              "rate": 0.6,
+              "n_instances": 50,
+              "n_pairs": 7,
+              "n_survived": 30
+            },
+            "6": {
+              "rate": 0.6222222222222222,
+              "n_instances": 45,
+              "n_pairs": 6,
+              "n_survived": 28
+            },
+            "7": {
+              "rate": 0.65,
+              "n_instances": 40,
+              "n_pairs": 5,
+              "n_survived": 26
+            },
+            "8": {
+              "rate": 0.6875,
+              "n_instances": 32,
+              "n_pairs": 4,
+              "n_survived": 22
+            },
+            "9": {
+              "rate": 0.75,
+              "n_instances": 24,
+              "n_pairs": 3,
+              "n_survived": 18
+            },
+            "10": {
+              "rate": 0.75,
+              "n_instances": 16,
               "n_pairs": 2,
               "n_survived": 12
             },
-            "9": {
-              "rate": 0.6,
-              "n_instances": 10,
+            "11": {
+              "rate": 0.75,
+              "n_instances": 8,
               "n_pairs": 1,
               "n_survived": 6
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        }
+      },
+      "overall": {
+        "1": {
+          "rate": 0.7497435897435898,
+          "n_instances": 975,
+          "n_pairs": 128,
+          "n_survived": 731
+        },
+        "2": {
+          "rate": 0.6836734693877551,
+          "n_instances": 882,
+          "n_pairs": 116,
+          "n_survived": 603
+        },
+        "3": {
+          "rate": 0.6113207547169811,
+          "n_instances": 795,
+          "n_pairs": 104,
+          "n_survived": 486
+        },
+        "4": {
+          "rate": 0.5728571428571428,
+          "n_instances": 700,
+          "n_pairs": 92,
+          "n_survived": 401
+        },
+        "5": {
+          "rate": 0.5472312703583062,
+          "n_instances": 614,
+          "n_pairs": 80,
+          "n_survived": 336
+        },
+        "6": {
+          "rate": 0.527306967984934,
+          "n_instances": 531,
+          "n_pairs": 68,
+          "n_survived": 280
+        },
+        "7": {
+          "rate": 0.5056947608200456,
+          "n_instances": 439,
+          "n_pairs": 56,
+          "n_survived": 222
+        },
+        "8": {
+          "rate": 0.5042735042735043,
+          "n_instances": 351,
+          "n_pairs": 44,
+          "n_survived": 177
+        },
+        "9": {
+          "rate": 0.5368852459016393,
+          "n_instances": 244,
+          "n_pairs": 32,
+          "n_survived": 131
+        },
+        "10": {
+          "rate": 0.5894039735099338,
+          "n_instances": 151,
+          "n_pairs": 20,
+          "n_survived": 89
+        },
+        "11": {
+          "rate": 0.6716417910447762,
+          "n_instances": 67,
+          "n_pairs": 9,
+          "n_survived": 45
+        }
+      },
+      "k_max": 11
+    },
+    "domain": {
+      "by_query": {
+        "t2d_symptoms": {
+          "by_k": {
+            "1": {
+              "rate": 0.8275862068965517,
+              "n_instances": 87,
+              "n_pairs": 11,
+              "n_survived": 72
+            },
+            "2": {
+              "rate": 0.7236842105263158,
+              "n_instances": 76,
+              "n_pairs": 10,
+              "n_survived": 55
+            },
+            "3": {
+              "rate": 0.6197183098591549,
+              "n_instances": 71,
+              "n_pairs": 9,
+              "n_survived": 44
+            },
+            "4": {
+              "rate": 0.5625,
+              "n_instances": 64,
+              "n_pairs": 8,
+              "n_survived": 36
+            },
+            "5": {
+              "rate": 0.5689655172413793,
+              "n_instances": 58,
+              "n_pairs": 7,
+              "n_survived": 33
+            },
+            "6": {
+              "rate": 0.5769230769230769,
+              "n_instances": 52,
+              "n_pairs": 6,
+              "n_survived": 30
+            },
+            "7": {
+              "rate": 0.6304347826086957,
+              "n_instances": 46,
+              "n_pairs": 5,
+              "n_survived": 29
+            },
+            "8": {
+              "rate": 0.675,
+              "n_instances": 40,
+              "n_pairs": 4,
+              "n_survived": 27
+            },
+            "9": {
+              "rate": 0.7333333333333333,
+              "n_instances": 30,
+              "n_pairs": 3,
+              "n_survived": 22
+            },
+            "10": {
+              "rate": 0.9,
+              "n_instances": 20,
+              "n_pairs": 2,
+              "n_survived": 18
+            },
+            "11": {
+              "rate": 0.9,
+              "n_instances": 10,
+              "n_pairs": 1,
+              "n_survived": 9
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "t2d_diagnosis": {
+          "by_k": {
+            "1": {
+              "rate": 0.8205128205128205,
+              "n_instances": 78,
+              "n_pairs": 11,
+              "n_survived": 64
+            },
+            "2": {
+              "rate": 0.6712328767123288,
+              "n_instances": 73,
+              "n_pairs": 10,
+              "n_survived": 49
+            },
+            "3": {
+              "rate": 0.5441176470588235,
+              "n_instances": 68,
+              "n_pairs": 9,
+              "n_survived": 37
+            },
+            "4": {
+              "rate": 0.559322033898305,
+              "n_instances": 59,
+              "n_pairs": 8,
+              "n_survived": 33
+            },
+            "5": {
+              "rate": 0.6,
+              "n_instances": 50,
+              "n_pairs": 7,
+              "n_survived": 30
+            },
+            "6": {
+              "rate": 0.6341463414634146,
+              "n_instances": 41,
+              "n_pairs": 6,
+              "n_survived": 26
+            },
+            "7": {
+              "rate": 0.75,
+              "n_instances": 32,
+              "n_pairs": 5,
+              "n_survived": 24
+            },
+            "8": {
+              "rate": 0.6923076923076923,
+              "n_instances": 26,
+              "n_pairs": 4,
+              "n_survived": 18
+            },
+            "9": {
+              "rate": 0.5,
+              "n_instances": 20,
+              "n_pairs": 3,
+              "n_survived": 10
+            },
+            "10": {
+              "rate": 0.42857142857142855,
+              "n_instances": 14,
+              "n_pairs": 2,
+              "n_survived": 6
+            },
+            "11": {
+              "rate": 0.42857142857142855,
+              "n_instances": 7,
+              "n_pairs": 1,
+              "n_survived": 3
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "t2d_treatment": {
+          "by_k": {
+            "1": {
+              "rate": 0.9120879120879121,
+              "n_instances": 91,
+              "n_pairs": 11,
+              "n_survived": 83
+            },
+            "2": {
+              "rate": 0.8333333333333334,
+              "n_instances": 84,
+              "n_pairs": 10,
+              "n_survived": 70
+            },
+            "3": {
+              "rate": 0.7402597402597403,
+              "n_instances": 77,
+              "n_pairs": 9,
+              "n_survived": 57
+            },
+            "4": {
+              "rate": 0.6285714285714286,
+              "n_instances": 70,
+              "n_pairs": 8,
+              "n_survived": 44
+            },
+            "5": {
+              "rate": 0.5873015873015873,
+              "n_instances": 63,
+              "n_pairs": 7,
+              "n_survived": 37
+            },
+            "6": {
+              "rate": 0.5185185185185185,
+              "n_instances": 54,
+              "n_pairs": 6,
+              "n_survived": 28
+            },
+            "7": {
+              "rate": 0.4222222222222222,
+              "n_instances": 45,
+              "n_pairs": 5,
+              "n_survived": 19
+            },
+            "8": {
+              "rate": 0.4444444444444444,
+              "n_instances": 36,
+              "n_pairs": 4,
+              "n_survived": 16
+            },
+            "9": {
+              "rate": 0.48148148148148145,
+              "n_instances": 27,
+              "n_pairs": 3,
+              "n_survived": 13
+            },
+            "10": {
+              "rate": 0.5555555555555556,
+              "n_instances": 18,
+              "n_pairs": 2,
+              "n_survived": 10
+            },
+            "11": {
+              "rate": 0.7777777777777778,
+              "n_instances": 9,
+              "n_pairs": 1,
+              "n_survived": 7
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "t2d_branded": {
+          "by_k": {
+            "1": {
+              "rate": 0.8260869565217391,
+              "n_instances": 69,
+              "n_pairs": 11,
+              "n_survived": 57
+            },
+            "2": {
+              "rate": 0.873015873015873,
+              "n_instances": 63,
+              "n_pairs": 10,
+              "n_survived": 55
+            },
+            "3": {
+              "rate": 0.8545454545454545,
+              "n_instances": 55,
+              "n_pairs": 9,
+              "n_survived": 47
+            },
+            "4": {
+              "rate": 0.8541666666666666,
+              "n_instances": 48,
+              "n_pairs": 8,
+              "n_survived": 41
+            },
+            "5": {
+              "rate": 0.8780487804878049,
+              "n_instances": 41,
+              "n_pairs": 7,
+              "n_survived": 36
+            },
+            "6": {
+              "rate": 0.8823529411764706,
+              "n_instances": 34,
+              "n_pairs": 6,
+              "n_survived": 30
+            },
+            "7": {
+              "rate": 0.8928571428571429,
+              "n_instances": 28,
+              "n_pairs": 5,
+              "n_survived": 25
+            },
+            "8": {
+              "rate": 0.9090909090909091,
+              "n_instances": 22,
+              "n_pairs": 4,
+              "n_survived": 20
+            },
+            "9": {
+              "rate": 0.9333333333333333,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 14
+            },
+            "10": {
+              "rate": 0.9,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 9
+            },
+            "11": {
+              "rate": 1.0,
+              "n_instances": 5,
+              "n_pairs": 1,
+              "n_survived": 5
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "t2d_hcp": {
+          "by_k": {
+            "1": {
+              "rate": 0.6666666666666666,
+              "n_instances": 63,
+              "n_pairs": 9,
+              "n_survived": 42
+            },
+            "2": {
+              "rate": 0.7272727272727273,
+              "n_instances": 55,
+              "n_pairs": 8,
+              "n_survived": 40
+            },
+            "3": {
+              "rate": 0.6875,
+              "n_instances": 48,
+              "n_pairs": 7,
+              "n_survived": 33
+            },
+            "4": {
+              "rate": 0.675,
+              "n_instances": 40,
+              "n_pairs": 6,
+              "n_survived": 27
+            },
+            "5": {
+              "rate": 0.7058823529411765,
+              "n_instances": 34,
+              "n_pairs": 5,
+              "n_survived": 24
+            },
+            "6": {
+              "rate": 0.6296296296296297,
+              "n_instances": 27,
+              "n_pairs": 4,
+              "n_survived": 17
+            },
+            "7": {
+              "rate": 0.6190476190476191,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 13
+            },
+            "8": {
+              "rate": 0.5294117647058824,
+              "n_instances": 17,
+              "n_pairs": 2,
+              "n_survived": 9
+            },
+            "9": {
+              "rate": 0.5,
+              "n_instances": 8,
+              "n_pairs": 1,
+              "n_survived": 4
             }
           },
           "n_complete_runs": 10,
           "k_max": 9
         },
-        "pah_symptoms": {
+        "htn_symptoms": {
           "by_k": {
             "1": {
-              "rate": 0.9104477611940298,
-              "n_instances": 67,
-              "n_pairs": 10,
-              "n_survived": 61
+              "rate": 0.7246376811594203,
+              "n_instances": 69,
+              "n_pairs": 11,
+              "n_survived": 50
             },
             "2": {
-              "rate": 0.8524590163934426,
-              "n_instances": 61,
-              "n_pairs": 9,
-              "n_survived": 52
+              "rate": 0.6461538461538462,
+              "n_instances": 65,
+              "n_pairs": 10,
+              "n_survived": 42
             },
             "3": {
-              "rate": 0.7818181818181819,
-              "n_instances": 55,
+              "rate": 0.5423728813559322,
+              "n_instances": 59,
+              "n_pairs": 9,
+              "n_survived": 32
+            },
+            "4": {
+              "rate": 0.5283018867924528,
+              "n_instances": 53,
               "n_pairs": 8,
-              "n_survived": 43
+              "n_survived": 28
+            },
+            "5": {
+              "rate": 0.5106382978723404,
+              "n_instances": 47,
+              "n_pairs": 7,
+              "n_survived": 24
+            },
+            "6": {
+              "rate": 0.46511627906976744,
+              "n_instances": 43,
+              "n_pairs": 6,
+              "n_survived": 20
+            },
+            "7": {
+              "rate": 0.45714285714285713,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 16
+            },
+            "8": {
+              "rate": 0.48,
+              "n_instances": 25,
+              "n_pairs": 4,
+              "n_survived": 12
+            },
+            "9": {
+              "rate": 0.6,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 9
+            },
+            "10": {
+              "rate": 0.6,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 6
+            },
+            "11": {
+              "rate": 0.8,
+              "n_instances": 5,
+              "n_pairs": 1,
+              "n_survived": 4
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "htn_diagnosis": {
+          "by_k": {
+            "1": {
+              "rate": 0.8392857142857143,
+              "n_instances": 56,
+              "n_pairs": 11,
+              "n_survived": 47
+            },
+            "2": {
+              "rate": 0.7346938775510204,
+              "n_instances": 49,
+              "n_pairs": 10,
+              "n_survived": 36
+            },
+            "3": {
+              "rate": 0.7142857142857143,
+              "n_instances": 42,
+              "n_pairs": 9,
+              "n_survived": 30
+            },
+            "4": {
+              "rate": 0.6111111111111112,
+              "n_instances": 36,
+              "n_pairs": 8,
+              "n_survived": 22
+            },
+            "5": {
+              "rate": 0.5161290322580645,
+              "n_instances": 31,
+              "n_pairs": 7,
+              "n_survived": 16
+            },
+            "6": {
+              "rate": 0.5714285714285714,
+              "n_instances": 28,
+              "n_pairs": 6,
+              "n_survived": 16
+            },
+            "7": {
+              "rate": 0.6,
+              "n_instances": 25,
+              "n_pairs": 5,
+              "n_survived": 15
+            },
+            "8": {
+              "rate": 0.6,
+              "n_instances": 20,
+              "n_pairs": 4,
+              "n_survived": 12
+            },
+            "9": {
+              "rate": 0.6,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 9
+            },
+            "10": {
+              "rate": 0.6,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 6
+            },
+            "11": {
+              "rate": 0.6,
+              "n_instances": 5,
+              "n_pairs": 1,
+              "n_survived": 3
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "htn_treatment": {
+          "by_k": {
+            "1": {
+              "rate": 0.9090909090909091,
+              "n_instances": 66,
+              "n_pairs": 10,
+              "n_survived": 60
+            },
+            "2": {
+              "rate": 0.864406779661017,
+              "n_instances": 59,
+              "n_pairs": 9,
+              "n_survived": 51
+            },
+            "3": {
+              "rate": 0.8148148148148148,
+              "n_instances": 54,
+              "n_pairs": 8,
+              "n_survived": 44
             },
             "4": {
               "rate": 0.7551020408163265,
@@ -6656,1769 +7977,1164 @@
           "n_complete_runs": 11,
           "k_max": 10
         },
-        "pah_branded": {
-          "by_k": {
-            "1": {
-              "rate": 0.9264705882352942,
-              "n_instances": 68,
-              "n_pairs": 10,
-              "n_survived": 63
-            },
-            "2": {
-              "rate": 0.8333333333333334,
-              "n_instances": 60,
-              "n_pairs": 9,
-              "n_survived": 50
-            },
-            "3": {
-              "rate": 0.7454545454545455,
-              "n_instances": 55,
-              "n_pairs": 8,
-              "n_survived": 41
-            },
-            "4": {
-              "rate": 0.64,
-              "n_instances": 50,
-              "n_pairs": 7,
-              "n_survived": 32
-            },
-            "5": {
-              "rate": 0.5777777777777777,
-              "n_instances": 45,
-              "n_pairs": 6,
-              "n_survived": 26
-            },
-            "6": {
-              "rate": 0.6,
-              "n_instances": 40,
-              "n_pairs": 5,
-              "n_survived": 24
-            },
-            "7": {
-              "rate": 0.625,
-              "n_instances": 32,
-              "n_pairs": 4,
-              "n_survived": 20
-            },
-            "8": {
-              "rate": 0.6666666666666666,
-              "n_instances": 24,
-              "n_pairs": 3,
-              "n_survived": 16
-            },
-            "9": {
-              "rate": 0.75,
-              "n_instances": 16,
-              "n_pairs": 2,
-              "n_survived": 12
-            },
-            "10": {
-              "rate": 0.75,
-              "n_instances": 8,
-              "n_pairs": 1,
-              "n_survived": 6
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        }
-      },
-      "overall": {
-        "1": {
-          "rate": 0.7505668934240363,
-          "n_instances": 882,
-          "n_pairs": 116,
-          "n_survived": 662
-        },
-        "2": {
-          "rate": 0.680503144654088,
-          "n_instances": 795,
-          "n_pairs": 104,
-          "n_survived": 541
-        },
-        "3": {
-          "rate": 0.6142857142857143,
-          "n_instances": 700,
-          "n_pairs": 92,
-          "n_survived": 430
-        },
-        "4": {
-          "rate": 0.5667752442996743,
-          "n_instances": 614,
-          "n_pairs": 80,
-          "n_survived": 348
-        },
-        "5": {
-          "rate": 0.5404896421845574,
-          "n_instances": 531,
-          "n_pairs": 68,
-          "n_survived": 287
-        },
-        "6": {
-          "rate": 0.5056947608200456,
-          "n_instances": 439,
-          "n_pairs": 56,
-          "n_survived": 222
-        },
-        "7": {
-          "rate": 0.48148148148148145,
-          "n_instances": 351,
-          "n_pairs": 44,
-          "n_survived": 169
-        },
-        "8": {
-          "rate": 0.4918032786885246,
-          "n_instances": 244,
-          "n_pairs": 32,
-          "n_survived": 120
-        },
-        "9": {
-          "rate": 0.4900662251655629,
-          "n_instances": 151,
-          "n_pairs": 20,
-          "n_survived": 74
-        },
-        "10": {
-          "rate": 0.5373134328358209,
-          "n_instances": 67,
-          "n_pairs": 9,
-          "n_survived": 36
-        }
-      },
-      "k_max": 10
-    },
-    "domain": {
-      "by_query": {
-        "t2d_symptoms": {
-          "by_k": {
-            "1": {
-              "rate": 0.8026315789473685,
-              "n_instances": 76,
-              "n_pairs": 10,
-              "n_survived": 61
-            },
-            "2": {
-              "rate": 0.7183098591549296,
-              "n_instances": 71,
-              "n_pairs": 9,
-              "n_survived": 51
-            },
-            "3": {
-              "rate": 0.609375,
-              "n_instances": 64,
-              "n_pairs": 8,
-              "n_survived": 39
-            },
-            "4": {
-              "rate": 0.5172413793103449,
-              "n_instances": 58,
-              "n_pairs": 7,
-              "n_survived": 30
-            },
-            "5": {
-              "rate": 0.5384615384615384,
-              "n_instances": 52,
-              "n_pairs": 6,
-              "n_survived": 28
-            },
-            "6": {
-              "rate": 0.5434782608695652,
-              "n_instances": 46,
-              "n_pairs": 5,
-              "n_survived": 25
-            },
-            "7": {
-              "rate": 0.6,
-              "n_instances": 40,
-              "n_pairs": 4,
-              "n_survived": 24
-            },
-            "8": {
-              "rate": 0.6,
-              "n_instances": 30,
-              "n_pairs": 3,
-              "n_survived": 18
-            },
-            "9": {
-              "rate": 0.65,
-              "n_instances": 20,
-              "n_pairs": 2,
-              "n_survived": 13
-            },
-            "10": {
-              "rate": 0.9,
-              "n_instances": 10,
-              "n_pairs": 1,
-              "n_survived": 9
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "t2d_diagnosis": {
-          "by_k": {
-            "1": {
-              "rate": 0.8082191780821918,
-              "n_instances": 73,
-              "n_pairs": 10,
-              "n_survived": 59
-            },
-            "2": {
-              "rate": 0.6470588235294118,
-              "n_instances": 68,
-              "n_pairs": 9,
-              "n_survived": 44
-            },
-            "3": {
-              "rate": 0.576271186440678,
-              "n_instances": 59,
-              "n_pairs": 8,
-              "n_survived": 34
-            },
-            "4": {
-              "rate": 0.58,
-              "n_instances": 50,
-              "n_pairs": 7,
-              "n_survived": 29
-            },
-            "5": {
-              "rate": 0.6341463414634146,
-              "n_instances": 41,
-              "n_pairs": 6,
-              "n_survived": 26
-            },
-            "6": {
-              "rate": 0.6875,
-              "n_instances": 32,
-              "n_pairs": 5,
-              "n_survived": 22
-            },
-            "7": {
-              "rate": 0.7692307692307693,
-              "n_instances": 26,
-              "n_pairs": 4,
-              "n_survived": 20
-            },
-            "8": {
-              "rate": 0.7,
-              "n_instances": 20,
-              "n_pairs": 3,
-              "n_survived": 14
-            },
-            "9": {
-              "rate": 0.42857142857142855,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 6
-            },
-            "10": {
-              "rate": 0.42857142857142855,
-              "n_instances": 7,
-              "n_pairs": 1,
-              "n_survived": 3
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "t2d_treatment": {
-          "by_k": {
-            "1": {
-              "rate": 0.9285714285714286,
-              "n_instances": 84,
-              "n_pairs": 10,
-              "n_survived": 78
-            },
-            "2": {
-              "rate": 0.8441558441558441,
-              "n_instances": 77,
-              "n_pairs": 9,
-              "n_survived": 65
-            },
-            "3": {
-              "rate": 0.7428571428571429,
-              "n_instances": 70,
-              "n_pairs": 8,
-              "n_survived": 52
-            },
-            "4": {
-              "rate": 0.6190476190476191,
-              "n_instances": 63,
-              "n_pairs": 7,
-              "n_survived": 39
-            },
-            "5": {
-              "rate": 0.5555555555555556,
-              "n_instances": 54,
-              "n_pairs": 6,
-              "n_survived": 30
-            },
-            "6": {
-              "rate": 0.4666666666666667,
-              "n_instances": 45,
-              "n_pairs": 5,
-              "n_survived": 21
-            },
-            "7": {
-              "rate": 0.3333333333333333,
-              "n_instances": 36,
-              "n_pairs": 4,
-              "n_survived": 12
-            },
-            "8": {
-              "rate": 0.3333333333333333,
-              "n_instances": 27,
-              "n_pairs": 3,
-              "n_survived": 9
-            },
-            "9": {
-              "rate": 0.3333333333333333,
-              "n_instances": 18,
-              "n_pairs": 2,
-              "n_survived": 6
-            },
-            "10": {
-              "rate": 0.3333333333333333,
-              "n_instances": 9,
-              "n_pairs": 1,
-              "n_survived": 3
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "t2d_branded": {
-          "by_k": {
-            "1": {
-              "rate": 0.8253968253968254,
-              "n_instances": 63,
-              "n_pairs": 10,
-              "n_survived": 52
-            },
-            "2": {
-              "rate": 0.8727272727272727,
-              "n_instances": 55,
-              "n_pairs": 9,
-              "n_survived": 48
-            },
-            "3": {
-              "rate": 0.8541666666666666,
-              "n_instances": 48,
-              "n_pairs": 8,
-              "n_survived": 41
-            },
-            "4": {
-              "rate": 0.8536585365853658,
-              "n_instances": 41,
-              "n_pairs": 7,
-              "n_survived": 35
-            },
-            "5": {
-              "rate": 0.9117647058823529,
-              "n_instances": 34,
-              "n_pairs": 6,
-              "n_survived": 31
-            },
-            "6": {
-              "rate": 0.8571428571428571,
-              "n_instances": 28,
-              "n_pairs": 5,
-              "n_survived": 24
-            },
-            "7": {
-              "rate": 0.9545454545454546,
-              "n_instances": 22,
-              "n_pairs": 4,
-              "n_survived": 21
-            },
-            "8": {
-              "rate": 0.9333333333333333,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 14
-            },
-            "9": {
-              "rate": 0.9,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 9
-            },
-            "10": {
-              "rate": 0.8,
-              "n_instances": 5,
-              "n_pairs": 1,
-              "n_survived": 4
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "t2d_hcp": {
-          "by_k": {
-            "1": {
-              "rate": 0.6727272727272727,
-              "n_instances": 55,
-              "n_pairs": 8,
-              "n_survived": 37
-            },
-            "2": {
-              "rate": 0.75,
-              "n_instances": 48,
-              "n_pairs": 7,
-              "n_survived": 36
-            },
-            "3": {
-              "rate": 0.7,
-              "n_instances": 40,
-              "n_pairs": 6,
-              "n_survived": 28
-            },
-            "4": {
-              "rate": 0.6470588235294118,
-              "n_instances": 34,
-              "n_pairs": 5,
-              "n_survived": 22
-            },
-            "5": {
-              "rate": 0.7037037037037037,
-              "n_instances": 27,
-              "n_pairs": 4,
-              "n_survived": 19
-            },
-            "6": {
-              "rate": 0.5714285714285714,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 12
-            },
-            "7": {
-              "rate": 0.5882352941176471,
-              "n_instances": 17,
-              "n_pairs": 2,
-              "n_survived": 10
-            },
-            "8": {
-              "rate": 0.5,
-              "n_instances": 8,
-              "n_pairs": 1,
-              "n_survived": 4
-            }
-          },
-          "n_complete_runs": 9,
-          "k_max": 8
-        },
-        "htn_symptoms": {
-          "by_k": {
-            "1": {
-              "rate": 0.7230769230769231,
-              "n_instances": 65,
-              "n_pairs": 10,
-              "n_survived": 47
-            },
-            "2": {
-              "rate": 0.6271186440677966,
-              "n_instances": 59,
-              "n_pairs": 9,
-              "n_survived": 37
-            },
-            "3": {
-              "rate": 0.5283018867924528,
-              "n_instances": 53,
-              "n_pairs": 8,
-              "n_survived": 28
-            },
-            "4": {
-              "rate": 0.5319148936170213,
-              "n_instances": 47,
-              "n_pairs": 7,
-              "n_survived": 25
-            },
-            "5": {
-              "rate": 0.46511627906976744,
-              "n_instances": 43,
-              "n_pairs": 6,
-              "n_survived": 20
-            },
-            "6": {
-              "rate": 0.4,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 14
-            },
-            "7": {
-              "rate": 0.44,
-              "n_instances": 25,
-              "n_pairs": 4,
-              "n_survived": 11
-            },
-            "8": {
-              "rate": 0.4666666666666667,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 7
-            },
-            "9": {
-              "rate": 0.5,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 5
-            },
-            "10": {
-              "rate": 0.4,
-              "n_instances": 5,
-              "n_pairs": 1,
-              "n_survived": 2
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "htn_diagnosis": {
-          "by_k": {
-            "1": {
-              "rate": 0.8163265306122449,
-              "n_instances": 49,
-              "n_pairs": 10,
-              "n_survived": 40
-            },
-            "2": {
-              "rate": 0.7380952380952381,
-              "n_instances": 42,
-              "n_pairs": 9,
-              "n_survived": 31
-            },
-            "3": {
-              "rate": 0.6944444444444444,
-              "n_instances": 36,
-              "n_pairs": 8,
-              "n_survived": 25
-            },
-            "4": {
-              "rate": 0.5483870967741935,
-              "n_instances": 31,
-              "n_pairs": 7,
-              "n_survived": 17
-            },
-            "5": {
-              "rate": 0.5,
-              "n_instances": 28,
-              "n_pairs": 6,
-              "n_survived": 14
-            },
-            "6": {
-              "rate": 0.56,
-              "n_instances": 25,
-              "n_pairs": 5,
-              "n_survived": 14
-            },
-            "7": {
-              "rate": 0.55,
-              "n_instances": 20,
-              "n_pairs": 4,
-              "n_survived": 11
-            },
-            "8": {
-              "rate": 0.6,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 9
-            },
-            "9": {
-              "rate": 0.6,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 6
-            },
-            "10": {
-              "rate": 0.6,
-              "n_instances": 5,
-              "n_pairs": 1,
-              "n_survived": 3
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "htn_treatment": {
-          "by_k": {
-            "1": {
-              "rate": 0.9322033898305084,
-              "n_instances": 59,
-              "n_pairs": 9,
-              "n_survived": 55
-            },
-            "2": {
-              "rate": 0.8703703703703703,
-              "n_instances": 54,
-              "n_pairs": 8,
-              "n_survived": 47
-            },
-            "3": {
-              "rate": 0.8163265306122449,
-              "n_instances": 49,
-              "n_pairs": 7,
-              "n_survived": 40
-            },
-            "4": {
-              "rate": 0.7857142857142857,
-              "n_instances": 42,
-              "n_pairs": 6,
-              "n_survived": 33
-            },
-            "5": {
-              "rate": 0.7428571428571429,
-              "n_instances": 35,
-              "n_pairs": 5,
-              "n_survived": 26
-            },
-            "6": {
-              "rate": 0.6785714285714286,
-              "n_instances": 28,
-              "n_pairs": 4,
-              "n_survived": 19
-            },
-            "7": {
-              "rate": 0.5714285714285714,
-              "n_instances": 21,
-              "n_pairs": 3,
-              "n_survived": 12
-            },
-            "8": {
-              "rate": 0.5714285714285714,
-              "n_instances": 14,
-              "n_pairs": 2,
-              "n_survived": 8
-            },
-            "9": {
-              "rate": 0.5714285714285714,
-              "n_instances": 7,
-              "n_pairs": 1,
-              "n_survived": 4
-            }
-          },
-          "n_complete_runs": 10,
-          "k_max": 9
-        },
         "htn_branded": {
           "by_k": {
             "1": {
-              "rate": 0.7619047619047619,
-              "n_instances": 63,
-              "n_pairs": 10,
-              "n_survived": 48
+              "rate": 0.7323943661971831,
+              "n_instances": 71,
+              "n_pairs": 11,
+              "n_survived": 52
             },
             "2": {
-              "rate": 0.7321428571428571,
-              "n_instances": 56,
-              "n_pairs": 9,
-              "n_survived": 41
+              "rate": 0.7301587301587301,
+              "n_instances": 63,
+              "n_pairs": 10,
+              "n_survived": 46
             },
             "3": {
-              "rate": 0.6938775510204082,
-              "n_instances": 49,
-              "n_pairs": 8,
-              "n_survived": 34
+              "rate": 0.6964285714285714,
+              "n_instances": 56,
+              "n_pairs": 9,
+              "n_survived": 39
             },
             "4": {
               "rate": 0.7142857142857143,
+              "n_instances": 49,
+              "n_pairs": 8,
+              "n_survived": 35
+            },
+            "5": {
+              "rate": 0.6904761904761905,
               "n_instances": 42,
               "n_pairs": 7,
-              "n_survived": 30
-            },
-            "5": {
-              "rate": 0.6666666666666666,
-              "n_instances": 39,
-              "n_pairs": 6,
-              "n_survived": 26
+              "n_survived": 29
             },
             "6": {
-              "rate": 0.6129032258064516,
-              "n_instances": 31,
-              "n_pairs": 5,
-              "n_survived": 19
-            },
-            "7": {
-              "rate": 0.625,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 15
-            },
-            "8": {
-              "rate": 0.6666666666666666,
-              "n_instances": 15,
-              "n_pairs": 3,
-              "n_survived": 10
-            },
-            "9": {
-              "rate": 0.7,
-              "n_instances": 10,
-              "n_pairs": 2,
-              "n_survived": 7
-            },
-            "10": {
-              "rate": 0.8,
-              "n_instances": 5,
-              "n_pairs": 1,
-              "n_survived": 4
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "htn_hcp": {
-          "by_k": {
-            "1": {
-              "rate": 0.7068965517241379,
-              "n_instances": 58,
-              "n_pairs": 9,
-              "n_survived": 41
-            },
-            "2": {
-              "rate": 0.72,
-              "n_instances": 50,
-              "n_pairs": 8,
-              "n_survived": 36
-            },
-            "3": {
-              "rate": 0.75,
-              "n_instances": 44,
-              "n_pairs": 7,
-              "n_survived": 33
-            },
-            "4": {
-              "rate": 0.717948717948718,
-              "n_instances": 39,
-              "n_pairs": 6,
-              "n_survived": 28
-            },
-            "5": {
-              "rate": 0.6875,
-              "n_instances": 32,
-              "n_pairs": 5,
-              "n_survived": 22
-            },
-            "6": {
-              "rate": 0.72,
-              "n_instances": 25,
-              "n_pairs": 4,
-              "n_survived": 18
-            },
-            "7": {
-              "rate": 0.75,
-              "n_instances": 20,
-              "n_pairs": 3,
-              "n_survived": 15
-            },
-            "8": {
-              "rate": 0.9230769230769231,
-              "n_instances": 13,
-              "n_pairs": 2,
-              "n_survived": 12
-            },
-            "9": {
-              "rate": 0.8571428571428571,
-              "n_instances": 7,
-              "n_pairs": 1,
-              "n_survived": 6
-            }
-          },
-          "n_complete_runs": 10,
-          "k_max": 9
-        },
-        "pah_symptoms": {
-          "by_k": {
-            "1": {
-              "rate": 0.9333333333333333,
-              "n_instances": 60,
-              "n_pairs": 10,
-              "n_survived": 56
-            },
-            "2": {
-              "rate": 0.8888888888888888,
-              "n_instances": 54,
-              "n_pairs": 9,
-              "n_survived": 48
-            },
-            "3": {
-              "rate": 0.8333333333333334,
-              "n_instances": 48,
-              "n_pairs": 8,
-              "n_survived": 40
-            },
-            "4": {
-              "rate": 0.8095238095238095,
-              "n_instances": 42,
-              "n_pairs": 7,
-              "n_survived": 34
-            },
-            "5": {
-              "rate": 0.7777777777777778,
-              "n_instances": 36,
-              "n_pairs": 6,
-              "n_survived": 28
-            },
-            "6": {
-              "rate": 0.7333333333333333,
-              "n_instances": 30,
-              "n_pairs": 5,
-              "n_survived": 22
-            },
-            "7": {
-              "rate": 0.6666666666666666,
-              "n_instances": 24,
-              "n_pairs": 4,
-              "n_survived": 16
-            },
-            "8": {
-              "rate": 0.6666666666666666,
-              "n_instances": 18,
-              "n_pairs": 3,
-              "n_survived": 12
-            },
-            "9": {
-              "rate": 0.6666666666666666,
-              "n_instances": 12,
-              "n_pairs": 2,
-              "n_survived": 8
-            },
-            "10": {
-              "rate": 0.6666666666666666,
-              "n_instances": 6,
-              "n_pairs": 1,
-              "n_survived": 4
-            }
-          },
-          "n_complete_runs": 11,
-          "k_max": 10
-        },
-        "pah_branded": {
-          "by_k": {
-            "1": {
-              "rate": 0.9473684210526315,
-              "n_instances": 57,
-              "n_pairs": 10,
-              "n_survived": 54
-            },
-            "2": {
-              "rate": 0.8823529411764706,
-              "n_instances": 51,
-              "n_pairs": 9,
-              "n_survived": 45
-            },
-            "3": {
-              "rate": 0.8085106382978723,
-              "n_instances": 47,
-              "n_pairs": 8,
-              "n_survived": 38
-            },
-            "4": {
-              "rate": 0.7209302325581395,
-              "n_instances": 43,
-              "n_pairs": 7,
-              "n_survived": 31
-            },
-            "5": {
               "rate": 0.6410256410256411,
               "n_instances": 39,
               "n_pairs": 6,
               "n_survived": 25
             },
+            "7": {
+              "rate": 0.6451612903225806,
+              "n_instances": 31,
+              "n_pairs": 5,
+              "n_survived": 20
+            },
+            "8": {
+              "rate": 0.625,
+              "n_instances": 24,
+              "n_pairs": 4,
+              "n_survived": 15
+            },
+            "9": {
+              "rate": 0.7333333333333333,
+              "n_instances": 15,
+              "n_pairs": 3,
+              "n_survived": 11
+            },
+            "10": {
+              "rate": 0.8,
+              "n_instances": 10,
+              "n_pairs": 2,
+              "n_survived": 8
+            },
+            "11": {
+              "rate": 0.8,
+              "n_instances": 5,
+              "n_pairs": 1,
+              "n_survived": 4
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "htn_hcp": {
+          "by_k": {
+            "1": {
+              "rate": 0.7384615384615385,
+              "n_instances": 65,
+              "n_pairs": 10,
+              "n_survived": 48
+            },
+            "2": {
+              "rate": 0.7241379310344828,
+              "n_instances": 58,
+              "n_pairs": 9,
+              "n_survived": 42
+            },
+            "3": {
+              "rate": 0.78,
+              "n_instances": 50,
+              "n_pairs": 8,
+              "n_survived": 39
+            },
+            "4": {
+              "rate": 0.75,
+              "n_instances": 44,
+              "n_pairs": 7,
+              "n_survived": 33
+            },
+            "5": {
+              "rate": 0.6923076923076923,
+              "n_instances": 39,
+              "n_pairs": 6,
+              "n_survived": 27
+            },
             "6": {
-              "rate": 0.6285714285714286,
-              "n_instances": 35,
+              "rate": 0.71875,
+              "n_instances": 32,
+              "n_pairs": 5,
+              "n_survived": 23
+            },
+            "7": {
+              "rate": 0.76,
+              "n_instances": 25,
+              "n_pairs": 4,
+              "n_survived": 19
+            },
+            "8": {
+              "rate": 0.8,
+              "n_instances": 20,
+              "n_pairs": 3,
+              "n_survived": 16
+            },
+            "9": {
+              "rate": 0.8461538461538461,
+              "n_instances": 13,
+              "n_pairs": 2,
+              "n_survived": 11
+            },
+            "10": {
+              "rate": 0.8571428571428571,
+              "n_instances": 7,
+              "n_pairs": 1,
+              "n_survived": 6
+            }
+          },
+          "n_complete_runs": 11,
+          "k_max": 10
+        },
+        "pah_symptoms": {
+          "by_k": {
+            "1": {
+              "rate": 0.9104477611940298,
+              "n_instances": 67,
+              "n_pairs": 11,
+              "n_survived": 61
+            },
+            "2": {
+              "rate": 0.8833333333333333,
+              "n_instances": 60,
+              "n_pairs": 10,
+              "n_survived": 53
+            },
+            "3": {
+              "rate": 0.8333333333333334,
+              "n_instances": 54,
+              "n_pairs": 9,
+              "n_survived": 45
+            },
+            "4": {
+              "rate": 0.8125,
+              "n_instances": 48,
+              "n_pairs": 8,
+              "n_survived": 39
+            },
+            "5": {
+              "rate": 0.8095238095238095,
+              "n_instances": 42,
+              "n_pairs": 7,
+              "n_survived": 34
+            },
+            "6": {
+              "rate": 0.7777777777777778,
+              "n_instances": 36,
+              "n_pairs": 6,
+              "n_survived": 28
+            },
+            "7": {
+              "rate": 0.7333333333333333,
+              "n_instances": 30,
               "n_pairs": 5,
               "n_survived": 22
             },
-            "7": {
-              "rate": 0.6428571428571429,
-              "n_instances": 28,
+            "8": {
+              "rate": 0.75,
+              "n_instances": 24,
               "n_pairs": 4,
               "n_survived": 18
             },
-            "8": {
-              "rate": 0.6666666666666666,
-              "n_instances": 21,
+            "9": {
+              "rate": 0.7777777777777778,
+              "n_instances": 18,
               "n_pairs": 3,
               "n_survived": 14
             },
+            "10": {
+              "rate": 0.8333333333333334,
+              "n_instances": 12,
+              "n_pairs": 2,
+              "n_survived": 10
+            },
+            "11": {
+              "rate": 1.0,
+              "n_instances": 6,
+              "n_pairs": 1,
+              "n_survived": 6
+            }
+          },
+          "n_complete_runs": 12,
+          "k_max": 11
+        },
+        "pah_branded": {
+          "by_k": {
+            "1": {
+              "rate": 0.9523809523809523,
+              "n_instances": 63,
+              "n_pairs": 11,
+              "n_survived": 60
+            },
+            "2": {
+              "rate": 0.8947368421052632,
+              "n_instances": 57,
+              "n_pairs": 10,
+              "n_survived": 51
+            },
+            "3": {
+              "rate": 0.8235294117647058,
+              "n_instances": 51,
+              "n_pairs": 9,
+              "n_survived": 42
+            },
+            "4": {
+              "rate": 0.7446808510638298,
+              "n_instances": 47,
+              "n_pairs": 8,
+              "n_survived": 35
+            },
+            "5": {
+              "rate": 0.6744186046511628,
+              "n_instances": 43,
+              "n_pairs": 7,
+              "n_survived": 29
+            },
+            "6": {
+              "rate": 0.6666666666666666,
+              "n_instances": 39,
+              "n_pairs": 6,
+              "n_survived": 26
+            },
+            "7": {
+              "rate": 0.6571428571428571,
+              "n_instances": 35,
+              "n_pairs": 5,
+              "n_survived": 23
+            },
+            "8": {
+              "rate": 0.6785714285714286,
+              "n_instances": 28,
+              "n_pairs": 4,
+              "n_survived": 19
+            },
             "9": {
+              "rate": 0.7142857142857143,
+              "n_instances": 21,
+              "n_pairs": 3,
+              "n_survived": 15
+            },
+            "10": {
               "rate": 0.7142857142857143,
               "n_instances": 14,
               "n_pairs": 2,
               "n_survived": 10
             },
-            "10": {
+            "11": {
               "rate": 0.7142857142857143,
               "n_instances": 7,
               "n_pairs": 1,
               "n_survived": 5
             }
           },
-          "n_complete_runs": 11,
-          "k_max": 10
+          "n_complete_runs": 12,
+          "k_max": 11
         }
       },
       "overall": {
         "1": {
-          "rate": 0.8241469816272966,
-          "n_instances": 762,
-          "n_pairs": 116,
-          "n_survived": 628
+          "rate": 0.8236686390532545,
+          "n_instances": 845,
+          "n_pairs": 128,
+          "n_survived": 696
         },
         "2": {
-          "rate": 0.7722627737226277,
-          "n_instances": 685,
-          "n_pairs": 104,
-          "n_survived": 529
+          "rate": 0.7742782152230971,
+          "n_instances": 762,
+          "n_pairs": 116,
+          "n_survived": 590
         },
         "3": {
-          "rate": 0.7116968698517299,
-          "n_instances": 607,
-          "n_pairs": 92,
-          "n_survived": 432
+          "rate": 0.7138686131386861,
+          "n_instances": 685,
+          "n_pairs": 104,
+          "n_survived": 489
         },
         "4": {
-          "rate": 0.6635338345864662,
-          "n_instances": 532,
-          "n_pairs": 80,
-          "n_survived": 353
+          "rate": 0.6754530477759473,
+          "n_instances": 607,
+          "n_pairs": 92,
+          "n_survived": 410
         },
         "5": {
-          "rate": 0.6413043478260869,
-          "n_instances": 460,
-          "n_pairs": 68,
-          "n_survived": 295
+          "rate": 0.6560150375939849,
+          "n_instances": 532,
+          "n_pairs": 80,
+          "n_survived": 349
         },
         "6": {
-          "rate": 0.6089238845144357,
-          "n_instances": 381,
-          "n_pairs": 56,
-          "n_survived": 232
+          "rate": 0.6347826086956522,
+          "n_instances": 460,
+          "n_pairs": 68,
+          "n_survived": 292
         },
         "7": {
-          "rate": 0.6105610561056105,
-          "n_instances": 303,
-          "n_pairs": 44,
-          "n_survived": 185
+          "rate": 0.6325459317585301,
+          "n_instances": 381,
+          "n_pairs": 56,
+          "n_survived": 241
         },
         "8": {
-          "rate": 0.6208530805687204,
-          "n_instances": 211,
-          "n_pairs": 32,
-          "n_survived": 131
+          "rate": 0.6402640264026402,
+          "n_instances": 303,
+          "n_pairs": 44,
+          "n_survived": 194
         },
         "9": {
-          "rate": 0.6060606060606061,
-          "n_instances": 132,
-          "n_pairs": 20,
-          "n_survived": 80
+          "rate": 0.6635071090047393,
+          "n_instances": 211,
+          "n_pairs": 32,
+          "n_survived": 140
         },
         "10": {
-          "rate": 0.6271186440677966,
+          "rate": 0.7045454545454546,
+          "n_instances": 132,
+          "n_pairs": 20,
+          "n_survived": 93
+        },
+        "11": {
+          "rate": 0.7796610169491526,
           "n_instances": 59,
           "n_pairs": 9,
-          "n_survived": 37
+          "n_survived": 46
         }
       },
-      "k_max": 10
+      "k_max": 11
     }
   },
   "authority_composition": {
     "all_positions": {
       "by_journey_stage": {
         "branded": {
-          "n": 238,
+          "n": 264,
           "classes": {
             "commerce": {
-              "count": 55,
-              "pct": 23.10924369747899
+              "count": 60,
+              "pct": 22.727272727272727
             },
             "consumer_health": {
-              "count": 44,
-              "pct": 18.48739495798319
+              "count": 48,
+              "pct": 18.181818181818183
             },
             "gov_health": {
-              "count": 26,
-              "pct": 10.92436974789916
+              "count": 28,
+              "pct": 10.606060606060606
             },
             "health_system": {
-              "count": 39,
-              "pct": 16.386554621848738
+              "count": 43,
+              "pct": 16.28787878787879
             },
             "manufacturer": {
-              "count": 42,
-              "pct": 17.647058823529413
+              "count": 47,
+              "pct": 17.803030303030305
             },
             "unclassified": {
-              "count": 6,
-              "pct": 2.5210084033613445
+              "count": 7,
+              "pct": 2.6515151515151514
             },
             "video": {
-              "count": 26,
-              "pct": 10.92436974789916
+              "count": 31,
+              "pct": 11.742424242424242
             }
           }
         },
         "diagnosis": {
-          "n": 153,
+          "n": 167,
           "classes": {
             "academic": {
-              "count": 8,
-              "pct": 5.228758169934641
+              "count": 9,
+              "pct": 5.389221556886228
             },
             "advocacy": {
-              "count": 30,
-              "pct": 19.607843137254903
+              "count": 32,
+              "pct": 19.161676646706585
             },
             "clinical_reference": {
-              "count": 7,
-              "pct": 4.57516339869281
+              "count": 9,
+              "pct": 5.389221556886228
             },
             "commerce": {
               "count": 6,
-              "pct": 3.9215686274509802
+              "pct": 3.592814371257485
             },
             "consumer_health": {
               "count": 12,
-              "pct": 7.8431372549019605
+              "pct": 7.18562874251497
             },
             "gov_health": {
-              "count": 34,
-              "pct": 22.22222222222222
+              "count": 36,
+              "pct": 21.55688622754491
             },
             "health_system": {
-              "count": 29,
-              "pct": 18.954248366013072
+              "count": 32,
+              "pct": 19.161676646706585
             },
             "unclassified": {
-              "count": 4,
-              "pct": 2.6143790849673203
+              "count": 5,
+              "pct": 2.9940119760479043
             },
             "video": {
-              "count": 23,
-              "pct": 15.032679738562091
+              "count": 26,
+              "pct": 15.568862275449101
             }
           }
         },
         "symptoms": {
-          "n": 236,
+          "n": 265,
           "classes": {
             "advocacy": {
-              "count": 38,
-              "pct": 16.10169491525424
+              "count": 42,
+              "pct": 15.849056603773585
             },
             "commerce": {
-              "count": 11,
-              "pct": 4.661016949152542
+              "count": 12,
+              "pct": 4.528301886792453
             },
             "consumer_health": {
-              "count": 27,
-              "pct": 11.440677966101696
+              "count": 30,
+              "pct": 11.320754716981131
             },
             "gov_health": {
-              "count": 28,
-              "pct": 11.864406779661017
+              "count": 31,
+              "pct": 11.69811320754717
             },
             "health_system": {
-              "count": 70,
-              "pct": 29.661016949152543
+              "count": 78,
+              "pct": 29.433962264150942
             },
             "insurer": {
               "count": 4,
-              "pct": 1.694915254237288
+              "pct": 1.509433962264151
             },
             "manufacturer": {
-              "count": 7,
-              "pct": 2.9661016949152543
+              "count": 8,
+              "pct": 3.018867924528302
             },
             "social": {
               "count": 7,
-              "pct": 2.9661016949152543
+              "pct": 2.641509433962264
             },
             "unclassified": {
-              "count": 8,
-              "pct": 3.389830508474576
+              "count": 11,
+              "pct": 4.150943396226415
             },
             "video": {
-              "count": 36,
-              "pct": 15.254237288135593
+              "count": 42,
+              "pct": 15.849056603773585
             }
           }
         },
         "treatment": {
-          "n": 348,
+          "n": 386,
           "classes": {
             "academic": {
-              "count": 51,
-              "pct": 14.655172413793103
+              "count": 54,
+              "pct": 13.989637305699482
             },
             "advocacy": {
-              "count": 29,
-              "pct": 8.333333333333334
+              "count": 33,
+              "pct": 8.549222797927461
             },
             "clinical_reference": {
-              "count": 27,
-              "pct": 7.758620689655173
+              "count": 32,
+              "pct": 8.290155440414507
             },
             "commerce": {
-              "count": 15,
-              "pct": 4.310344827586207
+              "count": 17,
+              "pct": 4.404145077720207
             },
             "consumer_health": {
               "count": 1,
-              "pct": 0.28735632183908044
+              "pct": 0.25906735751295334
             },
             "gov_health": {
-              "count": 54,
-              "pct": 15.517241379310345
+              "count": 61,
+              "pct": 15.803108808290155
             },
             "health_system": {
-              "count": 70,
-              "pct": 20.114942528735632
+              "count": 75,
+              "pct": 19.430051813471504
             },
             "insurer": {
-              "count": 2,
-              "pct": 0.5747126436781609
+              "count": 3,
+              "pct": 0.7772020725388601
             },
             "professional_society": {
-              "count": 20,
-              "pct": 5.747126436781609
+              "count": 21,
+              "pct": 5.4404145077720205
             },
             "social": {
               "count": 1,
-              "pct": 0.28735632183908044
+              "pct": 0.25906735751295334
             },
             "unclassified": {
-              "count": 8,
-              "pct": 2.2988505747126435
+              "count": 11,
+              "pct": 2.849740932642487
             },
             "video": {
-              "count": 70,
-              "pct": 20.114942528735632
+              "count": 77,
+              "pct": 19.94818652849741
             }
           }
         }
       },
       "by_audience": {
         "hcp": {
-          "n": 173,
+          "n": 193,
           "classes": {
             "academic": {
-              "count": 41,
-              "pct": 23.69942196531792
+              "count": 43,
+              "pct": 22.27979274611399
             },
             "advocacy": {
-              "count": 9,
-              "pct": 5.202312138728324
+              "count": 10,
+              "pct": 5.181347150259067
             },
             "clinical_reference": {
-              "count": 19,
-              "pct": 10.982658959537572
+              "count": 23,
+              "pct": 11.917098445595855
             },
             "commerce": {
-              "count": 15,
-              "pct": 8.670520231213873
+              "count": 17,
+              "pct": 8.808290155440414
             },
             "consumer_health": {
               "count": 1,
-              "pct": 0.5780346820809249
+              "pct": 0.5181347150259067
             },
             "gov_health": {
-              "count": 29,
-              "pct": 16.76300578034682
+              "count": 33,
+              "pct": 17.098445595854923
             },
             "health_system": {
               "count": 3,
-              "pct": 1.7341040462427746
+              "pct": 1.5544041450777202
             },
             "insurer": {
-              "count": 2,
-              "pct": 1.1560693641618498
+              "count": 3,
+              "pct": 1.5544041450777202
             },
             "professional_society": {
               "count": 13,
-              "pct": 7.514450867052023
+              "pct": 6.7357512953367875
             },
             "social": {
               "count": 1,
-              "pct": 0.5780346820809249
+              "pct": 0.5181347150259067
             },
             "unclassified": {
-              "count": 2,
-              "pct": 1.1560693641618498
+              "count": 4,
+              "pct": 2.0725388601036268
             },
             "video": {
-              "count": 38,
-              "pct": 21.965317919075144
+              "count": 42,
+              "pct": 21.761658031088082
             }
           }
         },
         "patient": {
-          "n": 802,
+          "n": 889,
           "classes": {
             "academic": {
-              "count": 18,
-              "pct": 2.2443890274314215
+              "count": 20,
+              "pct": 2.249718785151856
             },
             "advocacy": {
-              "count": 88,
-              "pct": 10.972568578553616
+              "count": 97,
+              "pct": 10.911136107986502
             },
             "clinical_reference": {
-              "count": 15,
-              "pct": 1.8703241895261846
+              "count": 18,
+              "pct": 2.0247469066366706
             },
             "commerce": {
-              "count": 72,
-              "pct": 8.977556109725686
+              "count": 78,
+              "pct": 8.773903262092238
             },
             "consumer_health": {
-              "count": 83,
-              "pct": 10.349127182044887
+              "count": 90,
+              "pct": 10.123734533183352
             },
             "gov_health": {
-              "count": 113,
-              "pct": 14.089775561097257
+              "count": 123,
+              "pct": 13.835770528683915
             },
             "health_system": {
-              "count": 205,
-              "pct": 25.561097256857856
+              "count": 225,
+              "pct": 25.30933633295838
             },
             "insurer": {
               "count": 4,
-              "pct": 0.49875311720698257
+              "pct": 0.4499437570303712
             },
             "manufacturer": {
-              "count": 49,
-              "pct": 6.109725685785536
+              "count": 55,
+              "pct": 6.186726659167604
             },
             "professional_society": {
-              "count": 7,
-              "pct": 0.8728179551122195
+              "count": 8,
+              "pct": 0.8998875140607424
             },
             "social": {
               "count": 7,
-              "pct": 0.8728179551122195
+              "pct": 0.7874015748031497
             },
             "unclassified": {
-              "count": 24,
-              "pct": 2.9925187032418954
+              "count": 30,
+              "pct": 3.374578177727784
             },
             "video": {
-              "count": 117,
-              "pct": 14.58852867830424
+              "count": 134,
+              "pct": 15.073115860517435
             }
           }
         }
       },
       "by_condition": {
         "hypertension": {
-          "n": 366,
+          "n": 407,
           "classes": {
             "academic": {
-              "count": 44,
-              "pct": 12.021857923497267
+              "count": 48,
+              "pct": 11.793611793611793
             },
             "advocacy": {
-              "count": 48,
-              "pct": 13.114754098360656
+              "count": 52,
+              "pct": 12.776412776412776
             },
             "clinical_reference": {
-              "count": 4,
-              "pct": 1.092896174863388
+              "count": 5,
+              "pct": 1.2285012285012284
             },
             "commerce": {
-              "count": 31,
-              "pct": 8.469945355191257
+              "count": 34,
+              "pct": 8.353808353808354
             },
             "consumer_health": {
-              "count": 25,
-              "pct": 6.830601092896175
+              "count": 27,
+              "pct": 6.6339066339066335
             },
             "gov_health": {
-              "count": 65,
-              "pct": 17.759562841530055
+              "count": 71,
+              "pct": 17.444717444717444
             },
             "health_system": {
-              "count": 76,
-              "pct": 20.76502732240437
+              "count": 84,
+              "pct": 20.63882063882064
             },
             "insurer": {
               "count": 3,
-              "pct": 0.819672131147541
+              "pct": 0.7371007371007371
             },
             "professional_society": {
               "count": 7,
-              "pct": 1.9125683060109289
+              "pct": 1.71990171990172
             },
             "unclassified": {
-              "count": 10,
-              "pct": 2.73224043715847
+              "count": 12,
+              "pct": 2.9484029484029484
             },
             "video": {
-              "count": 53,
-              "pct": 14.480874316939891
+              "count": 64,
+              "pct": 15.724815724815725
             }
           }
         },
         "pulmonary_arterial_hypertension": {
-          "n": 150,
+          "n": 167,
           "classes": {
             "advocacy": {
-              "count": 11,
-              "pct": 7.333333333333333
+              "count": 12,
+              "pct": 7.18562874251497
             },
             "commerce": {
-              "count": 18,
-              "pct": 12.0
+              "count": 20,
+              "pct": 11.976047904191617
             },
             "consumer_health": {
-              "count": 16,
-              "pct": 10.666666666666666
+              "count": 17,
+              "pct": 10.179640718562874
             },
             "gov_health": {
               "count": 4,
-              "pct": 2.6666666666666665
+              "pct": 2.395209580838323
             },
             "health_system": {
-              "count": 40,
-              "pct": 26.666666666666668
+              "count": 44,
+              "pct": 26.347305389221557
             },
             "manufacturer": {
-              "count": 36,
-              "pct": 24.0
+              "count": 40,
+              "pct": 23.952095808383234
             },
             "unclassified": {
-              "count": 7,
-              "pct": 4.666666666666667
+              "count": 10,
+              "pct": 5.9880239520958085
             },
             "video": {
-              "count": 18,
-              "pct": 12.0
+              "count": 20,
+              "pct": 11.976047904191617
             }
           }
         },
         "type_2_diabetes": {
-          "n": 459,
+          "n": 508,
           "classes": {
             "academic": {
               "count": 15,
-              "pct": 3.2679738562091503
+              "pct": 2.952755905511811
             },
             "advocacy": {
-              "count": 38,
-              "pct": 8.278867102396514
+              "count": 43,
+              "pct": 8.464566929133857
             },
             "clinical_reference": {
-              "count": 30,
-              "pct": 6.5359477124183005
+              "count": 36,
+              "pct": 7.086614173228346
             },
             "commerce": {
-              "count": 38,
-              "pct": 8.278867102396514
+              "count": 41,
+              "pct": 8.070866141732283
             },
             "consumer_health": {
-              "count": 43,
-              "pct": 9.368191721132897
+              "count": 47,
+              "pct": 9.251968503937007
             },
             "gov_health": {
-              "count": 73,
-              "pct": 15.904139433551197
+              "count": 81,
+              "pct": 15.94488188976378
             },
             "health_system": {
-              "count": 92,
-              "pct": 20.043572984749456
+              "count": 100,
+              "pct": 19.68503937007874
             },
             "insurer": {
-              "count": 3,
-              "pct": 0.6535947712418301
+              "count": 4,
+              "pct": 0.7874015748031497
             },
             "manufacturer": {
-              "count": 13,
-              "pct": 2.832244008714597
+              "count": 15,
+              "pct": 2.952755905511811
             },
             "professional_society": {
-              "count": 13,
-              "pct": 2.832244008714597
+              "count": 14,
+              "pct": 2.7559055118110236
             },
             "social": {
               "count": 8,
-              "pct": 1.7429193899782136
+              "pct": 1.5748031496062993
             },
             "unclassified": {
-              "count": 9,
-              "pct": 1.9607843137254901
+              "count": 12,
+              "pct": 2.3622047244094486
             },
             "video": {
-              "count": 84,
-              "pct": 18.30065359477124
+              "count": 92,
+              "pct": 18.11023622047244
             }
           }
         }
       },
-      "n": 975
+      "n": 1082
     },
     "positions_0_2": {
       "by_journey_stage": {
         "branded": {
-          "n": 99,
+          "n": 108,
           "classes": {
             "commerce": {
-              "count": 33,
+              "count": 36,
               "pct": 33.333333333333336
             },
             "consumer_health": {
-              "count": 22,
+              "count": 24,
               "pct": 22.22222222222222
             },
             "gov_health": {
               "count": 4,
-              "pct": 4.040404040404041
+              "pct": 3.7037037037037037
             },
             "health_system": {
               "count": 8,
-              "pct": 8.080808080808081
+              "pct": 7.407407407407407
             },
             "manufacturer": {
-              "count": 24,
-              "pct": 24.242424242424242
+              "count": 27,
+              "pct": 25.0
             },
             "unclassified": {
               "count": 3,
-              "pct": 3.0303030303030303
+              "pct": 2.7777777777777777
             },
             "video": {
-              "count": 5,
-              "pct": 5.05050505050505
+              "count": 6,
+              "pct": 5.555555555555555
             }
           }
         },
         "diagnosis": {
-          "n": 66,
+          "n": 72,
           "classes": {
             "advocacy": {
-              "count": 10,
-              "pct": 15.151515151515152
+              "count": 11,
+              "pct": 15.277777777777779
             },
             "clinical_reference": {
-              "count": 2,
-              "pct": 3.0303030303030303
+              "count": 3,
+              "pct": 4.166666666666667
             },
             "consumer_health": {
               "count": 9,
-              "pct": 13.636363636363637
+              "pct": 12.5
             },
             "gov_health": {
-              "count": 28,
-              "pct": 42.42424242424242
+              "count": 30,
+              "pct": 41.666666666666664
             },
             "health_system": {
-              "count": 13,
-              "pct": 19.696969696969695
+              "count": 14,
+              "pct": 19.444444444444443
             },
             "unclassified": {
-              "count": 1,
-              "pct": 1.5151515151515151
+              "count": 2,
+              "pct": 2.7777777777777777
             },
             "video": {
               "count": 3,
-              "pct": 4.545454545454546
+              "pct": 4.166666666666667
             }
           }
         },
         "symptoms": {
-          "n": 99,
+          "n": 108,
           "classes": {
             "advocacy": {
-              "count": 31,
-              "pct": 31.31313131313131
+              "count": 34,
+              "pct": 31.48148148148148
             },
             "commerce": {
-              "count": 7,
-              "pct": 7.070707070707071
+              "count": 8,
+              "pct": 7.407407407407407
             },
             "consumer_health": {
               "count": 8,
-              "pct": 8.080808080808081
+              "pct": 7.407407407407407
             },
             "gov_health": {
-              "count": 10,
-              "pct": 10.1010101010101
+              "count": 11,
+              "pct": 10.185185185185185
             },
             "health_system": {
               "count": 36,
-              "pct": 36.36363636363637
+              "pct": 33.333333333333336
             },
             "insurer": {
               "count": 1,
-              "pct": 1.0101010101010102
+              "pct": 0.9259259259259259
+            },
+            "manufacturer": {
+              "count": 1,
+              "pct": 0.9259259259259259
             },
             "unclassified": {
-              "count": 2,
-              "pct": 2.0202020202020203
+              "count": 3,
+              "pct": 2.7777777777777777
             },
             "video": {
-              "count": 4,
-              "pct": 4.040404040404041
+              "count": 6,
+              "pct": 5.555555555555555
             }
           }
         },
         "treatment": {
-          "n": 120,
+          "n": 132,
           "classes": {
             "academic": {
-              "count": 22,
-              "pct": 18.333333333333332
+              "count": 25,
+              "pct": 18.939393939393938
             },
             "advocacy": {
-              "count": 3,
-              "pct": 2.5
+              "count": 4,
+              "pct": 3.0303030303030303
             },
             "clinical_reference": {
-              "count": 14,
-              "pct": 11.666666666666666
+              "count": 16,
+              "pct": 12.121212121212121
             },
             "commerce": {
               "count": 8,
-              "pct": 6.666666666666667
+              "pct": 6.0606060606060606
             },
             "gov_health": {
-              "count": 24,
-              "pct": 20.0
+              "count": 27,
+              "pct": 20.454545454545453
             },
             "health_system": {
-              "count": 32,
-              "pct": 26.666666666666668
+              "count": 33,
+              "pct": 25.0
             },
             "insurer": {
-              "count": 2,
-              "pct": 1.6666666666666667
+              "count": 3,
+              "pct": 2.272727272727273
             },
             "unclassified": {
               "count": 1,
-              "pct": 0.8333333333333334
+              "pct": 0.7575757575757576
             },
             "video": {
-              "count": 14,
-              "pct": 11.666666666666666
+              "count": 15,
+              "pct": 11.363636363636363
             }
           }
         }
       },
       "by_audience": {
         "hcp": {
-          "n": 57,
+          "n": 63,
           "classes": {
             "academic": {
-              "count": 20,
-              "pct": 35.08771929824562
+              "count": 22,
+              "pct": 34.92063492063492
             },
             "advocacy": {
               "count": 3,
-              "pct": 5.2631578947368425
+              "pct": 4.761904761904762
             },
             "clinical_reference": {
-              "count": 13,
-              "pct": 22.80701754385965
+              "count": 15,
+              "pct": 23.80952380952381
             },
             "commerce": {
               "count": 8,
-              "pct": 14.035087719298245
+              "pct": 12.698412698412698
             },
             "gov_health": {
-              "count": 6,
-              "pct": 10.526315789473685
+              "count": 7,
+              "pct": 11.11111111111111
             },
             "insurer": {
-              "count": 2,
-              "pct": 3.508771929824561
+              "count": 3,
+              "pct": 4.761904761904762
             },
             "video": {
               "count": 5,
-              "pct": 8.771929824561404
+              "pct": 7.936507936507937
             }
           }
         },
         "patient": {
-          "n": 327,
+          "n": 357,
           "classes": {
             "academic": {
-              "count": 2,
-              "pct": 0.6116207951070336
+              "count": 3,
+              "pct": 0.8403361344537815
             },
             "advocacy": {
-              "count": 41,
-              "pct": 12.53822629969419
+              "count": 46,
+              "pct": 12.88515406162465
             },
             "clinical_reference": {
-              "count": 3,
-              "pct": 0.9174311926605505
+              "count": 4,
+              "pct": 1.1204481792717087
             },
             "commerce": {
-              "count": 40,
-              "pct": 12.232415902140673
+              "count": 44,
+              "pct": 12.324929971988796
             },
             "consumer_health": {
-              "count": 39,
-              "pct": 11.926605504587156
+              "count": 41,
+              "pct": 11.484593837535014
             },
             "gov_health": {
-              "count": 60,
-              "pct": 18.34862385321101
+              "count": 65,
+              "pct": 18.207282913165265
             },
             "health_system": {
-              "count": 89,
-              "pct": 27.217125382262996
+              "count": 91,
+              "pct": 25.49019607843137
             },
             "insurer": {
               "count": 1,
-              "pct": 0.3058103975535168
+              "pct": 0.2801120448179272
             },
             "manufacturer": {
-              "count": 24,
-              "pct": 7.339449541284404
+              "count": 28,
+              "pct": 7.8431372549019605
             },
             "unclassified": {
-              "count": 7,
-              "pct": 2.140672782874618
+              "count": 9,
+              "pct": 2.5210084033613445
             },
             "video": {
-              "count": 21,
-              "pct": 6.422018348623853
+              "count": 25,
+              "pct": 7.002801120448179
             }
           }
         }
       },
       "by_condition": {
         "hypertension": {
-          "n": 159,
+          "n": 174,
           "classes": {
             "academic": {
-              "count": 18,
-              "pct": 11.320754716981131
+              "count": 21,
+              "pct": 12.068965517241379
             },
             "advocacy": {
-              "count": 24,
-              "pct": 15.09433962264151
+              "count": 27,
+              "pct": 15.517241379310345
             },
             "clinical_reference": {
-              "count": 4,
-              "pct": 2.5157232704402515
+              "count": 5,
+              "pct": 2.8735632183908044
             },
             "commerce": {
-              "count": 21,
-              "pct": 13.20754716981132
+              "count": 23,
+              "pct": 13.218390804597702
             },
             "consumer_health": {
-              "count": 14,
-              "pct": 8.80503144654088
+              "count": 15,
+              "pct": 8.620689655172415
             },
             "gov_health": {
-              "count": 39,
-              "pct": 24.528301886792452
+              "count": 41,
+              "pct": 23.563218390804597
             },
             "health_system": {
               "count": 27,
-              "pct": 16.9811320754717
+              "pct": 15.517241379310345
             },
             "unclassified": {
-              "count": 6,
-              "pct": 3.7735849056603774
+              "count": 7,
+              "pct": 4.022988505747127
             },
             "video": {
-              "count": 6,
-              "pct": 3.7735849056603774
+              "count": 8,
+              "pct": 4.597701149425287
             }
           }
         },
         "pulmonary_arterial_hypertension": {
-          "n": 66,
+          "n": 72,
           "classes": {
             "advocacy": {
               "count": 11,
-              "pct": 16.666666666666668
+              "pct": 15.277777777777779
             },
             "commerce": {
-              "count": 11,
+              "count": 12,
               "pct": 16.666666666666668
             },
             "consumer_health": {
               "count": 4,
-              "pct": 6.0606060606060606
+              "pct": 5.555555555555555
             },
             "gov_health": {
               "count": 3,
-              "pct": 4.545454545454546
+              "pct": 4.166666666666667
             },
             "health_system": {
               "count": 18,
-              "pct": 27.272727272727273
+              "pct": 25.0
             },
             "manufacturer": {
-              "count": 18,
-              "pct": 27.272727272727273
+              "count": 21,
+              "pct": 29.166666666666668
             },
             "unclassified": {
+              "count": 2,
+              "pct": 2.7777777777777777
+            },
+            "video": {
               "count": 1,
-              "pct": 1.5151515151515151
+              "pct": 1.3888888888888888
             }
           }
         },
         "type_2_diabetes": {
-          "n": 159,
+          "n": 174,
           "classes": {
             "academic": {
               "count": 4,
-              "pct": 2.5157232704402515
+              "pct": 2.2988505747126435
             },
             "advocacy": {
-              "count": 9,
-              "pct": 5.660377358490566
+              "count": 11,
+              "pct": 6.32183908045977
             },
             "clinical_reference": {
-              "count": 12,
-              "pct": 7.547169811320755
+              "count": 14,
+              "pct": 8.045977011494253
             },
             "commerce": {
-              "count": 16,
-              "pct": 10.062893081761006
+              "count": 17,
+              "pct": 9.770114942528735
             },
             "consumer_health": {
-              "count": 21,
-              "pct": 13.20754716981132
+              "count": 22,
+              "pct": 12.64367816091954
             },
             "gov_health": {
-              "count": 24,
-              "pct": 15.09433962264151
+              "count": 28,
+              "pct": 16.091954022988507
             },
             "health_system": {
-              "count": 44,
-              "pct": 27.67295597484277
+              "count": 46,
+              "pct": 26.436781609195403
             },
             "insurer": {
-              "count": 3,
-              "pct": 1.8867924528301887
+              "count": 4,
+              "pct": 2.2988505747126435
             },
             "manufacturer": {
-              "count": 6,
-              "pct": 3.7735849056603774
+              "count": 7,
+              "pct": 4.022988505747127
             },
             "video": {
-              "count": 20,
-              "pct": 12.578616352201259
+              "count": 21,
+              "pct": 12.068965517241379
             }
           }
         }
       },
-      "n": 384
+      "n": 420
     }
   },
   "manufacturer_presence": {
     "t2d_branded": {
-      "n_citations": 89,
-      "n_manufacturer": 13,
+      "n_citations": 98,
+      "n_manufacturer": 15,
       "any_manufacturer": true,
-      "n": 89,
+      "n": 98,
       "by_run": [
         {
           "run_id": "20260912T021246Z",
@@ -8507,14 +9223,22 @@
           "n_manufacturer": 1,
           "any_manufacturer": true,
           "n": 7
+        },
+        {
+          "run_id": "20260920T170933Z",
+          "fetched_at": "2026-09-20T17:10:42Z",
+          "n_citations": 9,
+          "n_manufacturer": 2,
+          "any_manufacturer": true,
+          "n": 9
         }
       ]
     },
     "htn_branded": {
-      "n_citations": 73,
+      "n_citations": 82,
       "n_manufacturer": 0,
       "any_manufacturer": false,
-      "n": 73,
+      "n": 82,
       "by_run": [
         {
           "run_id": "20260912T021246Z",
@@ -8603,14 +9327,22 @@
           "n_manufacturer": 0,
           "any_manufacturer": false,
           "n": 8
+        },
+        {
+          "run_id": "20260920T170933Z",
+          "fetched_at": "2026-09-20T17:11:17Z",
+          "n_citations": 9,
+          "n_manufacturer": 0,
+          "any_manufacturer": false,
+          "n": 9
         }
       ]
     },
     "pah_branded": {
-      "n_citations": 76,
-      "n_manufacturer": 29,
+      "n_citations": 84,
+      "n_manufacturer": 32,
       "any_manufacturer": true,
-      "n": 76,
+      "n": 84,
       "by_run": [
         {
           "run_id": "20260912T021246Z",
@@ -8695,6 +9427,14 @@
         {
           "run_id": "20260919T165528Z",
           "fetched_at": "2026-09-19T16:58:28Z",
+          "n_citations": 8,
+          "n_manufacturer": 3,
+          "any_manufacturer": true,
+          "n": 8
+        },
+        {
+          "run_id": "20260920T170933Z",
+          "fetched_at": "2026-09-20T17:11:45Z",
           "n_citations": 8,
           "n_manufacturer": 3,
           "any_manufacturer": true,

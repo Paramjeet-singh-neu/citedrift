@@ -1,0 +1,705 @@
+{
+  "search_metadata": {
+    "id": "6ab0137b333617c2033f737f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FA9ovQhIEOln4yKOoGhP7cK9ZM-2Pz01-wTdEXWwFPA/6ab0137b333617c2033f737f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FA9ovQhIEOln4yKOoGhP7cK9ZM-2Pz01-wTdEXWwFPA/6ab0137b333617c2033f737f.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/FA9ovQhIEOln4yKOoGhP7cK9ZM-2Pz01-wTdEXWwFPA/6ab0137b333617c2033f737f.json_with_pixel_position",
+    "created_at": "2026-09-20 17:10:19 UTC",
+    "processed_at": "2026-09-20 17:10:19 UTC",
+    "google_url": "https://www.google.com/search?q=type+2+diabetes+treatment+options&oq=type+2+diabetes+treatment+options&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/FA9ovQhIEOln4yKOoGhP7cK9ZM-2Pz01-wTdEXWwFPA/6ab0137b333617c2033f737f.html",
+    "total_time_taken": 23.15
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "type 2 diabetes treatment options",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "type 2 diabetes treatment options",
+    "total_results": 128,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is a safer alternative to metformin?",
+      "type": "ai_overview",
+      "page_token": "ygwc4nicHdDbboIwAADQ7Gd81AKORROzDAG1U5TSC_RlgVZEKJdp8fa2f9lX7Wu27AtOcr6-1bGpfp4uhdbdeToaXa_X4aFtD2o_FG09Ss_3RoxEqlSWimpqv9jGay5mXr9y5p8rJyRdR10EIkPuBIYrjosx9kKwjVEiFhOCmJFHi0RHrjRZjUwJujIq6Tv3dCWJjCnQ-Z7cOubRMSuptcFEZ8aEJmURZR6_ywbaG_egUcyT1FXLDQ06bMKILQq6ZgBQMOm3zLMi39-FMYSZgvbel5u0Qec1Mz4jBY8pkJA3DhZAjiU7P7AZgGBuMOxChchz-Gf0nAVOulCXpOKUlNLyCnki1cRKYmRnAIY8Lu6S0DDAdJ0w7chbewwJeohS1QQUJ-q3IKh9iHwUoqqoCRk_Ekr77fJNZ1Vn8usgF5eZNfj_nH3ktZ52p_bwCwyJgoQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ygwc4nicHdDbboIwAADQ7Gd81AKORROzDAG1U5TSC_RlgVZEKJdp8fa2f9lX7Wu27AtOcr6-1bGpfp4uhdbdeToaXa_X4aFtD2o_FG09Ss_3RoxEqlSWimpqv9jGay5mXr9y5p8rJyRdR10EIkPuBIYrjosx9kKwjVEiFhOCmJFHi0RHrjRZjUwJujIq6Tv3dCWJjCnQ-Z7cOubRMSuptcFEZ8aEJmURZR6_ywbaG_egUcyT1FXLDQ06bMKILQq6ZgBQMOm3zLMi39-FMYSZgvbel5u0Qec1Mz4jBY8pkJA3DhZAjiU7P7AZgGBuMOxChchz-Gf0nAVOulCXpOKUlNLyCnki1cRKYmRnAIY8Lu6S0DDAdJ0w7chbewwJeohS1QQUJ-q3IKh9iHwUoqqoCRk_Ekr77fJNZ1Vn8usgF5eZNfj_nH3ktZ52p_bwCwyJgoQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgc2FmZXIgYWx0ZXJuYXRpdmUgdG8gbWV0Zm9ybWluPyIsImxrIjoiR2loM2FHRjBJR2x6SUdFZ2MyRm1aWElnWVd4MFpYSnVZWFJwZG1VZ2RHOGdiV1YwWm05eWJXbHUiLCJicyI6ImM0M091MjdDUUJDRllhWGRLclViRG9yRXJjTlNhaXFlZ01LMEF4empRWGdYN1E0MnZEMEdsQWlaaG5iMDZmempDamN0S2pGb2dpQkp5UWc1R3FNWDA0YXdnSnBXaGxpclgtU3piTkotaU4zS2pSX0RFb2xmbFBHc2x1NUNtcUE3cU1kT1pVTmpXdVNUYk5SLVJOM0JMZi0tdFlvZFlKUTljZFNTNE9YRXJZbmZYdEc5Z0JScUJrLTBhaFhzZWlMeWwtUXdHX1J1X1JHM2R2UFhsbWZMWkxCSXNacmVIcEczM1o5czJNR2Utazg4LWZmWERRIiwiaWQiOiJmY19rUk93YXR6b0JQZXhydUVQNTVLYWtBd181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgc2FmZXIgYWx0ZXJuYXRpdmUgdG8gbWV0Zm9ybWluPyIsImxrIjoiR2loM2FHRjBJR2x6SUdFZ2MyRm1aWElnWVd4MFpYSnVZWFJwZG1VZ2RHOGdiV1YwWm05eWJXbHUiLCJicyI6ImM0M091MjdDUUJDRllhWGRLclViRG9yRXJjTlNhaXFlZ01LMEF4empRWGdYN1E0MnZEMEdsQWlaaG5iMDZmempDamN0S2pGb2dpQkp5UWc1R3FNWDA0YXdnSnBXaGxpclgtU3piTkotaU4zS2pSX0RFb2xmbFBHc2x1NUNtcUE3cU1kT1pVTmpXdVNUYk5SLVJOM0JMZi0tdFlvZFlKUTljZFNTNE9YRXJZbmZYdEc5Z0JScUJrLTBhaFhzZWlMeWwtUXdHX1J1X1JHM2R2UFhsbWZMWkxCSXNacmVIcEczM1o5czJNR2Utazg4LWZmWERRIiwiaWQiOiJmY19rUk93YXR6b0JQZXhydUVQNTVLYWtBd181In0%3D"
+    },
+    {
+      "question": "What are 5 fruits to avoid in diabetes?",
+      "type": "ai_overview",
+      "page_token": "cKAGqHicHdBRbpswGABg7TJ9bHAQmRIpmgSzIbSwGeyfwMtk7CRObYLTQEJ56112qp1m0w7wvXyfv-35Yv58uethcLfNYvF4PJ5PfX-yh2fZdwtx-7jIhRTWtkKazerrCn07yi0ed2F03YWUOwffC4_FaSK6HLfGBKzTjfCmJTDtCg-CPCHZgayjhgGSMamlGdKcN2OLH0Nl11H2lifcdzNHkGQ-BGWlqQAI23hKAbsg43YnzBBRr6jqi8N8TonCaiw5WnGmo2Y54SwhLxITVpL1XZ2RbhGZSpy-vPLBKFZwvtRC4OAnu1hQBr3WFVzLuEGFgbFl9qoiD1Fr5hoUFXvwsVbv3Kz9el-sWi-lzV5_KA40Z_DPDqGa-jPlxSzfbAfEXau4oTkPZurdPLDpCACeREXY4OnHgVnM6dNR3rf-0__P7a9jN2zce3_6C1sPgoo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cKAGqHicHdBRbpswGABg7TJ9bHAQmRIpmgSzIbSwGeyfwMtk7CRObYLTQEJ56112qp1m0w7wvXyfv-35Yv58uethcLfNYvF4PJ5PfX-yh2fZdwtx-7jIhRTWtkKazerrCn07yi0ed2F03YWUOwffC4_FaSK6HLfGBKzTjfCmJTDtCg-CPCHZgayjhgGSMamlGdKcN2OLH0Nl11H2lifcdzNHkGQ-BGWlqQAI23hKAbsg43YnzBBRr6jqi8N8TonCaiw5WnGmo2Y54SwhLxITVpL1XZ2RbhGZSpy-vPLBKFZwvtRC4OAnu1hQBr3WFVzLuEGFgbFl9qoiD1Fr5hoUFXvwsVbv3Kz9el-sWi-lzV5_KA40Z_DPDqGa-jPlxSzfbAfEXau4oTkPZurdPLDpCACeREXY4OnHgVnM6dNR3rf-0__P7a9jN2zce3_6C1sPgoo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSA1IGZydWl0cyB0byBhdm9pZCBpbiBkaWFiZXRlcz8iLCJsayI6IkdpWjNhR0YwSUdGeVpTQTFJR1p5ZFdsMGN5QjBieUJoZG05cFpDQnBiaUJrYVdGaVpYUmxjdyIsImJzIjoiYzQzT3UyN0NRQkNGWWFYZEtyVWJEb3JFcmNOU2FpcWVnTUswQXh6alFYZ1g3UTQydkQwR2xBaVpobmIwNmZ6akNqY3RLakZvZ2lCSnlRZzVHcU1YMDRhd2dKcFdobGlyWC1TemJOSi1pTjNLalJfREVvbGZsUEdzbHU1Q21xQTdxTWRPWlVOald1U1RiTlItUk4zQkxmLS10WW9kWUpROWNkU1M0T1hFclluZlh0RzlnQlJxQmstMGFoWHNlaUx5bC1Rd0dfUnVfUkczZHZQWGxtZkxaTEJJc1pyZUhwRzMzWjlzMk1HZS1rODgtZmZYRFEiLCJpZCI6ImZjX2tST3dhdHpvQlBleHJ1RVA1NUtha0F3XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSA1IGZydWl0cyB0byBhdm9pZCBpbiBkaWFiZXRlcz8iLCJsayI6IkdpWjNhR0YwSUdGeVpTQTFJR1p5ZFdsMGN5QjBieUJoZG05cFpDQnBiaUJrYVdGaVpYUmxjdyIsImJzIjoiYzQzT3UyN0NRQkNGWWFYZEtyVWJEb3JFcmNOU2FpcWVnTUswQXh6alFYZ1g3UTQydkQwR2xBaVpobmIwNmZ6akNqY3RLakZvZ2lCSnlRZzVHcU1YMDRhd2dKcFdobGlyWC1TemJOSi1pTjNLalJfREVvbGZsUEdzbHU1Q21xQTdxTWRPWlVOald1U1RiTlItUk4zQkxmLS10WW9kWUpROWNkU1M0T1hFclluZlh0RzlnQlJxQmstMGFoWHNlaUx5bC1Rd0dfUnVfUkczZHZQWGxtZkxaTEJJc1pyZUhwRzMzWjlzMk1HZS1rODgtZmZYRFEiLCJpZCI6ImZjX2tST3dhdHpvQlBleHJ1RVA1NUtha0F3XzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the average life expectancy for someone with type 2 diabetes?",
+      "type": "ai_overview",
+      "page_token": "r5i2MXicHdFLjpswGABg9TKznBhIUhEpGokEJ-MERxh-89iMwE7Cw4BL6EDY9S5d90A9TUc9wqfv129VtvXfb3-KYdCPzWIxjuPrvevu6voqumaRPZ6tWIhMqTwT9Wb9fW283cTW7cbd7jE6PmjN9wwFPDGosqOsdXzKiSsqQHQm5wAxSrnGENnWNZSNNPUUgU2ymfQS4So72BatdenBNHpKlzxiEO5lIq10LQ2xpEf6yeqHEUQD5HvGGE5jT5EgracmD_EOWtzzGP-ESP_wW-Ywk9ThQb1nitdJo5wc2To2DRSF1EoRn3OcLAViA3MJv_DiJI5FBUdCUkO7cPCsK6iTaHRxdacqbElLLXUJ0dCnoC-hmSxpYHRiLtIL5qtzYKzySmFoaACh4_kmfbqF7KG2rSRm6xwRP42LpwTu05Cfk2hw5NSVPrBZVKoBRJjf1Cse630K-MQtz_qy119WA2JaXvjdlOPLTXxurZf_D9uPWzNsdN_d_wEcuZXo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r5i2MXicHdFLjpswGABg9TKznBhIUhEpGokEJ-MERxh-89iMwE7Cw4BL6EDY9S5d90A9TUc9wqfv129VtvXfb3-KYdCPzWIxjuPrvevu6voqumaRPZ6tWIhMqTwT9Wb9fW283cTW7cbd7jE6PmjN9wwFPDGosqOsdXzKiSsqQHQm5wAxSrnGENnWNZSNNPUUgU2ymfQS4So72BatdenBNHpKlzxiEO5lIq10LQ2xpEf6yeqHEUQD5HvGGE5jT5EgracmD_EOWtzzGP-ESP_wW-Ywk9ThQb1nitdJo5wc2To2DRSF1EoRn3OcLAViA3MJv_DiJI5FBUdCUkO7cPCsK6iTaHRxdacqbElLLXUJ0dCnoC-hmSxpYHRiLtIL5qtzYKzySmFoaACh4_kmfbqF7KG2rSRm6xwRP42LpwTu05Cfk2hw5NSVPrBZVKoBRJjf1Cse630K-MQtz_qy119WA2JaXvjdlOPLTXxurZf_D9uPWzNsdN_d_wEcuZXo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBhdmVyYWdlIGxpZmUgZXhwZWN0YW5jeSBmb3Igc29tZW9uZSB3aXRoIHR5cGUgMiBkaWFiZXRlcz8iLCJsayI6IkdoOTBlWEJsSURJZ1pHbGhZbVYwWlhNZ2JHbG1aU0JsZUhCbFkzUmhibU41IiwiYnMiOiJjNDNPdTI3Q1FCQ0ZZYVhkS3JVYkRvckVyY05TYWlxZWdNSzBBeHpqUVhnWDdRNDJ2RDBHbEFpWmhuYjA2ZnpqQ2pjdEtqRm9naUJKeVFnNUdxTVgwNGF3Z0pwV2hsaXJYLVN6Yk5KLWlOM0tqUl9ERW9sZmxQR3NsdTVDbXFBN3FNZE9aVU5qV3VTVGJOUi1STjNCTGYtLXRZb2RZSlE5Y2RTUzRPWEVyWW5mWHRHOWdCUnFCay0wYWhYc2VpTHlsLVF3R19SdV9SRzNkdlBYbG1mTFpMQklzWnJlSHBHMzNaOXMyTUdlLWs4OC1mZlhEUSIsImlkIjoiZmNfa1JPd2F0em9CUGV4cnVFUDU1S2FrQXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBhdmVyYWdlIGxpZmUgZXhwZWN0YW5jeSBmb3Igc29tZW9uZSB3aXRoIHR5cGUgMiBkaWFiZXRlcz8iLCJsayI6IkdoOTBlWEJsSURJZ1pHbGhZbVYwWlhNZ2JHbG1aU0JsZUhCbFkzUmhibU41IiwiYnMiOiJjNDNPdTI3Q1FCQ0ZZYVhkS3JVYkRvckVyY05TYWlxZWdNSzBBeHpqUVhnWDdRNDJ2RDBHbEFpWmhuYjA2ZnpqQ2pjdEtqRm9naUJKeVFnNUdxTVgwNGF3Z0pwV2hsaXJYLVN6Yk5KLWlOM0tqUl9ERW9sZmxQR3NsdTVDbXFBN3FNZE9aVU5qV3VTVGJOUi1STjNCTGYtLXRZb2RZSlE5Y2RTUzRPWEVyWW5mWHRHOWdCUnFCay0wYWhYc2VpTHlsLVF3R19SdV9SRzNkdlBYbG1mTFpMQklzWnJlSHBHMzNaOXMyTUdlLWs4OC1mZlhEUSIsImlkIjoiZmNfa1JPd2F0em9CUGV4cnVFUDU1S2FrQXdfNSJ9"
+    },
+    {
+      "question": "What is the newest treatment for type 2 diabetes?",
+      "type": "ai_overview",
+      "page_token": "Jv4u8nicHZBLjpswAEDVy8xyEkNJRaSoGgKGSQYzdvzB3lRgJyHBAZogmLDrFXqGnmpOM1EXb__e-_PPnpr689vfqu-723I2G8fx-di2R7t_1u1lVtzujZ7pwtqy0PVy8WMBfh70Khp0sL7qALOu4yGZ0xjeqEveddQnyrFrOd9gHnsAA5PzHNVZuHlHtmpowz3Cxgd2obk6I4C8tFGJpuiqxWabCtWrEA0oN8Ve-FMGu0KEiPIcg4z5aRl5OwUkKLl_TucVoaLuC062fF4Jeg6GPX910tpAEW-mh4uXOz3L1uDEYDRhV343E4flRHbSIXAXqZEldjLUhruoettH8I4ciDUnsWJqTBO1ZTH8bUIrSeRR0cBBCuRGlbmy2ndlThblo1Pl1d0wjh-Wb1L0gfloT5iRSZ_theUvLmeqUIDg1AYSA_-mXH3PYot58gLoBbya8emgh5X79P_16tfh0i-7a3v8AnsyisE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jv4u8nicHZBLjpswAEDVy8xyEkNJRaSoGgKGSQYzdvzB3lRgJyHBAZogmLDrFXqGnmpOM1EXb__e-_PPnpr689vfqu-723I2G8fx-di2R7t_1u1lVtzujZ7pwtqy0PVy8WMBfh70Khp0sL7qALOu4yGZ0xjeqEveddQnyrFrOd9gHnsAA5PzHNVZuHlHtmpowz3Cxgd2obk6I4C8tFGJpuiqxWabCtWrEA0oN8Ve-FMGu0KEiPIcg4z5aRl5OwUkKLl_TucVoaLuC062fF4Jeg6GPX910tpAEW-mh4uXOz3L1uDEYDRhV343E4flRHbSIXAXqZEldjLUhruoettH8I4ciDUnsWJqTBO1ZTH8bUIrSeRR0cBBCuRGlbmy2ndlThblo1Pl1d0wjh-Wb1L0gfloT5iRSZ_theUvLmeqUIDg1AYSA_-mXH3PYot58gLoBbya8emgh5X79P_16tfh0i-7a3v8AnsyisE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuZXdlc3QgdHJlYXRtZW50IGZvciB0eXBlIDIgZGlhYmV0ZXM/IiwibGsiOiJHaUZ1WlhjZ2RISmxZWFJ0Wlc1MElHWnZjaUJrYVdGaVpYUmxjeUIwZVhCbElESSIsImJzIjoiYzQzT3UyN0NRQkNGWWFYZEtyVWJEb3JFcmNOU2FpcWVnTUswQXh6alFYZ1g3UTQydkQwR2xBaVpobmIwNmZ6akNqY3RLakZvZ2lCSnlRZzVHcU1YMDRhd2dKcFdobGlyWC1TemJOSi1pTjNLalJfREVvbGZsUEdzbHU1Q21xQTdxTWRPWlVOald1U1RiTlItUk4zQkxmLS10WW9kWUpROWNkU1M0T1hFclluZlh0RzlnQlJxQmstMGFoWHNlaUx5bC1Rd0dfUnVfUkczZHZQWGxtZkxaTEJJc1pyZUhwRzMzWjlzMk1HZS1rODgtZmZYRFEiLCJpZCI6ImZjX2tST3dhdHpvQlBleHJ1RVA1NUtha0F3XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVIweHhjVWxTZVdkSGJWUTBNa0ZYUTIxQ1JHY3dUVVpxVFZkSFluZEZUbXhzWW1selQydDRSVE5ETjJneldUUjVSbk0wTlZjeFJsOHdhVEUxYjA1eGJGSkhaRzV3YVdOSmFGbzRMVkpEYVRCTVoxSnlVVWRpZWsxRlVSSVhhMUpQZDJGMGVtOUNVR1Y0Y25WRlVEVTFTMkZyUVhjYUlrRkVjM0k1WmxNNVJucHRUVzU2VkVVMlZrYzBTekprTms1aFNWUk1XWFpKTmtFIiwiZmN2IjoiMyIsImVpIjoia1JPd2F0em9CUGV4cnVFUDU1S2FrQXciLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmYmJ6WFQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBuZXdlc3QgdHJlYXRtZW50IGZvciB0eXBlIDIgZGlhYmV0ZXM%2FIiwibGsiOiJHaUZ1WlhjZ2RISmxZWFJ0Wlc1MElHWnZjaUJrYVdGaVpYUmxjeUIwZVhCbElESSIsImJzIjoiYzQzT3UyN0NRQkNGWWFYZEtyVWJEb3JFcmNOU2FpcWVnTUswQXh6alFYZ1g3UTQydkQwR2xBaVpobmIwNmZ6akNqY3RLakZvZ2lCSnlRZzVHcU1YMDRhd2dKcFdobGlyWC1TemJOSi1pTjNLalJfREVvbGZsUEdzbHU1Q21xQTdxTWRPWlVOald1U1RiTlItUk4zQkxmLS10WW9kWUpROWNkU1M0T1hFclluZlh0RzlnQlJxQmstMGFoWHNlaUx5bC1Rd0dfUnVfUkczZHZQWGxtZkxaTEJJc1pyZUhwRzMzWjlzMk1HZS1rODgtZmZYRFEiLCJpZCI6ImZjX2tST3dhdHpvQlBleHJ1RVA1NUtha0F3XzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Type 2 diabetes treatment options include lifestyle changes, oral and injectable medications, and sometimes insulin or surgery.",
+        "snippet_highlighted_words": [
+          "lifestyle changes, oral and injectable medications, and sometimes insulin or surgery"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Lifestyle Changes"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Healthy diet: Eat a balanced meal plan rich in lean proteins, non-starchy vegetables, and high-fiber whole grains."
+          },
+          {
+            "snippet": "Physical activity: Get at least 150 minutes of moderate exercise each week, plus resistance training."
+          },
+          {
+            "snippet": "Weight management: Lose weight if needed to help lower blood sugar and improve overall health."
+          },
+          {
+            "snippet": "Glucose monitoring: Check your blood sugar regularly as directed by your care team."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Medications"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Metformin: The most common first-line oral medicine that lowers glucose made by the liver and helps the body use insulin better.",
+            "snippet_links": [
+              {
+                "text": "Metformin",
+                "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199"
+              }
+            ]
+          },
+          {
+            "snippet": "GLP-1 receptor agonists: Injectable drugs (like Ozempic or Victoza) that help release insulin, slow digestion, and support weight loss."
+          },
+          {
+            "snippet": "SGLT2 inhibitors: Pills that help remove extra sugar through urine and protect the heart and kidneys."
+          },
+          {
+            "snippet": "Sulfonylureas: Oral drugs that prompt the pancreas to make more insulin."
+          },
+          {
+            "snippet": "Other oral options: These include DPP-4 inhibitors, TZDs (thiazolidinediones), and meglitinides."
+          },
+          {
+            "snippet": "Insulin therapy: Injections or pump delivery used when oral medications and lifestyle steps do not control blood sugar enough."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Other Procedures"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Bariatric surgery: Weight-loss procedures that can significantly improve or even put type 2 diabetes into remission."
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+        "source": "my.clevelandclinic.org",
+        "index": 0
+      },
+      {
+        "link": "https://www.ncbi.nlm.nih.gov/books/NBK425702/",
+        "source": "ncbi.nlm.nih.gov",
+        "index": 1
+      },
+      {
+        "link": "https://diabetesresearch.org/diabetes-type-2-treatment/",
+        "source": "diabetesresearch.org",
+        "index": 2
+      },
+      {
+        "link": "https://medlineplus.gov/diabetestype2.html",
+        "source": "medlineplus.gov",
+        "index": 3
+      },
+      {
+        "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+        "source": "mayoclinic.org",
+        "index": 4
+      },
+      {
+        "link": "https://www.aafp.org/afp/2019/0215/p237",
+        "source": "aafp.org",
+        "index": 5
+      },
+      {
+        "link": "https://www.heart.org/en/health-topics/diabetes/prevention--treatment-of-diabetes/diabetes-medications",
+        "source": "heart.org",
+        "index": 6
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=MjHiAO0Hpi8",
+        "source": "youtube.com",
+        "index": 7
+      },
+      {
+        "link": "https://diabetes.org/health-wellness/medication/oral-other-injectable-diabetes-medications",
+        "source": "diabetes.org",
+        "index": 8
+      },
+      {
+        "link": "https://emedicine.medscape.com/article/117853-treatment",
+        "source": "emedicine.medscape.com",
+        "index": 9
+      },
+      {
+        "link": "https://www.orlandohealth.com/content-hub/new-treatment-for-type-2-diabetes-on-the-horizon",
+        "source": "orlandohealth.com",
+        "index": 10
+      },
+      {
+        "title": "Type 2 Diabetes: What It Is, Causes, Symptoms & Treatment",
+        "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+        "snippet": "How is Type 2 diabetes treated? The key parts of managing Type 2 diabetes include: * Lifestyle changes, like more exercise and eating adjustments. * Medication. * ...",
+        "source": "Cleveland Clinic",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8-xN-UORrPh6j7g1JWjIAEwDl-EtctYfrqjn74E2QW5JbKs-QLPNaY-T-tcTiR7Q2DN9uEnztbN3B6WwocTuOe5L2glKO2uzugUBJ",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://my.clevelandclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "Management of Type 2 Diabetes: Selecting Amongst Available ...",
+        "link": "https://www.ncbi.nlm.nih.gov/books/NBK425702/",
+        "snippet": "There are a number of algorithms available to guide the choice of antihyperglycemic medications for type 2 diabetes. These include algorithms from the American Dia...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ncbi.nlm.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "Diabetes Type 2 Treatment - DRIF",
+        "link": "https://diabetesresearch.org/diabetes-type-2-treatment/",
+        "snippet": "Type 2 Diabetes Treatment Options. Managing diabetes involves a combination of medical treatment and lifestyle changes. Healthy Eating Your care team may include a...",
+        "source": "diabetesresearch.org",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0A8YPaKa247ZE8QZm6xvbDWXDGHyGobnwqiE8UQg0qwM1j9DZvh1hVLOsXfTBOSxtN1sps_zEtR3NqsP9bEZSdFf2YNQ7rtVoeg9G",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://diabetesresearch.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      },
+      {
+        "title": "Diabetes Type 2 - MedlinePlus",
+        "link": "https://medlineplus.gov/diabetestype2.html",
+        "snippet": "Treatment for type 2 diabetes involves managing your blood glucose levels. Many people are able to do this by living a healthy lifestyle. Some people may also need...",
+        "source": "MedlinePlus (.gov)",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS6FjnO9QZVMNNgcBaPTtCfaRZi161EpepOb3Sdz-aeseUFZmYL1yOXttDm5zKa7QwWSQqQgbxGq__sKPby-TosK12kWQbC0MX8zCr",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://medlineplus.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 14
+      },
+      {
+        "title": "Type 2 diabetes - Diagnosis and treatment - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+        "snippet": "Diabetes medicines. If you can't stay at your target blood sugar level with diet and exercise, your healthcare team may prescribe diabetes medicines that help lowe...",
+        "source": "Mayo Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 15
+      },
+      {
+        "title": "Type 2 Diabetes Therapies: A STEPS Approach | AFP - AAFP",
+        "link": "https://www.aafp.org/afp/2019/0215/p237",
+        "snippet": "Table_title: TABLE 1. Type 2 Diabetes Therapies: A STEPS Approach Table_content: | Drug class | STEPS component | | | --- | --- | --- | | | Tolerability | Simplici...",
+        "source": "American Academy Of Family Physicians | AAFP",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRY5xU_sfGbRo0cSyHHNmqm9KvnMNyAmRcK9tkbuxVPsK-PAm8MDhMNCrqBQH7c5WEFRS9pTDG_tVw6e19585Blf2Fs",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aafp.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 16
+      },
+      {
+        "title": "Diabetes Medications - American Heart Association",
+        "link": "https://www.heart.org/en/health-topics/diabetes/prevention--treatment-of-diabetes/diabetes-medications",
+        "snippet": "Combination Therapy There are many types (or classes) of diabetes medications, and they work in different ways. Metformin is a common medication used to treat Type...",
+        "source": "www.heart.org",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SUytyiRQS2S7JsyFnj1J76b1lR5x2_gUZSO-1rbgNtYAqcTWCTdU00BFzppK3HhLE4Ukxku1XdVodzNR7cNFkLZNQ27SmBQP-LLO",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.heart.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 17
+      },
+      {
+        "title": "Treatment Options for Type 2 Diabetes",
+        "link": "https://www.youtube.com/watch?v=MjHiAO0Hpi8&t=29",
+        "snippet": "Treatment Options for Type 2 Diabetes you may also need to check your blood sugar cholesterol and blood pressure to make sure they are within the target range to h",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7CZL7LT6c64gboS04Y_1ZZXddmDIezuFqTRwOzxZhJuwVmrp0Qm8U20DOR0MfOUsj9XmJG1cPYAFBj6NNm3p9sl1Cgr4Ca__PvqZNYw",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 18
+      },
+      {
+        "title": "Oral & Injectable Medications for Type 2 Diabetes",
+        "link": "https://diabetes.org/health-wellness/medication/oral-other-injectable-diabetes-medications",
+        "snippet": "Metformin Dipeptidyl peptidase 4 (DPP-4) inhibitors Glucagon-like peptide 1 (GLP-1) and dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 receptor ...",
+        "source": "American Diabetes Association",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://diabetes.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 19
+      },
+      {
+        "title": "Type 2 Diabetes Mellitus Treatment & Management",
+        "link": "https://emedicine.medscape.com/article/117853-treatment",
+        "snippet": "Early initiation of pharmacologic therapy is associated with improved glycemic control and reduced long-term complications in type 2 diabetes. Drug classes used fo...",
+        "source": "Medscape",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://emedicine.medscape.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 20
+      },
+      {
+        "title": "New Treatment for Type 2 Diabetes on the Horizon - Orlando Health",
+        "link": "https://www.orlandohealth.com/content-hub/new-treatment-for-type-2-diabetes-on-the-horizon",
+        "snippet": "Over the years, the medical community has come up with pharmaceutical and surgical ways to keep Type 2 Diabetes under control: Traditional drugs such as metformin,",
+        "source": "Orlando Health",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdElMBC4ZSogaR5Mla2_J_RkCE3pH79jGa2kH0ChHix9CAHVIDiwRvfFElmhVj4nfS06I2JaflKz2EJfx8Z4NC5ssTpe2F9Z_vCa9C",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.orlandohealth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 21
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Type 2 diabetes - Diagnosis and treatment",
+      "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFfUW56QXfhbKK6DPKViOLBkQr7LDPiQklekVKJVQKKGUOUuX2M5rawzFGWNdcDbsqg_UmjC0rEgxSWxvjhN8vz32eBOAT6oViT8XfYO9wyl71hEST21IjTQYIXFQfAFGVTjMlalzT2TzPOxYdrGNrlBp78W6Yn1C9n88QgiUIcZDpACQSPb-iTKeI7VeYOSBPGlw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.mayoclinic.org \u203a drc-20351199",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpAAgQOIGeAeuVnR_dA498xQaQ6rFG8gf3ndkqzWJi5AAA_vYKMWBP-r-HNmcyXa4pkfQHdoFYE0y3Hpp_Okj8s5C_giLFvKqALNslb4pW7F9qlPUORjVPmXknkujc011-nWbyaSekjoXWhdhuT_VjOs7y3_-6HbiieRVcRjpRq69Rs7zphUdPNaW5MutnbEFty-r-A2QHsZpv4UXKT1slZpbMrHYmFkC_YUZXsUS-_xAyjaSxahu_tonLZEIt_w3BV_UL5kC9xd_lwTcLRL2OeP6McS_6Mie0rRW_WSYAAAAA.webp",
+      "date": "Feb 27, 2025",
+      "snippet": "Metformin (Fortamet, Glumetza, others) is most often the first medicine prescribed for type 2 diabetes. Low-dose aspirin. Weight-loss surgery ...",
+      "snippet_highlighted_words": [
+        "Metformin (Fortamet, Glumetza, others"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Metformin (Fortamet, Glumetza, others) is most often the first medicine prescribed for type 2 diabetes. Low-dose aspirin. Weight-loss surgery ...",
+          "source_info_link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglpAAgQOIGeAeuVnR_dA498xQaQ6rFG8gf3ndkqzWJi5AAA_vYKMWBP-r-HNmcyXa4pkfQHdoFYE0y3Hpp_Okj8s5C_giLFvKqALNslb4pW7F9qlPUORjVPmXknkujc011-nWbyaSekjoXWhdhuT_VjOs7y3_-6HbiieRVcRjpRq69Rs7zphUdPNaW5MutnbEFty-r-A2QHsZpv4UXKT1slZpbMrHYmFkC_YUZXsUS-_xAyjaSxahu_tonLZEIt_w3BV_UL5kC9xd_lwTcLRL2OeP6McS_6Mie0rRW_WSYAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 2,
+      "title": "Type 2 Diabetes: What It Is, Causes, Symptoms & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVY_3zwfXI7dpnvMUQkNVnHLW8CXP58JcIehC4Njm4NBsvgXuG-rPSNRY8Q6DJw3Y_shCkzK3kz9bMRqiqs8Lx1MD5ArpCSA_dP37f_VPm2It0Z7-nD_5wGPqnI90Fmz-go5dmD7-SpDSIafX_IiI4BRDQBXbYuvU&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://my.clevelandclinic.org \u203a health \u203a diseases \u203a 215...",
+      "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH4dphagCiASX-Fm7ckynuPFJbjKWKUBjC3iljgAAP6HHzR-_TSBGFqnI_ZlPOILnU912_XxcLWYnXgjtO2UWvM4dnC0pV7tzrIeL897H2zXQ4AwwVo4uDTsHodej0SkNnMZjvcQrKaXoFw4__E814MnFQ_OEwyb1z3Csh-td3GjOzO-v5sIJy1nIPW6Bfkx_CrfgDF-MNf1twuwT3pJ_j1fOczGHHyYt6nId4D1D_v4N_YjgvIAeao69eqkn1jwpqMtWY-tltfZXs2xB4OZlsjB0cqZUSWDnSj9sQZ5pv9vbXs-SYAAAA.webp",
+      "date": "Nov 25, 2025",
+      "snippet": "The key parts of managing Type 2 diabetes include: Lifestyle changes, like more exercise and eating adjustments Medication Glucose monitoring. ...",
+      "snippet_highlighted_words": [
+        "Lifestyle changes, like more exercise and eating adjustments"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The key parts of managing Type 2 diabetes include: Lifestyle changes, like more exercise and eating adjustments Medication Glucose monitoring. ...",
+          "source_info_link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH4dphagCiASX-Fm7ckynuPFJbjKWKUBjC3iljgAAP6HHzR-_TSBGFqnI_ZlPOILnU912_XxcLWYnXgjtO2UWvM4dnC0pV7tzrIeL897H2zXQ4AwwVo4uDTsHodej0SkNnMZjvcQrKaXoFw4__E814MnFQ_OEwyb1z3Csh-td3GjOzO-v5sIJy1nIPW6Bfkx_CrfgDF-MNf1twuwT3pJ_j1fOczGHHyYt6nId4D1D_v4N_YjgvIAeao69eqkn1jwpqMtWY-tltfZXs2xB4OZlsjB0cqZUSWDnSj9sQZ5pv9vbXs-SYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 3,
+      "title": "Oral & Injectable Medications for Type 2 Diabetes",
+      "link": "https://diabetes.org/health-wellness/medication/oral-other-injectable-diabetes-medications",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFcii2E5WsUaQX-qE_nGRpif-DfSWJu7lOdvliMRLBZexiFc6gm8qirY46SpzOoW_umIr2JaxW0FandDRz7k2fvEwmoouBBqUA9mIcCOE0LhasBM-qCYp4CP2E2TwXyGJ7QDZVFCKDpNKwH84ch31wHbnlMSQRGJO73rOPmRP6X4wZQeDnCwLC8nnNcQaPw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECDUQAQ&uoh=1",
+      "displayed_link": "https://diabetes.org \u203a health-wellness \u203a medication \u203a ora...",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDlp0OkG_xKlN5JCg0MulNFeu6rf4AAA_tiUnXr9vvaIQAblJsFONqCgaYM8saEfps9Mw6n3g33tpEUYnEy_8EFkMXa-l911l3nSm9H_PoRuxcAzPqmSuPb3CdjDXd43iC4fZevVz2feiKW94VQtwnttwRrXmWJ8SvsMC2q73v4vPX98y5TJd6lBgBIr-Tw6Wh92_byCjHqZnSU8hMiWwhvYvLyWH1SHwa9Av_lN3_JKNMhBVZjKLPtQgEbExZYC4VSxwZ7X_p7B85eKYtUAAA.webp",
+      "snippet": "Common Type 2 Diabetes Medications \u00b7 Metformin \u00b7 DPP-4 Inhibitors \u00b7 GLP-1 and Dual GLP-1/GIP Receptor Agonists \u00b7 SGLT2 Inhibitors \u00b7 Sulfonylureas \u00b7 TZDs.",
+      "snippet_highlighted_words": [
+        "Metformin"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common Type 2 Diabetes Medications \u00b7 Metformin \u00b7 DPP-4 Inhibitors \u00b7 GLP-1 and Dual GLP-1/GIP Receptor Agonists \u00b7 SGLT2 Inhibitors \u00b7 Sulfonylureas \u00b7 TZDs.",
+          "source_info_link": "https://diabetes.org/health-wellness/medication/oral-other-injectable-diabetes-medications",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDlp0OkG_xKlN5JCg0MulNFeu6rf4AAA_tiUnXr9vvaIQAblJsFONqCgaYM8saEfps9Mw6n3g33tpEUYnEy_8EFkMXa-l911l3nSm9H_PoRuxcAzPqmSuPb3CdjDXd43iC4fZevVz2feiKW94VQtwnttwRrXmWJ8SvsMC2q73v4vPX98y5TJd6lBgBIr-Tw6Wh92_byCjHqZnSU8hMiWwhvYvLyWH1SHwa9Av_lN3_JKNMhBVZjKLPtQgEbExZYC4VSxwZ7X_p7B85eKYtUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "American Diabetes Association",
+      "read_more_link": "https://diabetes.org/health-wellness/medication/oral-other-injectable-diabetes-medications#:~:text=Common%20Type%202%20Diabetes%20Medications&text=Metformin&text=DPP%2D4%20Inhibitors&text=GLP%2D1%20and%20Dual%20GLP%2D1%2FGIP%20Receptor,Agonists&text=SGLT2%20Inhibitors&text=Sulfonylureas&text=TZDs"
+    },
+    {
+      "position": 4,
+      "title": "Diabetes Type 2 Treatment - DRIF",
+      "link": "https://diabetesresearch.org/diabetes-type-2-treatment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV_m98T_hwCxpXekuCPG26HHsUmtiPQwDKF6a36ghqbSIuXvbrKmzw-_chDBshqUTueArahHDzp7WRBBC74tvW7dIYxqAgBIC-foUBAbHIBPajElmihCUa3O90NShpuHvVySQC4QrcOXxrhA&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://diabetesresearch.org \u203a diabetes-type-2-treatment",
+      "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXrtuEhR7o1qL5EVkbY4Sc3pfMOCjPSKDGWMcaUcOdAA_VAHgXYa2VJ15n9dOjZ7ZdIv4KpEpvvt90-dt7a89nW35YbP-Zv-DPv0eHyxcob_xbWuXXFm1XsYs_4clGD-q0c7_35_7lxovH0qfZz6Ybl8RNC2j85NJDJzwZde9uezc2ob9QlpeXnIZGhPFHpB3V3_xiv2K-bciqjhcpa9e-DbY_iTb3Su65NazngVT6bUcAZ73o2ZWH6J2NGxSzAHSgZEeSEKPKLaNaeFecxUhLavnjOOljnEj3hoR-4iA49mqCUX6vB7HefysyPsJfkX-FGbyYaStaEFAAAA.webp",
+      "snippet": "Therapies like acupuncture, acupressure, and massage can promote relaxation, improve circulation, and help with problems like nerve pain.",
+      "snippet_highlighted_words": [
+        "acupuncture, acupressure, and massage"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Therapies like acupuncture, acupressure, and massage can promote relaxation, improve circulation, and help with problems like nerve pain.",
+          "source_info_link": "https://diabetesresearch.org/diabetes-type-2-treatment/",
+          "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASocABwAPrkurlcnIacnG_DgFwlsAJ0vOXrtuEhR7o1qL5EVkbY4Sc3pfMOCjPSKDGWMcaUcOdAA_VAHgXYa2VJ15n9dOjZ7ZdIv4KpEpvvt90-dt7a89nW35YbP-Zv-DPv0eHyxcob_xbWuXXFm1XsYs_4clGD-q0c7_35_7lxovH0qfZz6Ybl8RNC2j85NJDJzwZde9uezc2ob9QlpeXnIZGhPFHpB3V3_xiv2K-bciqjhcpa9e-DbY_iTb3Su65NazngVT6bUcAZ73o2ZWH6J2NGxSzAHSgZEeSEKPKLaNaeFecxUhLavnjOOljnEj3hoR-4iA49mqCUX6vB7HefysyPsJfkX-FGbyYaStaEFAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "diabetesresearch.org"
+    },
+    {
+      "position": 5,
+      "title": "Current and new treatment options for adults recently ... - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11836864/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVkAa2pB4AqeH_DCn40-b0aj8h9xY5HfGpjFi_MrRF3pTY94bjQE_CdjQzuEHkJIttSaWAp0RqVC-SREywWyyLxSkCSHCqP9_CZKRWD7GesH_b36fXMeK3AvEtXlMYhKjSIwYzvAk&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov \u203a articles \u203a PMC11836864",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "author": "by TK Oser",
+      "snippet": "While 30 min of moderate-to-vigorous exercise is effective in lowering insulin resistance for 24\u201336 hours, any contraction of skeletal muscle ...",
+      "about_this_result": {
+        "source": {
+          "description": "While 30 min of moderate-to-vigorous exercise is effective in lowering insulin resistance for 24\u201336 hours, any contraction of skeletal muscle ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11836864/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11836864/#:~:text=While%2030%20min%20of%20moderate%2Dto%2Dvigorous,BG%20thereby%20lowering%20BG%20levels."
+    },
+    {
+      "position": 6,
+      "title": "Type 2 Diabetes Therapies: A STEPS Approach | AFP",
+      "link": "https://www.aafp.org/afp/2019/0215/p237",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVL4pbqRAUGtQev0-kscLDbQfevcjDOAvNIJqlSQMiazM22Aa3aFPmB_1-0Mv_4fobTee9_u1CZaOY1maSX49I9tET7gqUrdsJzNVcW4dKrNBbQ2sKG_rZMJpl&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://www.aafp.org \u203a afp",
+      "favicon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAACQBwCdASocABwAPrUurVanIacnG_DgFolsAJ0v1kGdaJ6JtZGboMMEynu9imakzNwDq2Jj-xbPh_B_23o-L23pgItLFQAA_vi5InffKfLJhRRfrYdAeIk9QSaGxQdQrS9TzuT-TNWsxL_9tCeXAknl305z-XglUqQxRXy7UUVCeK6tS4iEaQvitIwz0OCKVP8HW69ip-PxKOil4md17mZ_6p_6Rlxii_KBnsS4fpHi4TN5Vy0p7RfWFp3iAGABtWFH3W1-7KTGbs74wPDbG6mgT1MHxOof96CGJCMSm4g_n-1puU91AZOFps1be3mcsHnsYMrrAL2KjauS2SHH_V78qpessvms8BsDFFZhXxgnfOWS-LJj1pCHHGNjxSz1xz7lOp4WOrmq1S2LUXU5H_MaWj57w-suJ-d7b__Ex_iYwc3o9I5n1UAQCW_eLeM4vMXndXlK_-AfQK2v-DXrrUTzGu7Fu9xTM-uGrIYlfw1gJ5SBELP7pgAA.webp",
+      "date": "Feb 15, 2019",
+      "snippet": "The first-line treatment option, metformin, is safe and fairly well-tolerated, has excellent long-term effectiveness on patient-oriented ...",
+      "snippet_highlighted_words": [
+        "metformin"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The first-line treatment option, metformin, is safe and fairly well-tolerated, has excellent long-term effectiveness on patient-oriented ...",
+          "source_info_link": "https://www.aafp.org/afp/2019/0215/p237",
+          "icon": "https://serpapi.com/images/i/UklGRoQBAABXRUJQVlA4IHgBAACQBwCdASocABwAPrUurVanIacnG_DgFolsAJ0v1kGdaJ6JtZGboMMEynu9imakzNwDq2Jj-xbPh_B_23o-L23pgItLFQAA_vi5InffKfLJhRRfrYdAeIk9QSaGxQdQrS9TzuT-TNWsxL_9tCeXAknl305z-XglUqQxRXy7UUVCeK6tS4iEaQvitIwz0OCKVP8HW69ip-PxKOil4md17mZ_6p_6Rlxii_KBnsS4fpHi4TN5Vy0p7RfWFp3iAGABtWFH3W1-7KTGbs74wPDbG6mgT1MHxOof96CGJCMSm4g_n-1puU91AZOFps1be3mcsHnsYMrrAL2KjauS2SHH_V78qpessvms8BsDFFZhXxgnfOWS-LJj1pCHHGNjxSz1xz7lOp4WOrmq1S2LUXU5H_MaWj57w-suJ-d7b__Ex_iYwc3o9I5n1UAQCW_eLeM4vMXndXlK_-AfQK2v-DXrrUTzGu7Fu9xTM-uGrIYlfw1gJ5SBELP7pgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "American Academy Of Family Physicians | AAFP",
+      "read_more_link": "https://www.aafp.org/afp/2019/0215/p237#:~:text=The%20first%2Dline%20treatment%20option%2C%20metformin%2C,has%20a%20simple%20dosing%20regimen."
+    },
+    {
+      "position": 7,
+      "title": "Treatment Options for Type 2 Diabetes",
+      "link": "https://www.youtube.com/watch?v=MjHiAO0Hpi8",
+      "displayed_link": "75.6K+ views \u00b7 2 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9G4bbxM3o6W6v7MeZ8tzF1xbgMr98eGjQpKyeZC_mxCIPhEt7iVIBA&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "Lifestyle changes include eating a healthy diet, regular exercise, losing weight, and not smoking. You may also need to check your blood sugar, ...",
+      "duration": "4:35",
+      "about_this_result": {
+        "source": {
+          "description": "Lifestyle changes include eating a healthy diet, regular exercise, losing weight, and not smoking. You may also need to check your blood sugar, ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "source": "YouTube \u00b7 Nucleus Medical Media"
+    },
+    {
+      "position": 8,
+      "title": "Diabetes Type 2",
+      "link": "https://medlineplus.gov/diabetestype2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVMBz0P9lC5WAvRu53aJG-HmrxaPUTXfQRwTEHnA-b-NAVHLNC4ObO1F4_ekG_MaYZKIGr6qcFenm017OfhUAr6MPWzh3nDmuFVaXp0C4isvAQS-mT_7POQWnE2GbJ&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://medlineplus.gov \u203a Health Topics",
+      "favicon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAAAwCACdASocABwAPtEutFooIagoGAEAGglsALElQX4Bb2KHIZTbAYjN7AHPgey-Sqr_YeWPLnbENBt-oaj97zo2tHUxtFHIKcMsAAD-_sLL-Jl_uDJZ3kPS-0rpmFXAi8yf_jtpDTkH8YjY22PU8yXBREm4HdskGS3rJarUNYF6KD6MeiKOWP_JPGlx9vRjdhWb_Cn-Q_jgfkLQzZYxh-__QBy13nobhPwzSV_j2pMrCZNf8TZTkPufg9dvown-0ApATF4VfH0GicemEpaab76PwH1AEeM537GNyXUkqfO0cBFozpjwGJVbDaEfmxIz5hupZIjCOta-ZImS6nyi3UyZb2ODPHF9lVn-jW_NxW4-eRkHTubqGdNeP3zBAgJvH67zJkkrznH-I_Q_PVfujsCJlCDltAHIgRRpHJDAOtlhuPyzqB-rKEbrPt-wOffy4n7mUd_Ejy7_5tVdfMDTIs5Ln7ZLo5dn9U0RS3HQIaHtEuPXY_TB-idKj-Zb3aWkPrElCkDcAAA.webp",
+      "date": "Jan 21, 2026",
+      "snippet": "Treatment for type 2 diabetes involves managing your blood glucose levels. Medicines for diabetes include oral medicines, insulin, and other ...",
+      "snippet_highlighted_words": [
+        "managing your blood glucose levels"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Treatment for type 2 diabetes involves managing your blood glucose levels. Medicines for diabetes include oral medicines, insulin, and other ...",
+          "source_info_link": "https://medlineplus.gov/diabetestype2.html",
+          "icon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAAAwCACdASocABwAPtEutFooIagoGAEAGglsALElQX4Bb2KHIZTbAYjN7AHPgey-Sqr_YeWPLnbENBt-oaj97zo2tHUxtFHIKcMsAAD-_sLL-Jl_uDJZ3kPS-0rpmFXAi8yf_jtpDTkH8YjY22PU8yXBREm4HdskGS3rJarUNYF6KD6MeiKOWP_JPGlx9vRjdhWb_Cn-Q_jgfkLQzZYxh-__QBy13nobhPwzSV_j2pMrCZNf8TZTkPufg9dvown-0ApATF4VfH0GicemEpaab76PwH1AEeM537GNyXUkqfO0cBFozpjwGJVbDaEfmxIz5hupZIjCOta-ZImS6nyi3UyZb2ODPHF9lVn-jW_NxW4-eRkHTubqGdNeP3zBAgJvH67zJkkrznH-I_Q_PVfujsCJlCDltAHIgRRpHJDAOtlhuPyzqB-rKEbrPt-wOffy4n7mUd_Ejy7_5tVdfMDTIs5Ln7ZLo5dn9U0RS3HQIaHtEuPXY_TB-idKj-Zb3aWkPrElCkDcAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "source": "MedlinePlus (.gov)"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "KenDBerryMD",
+      "source": "YouTube",
+      "duration": "16:20",
+      "extensions": [
+        "523.1K+ views "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab0137b333617c2033f737f/images/5Ovrkz_dg4DSLmkz8RiqqisZSAxNGC5byNWOl9th8pk.jpeg"
+      ],
+      "title": "Reverse Type 2 Diabetes Faster: 10 Daily Habits That Lower Blood Sugar",
+      "link": "https://www.youtube.com/watch?v=RF_yIUvLRCk",
+      "date": "Jun 29, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRbfYyrPfTVk4x_eU_4xeqNAB6Jnm_Kg4jHDQ"
+    },
+    {
+      "author": "Type 2 Diabetes : Information, Support & Sharing",
+      "source": "Facebook",
+      "extensions": [
+        "20+ reactions "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab0137b333617c2033f737f/images/wR2IFtmmAOp5LQ5aruXTutsEpvDMGpdbVjgZz2tYz88.jpeg"
+      ],
+      "title": "Hi everyone. Possibly a dumb question, but is the point of most type 2 diabetes medication just to allow people to keep eating carbs? Are there any other benefits?",
+      "link": "https://www.facebook.com/groups/1941688949937942/posts/2281025932670907/",
+      "date": "4 days ago"
+    },
+    {
+      "author": "dr afzal critical care medicine",
+      "source": "YouTube",
+      "duration": "12:03",
+      "extensions": [
+        "31.4K+ views "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab0137b333617c2033f737f/images/zDAlEXMYX8CsyZWNt5q09XnvMuU1MygeK_bfpr3Q2V4.jpeg"
+      ],
+      "title": "Type 2 Diabetes Treatment Has Completely Changed! | 10 Major Changes Doctors Use in 2026",
+      "link": "https://www.youtube.com/watch?v=mI-eg9gFsRI",
+      "date": "3 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQRZ95e0w3KOp2h57aW9aqAraBxZ8dZY-5JBQ"
+    },
+    {
+      "author": "AmericanDiabetesAssociation",
+      "source": "Facebook",
+      "duration": "0:51",
+      "extensions": [
+        "7 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7BqSFZ7dZVnxtu6oqXym0gZwAWnq6O6XSQdSF6B6ywXK9lBVvoP3JK2MoYZE&usqp=CAI&s=10"
+      ],
+      "title": "\ud83d\udcac Have questions about your diabetes medications? Ask them! In this episode of Diabetes Day by Day, our hosts explore different medications used to treat type 2 diabetes and how they may fit into your treatment plan. Talking with your doctor and healthcare t",
+      "link": "https://www.facebook.com/AmericanDiabetesAssociation/posts/-have-questions-about-your-diabetes-medications-ask-them-in-this-episode-of-diab/1416477227290485/",
+      "date": "1 month ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT7qmLxPIvXMxaPGl5WuVttVC7CAgbxWfFSZA"
+    },
+    {
+      "author": "Ryan Glass",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr2QPj5vE6OpMjADsAymq8531KIBgiFAXweBdIBoOVf1dW47aWzEnVhBituQ&usqp=CAI&s"
+      ],
+      "title": "\ud83e\ude7a NCLEX Practice Question A nurse is caring for a client with type 2 diabetes mellitus. Which medication should the nurse anticipate administering? \ud83d\udcac Comment your answer before expanding the caption! \u2b07\ufe0f \u2b07\ufe0f \u2b07\ufe0f \u2b07\ufe0f \u2b07\ufe0f \u2b07\ufe0f \u2b07\ufe0f \u2b07\ufe0f \u2705 Correct Answer: C. M",
+      "link": "https://www.facebook.com/groups/687751763665162/posts/1046578857782449/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2HJesDIN9ee5hXvfGKriO0fObUe_7AnCe-1nrAvbUfzoVSXwbWmE7jOIxA&usqp=CAI&s"
+      ],
+      "title": "Ayurvedic Drishti",
+      "link": "https://www.facebook.com/61557128465139/posts/-diabetes-choosing-the-right-medicinediabetes-treatment-is-not-one-size-fits-all/122332213184237615/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "Metformin side effects (what is metformin) weight loss & Diabetes",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwtd8JsNEvHN57RAbdP23njCUnXxHZffQ-ldrkOD-ZyZEQWP1WKixMiETC0g&usqp=CAI&s"
+      ],
+      "title": "Anyone treating type 2 without taking metformin (or other prescribed drug ) would be interested to hear ..",
+      "link": "https://www.facebook.com/groups/metformin/posts/1805099720941932/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Dementia - The Journey - Support Group",
+      "source": "Facebook",
+      "extensions": [
+        "2 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUatWh3_w8FuFlXqGYUiHnBrU7bCzqSNVnQfeMfMIZoQPB1FPtgDLgYVnGwg&usqp=CAI&s"
+      ],
+      "title": "anyones LO has type 2 diabetes? if so what type medications are they on? mom is currently on lantus every evening, doing okay with blood sugar ranging from 100 to 270, usually higher in the evening. she goes to endocrinologist wednesday and im debating",
+      "link": "https://www.facebook.com/groups/1425873014699544/posts/2080672562552916/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Type 1 Diabetes Support & Awareness Group",
+      "source": "Facebook",
+      "extensions": [
+        "10+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6UblNXg3529V2T5bvLyKsbAo8HfikP-C3PViGp4mCjsysXDtLh-MChh7Tg&usqp=CAI&s"
+      ],
+      "title": "Hey everyone, So I\u2019m assuming I\u2019m diagnosed with t2d. They told me in the hospital I was type 1 but on the discharged paper it said t2. So they had me on metformin 1000 twice daily and 35 units of insulin twice daily. I still have to do a fallow up with my doctor.",
+      "link": "https://www.facebook.com/groups/type1diabetesgroup/posts/1507990251008464/",
+      "date": "Jun 23, 2026"
+    },
+    {
+      "author": "Oladele Solomon Olusola",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWgCrtbScxPc_92Q4U42KzDvk6W-uBSsrH7252oyiDc_jPOVgFI7GPhYAm0g&usqp=CAI&s"
+      ],
+      "title": "Why needing combination therapy for type 2 diabetes isn't a personal failure",
+      "link": "https://www.facebook.com/61581300821009/posts/you-took-the-tablets-you-made-changes-then-your-numbers-rose-againand-suddenly-i/122137508619043360/",
+      "date": "2 weeks ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best medicine for diabetes type 2",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=Best+medicine+for+diabetes+type+2&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+medicine+for+diabetes+type+2"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes is it dangerous",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=Type+2+diabetes+is+it+dangerous&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+is+it+dangerous"
+    },
+    {
+      "block_position": 1,
+      "query": "First-line treatment for diabetes type 2",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=First-line+treatment+for+diabetes+type+2&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=First-line+treatment+for+diabetes+type+2"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes treatment guidelines",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=Type+2+diabetes+treatment+guidelines&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+treatment+guidelines"
+    },
+    {
+      "block_position": 1,
+      "query": "Newly diagnosed type 2 diabetes guidelines",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=Newly+diagnosed+type+2+diabetes+guidelines&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Newly+diagnosed+type+2+diabetes+guidelines"
+    },
+    {
+      "block_position": 1,
+      "query": "What level of blood sugar is dangerous for type 2 diabetes",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=What+level+of+blood+sugar+is+dangerous+for+type+2+diabetes&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+level+of+blood+sugar+is+dangerous+for+type+2+diabetes"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes complications",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=Type+2+diabetes+complications&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+complications"
+    },
+    {
+      "block_position": 1,
+      "query": "How to diagnose type 2 diabetes",
+      "link": "https://www.google.com/search?sca_esv=26379294fd94e568&hl=en&gl=us&q=How+to+diagnose+type+2+diabetes&sa=X&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=How+to+diagnose+type+2+diabetes"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=10&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8NMDegQILhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=10&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAE",
+      "3": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=20&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAG",
+      "4": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=30&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAI",
+      "5": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=40&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAK",
+      "6": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=50&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAM",
+      "7": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=60&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAO",
+      "8": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=70&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAQ",
+      "9": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=80&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAS",
+      "10": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=26379294fd94e568&hl=en&gl=us&ei=kROwatzoBPexruEP55KakAw&start=90&sa=N&sstk=AS6-VmKudY6wjXnzDyJ_7u8BZyiKAf0ftANOEWiiJ8IUMtiZck4uOJbjZi97S_dvCE-OrJYksGGARH81r862cujdNgAovn-wLaPYWw&ved=2ahUKEwic9cG00_2WAxX3mCsGHWeJBsIQ8tMDegQILhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=90"
+    }
+  }
+}
