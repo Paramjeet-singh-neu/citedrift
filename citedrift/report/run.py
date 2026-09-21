@@ -148,11 +148,11 @@ INTRO_LEAD = (
 )
 INTRO_TAIL = (
     "Four things stand out in the data so far.",
-    "AI Overviews appeared on 83 of 84 attempts. The single genuine absence was on a clinician-phrased query; one further record is a collector-side network timeout, logged separately rather than counted as an absence.",
-    "What gets cited first depends on how the question is phrased. Across the top three cited positions, academic sources were 33.3% of citations on clinician-phrased queries and 0 of 210 on patient-phrased ones — academic sources do appear in patient results, 12 times across all positions, but never near the top. Health-system sites ran the other way: 29.5% of patient top-three citations, and none of the 36 clinician top-three citations, though they appear twice at lower positions. The two phrasings also arrived through different delivery paths, with patient observations returning the AI Overview inline and clinician observations requiring a second fetch.",
-    "Being cited and being cited first are different things. YouTube was the most-cited domain in the sample at 98 citations — ahead of Mayo Clinic at 55 and NIH at 45 — but 17 of those 98 appear in the top three. Professional medical societies were cited 19 times and never once in the top three positions of either audience.",
-    "Within short intervals of 34–47 minutes, 15 of 18 pairs matched exactly. The three exceptions were one patient diagnosis query and both pairs from one clinician-phrased query. Across longer gaps — 8 to 41 hours — citation sets moved, and unevenly. The two clinician-phrased queries never matched on any pair, at any interval, falling as low as 0.067 Jaccard. Branded queries moved on most long-interval pairs across all three drugs. Three queries were unchanged across all six of their pairs: both treatment queries and the pulmonary arterial hypertension symptoms query.",
-    "Source categories are a judgment call. The full mapping is in config/source_classes.json and open to disagreement.",
+    "AI Overviews appeared on 141 of 144 attempts. Three genuine absences — two on clinician-phrased queries, one on a patient treatment query — plus one collector-side network timeout, logged separately rather than counted as an absence.",
+    "What gets cited depends on how the question is phrased. Academic sources — journals and research publishers — accounted for 23.3% of citations on clinician-phrased queries and zero of 889 on patient-phrased ones, at any position. Health-system sites ran the other way: 26.4% of patient citations, and none of the 63 clinician-phrased top-three citations. The two phrasings also tended to arrive through different delivery paths: 117 of 119 patient observations returned the AI Overview inline, while all 21 clinician observations required a second fetch.",
+    "Being cited and being cited first are different things. YouTube was the most-cited domain in the sample at 176 citations — ahead of Mayo Clinic at 96 and NIH at 77 — but 30 of those 176 reach the top three positions. Professional medical societies were cited 22 times and never once in the first three.",
+    "Within short intervals of 34–47 minutes, 15 of 18 pairs matched exactly; the three exceptions were one patient diagnosis query and both short pairs from one clinician-phrased query. Over roughly 24-hour intervals, behaviour split by query. Both clinician-phrased queries changed on every pair, never once returning an identical set, with floors of 0.067 and 0.133. At the other end, one treatment query returned an identical 11-source set across four days and six pairs, then dropped 8 of those 11 in a single day, held the new 8-source set for three more days, then dropped 3 of those 8 and added 6. Change dates did not align across queries, so nothing here points to a single platform-wide event.",
+    "Source categories are a judgment call. The full mapping is in config/source_classes.json and open to disagreement. One rule worth stating: .edu domains are classified by what the page is, checked by hand, not inferred from the suffix. Four .edu domains in this sample are health systems or consumer health publishers rather than research output, and misreading one of them would change the academic finding.",
 )
 
 
@@ -181,8 +181,8 @@ def intro_scope_sentence(metrics: dict[str, Any]) -> str:
         "The scope is small and worth stating up front: 12 queries, 3 conditions, "
         f"{n_runs} {run_word} over {hours:.1f} hours {when}, one locale (Austin, TX), "
         f"Google only, {n_citations} citations in total. That is enough to describe "
-        "what was cited. It is not yet enough to say much about change over time — "
-        "the collector runs daily, and a longer window will follow."
+        "what was cited and to begin characterising how it changes day to day. "
+        "The collector continues to run."
     )
 
 
@@ -729,7 +729,7 @@ def section_manufacturer(metrics: dict[str, Any]) -> str:
     return "\n".join(
         [
             "<h2>6. Manufacturer presence on branded queries</h2>",
-            "<p>Manufacturer presence on branded queries varied by product. On the Jardiance query, boehringer-ingelheim.com appeared in six of seven runs, at counts between zero and three; jardiance.com was never cited. On the Opsumit query, opsumit.com and opsumithcp.com appeared in all seven, stepping from three citations to two. The losartan query — a generic with no brand owner marketing it — drew zero manufacturer citations in any run.</p>",
+            "<p>Manufacturer presence on branded queries varied by product and did not hold steady. On the Jardiance query, boehringer-ingelheim.com appeared in 11 of 12 runs at counts between zero and three; jardiance.com was never cited. On the Opsumit query, opsumit.com and opsumithcp.com appeared in all 12, moving from three citations to two and back to three as the total citation count moved with it. The losartan query — a generic with no brand owner marketing it — drew zero manufacturer citations in any run.</p>",
             table(
                 [
                     ("query_id", False),
@@ -796,7 +796,9 @@ def clinician_limitation_line(
     )
     return (
         f"Clinician-phrased findings rest on {n_q} queries, "
-        f"{n_complete} complete observations, {n_top} top-three citations"
+        f"{n_complete} complete observations, and {n_top} top-three citations. "
+        "Both are drug-class comparison questions, so audience phrasing and "
+        "question type are confounded in this set"
     )
 
 

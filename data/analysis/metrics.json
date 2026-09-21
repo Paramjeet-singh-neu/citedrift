@@ -8338,16 +8338,16 @@
           "n": 264,
           "classes": {
             "commerce": {
-              "count": 60,
-              "pct": 22.727272727272727
+              "count": 61,
+              "pct": 23.106060606060606
             },
             "consumer_health": {
               "count": 48,
               "pct": 18.181818181818183
             },
             "gov_health": {
-              "count": 28,
-              "pct": 10.606060606060606
+              "count": 34,
+              "pct": 12.878787878787879
             },
             "health_system": {
               "count": 43,
@@ -8356,10 +8356,6 @@
             "manufacturer": {
               "count": 47,
               "pct": 17.803030303030305
-            },
-            "unclassified": {
-              "count": 7,
-              "pct": 2.6515151515151514
             },
             "video": {
               "count": 31,
@@ -8370,13 +8366,9 @@
         "diagnosis": {
           "n": 167,
           "classes": {
-            "academic": {
-              "count": 9,
-              "pct": 5.389221556886228
-            },
             "advocacy": {
-              "count": 32,
-              "pct": 19.161676646706585
+              "count": 34,
+              "pct": 20.35928143712575
             },
             "clinical_reference": {
               "count": 9,
@@ -8387,20 +8379,16 @@
               "pct": 3.592814371257485
             },
             "consumer_health": {
-              "count": 12,
-              "pct": 7.18562874251497
+              "count": 21,
+              "pct": 12.574850299401197
             },
             "gov_health": {
-              "count": 36,
-              "pct": 21.55688622754491
+              "count": 37,
+              "pct": 22.15568862275449
             },
             "health_system": {
-              "count": 32,
-              "pct": 19.161676646706585
-            },
-            "unclassified": {
-              "count": 5,
-              "pct": 2.9940119760479043
+              "count": 34,
+              "pct": 20.35928143712575
             },
             "video": {
               "count": 26,
@@ -8424,28 +8412,24 @@
               "pct": 11.320754716981131
             },
             "gov_health": {
-              "count": 31,
-              "pct": 11.69811320754717
+              "count": 32,
+              "pct": 12.075471698113208
             },
             "health_system": {
-              "count": 78,
-              "pct": 29.433962264150942
+              "count": 83,
+              "pct": 31.32075471698113
             },
             "insurer": {
               "count": 4,
               "pct": 1.509433962264151
             },
             "manufacturer": {
-              "count": 8,
-              "pct": 3.018867924528302
+              "count": 13,
+              "pct": 4.90566037735849
             },
             "social": {
               "count": 7,
               "pct": 2.641509433962264
-            },
-            "unclassified": {
-              "count": 11,
-              "pct": 4.150943396226415
             },
             "video": {
               "count": 42,
@@ -8457,48 +8441,44 @@
           "n": 386,
           "classes": {
             "academic": {
-              "count": 54,
-              "pct": 13.989637305699482
+              "count": 45,
+              "pct": 11.658031088082902
             },
             "advocacy": {
-              "count": 33,
-              "pct": 8.549222797927461
+              "count": 37,
+              "pct": 9.585492227979275
             },
             "clinical_reference": {
-              "count": 32,
-              "pct": 8.290155440414507
+              "count": 33,
+              "pct": 8.549222797927461
             },
             "commerce": {
               "count": 17,
               "pct": 4.404145077720207
             },
             "consumer_health": {
-              "count": 1,
-              "pct": 0.25906735751295334
+              "count": 12,
+              "pct": 3.1088082901554404
             },
             "gov_health": {
               "count": 61,
               "pct": 15.803108808290155
             },
             "health_system": {
-              "count": 75,
-              "pct": 19.430051813471504
+              "count": 78,
+              "pct": 20.207253886010363
             },
             "insurer": {
               "count": 3,
               "pct": 0.7772020725388601
             },
             "professional_society": {
-              "count": 21,
-              "pct": 5.4404145077720205
+              "count": 22,
+              "pct": 5.699481865284974
             },
             "social": {
               "count": 1,
               "pct": 0.25906735751295334
-            },
-            "unclassified": {
-              "count": 11,
-              "pct": 2.849740932642487
             },
             "video": {
               "count": 77,
@@ -8512,16 +8492,16 @@
           "n": 193,
           "classes": {
             "academic": {
-              "count": 43,
-              "pct": 22.27979274611399
+              "count": 45,
+              "pct": 23.316062176165804
             },
             "advocacy": {
               "count": 10,
               "pct": 5.181347150259067
             },
             "clinical_reference": {
-              "count": 23,
-              "pct": 11.917098445595855
+              "count": 24,
+              "pct": 12.435233160621761
             },
             "commerce": {
               "count": 17,
@@ -8544,16 +8524,12 @@
               "pct": 1.5544041450777202
             },
             "professional_society": {
-              "count": 13,
-              "pct": 6.7357512953367875
+              "count": 14,
+              "pct": 7.253886010362694
             },
             "social": {
               "count": 1,
               "pct": 0.5181347150259067
-            },
-            "unclassified": {
-              "count": 4,
-              "pct": 2.0725388601036268
             },
             "video": {
               "count": 42,
@@ -8564,41 +8540,37 @@
         "patient": {
           "n": 889,
           "classes": {
-            "academic": {
-              "count": 20,
-              "pct": 2.249718785151856
-            },
             "advocacy": {
-              "count": 97,
-              "pct": 10.911136107986502
+              "count": 103,
+              "pct": 11.586051743532058
             },
             "clinical_reference": {
               "count": 18,
               "pct": 2.0247469066366706
             },
             "commerce": {
-              "count": 78,
-              "pct": 8.773903262092238
+              "count": 79,
+              "pct": 8.88638920134983
             },
             "consumer_health": {
-              "count": 90,
-              "pct": 10.123734533183352
+              "count": 110,
+              "pct": 12.373453318335208
             },
             "gov_health": {
-              "count": 123,
-              "pct": 13.835770528683915
+              "count": 131,
+              "pct": 14.735658042744657
             },
             "health_system": {
-              "count": 225,
-              "pct": 25.30933633295838
+              "count": 235,
+              "pct": 26.43419572553431
             },
             "insurer": {
               "count": 4,
               "pct": 0.4499437570303712
             },
             "manufacturer": {
-              "count": 55,
-              "pct": 6.186726659167604
+              "count": 60,
+              "pct": 6.749156355455568
             },
             "professional_society": {
               "count": 8,
@@ -8607,10 +8579,6 @@
             "social": {
               "count": 7,
               "pct": 0.7874015748031497
-            },
-            "unclassified": {
-              "count": 30,
-              "pct": 3.374578177727784
             },
             "video": {
               "count": 134,
@@ -8624,32 +8592,32 @@
           "n": 407,
           "classes": {
             "academic": {
-              "count": 48,
-              "pct": 11.793611793611793
+              "count": 28,
+              "pct": 6.87960687960688
             },
             "advocacy": {
-              "count": 52,
-              "pct": 12.776412776412776
+              "count": 54,
+              "pct": 13.267813267813267
             },
             "clinical_reference": {
               "count": 5,
               "pct": 1.2285012285012284
             },
             "commerce": {
-              "count": 34,
-              "pct": 8.353808353808354
+              "count": 35,
+              "pct": 8.5995085995086
             },
             "consumer_health": {
-              "count": 27,
-              "pct": 6.6339066339066335
+              "count": 47,
+              "pct": 11.547911547911548
             },
             "gov_health": {
-              "count": 71,
-              "pct": 17.444717444717444
+              "count": 75,
+              "pct": 18.42751842751843
             },
             "health_system": {
-              "count": 84,
-              "pct": 20.63882063882064
+              "count": 89,
+              "pct": 21.867321867321866
             },
             "insurer": {
               "count": 3,
@@ -8658,10 +8626,6 @@
             "professional_society": {
               "count": 7,
               "pct": 1.71990171990172
-            },
-            "unclassified": {
-              "count": 12,
-              "pct": 2.9484029484029484
             },
             "video": {
               "count": 64,
@@ -8685,20 +8649,16 @@
               "pct": 10.179640718562874
             },
             "gov_health": {
-              "count": 4,
-              "pct": 2.395209580838323
+              "count": 7,
+              "pct": 4.191616766467066
             },
             "health_system": {
-              "count": 44,
-              "pct": 26.347305389221557
+              "count": 46,
+              "pct": 27.54491017964072
             },
             "manufacturer": {
-              "count": 40,
-              "pct": 23.952095808383234
-            },
-            "unclassified": {
-              "count": 10,
-              "pct": 5.9880239520958085
+              "count": 45,
+              "pct": 26.94610778443114
             },
             "video": {
               "count": 20,
@@ -8710,16 +8670,16 @@
           "n": 508,
           "classes": {
             "academic": {
-              "count": 15,
-              "pct": 2.952755905511811
+              "count": 17,
+              "pct": 3.3464566929133857
             },
             "advocacy": {
-              "count": 43,
-              "pct": 8.464566929133857
+              "count": 47,
+              "pct": 9.251968503937007
             },
             "clinical_reference": {
-              "count": 36,
-              "pct": 7.086614173228346
+              "count": 37,
+              "pct": 7.283464566929134
             },
             "commerce": {
               "count": 41,
@@ -8730,12 +8690,12 @@
               "pct": 9.251968503937007
             },
             "gov_health": {
-              "count": 81,
-              "pct": 15.94488188976378
+              "count": 82,
+              "pct": 16.141732283464567
             },
             "health_system": {
-              "count": 100,
-              "pct": 19.68503937007874
+              "count": 103,
+              "pct": 20.275590551181104
             },
             "insurer": {
               "count": 4,
@@ -8746,16 +8706,12 @@
               "pct": 2.952755905511811
             },
             "professional_society": {
-              "count": 14,
-              "pct": 2.7559055118110236
+              "count": 15,
+              "pct": 2.952755905511811
             },
             "social": {
               "count": 8,
               "pct": 1.5748031496062993
-            },
-            "unclassified": {
-              "count": 12,
-              "pct": 2.3622047244094486
             },
             "video": {
               "count": 92,
@@ -8780,8 +8736,8 @@
               "pct": 22.22222222222222
             },
             "gov_health": {
-              "count": 4,
-              "pct": 3.7037037037037037
+              "count": 7,
+              "pct": 6.481481481481482
             },
             "health_system": {
               "count": 8,
@@ -8790,10 +8746,6 @@
             "manufacturer": {
               "count": 27,
               "pct": 25.0
-            },
-            "unclassified": {
-              "count": 3,
-              "pct": 2.7777777777777777
             },
             "video": {
               "count": 6,
@@ -8805,8 +8757,8 @@
           "n": 72,
           "classes": {
             "advocacy": {
-              "count": 11,
-              "pct": 15.277777777777779
+              "count": 13,
+              "pct": 18.055555555555557
             },
             "clinical_reference": {
               "count": 3,
@@ -8823,10 +8775,6 @@
             "health_system": {
               "count": 14,
               "pct": 19.444444444444443
-            },
-            "unclassified": {
-              "count": 2,
-              "pct": 2.7777777777777777
             },
             "video": {
               "count": 3,
@@ -8854,20 +8802,16 @@
               "pct": 10.185185185185185
             },
             "health_system": {
-              "count": 36,
-              "pct": 33.333333333333336
+              "count": 38,
+              "pct": 35.18518518518518
             },
             "insurer": {
               "count": 1,
               "pct": 0.9259259259259259
             },
             "manufacturer": {
-              "count": 1,
-              "pct": 0.9259259259259259
-            },
-            "unclassified": {
-              "count": 3,
-              "pct": 2.7777777777777777
+              "count": 2,
+              "pct": 1.8518518518518519
             },
             "video": {
               "count": 6,
@@ -8879,8 +8823,8 @@
           "n": 132,
           "classes": {
             "academic": {
-              "count": 25,
-              "pct": 18.939393939393938
+              "count": 22,
+              "pct": 16.666666666666668
             },
             "advocacy": {
               "count": 4,
@@ -8894,21 +8838,21 @@
               "count": 8,
               "pct": 6.0606060606060606
             },
+            "consumer_health": {
+              "count": 3,
+              "pct": 2.272727272727273
+            },
             "gov_health": {
               "count": 27,
               "pct": 20.454545454545453
             },
             "health_system": {
-              "count": 33,
-              "pct": 25.0
+              "count": 34,
+              "pct": 25.757575757575758
             },
             "insurer": {
               "count": 3,
               "pct": 2.272727272727273
-            },
-            "unclassified": {
-              "count": 1,
-              "pct": 0.7575757575757576
             },
             "video": {
               "count": 15,
@@ -8954,13 +8898,9 @@
         "patient": {
           "n": 357,
           "classes": {
-            "academic": {
-              "count": 3,
-              "pct": 0.8403361344537815
-            },
             "advocacy": {
-              "count": 46,
-              "pct": 12.88515406162465
+              "count": 48,
+              "pct": 13.445378151260504
             },
             "clinical_reference": {
               "count": 4,
@@ -8971,28 +8911,24 @@
               "pct": 12.324929971988796
             },
             "consumer_health": {
-              "count": 41,
-              "pct": 11.484593837535014
+              "count": 44,
+              "pct": 12.324929971988796
             },
             "gov_health": {
-              "count": 65,
-              "pct": 18.207282913165265
+              "count": 68,
+              "pct": 19.047619047619047
             },
             "health_system": {
-              "count": 91,
-              "pct": 25.49019607843137
+              "count": 94,
+              "pct": 26.330532212885153
             },
             "insurer": {
               "count": 1,
               "pct": 0.2801120448179272
             },
             "manufacturer": {
-              "count": 28,
-              "pct": 7.8431372549019605
-            },
-            "unclassified": {
-              "count": 9,
-              "pct": 2.5210084033613445
+              "count": 29,
+              "pct": 8.123249299719888
             },
             "video": {
               "count": 25,
@@ -9006,12 +8942,12 @@
           "n": 174,
           "classes": {
             "academic": {
-              "count": 21,
-              "pct": 12.068965517241379
+              "count": 18,
+              "pct": 10.344827586206897
             },
             "advocacy": {
-              "count": 27,
-              "pct": 15.517241379310345
+              "count": 29,
+              "pct": 16.666666666666668
             },
             "clinical_reference": {
               "count": 5,
@@ -9022,20 +8958,16 @@
               "pct": 13.218390804597702
             },
             "consumer_health": {
-              "count": 15,
-              "pct": 8.620689655172415
+              "count": 18,
+              "pct": 10.344827586206897
             },
             "gov_health": {
-              "count": 41,
-              "pct": 23.563218390804597
+              "count": 44,
+              "pct": 25.28735632183908
             },
             "health_system": {
-              "count": 27,
-              "pct": 15.517241379310345
-            },
-            "unclassified": {
-              "count": 7,
-              "pct": 4.022988505747127
+              "count": 29,
+              "pct": 16.666666666666668
             },
             "video": {
               "count": 8,
@@ -9063,16 +8995,12 @@
               "pct": 4.166666666666667
             },
             "health_system": {
-              "count": 18,
-              "pct": 25.0
+              "count": 19,
+              "pct": 26.38888888888889
             },
             "manufacturer": {
-              "count": 21,
-              "pct": 29.166666666666668
-            },
-            "unclassified": {
-              "count": 2,
-              "pct": 2.7777777777777777
+              "count": 22,
+              "pct": 30.555555555555557
             },
             "video": {
               "count": 1,

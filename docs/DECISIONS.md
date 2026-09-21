@@ -80,3 +80,11 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-15 | Intro: “were the reverse” → “ran the other way” (health-system is not a mirror of academic). Clinician Jaccard floor written 0.067 (table 0.0667), not 0.07. README and portfolio snapshot `citedrift.html` brought to the 7-run copy. Checking intro against tables in this round caught the reverse, the rounding, two stale published copies, and the false “both PAH queries unchanged.” | Keep 0.07; keep “the reverse” | n
 
+2026-09-21 | Human classified 15 domains: `tandfonline.com` academic; `escardio.org` professional_society; `fda.gov`, `poison.org`, `safetyandquality.gov.au`, `hse.ie` gov_health; `beyondtype1.org`, `texasheart.org` advocacy; `pahinitiative.com` manufacturer; `providence.org`, `froedtert.com`, `pennmedicine.org`, `uchealth.com` health_system; `renalandurologynews.com` clinical_reference; `mytherapyapp.com` commerce. Left unclassified: `utah.edu`, `chop.edu`. | Invent classes for utah.edu / chop.edu | n
+
+2026-09-21 | Human classified `utah.edu` and `chop.edu` as `health_system` (Utah Health / CHOP condition pages). | academic for .edu | n
+
+2026-09-21 | Human reclassified `harvard.edu` from academic to `consumer_health` (Harvard Health Publishing patient pages, not journals). | Keep academic | n
+
+2026-09-21 | 12-run intro: presence 141 of 144; academic 23.3% HCP all-positions / 0 of 889 patient; health-system 26.4% patient / 0 of 63 HCP top-three; delivery 117/119 vs 21/21; YouTube 30/176; societies 22 / 0 top-three; short-interval 15 of 18; t2d_treatment 11-set then drop 8 then drop 3 add 6. Scope close is “begin characterising how it changes day to day.” Limitations add HCP confounding (drug-class comparison). Section 6 is 11 of 12 / all 12 Opsumit 3-2-3. README synced to the same 12-run copy. | Keep 7-run intro; write “replaced 6 of 8” | n
+
