@@ -40,12 +40,18 @@ three.
 
 **Citation sets were stable at short intervals and moved over days.**
 Within short intervals of 34–47 minutes, 15 of 18 pairs matched
-exactly. Over roughly 24-hour intervals, both clinician-phrased
-queries changed on every pair (floors 0.067 and 0.133). One treatment
-query held an identical 11-source set across four days and six pairs,
-then dropped 8 of those 11 in a single day, held the new 8-source set
-for three more days, then dropped 3 of those 8 and added 6. Change
-dates did not align across queries.
+exactly; the three exceptions were one patient diagnosis query and
+both short pairs from one clinician-phrased query. Over roughly
+24-hour intervals, behaviour split sharply by query. The two
+clinician-phrased queries changed on all 19 of their pairs at URL
+level, with floors of 0.067 and 0.133 — though on one pair every
+cited domain held while the URLs beneath them moved. At the other
+end, one treatment query returned an identical 11-source set across
+six consecutive pairs spanning 12 to 15 September, then replaced 8
+of those 11 in a single day, held the new 8-source set for three
+more days, then dropped 3 of those 8 and added 6. Change dates did
+not align across queries, so nothing here points to a single
+platform-wide event.
 
 ## Limitations
 
@@ -55,6 +61,10 @@ dates did not align across queries.
   observations, and 63 top-three citations. Both are drug-class
   comparison questions, so audience phrasing and question type are
   confounded in this set.
+- Re-audit cadence is query-dependent. Within this 12-query set,
+  some queries returned identical citation sets across multi-day
+  gaps while others changed on every pair. A single audit interval
+  applied across a whole query set will be wrong for most of it.
 - 3 conditions, one locale, one engine.
 - Source categories are a judgment call. `.edu` domains are classified
   by what the page is, checked by hand, not inferred from the suffix.

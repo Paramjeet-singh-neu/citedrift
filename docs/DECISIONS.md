@@ -88,3 +88,6 @@ Format: `date | decision | alternatives considered | reversible? y/n`
 
 2026-09-21 | 12-run intro: presence 141 of 144; academic 23.3% HCP all-positions / 0 of 889 patient; health-system 26.4% patient / 0 of 63 HCP top-three; delivery 117/119 vs 21/21; YouTube 30/176; societies 22 / 0 top-three; short-interval 15 of 18; t2d_treatment 11-set then drop 8 then drop 3 add 6. Scope close is “begin characterising how it changes day to day.” Limitations add HCP confounding (drug-class comparison). Section 6 is 11 of 12 / all 12 Opsumit 3-2-3. README synced to the same 12-run copy. | Keep 7-run intro; write “replaced 6 of 8” | n
 
+2026-09-21 | Intro stability: clinician queries changed on all 19 URL pairs (floors 0.067 and 0.133), not “never an identical set” (htn_hcp 19→20 domain Jaccard 1.0). t2d_treatment identical 11-set is six consecutive pairs spanning 12–15 Sep, not “four days and six pairs.” Floor remains 0.133 (12→13), not 0.143. Limitations add re-audit cadence is query-dependent. README matched. | Write 0.143; keep “never once” / “four days and six pairs” | n
+
+
