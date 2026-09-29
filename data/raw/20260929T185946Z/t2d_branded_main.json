@@ -1,0 +1,577 @@
+{
+  "search_metadata": {
+    "id": "6abc0abb792d6865d8bcd46b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_PDK6nDk7UK1-QoG8FkHXSMm3eTne1oDzXdBf8rgznY/6abc0abb792d6865d8bcd46b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_PDK6nDk7UK1-QoG8FkHXSMm3eTne1oDzXdBf8rgznY/6abc0abb792d6865d8bcd46b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_PDK6nDk7UK1-QoG8FkHXSMm3eTne1oDzXdBf8rgznY/6abc0abb792d6865d8bcd46b.json_with_pixel_position",
+    "created_at": "2026-09-29 19:00:11 UTC",
+    "processed_at": "2026-09-29 19:00:11 UTC",
+    "google_url": "https://www.google.com/search?q=jardiance+side+effects&oq=jardiance+side+effects&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_PDK6nDk7UK1-QoG8FkHXSMm3eTne1oDzXdBf8rgznY/6abc0abb792d6865d8bcd46b.html",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "jardiance side effects",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "jardiance side effects",
+    "total_results": 26600,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the downside of Jardiance?",
+      "type": "ai_overview",
+      "page_token": "6rfA13icHdBbbuIwFABQzWb6WeyEUIGERk3jAGmTYONHws8oc00w2HlMyTTAX_fSVXU1I81Zwvn8cqfWfv_4MMPQXxaTyTiOj8euO7rDI3TNpLrcWphA5dzvCuxi9jTDP2tYkr-b8OXPJqSi72XEECe6gRMa9xaNubBIqdLbFaYQUWIO6-ehxB2qCllyPykKFBBq90Z7SSilm-VxPECrUyauQsZmxhq95TJcpQqm3CIs1lkBdhqIyBHRZLYiRkih_TRO6gPZYE6Ql8Zms4tYWEnhwUrWvOmvhyK8gRdsuaODXpEhF_qVRfq1bDWnWN4BJ2_6vs926oq5kx21lxv1E5EJzIjRWPtkWhaxSVHvgRpv0MypbtmQr-ZMse5EBbvD2TVC6e3ubMJ8bd5BoSAVQVDZcpp58xeqiF-ey-t-fKjhY-k__P9c_qqbYdG_d8d_sumBQg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=6rfA13icHdBbbuIwFABQzWb6WeyEUIGERk3jAGmTYONHws8oc00w2HlMyTTAX_fSVXU1I81Zwvn8cqfWfv_4MMPQXxaTyTiOj8euO7rDI3TNpLrcWphA5dzvCuxi9jTDP2tYkr-b8OXPJqSi72XEECe6gRMa9xaNubBIqdLbFaYQUWIO6-ehxB2qCllyPykKFBBq90Z7SSilm-VxPECrUyauQsZmxhq95TJcpQqm3CIs1lkBdhqIyBHRZLYiRkih_TRO6gPZYE6Ql8Zms4tYWEnhwUrWvOmvhyK8gRdsuaODXpEhF_qVRfq1bDWnWN4BJ2_6vs926oq5kx21lxv1E5EJzIjRWPtkWhaxSVHvgRpv0MypbtmQr-ZMse5EBbvD2TVC6e3ubMJ8bd5BoSAVQVDZcpp58xeqiF-ey-t-fKjhY-k__P9c_qqbYdG_d8d_sumBQg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkb3duc2lkZSBvZiBKYXJkaWFuY2U/IiwibGsiOiJHaUYzYUdGMElHbHpJSFJvWlNCa2IzZHVjMmxrWlNCdlppQnFZWEprYVdGdVkyVSIsImJzIjoiYzMzUFB3dkNNQkNIWVZ3ek9XYzYtOC05WDZDcjFVR2NuS081bXRRMEI4M1YwRzl2RWFRRnFldngzQXNfVVl2a2FoU0REY0FHUVZQMHdXb0VhdUNvZW0yVnYyTlZwbklYVjFUN1ZlSXM4ay1LQ2RTTHJJWm9yRU5nOWJULXNhd1ZNb3ZyY0E1ZVJIR2dDSTZtYXpBME9BMGpEUkJZalVCLVdkekwzUHlSY19JazBqck1uM0JEWnV5blVjcERoOXhRMzFsZmxabE1wcW50TDhNRjIyN2UiLCJpZCI6ImZjX3V3cThhcWEzSnZxbDJyb1B2dG04b1FZXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBkb3duc2lkZSBvZiBKYXJkaWFuY2U%2FIiwibGsiOiJHaUYzYUdGMElHbHpJSFJvWlNCa2IzZHVjMmxrWlNCdlppQnFZWEprYVdGdVkyVSIsImJzIjoiYzMzUFB3dkNNQkNIWVZ3ek9XYzYtOC05WDZDcjFVR2NuS081bXRRMEI4M1YwRzl2RWFRRnFldngzQXNfVVl2a2FoU0REY0FHUVZQMHdXb0VhdUNvZW0yVnYyTlZwbklYVjFUN1ZlSXM4ay1LQ2RTTHJJWm9yRU5nOWJULXNhd1ZNb3ZyY0E1ZVJIR2dDSTZtYXpBME9BMGpEUkJZalVCLVdkekwzUHlSY19JazBqck1uM0JEWnV5blVjcERoOXhRMzFsZmxabE1wcW50TDhNRjIyN2UiLCJpZCI6ImZjX3V3cThhcWEzSnZxbDJyb1B2dG04b1FZXzMifQ%3D%3D"
+    },
+    {
+      "question": "What to avoid while taking Jardiance?",
+      "type": "ai_overview",
+      "page_token": "8kBph3icHdBRboIwAADQ7DJ-agudS03MEhVUNnDUtig_C7RglVKqoqh_u8tOtdNs2RHe-_rWe1P9PF1V29rzaDDouq6_a5qdLvqiqQfZ-W7EQGRa55moRsOXIXwtxdi7LCfT43ISM2v5jIB1JavcVzPu8yP1-EQYdZHMBpwrI3w9ZYnahG4w37LgUiSWEIAewpGmqBXPwA7ErlLMkx8FC1A-b1HmYI8mAYuS5s4pabeAb4RrTyuGD0xXMIc8Ju4kzaEfFl5ahp5MCY0QSWCXAg3iihM6E7c16J5jrd6yGpdro3wG8XnFGjeHacwBJiGIPrYQL9LF8s6NpUJH73QWEU9JKF0PbTe-CoF1RNLdRY1jaUi7mmOSkGYfM_IQB13_mSmtzogAbgqjbxsHIcbxI3xIShwdcOeGZNcrxXXs9v4_x59l3Y7sqdn9AqH2ggc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=8kBph3icHdBRboIwAADQ7DJ-agudS03MEhVUNnDUtig_C7RglVKqoqh_u8tOtdNs2RHe-_rWe1P9PF1V29rzaDDouq6_a5qdLvqiqQfZ-W7EQGRa55moRsOXIXwtxdi7LCfT43ISM2v5jIB1JavcVzPu8yP1-EQYdZHMBpwrI3w9ZYnahG4w37LgUiSWEIAewpGmqBXPwA7ErlLMkx8FC1A-b1HmYI8mAYuS5s4pabeAb4RrTyuGD0xXMIc8Ju4kzaEfFl5ahp5MCY0QSWCXAg3iihM6E7c16J5jrd6yGpdro3wG8XnFGjeHacwBJiGIPrYQL9LF8s6NpUJH73QWEU9JKF0PbTe-CoF1RNLdRY1jaUi7mmOSkGYfM_IQB13_mSmtzogAbgqjbxsHIcbxI3xIShwdcOeGZNcrxXXs9v4_x59l3Y7sqdn9AqH2ggc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJXaGF0IHRvIGF2b2lkIHdoaWxlIHRha2luZyBKYXJkaWFuY2U/IiwibGsiOiJHaVIzYUdGMElIUnZJR0YyYjJsa0lIZG9hV3hsSUhSaGEybHVaeUJxWVhKa2FXRnVZMlUiLCJicyI6ImMzM1BQd3ZDTUJDSFlWd3pPV2M2LTgtOVg2Q3IxVUdjbktPNW10UTBCODNWMEc5dkVhUUZxZXZ4M0FzX1VZdmthaFNERGNBR1FWUDB3V29FYXVDb2VtMlZ2Mk5WcG5JWFYxVDdWZUlzOGstS0NkU0xySVpvckVOZzliVC1zYXdWTW92cmNBNWVSSEdnQ0k2bWF6QTBPQTBqRFJCWWpVQi1XZHpMM1B5UmNfSWswanJNbjNCRFp1eW5VY3BEaDl4UTMxbGZsWmxNcHFudEw4TUYyMjdlIiwiaWQiOiJmY191d3E4YXFhM0p2cWwycm9QdnRtOG9RWV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJXaGF0IHRvIGF2b2lkIHdoaWxlIHRha2luZyBKYXJkaWFuY2U%2FIiwibGsiOiJHaVIzYUdGMElIUnZJR0YyYjJsa0lIZG9hV3hsSUhSaGEybHVaeUJxWVhKa2FXRnVZMlUiLCJicyI6ImMzM1BQd3ZDTUJDSFlWd3pPV2M2LTgtOVg2Q3IxVUdjbktPNW10UTBCODNWMEc5dkVhUUZxZXZ4M0FzX1VZdmthaFNERGNBR1FWUDB3V29FYXVDb2VtMlZ2Mk5WcG5JWFYxVDdWZUlzOGstS0NkU0xySVpvckVOZzliVC1zYXdWTW92cmNBNWVSSEdnQ0k2bWF6QTBPQTBqRFJCWWpVQi1XZHpMM1B5UmNfSWswanJNbjNCRFp1eW5VY3BEaDl4UTMxbGZsWmxNcHFudEw4TUYyMjdlIiwiaWQiOiJmY191d3E4YXFhM0p2cWwycm9QdnRtOG9RWV8zIn0%3D"
+    },
+    {
+      "question": "How long should you stay on Jardiance?",
+      "type": "ai_overview",
+      "page_token": "-8gb3HicHdDhbqIwAADg3Mv4c1IYLpiYJUiLklGOSlvkz6W2004K1InW8e_e5Z5qT7Pkvkf4_v4zH337_euux9Fel_O5c-7pNAwn8_4kh24url-9nEthzEHIdrl4WYDXo1zB2zZeX7ZxSa1lCfF2HF-oFzrMTKoQ0XzTbCqAdqzStkC4ZiDzCxTlBdcOp7gUG4sxO00MuklBdNt3wPHaQpKgLOf6UaQA1VPjGh41Bz98E8BmKsnyHTfxGyd1no4T6ch93z2uKiGTaMNb08NnAUxJzqapkLX1xHoB4rWkmFIUA-E_8twwJzko5RkZmY5hAce7YKZ9p1ldenpRtVkhAhVDrYAK4PO-Rjr3rC-5-5JdVKqejEUaEU6Gj5KSSZ5NRz3wm3Sh3Qd5WCRlQNYAUw9nBy-aGm_0K6gvys2O8r4KZv8_V3-O3bi0n8PpB-D2gkk",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-8gb3HicHdDhbqIwAADg3Mv4c1IYLpiYJUiLklGOSlvkz6W2004K1InW8e_e5Z5qT7Pkvkf4_v4zH337_euux9Fel_O5c-7pNAwn8_4kh24url-9nEthzEHIdrl4WYDXo1zB2zZeX7ZxSa1lCfF2HF-oFzrMTKoQ0XzTbCqAdqzStkC4ZiDzCxTlBdcOp7gUG4sxO00MuklBdNt3wPHaQpKgLOf6UaQA1VPjGh41Bz98E8BmKsnyHTfxGyd1no4T6ch93z2uKiGTaMNb08NnAUxJzqapkLX1xHoB4rWkmFIUA-E_8twwJzko5RkZmY5hAce7YKZ9p1ldenpRtVkhAhVDrYAK4PO-Rjr3rC-5-5JdVKqejEUaEU6Gj5KSSZ5NRz3wm3Sh3Qd5WCRlQNYAUw9nBy-aGm_0K6gvys2O8r4KZv8_V3-O3bi0n8PpB-D2gkk",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBzaG91bGQgeW91IHN0YXkgb24gSmFyZGlhbmNlPyIsImxrIjoiR2lWb2IzY2diRzl1WnlCemFHOTFiR1FnZVc5MUlITjBZWGtnYjI0Z2FtRnlaR2xoYm1ObCIsImJzIjoiYzMzUFB3dkNNQkNIWVZ3ek9XYzYtOC05WDZDcjFVR2NuS081bXRRMEI4M1YwRzl2RWFRRnFldngzQXNfVVl2a2FoU0REY0FHUVZQMHdXb0VhdUNvZW0yVnYyTlZwbklYVjFUN1ZlSXM4ay1LQ2RTTHJJWm9yRU5nOWJULXNhd1ZNb3ZyY0E1ZVJIR2dDSTZtYXpBME9BMGpEUkJZalVCLVdkekwzUHlSY19JazBqck1uM0JEWnV5blVjcERoOXhRMzFsZmxabE1wcW50TDhNRjIyN2UiLCJpZCI6ImZjX3V3cThhcWEzSnZxbDJyb1B2dG04b1FZXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJIb3cgbG9uZyBzaG91bGQgeW91IHN0YXkgb24gSmFyZGlhbmNlPyIsImxrIjoiR2lWb2IzY2diRzl1WnlCemFHOTFiR1FnZVc5MUlITjBZWGtnYjI0Z2FtRnlaR2xoYm1ObCIsImJzIjoiYzMzUFB3dkNNQkNIWVZ3ek9XYzYtOC05WDZDcjFVR2NuS081bXRRMEI4M1YwRzl2RWFRRnFldngzQXNfVVl2a2FoU0REY0FHUVZQMHdXb0VhdUNvZW0yVnYyTlZwbklYVjFUN1ZlSXM4ay1LQ2RTTHJJWm9yRU5nOWJULXNhd1ZNb3ZyY0E1ZVJIR2dDSTZtYXpBME9BMGpEUkJZalVCLVdkekwzUHlSY19JazBqck1uM0JEWnV5blVjcERoOXhRMzFsZmxabE1wcW50TDhNRjIyN2UiLCJpZCI6ImZjX3V3cThhcWEzSnZxbDJyb1B2dG04b1FZXzMifQ%3D%3D"
+    },
+    {
+      "question": "Is Jardiance better than metformin?",
+      "type": "ai_overview",
+      "page_token": "33fMkXicHdBdToMwAADgeBkfHQWnbsliRH4cGSUU2kJfTGnHcC0_c7gO3ryLp_I0Jn5H-L5_9Eenfm8uzTgO5_ViYYy5O_T9Qe_vRN8u-HnqxEJwrSsu1Prh8QE812Ljf23d19PWTfEwEA9ZGWEw1bEtrMBUAdJxJyzpQAjJky2KIZLYGvEbu-Q5A4kvPe7Jt8xmTeavXBEuR9rBuqJBwkOZJOG1RX58lSRys-LlitvgnKshKYmYoTpP-w4t-azDqsAAtWiqCq343Bz3HgSx7TtCs6xUzMo02mEcmQzgKe-GE1djRHLX45QE-zDq4dwA6BHKdGBkC5pSrXalwrOwoOs3EkjHvy-LoImtwRbUTKJdpbJDYxKuEEX9R4rRLI66xUDGlMiUO9pwR1mVrxw5M1rmTcw6VFM8BtLc1uKycW7_PzfvdTuuh8_-8Aegw4S5",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=33fMkXicHdBdToMwAADgeBkfHQWnbsliRH4cGSUU2kJfTGnHcC0_c7gO3ryLp_I0Jn5H-L5_9Eenfm8uzTgO5_ViYYy5O_T9Qe_vRN8u-HnqxEJwrSsu1Prh8QE812Ljf23d19PWTfEwEA9ZGWEw1bEtrMBUAdJxJyzpQAjJky2KIZLYGvEbu-Q5A4kvPe7Jt8xmTeavXBEuR9rBuqJBwkOZJOG1RX58lSRys-LlitvgnKshKYmYoTpP-w4t-azDqsAAtWiqCq343Bz3HgSx7TtCs6xUzMo02mEcmQzgKe-GE1djRHLX45QE-zDq4dwA6BHKdGBkC5pSrXalwrOwoOs3EkjHvy-LoImtwRbUTKJdpbJDYxKuEEX9R4rRLI66xUDGlMiUO9pwR1mVrxw5M1rmTcw6VFM8BtLc1uKycW7_PzfvdTuuh8_-8Aegw4S5",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJJcyBKYXJkaWFuY2UgYmV0dGVyIHRoYW4gbWV0Zm9ybWluPyIsImxrIjoiR2lKcGN5QnFZWEprYVdGdVkyVWdZbVYwZEdWeUlIUm9aVzRnYldWMFptOXliV2x1IiwiYnMiOiJjMzNQUHd2Q01CQ0hZVnd6T1djNi04LTlYNkNyMVVHY25LTzVtdFEwQjgzVjBHOXZFYVFGcWV2eDNBc19VWXZrYWhTRERjQUdRVlAwd1dvRWF1Q29lbTJWdjJOVnBuSVhWMVQ3VmVJczhrLUtDZFNMcklab3JFTmc5YlQtc2F3Vk1vdnJjQTVlUkhHZ0NJNm1hekEwT0EwakRSQllqVUItV2R6TDNQeVJjX0lrMGpyTW4zQkRadXluVWNwRGg5eFEzMWxmbFpsTXBxbnRMOE1GMjI3ZSIsImlkIjoiZmNfdXdxOGFxYTNKdnFsMnJvUHZ0bThvUVlfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlRsTkhYMU5TU0dOTGJuUjJVRmd4YkVSSGNGRldXV2MyVFd4RE5YSXhkRXRXWmpWWmN6aDJjMHhmUms5NE5UTjNiazVVUmxkblJVOXZNemxoU0dOd2F6RllTRTkyU1c1eGFFczBkRTVSYkRacVJtaFdYMmRFTkRCdFVSSVhkWGR4T0dGeFlUTktkbkZzTW5KdlVIWjBiVGh2VVZrYUlrRkVjM0k1WmxKQlNWRklSVXhIUm1KMGVpMUxWRzlSVjFwVE9UZFNRVk13YmxFIiwiZmN2IjoiMyIsImVpIjoidXdxOGFxYTNKdnFsMnJvUHZ0bThvUVkiLCJxYyI6IkNoWnFZWEprYVdGdVkyVWdjMmxrWlNCbFptWmxZM1J6RUFBWUFYM2UzOVEtIiwicXVlc3Rpb24iOiJJcyBKYXJkaWFuY2UgYmV0dGVyIHRoYW4gbWV0Zm9ybWluPyIsImxrIjoiR2lKcGN5QnFZWEprYVdGdVkyVWdZbVYwZEdWeUlIUm9aVzRnYldWMFptOXliV2x1IiwiYnMiOiJjMzNQUHd2Q01CQ0hZVnd6T1djNi04LTlYNkNyMVVHY25LTzVtdFEwQjgzVjBHOXZFYVFGcWV2eDNBc19VWXZrYWhTRERjQUdRVlAwd1dvRWF1Q29lbTJWdjJOVnBuSVhWMVQ3VmVJczhrLUtDZFNMcklab3JFTmc5YlQtc2F3Vk1vdnJjQTVlUkhHZ0NJNm1hekEwT0EwakRSQllqVUItV2R6TDNQeVJjX0lrMGpyTW4zQkRadXluVWNwRGg5eFEzMWxmbFpsTXBxbnRMOE1GMjI3ZSIsImlkIjoiZmNfdXdxOGFxYTNKdnFsMnJvUHZ0bThvUVlfMyJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Jardiance (empagliflozin) commonly causes urinary tract infections, genital yeast infections, and increased urination.",
+        "snippet_highlighted_words": [
+          "urinary tract infections, genital yeast infections, and increased urination"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Side Effects"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Urinary tract infections (UTIs): Burning during urination or cloudy urine."
+          },
+          {
+            "snippet": "Genital yeast infections: Itching, redness, or discharge in men and women."
+          },
+          {
+            "snippet": "Increased urination: Going more often or waking up at night."
+          },
+          {
+            "snippet": "Dehydration: Dizziness, lightheadedness, or thirst, especially when standing."
+          },
+          {
+            "snippet": "Mild issues: Joint pain, nausea, or upper respiratory infections."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can review complete safety details on the Jardiance Official Site.",
+        "snippet_links": [
+          {
+            "text": "Jardiance Official Site",
+            "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Serious Side Effects"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Diabetic ketoacidosis (DKA): High blood acids causing nausea, vomiting, stomach pain, or fruity breath."
+          },
+          {
+            "snippet": "Severe kidney infections: Pyelonephritis or urosepsis with back pain and fever."
+          },
+          {
+            "snippet": "Necrotizing fasciitis (Fournier's gangrene): A rare, severe, and life-threatening genital and perineal bacterial infection."
+          },
+          {
+            "snippet": "Hypoglycemia: Low blood sugar, more likely if taken with insulin or sulfonylureas."
+          },
+          {
+            "snippet": "Lower limb amputations: Increased leg or toe pain, sores, or ulcers."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you or someone you care for is experiencing symptoms, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you taking Jardiance for type 2 diabetes, heart failure, or kidney disease?"
+          },
+          {
+            "snippet": "What specific symptoms are you noticing?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you prepare questions for your doctor."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects",
+        "source": "patient.boehringer-ingelheim.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.goodrx.com/jardiance/jardiance-side-effects",
+        "source": "goodrx.com",
+        "index": 1
+      },
+      {
+        "link": "https://my.clevelandclinic.org/health/drugs/20359-empagliflozin-tablets",
+        "source": "my.clevelandclinic.org",
+        "index": 2
+      },
+      {
+        "link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47",
+        "source": "ubiehealth.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa",
+        "source": "dailymed.nlm.nih.gov",
+        "index": 4
+      },
+      {
+        "link": "https://www.medicinenet.com/jardiance_side_effects_warnings_drug_interactions/side-effects.htm",
+        "source": "medicinenet.com",
+        "index": 5
+      },
+      {
+        "link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance",
+        "source": "universaldrugstore.com",
+        "index": 6
+      },
+      {
+        "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/support/faqs",
+        "source": "patient.boehringer-ingelheim.com",
+        "index": 7
+      },
+      {
+        "title": "Possible Side Effects | Jardiance\u00ae (empagliflozin) tablets",
+        "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/taking-jardiance/side-effects",
+        "snippet": "Common Side Effects: Urinary tract infections, yeast infections. Serious Side Effects: Diabetic ketoacidosis, dehydration, necrotizing fasciitis, hypoglycemia, low...",
+        "source": "Boehringer Ingelheim",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUH9hfdchBXj7_93YU0vSWfR-dgjwZuhk6M-iWwOWn3B-aH1hslM3o3V7kIwtkwC6yZMnjyBwlm99j9b5twL4z704E9lHRCSKpKtWA",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://patient.boehringer-ingelheim.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "10 Jardiance Side Effects: What You Need to Know - GoodRx",
+        "link": "https://www.goodrx.com/jardiance/jardiance-side-effects",
+        "snippet": "Common side effects: Urinary tract infections, genital fungal infections, increased urination, upper respiratory tract infections, raised cholesterol, joint pain, ...",
+        "source": "GoodRx",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCK7QUTLZUf0pAyo_KxZjTuWKOEPbbCrxq4mttHHfDxIaLnhlukali_JFe7EJH3wMIc9o8gqvfAv71P9Yv4dJ5pCzgQYtGwuHYDs39",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.goodrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Empagliflozin (Jardiance): Uses & Side Effects - Cleveland Clinic",
+        "link": "https://my.clevelandclinic.org/health/drugs/20359-empagliflozin-tablets",
+        "snippet": "... fatigue, fruity odor to breath, trouble breathing, stomach pain, nausea, vomiting; Genital yeast infection\u2014redness, swelling, pain, or itchiness, odor, thick o...",
+        "source": "Cleveland Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://my.clevelandclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Jardiance Side Effects? Why Your Body Is Reacting & Medically ...",
+        "link": "https://ubiehealth.com/doctors-note/jardiance-side-effects-body-reacts-medical-steps-47",
+        "snippet": "Common Jardiance Side Effects. These side effects are relatively common and usually mild. Still, they should not be ignored. \u00b7 1. Increased Urination. You may noti...",
+        "source": "ubiehealth.com",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQZUxxMN1tx2UCHbJv6iJetNqecEyjRrM9DCPDzLIt5hY7sDwh0GGEIg86X5Rzfop9jSKMCMW6Z5-Oq7bkI-jwI7G1",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ubiehealth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "JARDIANCE can cause serious side effects, including - DailyMed",
+        "link": "https://www.dailymed.nlm.nih.gov/dailymed/medguide.cfm?setid=95f4b2ad-2c58-470f-a227-b0096c0f84fa",
+        "snippet": "JARDIANCE can cause some people to become dehydrated (the loss of body water and salt). Dehydration may cause you to feel dizzy, faint, light-headed, or weak, espe...",
+        "source": "DailyMed (.gov)",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.dailymed.nlm.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "Jardiance Side Effects, Warnings, and Drug Interactions",
+        "link": "https://www.medicinenet.com/jardiance_side_effects_warnings_drug_interactions/side-effects.htm",
+        "snippet": "Does Jardiance (empagliflozin) cause side effects? Jardiance (empagliflozin) is a sodium-glucose cotransporter (SGLT2) inhibitor used with diet and exercise to imp...",
+        "source": "MedicineNet",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medicinenet.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      },
+      {
+        "title": "What are the dangers of taking jardiance?",
+        "link": "https://www.universaldrugstore.com/blog/what-are-the-dangers-of-taking-jardiance",
+        "snippet": "Serious side effects * Serious kidney infections (pyelonephritis, urosepsis): bloody/dark/cloudy urine, painful urination, fever, chills, loss of appetite, lower b...",
+        "source": "Universal Drugstore",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRancBDEK4RU_gze5ow8hXKtsdFQklte_q6ySaLs6LflmJfqlfojWKm9lYMxb8Q9RliMXMcyHX86-bGsgMuS3H3nJozTjn9uxOXMd_F",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.universaldrugstore.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 14
+      },
+      {
+        "title": "FAQs | Jardiance\u00ae (empagliflozin) tablets",
+        "link": "https://patient.boehringer-ingelheim.com/us/products/jardiance/support/faqs",
+        "snippet": "TAKING JARDIANCE * What are the possible side effects of JARDIANCE? Common side effects are urinary tract infections and yeast infections, but they're not the only...",
+        "source": "Boehringer Ingelheim",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUH9hfdchBXj7_93YU0vSWfR-dgjwZuhk6M-iWwOWn3B-aH1hslM3o3V7kIwtkwC6yZMnjyBwlm99j9b5twL4z704E9lHRCSKpKtWA",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://patient.boehringer-ingelheim.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 15
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Jardiance Medication Guide",
+      "link": "https://pro.boehringer-ingelheim.com/us/products/jardiance/overview/bipdf/jardiance-medication-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFZHuuee5tMcFj4ceFOCMG2QBK6rT7sqXIycbboOPTwI9e3FQnAuP2JVSXhjuBxQIkPho8Mg5YVrAkTBI9tJxwRXHyMEDMkFqO-2tCrAwFt8VuB2UmLI0AKyurbHr1m0h6dUSwISvLPOxIQMLnCDLUqDx4jI7CcozJyQ5DR3jxww6-YaPLNKdJ8QEmXrJ2TnqFZvNr95EPB7uxyM&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://pro.boehringer-ingelheim.com \u203a overview \u203a bipdf",
+      "favicon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAAAQCACdASogACAAPtFAtFooIqgoFAEAGglsAKkjwYwDcAbwB-wHAX-RndrP3Bugw17QpoDUcJ1N52S3bxR8wlbUCzXu3vdK-dwAAP782pkKwLWtssuOE1WUoxi6gG0AcfqV_XwHnLOLi4_EaB69H5nF0u-LRGfG5jeMtccp_SiBunJnHCbUyHL8ub8sPeyV0ik__TUrT6-nf_6pheGSpwX_hkmYST-eRzykViWNg0AygJh7R4gUis1OSaWYTQyjXQtc4L4oCwTloa9lS9M2_JZDICLyGnM8EQVwpqIh9yuN-l5Tu8KfyGyJHjLX7S2vZ5fbSJd0RZ-hMqCaeE0ndzwaI9FEtmlhe3GGvofe9smNSsQugB-Pvx52eZwXb_6bQ-I_8UX9lWunIqukF_Wf9FtHQdkMPLy8a80A8LUrZ9hxbpjA1vLgE74-uttXHVKD4L5kr3cqJ4i4ruYds1sCdmdKMZ41D_LNyLkdLjfe6HmH07ocAAA.webp",
+      "snippet": "Jardiance Medication Guide.",
+      "snippet_highlighted_words": [
+        "Jardiance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jardiance Medication Guide.",
+          "source_info_link": "https://pro.boehringer-ingelheim.com/us/products/jardiance/overview/bipdf/jardiance-medication-guide",
+          "icon": "https://serpapi.com/images/i/UklGRoABAABXRUJQVlA4IHQBAAAQCACdASogACAAPtFAtFooIqgoFAEAGglsAKkjwYwDcAbwB-wHAX-RndrP3Bugw17QpoDUcJ1N52S3bxR8wlbUCzXu3vdK-dwAAP782pkKwLWtssuOE1WUoxi6gG0AcfqV_XwHnLOLi4_EaB69H5nF0u-LRGfG5jeMtccp_SiBunJnHCbUyHL8ub8sPeyV0ik__TUrT6-nf_6pheGSpwX_hkmYST-eRzykViWNg0AygJh7R4gUis1OSaWYTQyjXQtc4L4oCwTloa9lS9M2_JZDICLyGnM8EQVwpqIh9yuN-l5Tu8KfyGyJHjLX7S2vZ5fbSJd0RZ-hMqCaeE0ndzwaI9FEtmlhe3GGvofe9smNSsQugB-Pvx52eZwXb_6bQ-I_8UX9lWunIqukF_Wf9FtHQdkMPLy8a80A8LUrZ9hxbpjA1vLgE74-uttXHVKD4L5kr3cqJ4i4ruYds1sCdmdKMZ41D_LNyLkdLjfe6HmH07ocAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZaSHV1ZWU1dE1jRmo0Y2VGT0NNRzJRQks2clQ3c3FYSXljYmJvT1BUd0k5ZTNGUW5BdVAySlZTWGhqdUJ4UUlrUGhvOE1nNVlWckFrVEJJOXRKeHdSWEh5TUVETWtGcU8tMnRDckF3RnQ4VnVCMlVtTEkwQUt5dXJiSHIxbTBoNmRVU3dJU3ZMUE94SVFNTG5DRExVcUR4NGpJN0Njb3pKeVE1RFIzanh3dzYtWWFQTE5LZEo4UUVtWHJKMlRucUZadk5yOTVFUEI3dXh5TRIEGgIIABrLAxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnAwgAEAAYACAAKiYKCWphcmRpYW5jZRVWVbNAGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFQAAAAAaB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVAAAAABoGZWZmZWN0GgtzaWRlZWZmZWN0czLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGWkh1dWVlNXRNY0ZqNGNlRk9DTUcyUUJLNnJUN3NxWEl5Y2Jib09QVHdJOWUzRlFuQXVQMkpWU1hoanVCeFFJa1BobzhNZzVZVnJBa1RCSTl0Snh3UlhIeU1FRE1rRnFPLTJ0Q3JBd0Z0OFZ1QjJVbUxJMEFLeXVyYkhyMW0waDZkVVN3SVN2TFBPeElRTUxuQ0RMVXFEeDRqSTdDY296SnlRNURSM2p4d3c2LVlhUExOS2RKOFFFbVhySjJUbnFGWnZOcjk1RVBCN3V4eU06ITxiPkphcmRpYW5jZTwvYj4gTWVkaWNhdGlvbiBHdWlkZUIiPGI-SmFyZGlhbmNlPC9iPiBNZWRpY2F0aW9uIEd1aWRlLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZaSHV1ZWU1dE1jRmo0Y2VGT0NNRzJRQks2clQ3c3FYSXljYmJvT1BUd0k5ZTNGUW5BdVAySlZTWGhqdUJ4UUlrUGhvOE1nNVlWckFrVEJJOXRKeHdSWEh5TUVETWtGcU8tMnRDckF3RnQ4VnVCMlVtTEkwQUt5dXJiSHIxbTBoNmRVU3dJU3ZMUE94SVFNTG5DRExVcUR4NGpJN0Njb3pKeVE1RFIzanh3dzYtWWFQTE5LZEo4UUVtWHJKMlRucUZadk5yOTVFUEI3dXh5TRIEGgIIABrLAxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnAwgAEAAYACAAKiYKCWphcmRpYW5jZRVWVbNAGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFQAAAAAaB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVAAAAABoGZWZmZWN0GgtzaWRlZWZmZWN0czLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGWkh1dWVlNXRNY0ZqNGNlRk9DTUcyUUJLNnJUN3NxWEl5Y2Jib09QVHdJOWUzRlFuQXVQMkpWU1hoanVCeFFJa1BobzhNZzVZVnJBa1RCSTl0Snh3UlhIeU1FRE1rRnFPLTJ0Q3JBd0Z0OFZ1QjJVbUxJMEFLeXVyYkhyMW0waDZkVVN3SVN2TFBPeElRTUxuQ0RMVXFEeDRqSTdDY296SnlRNURSM2p4d3c2LVlhUExOS2RKOFFFbVhySjJUbnFGWnZOcjk1RVBCN3V4eU06ITxiPkphcmRpYW5jZTwvYj4gTWVkaWNhdGlvbiBHdWlkZUIiPGI-SmFyZGlhbmNlPC9iPiBNZWRpY2F0aW9uIEd1aWRlLiICEAFIAFgAaAA",
+      "source": "Boehringer Ingelheim HCP Portal"
+    },
+    {
+      "position": 2,
+      "title": "New to Jardiance : r/diabetes",
+      "link": "https://www.reddit.com/r/diabetes/comments/1ct84pb/new_to_jardiance/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVRIpkYo8P90_KQqqDcK5miEH7F91sJ_F5KobS07ShQBnSROAZ-62Do_I6SoDb_UnxynYm5dVrajXfOc5QVvEH11vM3LSjvNdOALcHAdv8StAzW12ur_eowCzoSJOcy2P3PMvWFcp2upxb4aLy70l-3QG6If_wAlNAlfA&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECCYQAQ&uoh=1",
+      "displayed_link": "10+ comments \u00b7 2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Common side effects of Jardiance include 'decreased blood pressure', 'dehydration', 'hypoglycemia', 'syncope', and 'arthralgia', among others.",
+      "snippet_highlighted_words": [
+        "side effects",
+        "Jardiance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common side effects of Jardiance include 'decreased blood pressure', 'dehydration', 'hypoglycemia', 'syncope', and 'arthralgia', among others.",
+          "source_info_link": "https://www.reddit.com/r/diabetes/comments/1ct84pb/new_to_jardiance/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlJJcGtZbzhQOTBfS1FxcURjSzVtaUVIN0Y5MXNKX0Y1S29iUzA3U2hRQm5TUk9BWi02MkRvX0k2U29EYl9Vbnh5blltNWRWcmFqWGZPYzVRVnZFSDExdk0zTFNqdk5kT0FMY0hBZHY4U3RBelcxMnVyX2Vvd0N6b1NKT2N5MlAzUE12V0ZjcDJ1cHhiNGFMeTcwbC0zUUc2SWZfd0FsTkFsZkESBBoCCAAa0AQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqBAgAEAAYACAAKiYKCWphcmRpYW5jZRUEC3ZAGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFQTvmz8aB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVrkeSPxoGZWZmZWN0GgtzaWRlZWZmZWN0czK5AS9nb3RvP3VybD1DQUVTZndIck96QVZSSXBrWW84UDkwX0tRcXFEY0s1bWlFSDdGOTFzSl9GNUtvYlMwN1NoUUJuU1JPQVotNjJEb19JNlNvRGJfVW54eW5ZbTVkVnJhalhmT2M1UVZ2RUgxMXZNM0xTanZOZE9BTGNIQWR2OFN0QXpXMTJ1cl9lb3dDem9TSk9jeTJQM1BNdldGY3AydXB4YjRhTHk3MGwtM1FHNklmX3dBbE5BbGZBOi1OZXcgdG8gPGI-SmFyZGlhbmNlPC9iPiA6IHIvZGlhYmV0ZXMgLSBSZWRkaXRCxAFDb21tb24gPGI-c2lkZSBlZmZlY3RzPC9iPiBvZiA8Yj5KYXJkaWFuY2U8L2I-IGluY2x1ZGUgJiMzOTtkZWNyZWFzZWQgYmxvb2QgcHJlc3N1cmUmIzM5OywgJiMzOTtkZWh5ZHJhdGlvbiYjMzk7LCAmIzM5O2h5cG9nbHljZW1pYSYjMzk7LCAmIzM5O3N5bmNvcGUmIzM5OywgYW5kICYjMzk7YXJ0aHJhbGdpYSYjMzk7LCBhbW9uZyBvdGhlcnMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlJJcGtZbzhQOTBfS1FxcURjSzVtaUVIN0Y5MXNKX0Y1S29iUzA3U2hRQm5TUk9BWi02MkRvX0k2U29EYl9Vbnh5blltNWRWcmFqWGZPYzVRVnZFSDExdk0zTFNqdk5kT0FMY0hBZHY4U3RBelcxMnVyX2Vvd0N6b1NKT2N5MlAzUE12V0ZjcDJ1cHhiNGFMeTcwbC0zUUc2SWZfd0FsTkFsZkESBBoCCAAa0AQSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqBAgAEAAYACAAKiYKCWphcmRpYW5jZRUEC3ZAGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFQTvmz8aB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVrkeSPxoGZWZmZWN0GgtzaWRlZWZmZWN0czK5AS9nb3RvP3VybD1DQUVTZndIck96QVZSSXBrWW84UDkwX0tRcXFEY0s1bWlFSDdGOTFzSl9GNUtvYlMwN1NoUUJuU1JPQVotNjJEb19JNlNvRGJfVW54eW5ZbTVkVnJhalhmT2M1UVZ2RUgxMXZNM0xTanZOZE9BTGNIQWR2OFN0QXpXMTJ1cl9lb3dDem9TSk9jeTJQM1BNdldGY3AydXB4YjRhTHk3MGwtM1FHNklmX3dBbE5BbGZBOi1OZXcgdG8gPGI-SmFyZGlhbmNlPC9iPiA6IHIvZGlhYmV0ZXMgLSBSZWRkaXRCxAFDb21tb24gPGI-c2lkZSBlZmZlY3RzPC9iPiBvZiA8Yj5KYXJkaWFuY2U8L2I-IGluY2x1ZGUgJiMzOTtkZWNyZWFzZWQgYmxvb2QgcHJlc3N1cmUmIzM5OywgJiMzOTtkZWh5ZHJhdGlvbiYjMzk7LCAmIzM5O2h5cG9nbHljZW1pYSYjMzk7LCAmIzM5O3N5bmNvcGUmIzM5OywgYW5kICYjMzk7YXJ0aHJhbGdpYSYjMzk7LCBhbW9uZyBvdGhlcnMuIgIQAUgAWABoAA",
+      "source": "Reddit \u00b7 r/diabetes",
+      "read_more_link": "https://www.reddit.com/r/diabetes/comments/1ct84pb/new_to_jardiance/#:~:text=Common%20side%20effects%20of%20Jardiance,'syncope'%2C%20and%20'arthralgia'%2C%20among%20others."
+    },
+    {
+      "position": 3,
+      "title": "Empagliflozin/Jardiance (Sodium-glucose Co-transporter 2 ...",
+      "link": "https://www.supportnetwork.heart.org/s/topic/0TO4T000000UoSkWAK/empagliflozinjardiance-sodiumglucose-cotransporter-2-sglt2-inhibitor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwAEB6zswFZonO8eekdL7otYE6F_Xudi5EFaPSbUCs_1k_pyud393e_5ps7iNlevGfeJB3m_9Qx_yFKaa7rLXNsA_kbeBOtBthHD0COYdy7HBtaouV1jdLmdhWnpHUILYKGT1GuDPnfSDu8fpjQxbHjEAMmf0jooe0xzktCXo6eSrsu8we_nCszn-WP098lSnjzpVBBXyeoitYeIfxXjiQzjY0CgB49et1YAGe17-DvemBeBx6MbLEU_kIUVhEIy5bFU&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://www.supportnetwork.heart.org \u203a topic \u203a empaglif...",
+      "favicon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAABwAgCdASoQABAAAsBMJbACdAYp5t9pGb_XvDF4AP76rcVk4bZ2Wn2IkHKlXAbv-dae_vmjmW-G3ntBonxjcEvtm2qmqWTeD6IzgoYoMA0uI5FIHIzobeVOTjG1Pu5rf8-m28AWoejQVGp22KkrAZuOLlZ_gYym12ayMa2rgd6795n-019M5f1MfiYYJixO32kgAA.webp",
+      "date": "May 22, 2025",
+      "snippet": "Jardiance has helped me lower my diastolic blood pressure (as well as systolic) to normal. It has also helped me lose 30 lbs. shortness of ...",
+      "snippet_highlighted_words": [
+        "Jardiance"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jardiance has helped me lower my diastolic blood pressure (as well as systolic) to normal. It has also helped me lose 30 lbs. shortness of ...",
+          "source_info_link": "https://www.supportnetwork.heart.org/s/topic/0TO4T000000UoSkWAK/empagliflozinjardiance-sodiumglucose-cotransporter-2-sglt2-inhibitor",
+          "icon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAABwAgCdASoQABAAAsBMJbACdAYp5t9pGb_XvDF4AP76rcVk4bZ2Wn2IkHKlXAbv-dae_vmjmW-G3ntBonxjcEvtm2qmqWTeD6IzgoYoMA0uI5FIHIzobeVOTjG1Pu5rf8-m28AWoejQVGp22KkrAZuOLlZ_gYym12ayMa2rgd6795n-019M5f1MfiYYJixO32kgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0Zab25POGVla2RMN290WUU2Rl9YdWRpNUVGYVBTYlVDc18xa19weXVkMzkzZV81cHM3aU5sZXZHZmVKQjNtXzlReF95RkthYTdyTFhOc0Ffa2JlQk90QnRoSEQwQ09ZZHk3SEJ0YW91VjFqZExtZGhXbnBIVUlMWUtHVDFHdURQbmZTRHU4ZnBqUXhiSGpFQU1tZjBqb29lMHh6a3RDWG82ZVNyc3U4d2VfbkNzem4tV1AwOThsU25qenBWQkJYeWVvaXRZZUlmeFhqaVF6alkwQ2dCNDlldDFZQUdlMTctRHZlbUJlQng2TWJMRVVfa0lVVmhFSXk1YkZVEgQaAggAGpIFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQO4ECAAQABgAIAAqJgoJamFyZGlhbmNlFV4sKUAaBGFuY2UaDml2O3A7amFyZGlhbmNlKiEKBHNpZGUVqRmRPxoHYWR2ZXJzZRoLc2lkZWVmZmVjdHMqIwoHZWZmZWN0cxWpGZE_GgZlZmZlY3QaC3NpZGVlZmZlY3RzMpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0Zab25POGVla2RMN290WUU2Rl9YdWRpNUVGYVBTYlVDc18xa19weXVkMzkzZV81cHM3aU5sZXZHZmVKQjNtXzlReF95RkthYTdyTFhOc0Ffa2JlQk90QnRoSEQwQ09ZZHk3SEJ0YW91VjFqZExtZGhXbnBIVUlMWUtHVDFHdURQbmZTRHU4ZnBqUXhiSGpFQU1tZjBqb29lMHh6a3RDWG82ZVNyc3U4d2VfbkNzem4tV1AwOThsU25qenBWQkJYeWVvaXRZZUlmeFhqaVF6alkwQ2dCNDlldDFZQUdlMTctRHZlbUJlQng2TWJMRVVfa0lVVmhFSXk1YkZVOkNFbXBhZ2xpZmxvemluLzxiPkphcmRpYW5jZTwvYj4gKFNvZGl1bS1nbHVjb3NlIENvLXRyYW5zcG9ydGVyIDIgLi4uQpoBPGI-SmFyZGlhbmNlPC9iPiBoYXMgaGVscGVkIG1lIGxvd2VyIG15IGRpYXN0b2xpYyBibG9vZCBwcmVzc3VyZSAoYXMgd2VsbCBhcyBzeXN0b2xpYykgdG8gbm9ybWFsLiBJdCBoYXMgYWxzbyBoZWxwZWQgbWUgbG9zZSAzMCBsYnMuIHNob3J0bmVzcyBvZiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0Zab25POGVla2RMN290WUU2Rl9YdWRpNUVGYVBTYlVDc18xa19weXVkMzkzZV81cHM3aU5sZXZHZmVKQjNtXzlReF95RkthYTdyTFhOc0Ffa2JlQk90QnRoSEQwQ09ZZHk3SEJ0YW91VjFqZExtZGhXbnBIVUlMWUtHVDFHdURQbmZTRHU4ZnBqUXhiSGpFQU1tZjBqb29lMHh6a3RDWG82ZVNyc3U4d2VfbkNzem4tV1AwOThsU25qenBWQkJYeWVvaXRZZUlmeFhqaVF6alkwQ2dCNDlldDFZQUdlMTctRHZlbUJlQng2TWJMRVVfa0lVVmhFSXk1YkZVEgQaAggAGpIFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQO4ECAAQABgAIAAqJgoJamFyZGlhbmNlFV4sKUAaBGFuY2UaDml2O3A7amFyZGlhbmNlKiEKBHNpZGUVqRmRPxoHYWR2ZXJzZRoLc2lkZWVmZmVjdHMqIwoHZWZmZWN0cxWpGZE_GgZlZmZlY3QaC3NpZGVlZmZlY3RzMpECL2dvdG8_dXJsPUNBRVN3QUVCNnpzd0Zab25POGVla2RMN290WUU2Rl9YdWRpNUVGYVBTYlVDc18xa19weXVkMzkzZV81cHM3aU5sZXZHZmVKQjNtXzlReF95RkthYTdyTFhOc0Ffa2JlQk90QnRoSEQwQ09ZZHk3SEJ0YW91VjFqZExtZGhXbnBIVUlMWUtHVDFHdURQbmZTRHU4ZnBqUXhiSGpFQU1tZjBqb29lMHh6a3RDWG82ZVNyc3U4d2VfbkNzem4tV1AwOThsU25qenBWQkJYeWVvaXRZZUlmeFhqaVF6alkwQ2dCNDlldDFZQUdlMTctRHZlbUJlQng2TWJMRVVfa0lVVmhFSXk1YkZVOkNFbXBhZ2xpZmxvemluLzxiPkphcmRpYW5jZTwvYj4gKFNvZGl1bS1nbHVjb3NlIENvLXRyYW5zcG9ydGVyIDIgLi4uQpoBPGI-SmFyZGlhbmNlPC9iPiBoYXMgaGVscGVkIG1lIGxvd2VyIG15IGRpYXN0b2xpYyBibG9vZCBwcmVzc3VyZSAoYXMgd2VsbCBhcyBzeXN0b2xpYykgdG8gbm9ybWFsLiBJdCBoYXMgYWxzbyBoZWxwZWQgbWUgbG9zZSAzMCBsYnMuIHNob3J0bmVzcyBvZiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "www.heart.org"
+    },
+    {
+      "position": 4,
+      "title": "Jardiance Side Effects and Reviews",
+      "link": "https://www.facebook.com/fb-answers/jardiance-side-effects-and-reviews/?ref=related_queries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFfvALZBHijzwmWD_MbvQ9_UAmBlOw-oq5AGq04AbhJsR6-TO9gg8QlyzyhLzSl_ORC0a5KuxzAEjQL6To-QsHHVRKf8R_nF9CuhSc6k92So2xXBajYM4l0ZP56ktbjI5so__xFtOHBtgo7C9c5wuU7ayyF_ffMPxMn_TDC3j-nmovF87yhHGVoJvFe-zKxY15qg&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.facebook.com \u203a fb-answers \u203a jardiance-sid...",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "The most frequently mentioned side effects are yeast infections, urinary tract infections, increased urination, and dehydration. Some also describe fatigue, ...",
+      "snippet_highlighted_words": [
+        "yeast infections, urinary tract infections, increased urination, and dehydration"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The most frequently mentioned side effects are yeast infections, urinary tract infections, increased urination, and dehydration. Some also describe fatigue, ...",
+          "source_info_link": "https://www.facebook.com/fb-answers/jardiance-side-effects-and-reviews/?ref=related_queries",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZmdkFMWkJIaWp6d21XRF9NYnZROV9VQW1CbE93LW9xNUFHcTA0QWJoSnNSNi1UTzlnZzhRbHl6eWhMelNsX09SQzBhNUt1eHpBRWpRTDZUby1Rc0hIVlJLZjhSX25GOUN1aFNjNms5MlNvMnhYQmFqWU00bDBaUDU2a3Riakk1c29fX3hGdE9IQnRnbzdDOWM1d3VVN2F5eUZfZmZNUHhNbl9UREMzai1ubW92Rjg3eWhIR1ZvSnZGZS16S3hZMTVxZxIEGgIIABrdBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC5BAgAEAAYACAAKiYKCWphcmRpYW5jZRV5fJ5AGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFRwbokAaB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVKFSdQBoGZWZmZWN0GgtzaWRlZWZmZWN0czLZAS9nb3RvP3VybD1DQUVTbGdFQjZ6c3dGZnZBTFpCSGlqendtV0RfTWJ2UTlfVUFtQmxPdy1vcTVBR3EwNEFiaEpzUjYtVE85Z2c4UWx5enloTHpTbF9PUkMwYTVLdXh6QUVqUUw2VG8tUXNISFZSS2Y4Ul9uRjlDdWhTYzZrOTJTbzJ4WEJhallNNGwwWlA1Nmt0YmpJNXNvX194RnRPSEJ0Z283QzljNXd1VTdheXlGX2ZmTVB4TW5fVERDM2otbm1vdkY4N3loSEdWb0p2RmUtekt4WTE1cWc6NDxiPkphcmRpYW5jZSBTaWRlIEVmZmVjdHM8L2I-IGFuZCBSZXZpZXdzIC0gRmFjZWJvb2tCrAFUaGUgbW9zdCBmcmVxdWVudGx5IG1lbnRpb25lZCBzaWRlIGVmZmVjdHMgYXJlIDxiPnllYXN0IGluZmVjdGlvbnMsIHVyaW5hcnkgdHJhY3QgaW5mZWN0aW9ucywgaW5jcmVhc2VkIHVyaW5hdGlvbiwgYW5kIGRlaHlkcmF0aW9uPC9iPi4gU29tZSBhbHNvIGRlc2NyaWJlIGZhdGlndWUsJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZmdkFMWkJIaWp6d21XRF9NYnZROV9VQW1CbE93LW9xNUFHcTA0QWJoSnNSNi1UTzlnZzhRbHl6eWhMelNsX09SQzBhNUt1eHpBRWpRTDZUby1Rc0hIVlJLZjhSX25GOUN1aFNjNms5MlNvMnhYQmFqWU00bDBaUDU2a3Riakk1c29fX3hGdE9IQnRnbzdDOWM1d3VVN2F5eUZfZmZNUHhNbl9UREMzai1ubW92Rjg3eWhIR1ZvSnZGZS16S3hZMTVxZxIEGgIIABrdBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC5BAgAEAAYACAAKiYKCWphcmRpYW5jZRV5fJ5AGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFRwbokAaB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVKFSdQBoGZWZmZWN0GgtzaWRlZWZmZWN0czLZAS9nb3RvP3VybD1DQUVTbGdFQjZ6c3dGZnZBTFpCSGlqendtV0RfTWJ2UTlfVUFtQmxPdy1vcTVBR3EwNEFiaEpzUjYtVE85Z2c4UWx5enloTHpTbF9PUkMwYTVLdXh6QUVqUUw2VG8tUXNISFZSS2Y4Ul9uRjlDdWhTYzZrOTJTbzJ4WEJhallNNGwwWlA1Nmt0YmpJNXNvX194RnRPSEJ0Z283QzljNXd1VTdheXlGX2ZmTVB4TW5fVERDM2otbm1vdkY4N3loSEdWb0p2RmUtekt4WTE1cWc6NDxiPkphcmRpYW5jZSBTaWRlIEVmZmVjdHM8L2I-IGFuZCBSZXZpZXdzIC0gRmFjZWJvb2tCrAFUaGUgbW9zdCBmcmVxdWVudGx5IG1lbnRpb25lZCBzaWRlIGVmZmVjdHMgYXJlIDxiPnllYXN0IGluZmVjdGlvbnMsIHVyaW5hcnkgdHJhY3QgaW5mZWN0aW9ucywgaW5jcmVhc2VkIHVyaW5hdGlvbiwgYW5kIGRlaHlkcmF0aW9uPC9iPi4gU29tZSBhbHNvIGRlc2NyaWJlIGZhdGlndWUsJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Facebook",
+      "read_more_link": "https://www.facebook.com/fb-answers/jardiance-side-effects-and-reviews/?ref=related_queries#:~:text=The%20most%20frequently%20mentioned%20side,fatigue%2C%20dizziness%2C%20and%20dry%20mouth."
+    },
+    {
+      "position": 5,
+      "title": "Anyone on Jardiance for Heart failure and your success ...",
+      "link": "https://connect.mayoclinic.org/comment/1561796/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAV4oGxlg6xK0MXw7xARP59ND3Q67_HRS7Edjqy4kjdesWLm17I81csyTRArPK3SGdRN-qUQNq6iXYwsukrCJXKrSvMLpDO0vLzprPvdd_t6B35Fwsgi980kvI5KkpictX5XqAzBc8&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://connect.mayoclinic.org \u203a comment",
+      "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASocABsAPtE-tFooIigoFAEAGgloALsy6KW__X0MI8nSFPz8atiz5xjzFSLtweKkQhXxyIAA_vP5z5qEDTrwOZOrT6UpKjnL4d0crMYPyELYY63VQ1a0Z_7KuMkO2hYzpHS9NHop3lDOFt3ZzOah_quoN6BjOaYlteaOMok9R2m9A9fns1JeKDl6lCeV6W01CKyrZRpdlyhaDgMbABwI3H8GRDOx2KaD513hNaLLRxwWVE0MJLQcj2vxHg4-1COgoXsG2m2bpfxwG1_9tTLDFTJVQ4jiDi3M1W93VwS1y7jMjnILEpPN_CiianAujyZ_HX-h7aTBNLPYEf7TTonoY3aqJoAAAA.webp",
+      "date": "Apr 11, 2026",
+      "snippet": "I've had a very recent diagnosis of heart failure (HF), just starting on Jardiance. So far (1 week) no noticeable side effects, so fingers ...",
+      "snippet_highlighted_words": [
+        "no noticeable side effects"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I've had a very recent diagnosis of heart failure (HF), just starting on Jardiance. So far (1 week) no noticeable side effects, so fingers ...",
+          "source_info_link": "https://connect.mayoclinic.org/comment/1561796/",
+          "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASocABsAPtE-tFooIigoFAEAGgloALsy6KW__X0MI8nSFPz8atiz5xjzFSLtweKkQhXxyIAA_vP5z5qEDTrwOZOrT6UpKjnL4d0crMYPyELYY63VQ1a0Z_7KuMkO2hYzpHS9NHop3lDOFt3ZzOah_quoN6BjOaYlteaOMok9R2m9A9fns1JeKDl6lCeV6W01CKyrZRpdlyhaDgMbABwI3H8GRDOx2KaD513hNaLLRxwWVE0MJLQcj2vxHg4-1COgoXsG2m2bpfxwG1_9tTLDFTJVQ4jiDi3M1W93VwS1y7jMjnILEpPN_CiianAujyZ_HX-h7aTBNLPYEf7TTonoY3aqJoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVjRvR3hsZzZ4SzBNWHc3eEFSUDU5TkQzUTY3X0hSUzdFZGpxeTRramRlc1dMbTE3STgxY3N5VFJBclBLM1NHZFJOLXFVUU5xNmlYWXdzdWtyQ0pYS3JTdk1McERPMHZMenByUHZkZF90NkIzNUZ3c2dpOTgwa3ZJNUtrcGljdFg1WHFBekJjOBIEGgIIABqkBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCABAgAEAAYACAAKiYKCWphcmRpYW5jZRXG4WtAGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFfJKnD8aB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMV8kqcPxoGZWZmZWN0GgtzaWRlZWZmZWN0czKdAS9nb3RvP3VybD1DQUVTYWdIck96QVY0b0d4bGc2eEswTVh3N3hBUlA1OU5EM1E2N19IUlM3RWRqcXk0a2pkZXNXTG0xN0k4MWNzeVRSQXJQSzNTR2RSTi1xVVFOcTZpWFl3c3VrckNKWEtyU3ZNTHBETzB2THpwclB2ZGRfdDZCMzVGd3NnaTk4MGt2STVLa3BpY3RYNVhxQXpCYzg6RUFueW9uZSBvbiA8Yj5KYXJkaWFuY2U8L2I-IGZvciBIZWFydCBmYWlsdXJlIGFuZCB5b3VyIHN1Y2Nlc3Mgd2l0aCBpdEKeAUkmIzM5O3ZlIGhhZCBhIHZlcnkgcmVjZW50IGRpYWdub3NpcyBvZiBoZWFydCBmYWlsdXJlIChIRiksIGp1c3Qgc3RhcnRpbmcgb24gSmFyZGlhbmNlLiBTbyBmYXIgKDEgd2VlaykgPGI-bm8gbm90aWNlYWJsZSBzaWRlIGVmZmVjdHM8L2I-LCBzbyBmaW5nZXJzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVjRvR3hsZzZ4SzBNWHc3eEFSUDU5TkQzUTY3X0hSUzdFZGpxeTRramRlc1dMbTE3STgxY3N5VFJBclBLM1NHZFJOLXFVUU5xNmlYWXdzdWtyQ0pYS3JTdk1McERPMHZMenByUHZkZF90NkIzNUZ3c2dpOTgwa3ZJNUtrcGljdFg1WHFBekJjOBIEGgIIABqkBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCABAgAEAAYACAAKiYKCWphcmRpYW5jZRXG4WtAGgRhbmNlGg5pdjtwO2phcmRpYW5jZSohCgRzaWRlFfJKnD8aB2FkdmVyc2UaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMV8kqcPxoGZWZmZWN0GgtzaWRlZWZmZWN0czKdAS9nb3RvP3VybD1DQUVTYWdIck96QVY0b0d4bGc2eEswTVh3N3hBUlA1OU5EM1E2N19IUlM3RWRqcXk0a2pkZXNXTG0xN0k4MWNzeVRSQXJQSzNTR2RSTi1xVVFOcTZpWFl3c3VrckNKWEtyU3ZNTHBETzB2THpwclB2ZGRfdDZCMzVGd3NnaTk4MGt2STVLa3BpY3RYNVhxQXpCYzg6RUFueW9uZSBvbiA8Yj5KYXJkaWFuY2U8L2I-IGZvciBIZWFydCBmYWlsdXJlIGFuZCB5b3VyIHN1Y2Nlc3Mgd2l0aCBpdEKeAUkmIzM5O3ZlIGhhZCBhIHZlcnkgcmVjZW50IGRpYWdub3NpcyBvZiBoZWFydCBmYWlsdXJlIChIRiksIGp1c3Qgc3RhcnRpbmcgb24gSmFyZGlhbmNlLiBTbyBmYXIgKDEgd2VlaykgPGI-bm8gbm90aWNlYWJsZSBzaWRlIGVmZmVjdHM8L2I-LCBzbyBmaW5nZXJzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Mayo Clinic Connect",
+      "read_more_link": "https://connect.mayoclinic.org/comment/1561796/#:~:text=I've%20had%20a%20very%20recent,side%20effects%2C%20so%20fingers%20crossed."
+    },
+    {
+      "position": 6,
+      "title": "Jardiance Side Effects: Expert Q&A for Seniors' Concerns",
+      "link": "https://www.justanswer.com/medical/tmuy0-jardiance-side-effects-breathing-issues.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFQQwUsV-a1enWA4oE8T_ReXTN8auWZL6LZzng2Cx4uFjvhhXvroIt3-3gYpmJkyPIEXPM1edSYOXs0wFbcMAFFex-V9MRijEvOkt78S9XFOAOXt_nSQ338cBj8azTTSDeys_uDNs7eg6JlCsGKda8Waewq82yOO1YDzxXVv77Gt82hgXeBcD555WkIM&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.justanswer.com \u203a Medical Questions",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vPZVmMtLIB2BBgOtig4F6ViIrZ72d3P1fWG-5pYCxeznkAP72B2idR2sA9FhWq6ugJikbQGqqOOjwtHRlcBciD6C-1QREedw623Kcp11kS9cTB2742h9ghO1qyMJH8m6XlTnVvfV0nEvzwPYvm6XsrovVoCGYhKt_h_nGG_ZLOdjGC-qgYl6eadcxpWXdMagKVUXsyH6MiGGHNbfeP4FGt5AdXHlr0s3kfHYAPYj2Gofa7cM-23dj5JgdXoPU5g0dBsKQbrMxCotzuM8VpQjT9q1QkOnYnBafWJdCwUKqNHceVI-RxP6Q6xg9QaOEwuBgZ6vivlwdgOUoJceWgoAAAA.webp",
+      "date": "Nov 3, 2025",
+      "snippet": "Shortness of breath and fatigue can occur during Jardiance treatment. may cause side effects like breathing difficulties in some patients. ...",
+      "snippet_highlighted_words": [
+        "Shortness of breath and fatigue can occur during Jardiance treatment"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Shortness of breath and fatigue can occur during Jardiance treatment. may cause side effects like breathing difficulties in some patients. ...",
+          "source_info_link": "https://www.justanswer.com/medical/tmuy0-jardiance-side-effects-breathing-issues.html",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0vPZVmMtLIB2BBgOtig4F6ViIrZ72d3P1fWG-5pYCxeznkAP72B2idR2sA9FhWq6ugJikbQGqqOOjwtHRlcBciD6C-1QREedw623Kcp11kS9cTB2742h9ghO1qyMJH8m6XlTnVvfV0nEvzwPYvm6XsrovVoCGYhKt_h_nGG_ZLOdjGC-qgYl6eadcxpWXdMagKVUXsyH6MiGGHNbfeP4FGt5AdXHlr0s3kfHYAPYj2Gofa7cM-23dj5JgdXoPU5g0dBsKQbrMxCotzuM8VpQjT9q1QkOnYnBafWJdCwUKqNHceVI-RxP6Q6xg9QaOEwuBgZ6vivlwdgOUoJceWgoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZRUXdVc1YtYTFlbldBNG9FOFRfUmVYVE44YXVXWkw2TFp6bmcyQ3g0dUZqdmhoWHZyb0l0My0zZ1lwbUpreVBJRVhQTTFlZFNZT1hzMHdGYmNNQUZGZXgtVjlNUmlqRXZPa3Q3OFM5WEZPQU9YdF9uU1EzMzhjQmo4YXpUVFNEZXlzX3VETnM3ZWc2SmxDc0dLZGE4V2Fld3E4MnlPTzFZRHp4WFZ2NzdHdDgyaGdYZUJjRDU1NVdrSU0SBBoCCAAa1gQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsgQIABAAGAAgAComCglqYXJkaWFuY2UVa7qnQBoEYW5jZRoOaXY7cDtqYXJkaWFuY2UqIQoEc2lkZRUe0Y5AGgdhZHZlcnNlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFTimg0AaBmVmZmVjdBoLc2lkZWVmZmVjdHMy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RlFRd1VzVi1hMWVuV0E0b0U4VF9SZVhUTjhhdVdaTDZMWnpuZzJDeDR1Rmp2aGhYdnJvSXQzLTNnWXBtSmt5UElFWFBNMWVkU1lPWHMwd0ZiY01BRkZleC1WOU1SaWpFdk9rdDc4UzlYRk9BT1h0X25TUTMzOGNCajhhelRUU0RleXNfdUROczdlZzZKbENzR0tkYThXYWV3cTgyeU9PMVlEenhYVnY3N0d0ODJoZ1hlQmNENTU1V2tJTTpHPGI-SmFyZGlhbmNlIFNpZGUgRWZmZWN0czwvYj46IEV4cGVydCBRJmFtcDtBIGZvciBTZW5pb3JzJiMzOTsgQ29uY2VybnNCmgE8Yj5TaG9ydG5lc3Mgb2YgYnJlYXRoIGFuZCBmYXRpZ3VlIGNhbiBvY2N1ciBkdXJpbmcgSmFyZGlhbmNlIHRyZWF0bWVudDwvYj4uIG1heSBjYXVzZSBzaWRlIGVmZmVjdHMgbGlrZSBicmVhdGhpbmcgZGlmZmljdWx0aWVzIGluIHNvbWUgcGF0aWVudHMuJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZRUXdVc1YtYTFlbldBNG9FOFRfUmVYVE44YXVXWkw2TFp6bmcyQ3g0dUZqdmhoWHZyb0l0My0zZ1lwbUpreVBJRVhQTTFlZFNZT1hzMHdGYmNNQUZGZXgtVjlNUmlqRXZPa3Q3OFM5WEZPQU9YdF9uU1EzMzhjQmo4YXpUVFNEZXlzX3VETnM3ZWc2SmxDc0dLZGE4V2Fld3E4MnlPTzFZRHp4WFZ2NzdHdDgyaGdYZUJjRDU1NVdrSU0SBBoCCAAa1gQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsgQIABAAGAAgAComCglqYXJkaWFuY2UVa7qnQBoEYW5jZRoOaXY7cDtqYXJkaWFuY2UqIQoEc2lkZRUe0Y5AGgdhZHZlcnNlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFTimg0AaBmVmZmVjdBoLc2lkZWVmZmVjdHMy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RlFRd1VzVi1hMWVuV0E0b0U4VF9SZVhUTjhhdVdaTDZMWnpuZzJDeDR1Rmp2aGhYdnJvSXQzLTNnWXBtSmt5UElFWFBNMWVkU1lPWHMwd0ZiY01BRkZleC1WOU1SaWpFdk9rdDc4UzlYRk9BT1h0X25TUTMzOGNCajhhelRUU0RleXNfdUROczdlZzZKbENzR0tkYThXYWV3cTgyeU9PMVlEenhYVnY3N0d0ODJoZ1hlQmNENTU1V2tJTTpHPGI-SmFyZGlhbmNlIFNpZGUgRWZmZWN0czwvYj46IEV4cGVydCBRJmFtcDtBIGZvciBTZW5pb3JzJiMzOTsgQ29uY2VybnNCmgE8Yj5TaG9ydG5lc3Mgb2YgYnJlYXRoIGFuZCBmYXRpZ3VlIGNhbiBvY2N1ciBkdXJpbmcgSmFyZGlhbmNlIHRyZWF0bWVudDwvYj4uIG1heSBjYXVzZSBzaWRlIGVmZmVjdHMgbGlrZSBicmVhdGhpbmcgZGlmZmljdWx0aWVzIGluIHNvbWUgcGF0aWVudHMuJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "JustAnswer"
+    },
+    {
+      "position": 7,
+      "title": "Jardiance - anyone on it? : r/diabetes_t2",
+      "link": "https://www.reddit.com/r/diabetes_t2/comments/ixxthh/jardiance_anyone_on_it/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFRj23j-77L7x9Bys7lQWITmU7yzYEllicbB9Flm9TbuH9wKGadul2R9Eq6iImz3JPPE-PZftp7nmQhxFuKib9FxFuOMbOCM3_rueqPBsoQb1Tb3c0aKPCPOF9neZ0c4gGCm2jqiAxlfaeik34L_rL6Ege23io4at9W3zbYRUGEjNdN8&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECEMQAQ&uoh=1",
+      "displayed_link": "10+ comments \u00b7 6 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I read up on some of the side effects including UTI and Amputation. A little bit of protein spillage in a microalbumin urine test. Sometimes it ...",
+      "snippet_highlighted_words": [
+        "UTI and Amputation"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I read up on some of the side effects including UTI and Amputation. A little bit of protein spillage in a microalbumin urine test. Sometimes it ...",
+          "source_info_link": "https://www.reddit.com/r/diabetes_t2/comments/ixxthh/jardiance_anyone_on_it/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZSajIzai03N0w3eDlCeXM3bFFXSVRtVTd5ellFbGxpY2JCOUZsbTlUYnVIOXdLR2FkdWwyUjlFcTZpSW16M0pQUEUtUFpmdHA3bm1RaHhGdUtpYjlGeEZ1T01iT0NNM19ydWVxUEJzb1FiMVRiM2MwYUtQQ1BPRjluZVowYzRnR0NtMmpxaUF4bGZhZWlrMzRMX3JMNkVnZTIzaW80YXQ5VzN6YllSVUdFak5kTjgSBBoCCAAawQQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQQIABAAGAAgAComCglqYXJkaWFuY2UVP6yTQBoEYW5jZRoOaXY7cDtqYXJkaWFuY2UqIQoEc2lkZRV7eJE_GgdhZHZlcnNlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFXt4kT8aBmVmZmVjdBoLc2lkZWVmZmVjdHMyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlJqMjNqLTc3TDd4OUJ5czdsUVdJVG1VN3l6WUVsbGljYkI5RmxtOVRidUg5d0tHYWR1bDJSOUVxNmlJbXozSlBQRS1QWmZ0cDdubVFoeEZ1S2liOUZ4RnVPTWJPQ00zX3J1ZXFQQnNvUWIxVGIzYzBhS1BDUE9GOW5lWjBjNGdHQ20yanFpQXhsZmFlaWszNExfckw2RWdlMjNpbzRhdDlXM3piWVJVR0VqTmROODo5PGI-SmFyZGlhbmNlPC9iPiAtIGFueW9uZSBvbiBpdD8gOiByL2RpYWJldGVzX3QyIC0gUmVkZGl0Qp8BSSByZWFkIHVwIG9uIHNvbWUgb2YgdGhlIHNpZGUgZWZmZWN0cyBpbmNsdWRpbmcgPGI-VVRJIGFuZCBBbXB1dGF0aW9uPC9iPi4gQSBsaXR0bGUgYml0IG9mIHByb3RlaW4gc3BpbGxhZ2UgaW4gYSBtaWNyb2FsYnVtaW4gdXJpbmUgdGVzdC4gU29tZXRpbWVzIGl0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZSajIzai03N0w3eDlCeXM3bFFXSVRtVTd5ellFbGxpY2JCOUZsbTlUYnVIOXdLR2FkdWwyUjlFcTZpSW16M0pQUEUtUFpmdHA3bm1RaHhGdUtpYjlGeEZ1T01iT0NNM19ydWVxUEJzb1FiMVRiM2MwYUtQQ1BPRjluZVowYzRnR0NtMmpxaUF4bGZhZWlrMzRMX3JMNkVnZTIzaW80YXQ5VzN6YllSVUdFak5kTjgSBBoCCAAawQQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQQIABAAGAAgAComCglqYXJkaWFuY2UVP6yTQBoEYW5jZRoOaXY7cDtqYXJkaWFuY2UqIQoEc2lkZRV7eJE_GgdhZHZlcnNlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFXt4kT8aBmVmZmVjdBoLc2lkZWVmZmVjdHMyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlJqMjNqLTc3TDd4OUJ5czdsUVdJVG1VN3l6WUVsbGljYkI5RmxtOVRidUg5d0tHYWR1bDJSOUVxNmlJbXozSlBQRS1QWmZ0cDdubVFoeEZ1S2liOUZ4RnVPTWJPQ00zX3J1ZXFQQnNvUWIxVGIzYzBhS1BDUE9GOW5lWjBjNGdHQ20yanFpQXhsZmFlaWszNExfckw2RWdlMjNpbzRhdDlXM3piWVJVR0VqTmROODo5PGI-SmFyZGlhbmNlPC9iPiAtIGFueW9uZSBvbiBpdD8gOiByL2RpYWJldGVzX3QyIC0gUmVkZGl0Qp8BSSByZWFkIHVwIG9uIHNvbWUgb2YgdGhlIHNpZGUgZWZmZWN0cyBpbmNsdWRpbmcgPGI-VVRJIGFuZCBBbXB1dGF0aW9uPC9iPi4gQSBsaXR0bGUgYml0IG9mIHByb3RlaW4gc3BpbGxhZ2UgaW4gYSBtaWNyb2FsYnVtaW4gdXJpbmUgdGVzdC4gU29tZXRpbWVzIGl0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit \u00b7 r/diabetes_t2"
+    },
+    {
+      "position": 8,
+      "title": "Does Jardiance Lower Blood Sugar? A Complete Guide To Its ...",
+      "link": "https://www.har.com/resources/pano/pannellum.htm?config=/%5C/video.unkk.top/pansugar2/UGcg3oD8dKB",
+      "displayed_link": "https://www.har.com \u00b7 Sep 16, 2026",
+      "thumbnail": "https://serpapi.com/searches/6abc0abb792d6865d8bcd46b/images/QS7LuZib4W4hoB_3zs0nMn-UVHGUdZb3ScVYL8lqFps.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAAAQCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHUHuluGcQ25O4W3mDeVaya3bAbWZD5A6J0o3fzeQIych1DtcvYgUNVf9wtYK4TogVl81gAA_vfs6v7q9WrSrYn91IEbx56N8h__riZZX3HyYg74jIN-h3gFoSj3eiP57TJUg4c2GBP_YlOD8KYg4XucoRzlYn7Ypv08_uiiLadChzfJNnXj-At4Wbg-3mWruBFl_Luh4cHwZXnnGw7E8LJENZxH5FEG4yG5LcybFm0MYCSKVi84NcC7atbklcOO-DIkfdofvC2L9ry6k0Par7kbdJN4ykDi30kR3QVBF_qktIZnTo1p3CY-QnbNqAQ8gNSCwSn-xqTK8CuO_KVG8LTN1ryTbSCHdkr-NcnjIolitL5lqBeQH4HMcspYdJnK2mc_Effad3r8Rkz7vhhqez4LStZ8O_iApzKuSi05-JYvz69u_6MJ2_YKIHKogf__Vy37ifdNuzQHL3JF7iQSdb4bqbtiZ4F62tB4Z3eg3lMYemRu00f606bP8f5i76tWUHDVmGaOMlgfF4koofmFYQnp45dz52L88Wb5P4Nok_7v4P1nQAAAAA.webp",
+      "snippet": "The most frequently reported side effect is an increase in genital yeast infections and urinary tract infections (UTIs). The presence of excess",
+      "duration": "0:11",
+      "about_this_result": {
+        "source": {
+          "description": "The most frequently reported side effect is an increase in genital yeast infections and urinary tract infections (UTIs). The presence of excess",
+          "icon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAAAQCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHUHuluGcQ25O4W3mDeVaya3bAbWZD5A6J0o3fzeQIych1DtcvYgUNVf9wtYK4TogVl81gAA_vfs6v7q9WrSrYn91IEbx56N8h__riZZX3HyYg74jIN-h3gFoSj3eiP57TJUg4c2GBP_YlOD8KYg4XucoRzlYn7Ypv08_uiiLadChzfJNnXj-At4Wbg-3mWruBFl_Luh4cHwZXnnGw7E8LJENZxH5FEG4yG5LcybFm0MYCSKVi84NcC7atbklcOO-DIkfdofvC2L9ry6k0Par7kbdJN4ykDi30kR3QVBF_qktIZnTo1p3CY-QnbNqAQ8gNSCwSn-xqTK8CuO_KVG8LTN1ryTbSCHdkr-NcnjIolitL5lqBeQH4HMcspYdJnK2mc_Effad3r8Rkz7vhhqez4LStZ8O_iApzKuSi05-JYvz69u_6MJ2_YKIHKogf__Vy37ifdNuzQHL3JF7iQSdb4bqbtiZ4F62tB4Z3eg3lMYemRu00f606bP8f5i76tWUHDVmGaOMlgfF4koofmFYQnp45dz52L88Wb5P4Nok_7v4P1nQAAAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZRMFk0MFNhbmdRQnJXOW14RGVKX1pkMTBPNFB5dnpTaVFyZDVub3B6TTllRDdLS0ZseVgtN2NMeHlHOTkya3ZwYm9WaFBCYVBQNTZLMzdCRzV1VW1uWDRKYk4wc2F5dG9tcnQ2a2Rfd3M0QUFfSFlkc0I1T09Ea0ZsRWduSTdhdjg4TmFpZXBBUk9PUU5xR2NZOXFBRWFvQ1JZcC1SZWZwNzBITU03NktIdW1tQ2tTQWFHamM0NFVEUVNBdFVkekd2NVdadnlUVF9jEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZRMFk0MFNhbmdRQnJXOW14RGVKX1pkMTBPNFB5dnpTaVFyZDVub3B6TTllRDdLS0ZseVgtN2NMeHlHOTkya3ZwYm9WaFBCYVBQNTZLMzdCRzV1VW1uWDRKYk4wc2F5dG9tcnQ2a2Rfd3M0QUFfSFlkc0I1T09Ea0ZsRWduSTdhdjg4TmFpZXBBUk9PUU5xR2NZOXFBRWFvQ1JZcC1SZWZwNzBITU03NktIdW1tQ2tTQWFHamM0NFVEUVNBdFVkekd2NVdadnlUVF9jEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvVFsu89VWU_m0SeptEottrGo2-9HsZBgsGg",
+      "source": "HAR.com \u00b7 Health & Wellness Unlocked"
+    },
+    {
+      "position": 9,
+      "title": "Jardiance with an Ostomy - Page 2 - Bladder cancer - Inspire",
+      "link": "https://www.inspire.com/groups/bladder-cancer-advocacy-network/discussion/jardiance-with-an-ostomy/?p=2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFfrtfJzRzlzFMXAuE-EWkKXp2_hH1Ljkbpg6fGSUb7P9a-inQLaBhtbZgzNxJSgroOfEHLxC5qAFJswAoPkdPw-AcI6pf9SzN-Yyfft7MN3HXD5DhVIam6zwkN36OhwUFJLVh3FXgBYNQWMTWQH58GPnL4H0PmWqistQNOODStaArWDwWYtWSoAQABNSw8Z_b71ZrDwCg4xHLrxorhw&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://www.inspire.com \u203a groups \u203a discussion \u203a jardianc...",
+      "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAQBwCdASogACAAPtEutFooIagoGAEAGglsAJ0v1dYDbKc8Vple80leCGX-OZBs70-Yt2IvlaoDBbNv2_uiyVrcQAD-9gXeJUlZDPXoJL60rmkWX6NNN-NAx4_tbFcfh5DP3eiw1ketpiPeZTSVV2hXCpguNKOoPKj8cNvm9vOPuGLjRm8RFWJewEkC_vh6ZLhkXF_wMJHk3WVamxNRSJVQTASOUMS5TGhuOpRbd2Y1jzioGwqD96r2J6rbdn3deZT9liv5Vk8svM6XbJCTnuiMuhhGCBSdZI5o9zVkdtXRJ2isHcxD_sr6EUW0k3VHfIX_PLrWDpW7iJs4vU7GPA_7_zmw6GcM2eWB6pjsaScq9T8pUaFl5_yj5RJTAhGyP7OR84sR6GyVuVbpYjrTOhORdVIocXP8v3TUxP_CGdSHvJvx8tPDLOl1svlHSAAA.webp",
+      "date": "Jan 19, 2024",
+      "snippet": "Drink more water since Jardiance causes increased excretion of sugar in the urine which can result in UTI and/or yeast. 1 Reactions.",
+      "snippet_highlighted_words": [
+        "increased excretion of sugar in the urine"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Drink more water since Jardiance causes increased excretion of sugar in the urine which can result in UTI and/or yeast. 1 Reactions.",
+          "source_info_link": "https://www.inspire.com/groups/bladder-cancer-advocacy-network/discussion/jardiance-with-an-ostomy/?p=2",
+          "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAAAQBwCdASogACAAPtEutFooIagoGAEAGglsAJ0v1dYDbKc8Vple80leCGX-OZBs70-Yt2IvlaoDBbNv2_uiyVrcQAD-9gXeJUlZDPXoJL60rmkWX6NNN-NAx4_tbFcfh5DP3eiw1ketpiPeZTSVV2hXCpguNKOoPKj8cNvm9vOPuGLjRm8RFWJewEkC_vh6ZLhkXF_wMJHk3WVamxNRSJVQTASOUMS5TGhuOpRbd2Y1jzioGwqD96r2J6rbdn3deZT9liv5Vk8svM6XbJCTnuiMuhhGCBSdZI5o9zVkdtXRJ2isHcxD_sr6EUW0k3VHfIX_PLrWDpW7iJs4vU7GPA_7_zmw6GcM2eWB6pjsaScq9T8pUaFl5_yj5RJTAhGyP7OR84sR6GyVuVbpYjrTOhORdVIocXP8v3TUxP_CGdSHvJvx8tPDLOl1svlHSAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZmcnRmSnpSemx6Rk1YQXVFLUVXa0tYcDJfaEgxTGprYnBnNmZHU1ViN1A5YS1pblFMYUJodGJaZ3pOeEpTZ3JvT2ZFSEx4QzVxQUZKc3dBb1BrZFB3LUFjSTZwZjlTek4tWXlmZnQ3TU4zSFhENURoVklhbTZ6d2tOMzZPaHdVRkpMVmgzRlhnQllOUVdNVFdRSDU4R1BuTDRIMFBtV3Fpc3RRTk9PRFN0YUFyV0R3V1l0V1NvQVFBQk5TdzhaX2I3MVpyRHdDZzR4SExyeG9yaHcSBBoCCAAa2wQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtwQIABAAGAAgAComCglqYXJkaWFuY2UVOKFqQBoEYW5jZRoOaXY7cDtqYXJkaWFuY2UqIQoEc2lkZRXBJ4s_GgdhZHZlcnNlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFcEniz8aBmVmZmVjdBoLc2lkZWVmZmVjdHMy6QEvZ290bz91cmw9Q0FFU29nRUI2enN3RmZydGZKelJ6bHpGTVhBdUUtRVdrS1hwMl9oSDFMamticGc2ZkdTVWI3UDlhLWluUUxhQmh0Ylpnek54SlNncm9PZkVITHhDNXFBRkpzd0FvUGtkUHctQWNJNnBmOVN6Ti1ZeWZmdDdNTjNIWEQ1RGhWSWFtNnp3a04zNk9od1VGSkxWaDNGWGdCWU5RV01UV1FINThHUG5MNEgwUG1XcWlzdFFOT09EU3RhQXJXRHdXWXRXU29BUUFCTlN3OFpfYjcxWnJEd0NnNHhITHJ4b3JodzpDPGI-SmFyZGlhbmNlPC9iPiB3aXRoIGFuIE9zdG9teSAtIFBhZ2UgMiAtIEJsYWRkZXIgY2FuY2VyIC0gSW5zcGlyZUKLAURyaW5rIG1vcmUgd2F0ZXIgc2luY2UgSmFyZGlhbmNlIGNhdXNlcyA8Yj5pbmNyZWFzZWQgZXhjcmV0aW9uIG9mIHN1Z2FyIGluIHRoZSB1cmluZTwvYj4gd2hpY2ggY2FuIHJlc3VsdCBpbiBVVEkgYW5kL29yIHllYXN0LiAxIFJlYWN0aW9ucy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZmcnRmSnpSemx6Rk1YQXVFLUVXa0tYcDJfaEgxTGprYnBnNmZHU1ViN1A5YS1pblFMYUJodGJaZ3pOeEpTZ3JvT2ZFSEx4QzVxQUZKc3dBb1BrZFB3LUFjSTZwZjlTek4tWXlmZnQ3TU4zSFhENURoVklhbTZ6d2tOMzZPaHdVRkpMVmgzRlhnQllOUVdNVFdRSDU4R1BuTDRIMFBtV3Fpc3RRTk9PRFN0YUFyV0R3V1l0V1NvQVFBQk5TdzhaX2I3MVpyRHdDZzR4SExyeG9yaHcSBBoCCAAa2wQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtwQIABAAGAAgAComCglqYXJkaWFuY2UVOKFqQBoEYW5jZRoOaXY7cDtqYXJkaWFuY2UqIQoEc2lkZRXBJ4s_GgdhZHZlcnNlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFcEniz8aBmVmZmVjdBoLc2lkZWVmZmVjdHMy6QEvZ290bz91cmw9Q0FFU29nRUI2enN3RmZydGZKelJ6bHpGTVhBdUUtRVdrS1hwMl9oSDFMamticGc2ZkdTVWI3UDlhLWluUUxhQmh0Ylpnek54SlNncm9PZkVITHhDNXFBRkpzd0FvUGtkUHctQWNJNnBmOVN6Ti1ZeWZmdDdNTjNIWEQ1RGhWSWFtNnp3a04zNk9od1VGSkxWaDNGWGdCWU5RV01UV1FINThHUG5MNEgwUG1XcWlzdFFOT09EU3RhQXJXRHdXWXRXU29BUUFCTlN3OFpfYjcxWnJEd0NnNHhITHJ4b3JodzpDPGI-SmFyZGlhbmNlPC9iPiB3aXRoIGFuIE9zdG9teSAtIFBhZ2UgMiAtIEJsYWRkZXIgY2FuY2VyIC0gSW5zcGlyZUKLAURyaW5rIG1vcmUgd2F0ZXIgc2luY2UgSmFyZGlhbmNlIGNhdXNlcyA8Yj5pbmNyZWFzZWQgZXhjcmV0aW9uIG9mIHN1Z2FyIGluIHRoZSB1cmluZTwvYj4gd2hpY2ggY2FuIHJlc3VsdCBpbiBVVEkgYW5kL29yIHllYXN0LiAxIFJlYWN0aW9ucy4iAhABSABYAGgA",
+      "source": "inspire.com",
+      "read_more_link": "https://www.inspire.com/groups/bladder-cancer-advocacy-network/discussion/jardiance-with-an-ostomy/?p=2#:~:text=Drink%20more%20water%20since%20Jardiance,1%20Reactions"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Jardiance medication",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Jardiance+medication&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+medication"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance 25 mg",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Jardiance+25+mg&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+25+mg"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance price",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Jardiance+price&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Jardiance cost without insurance",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Jardiance+cost+without+insurance&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Jardiance+cost+without+insurance"
+    },
+    {
+      "block_position": 1,
+      "query": "Cost of Jardiance",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Cost+of+Jardiance&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Cost+of+Jardiance"
+    },
+    {
+      "block_position": 1,
+      "query": "Metformin 500 mg",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Metformin+500+mg&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Metformin+500+mg"
+    },
+    {
+      "block_position": 1,
+      "query": "Lantus insulin",
+      "link": "https://www.google.com/search?sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&q=Lantus+insulin&sa=X&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Lantus+insulin"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&ei=uwq8aqa3Jvql2roPvtm8oQY&start=10&sa=N&sstk=AS6-VmLnkPVSpXffGsvTyh9DspV2h2co7ktnUDDmB80xiBZ745DtZ1aIQ3T5Jjrt2THsl3ON3frO8LdIrDA095r_I_MiH29rost_MA&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ8NMDegQINxAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=jardiance+side+effects&sca_esv=6787776555f7be71&hl=en&gl=us&sxsrf=APpeQnvbOQ7cZhUX_n0uXUeLGVAyW7uaGA:1790708411636&ei=uwq8aqa3Jvql2roPvtm8oQY&start=10&sa=N&sstk=AS6-VmLnkPVSpXffGsvTyh9DspV2h2co7ktnUDDmB80xiBZ745DtZ1aIQ3T5Jjrt2THsl3ON3frO8LdIrDA095r_I_MiH29rost_MA&ved=2ahUKEwjmgJbWvJSXAxX6klYBHb4sL2QQ8tMDegQINxAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=jardiance+side+effects&start=10"
+    }
+  }
+}
