@@ -1,0 +1,578 @@
+{
+  "search_metadata": {
+    "id": "6abeb027e6590e3018f00d6a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_dgIUJEm7Y0Lu1zNAgoVkyZDuXHEpAR0xAaC0d6xImc/6abeb027e6590e3018f00d6a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_dgIUJEm7Y0Lu1zNAgoVkyZDuXHEpAR0xAaC0d6xImc/6abeb027e6590e3018f00d6a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_dgIUJEm7Y0Lu1zNAgoVkyZDuXHEpAR0xAaC0d6xImc/6abeb027e6590e3018f00d6a.json_with_pixel_position",
+    "created_at": "2026-10-01 19:10:31 UTC",
+    "processed_at": "2026-10-01 19:10:31 UTC",
+    "google_url": "https://www.google.com/search?q=signs+of+high+blood+pressure&oq=signs+of+high+blood+pressure&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_dgIUJEm7Y0Lu1zNAgoVkyZDuXHEpAR0xAaC0d6xImc/6abeb027e6590e3018f00d6a.html",
+    "total_time_taken": 0.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "signs of high blood pressure",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "signs of high blood pressure",
+    "total_results": 14720000000,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the 10 causes of high blood pressure?",
+      "type": "ai_overview",
+      "page_token": "jL0mD3icHdBRbpswAIBh7TJ9bLCdpl2kaJILTkQaU2xsAi8V2CEktgtKUFx46xV2hp2qp-m2E_z6_s8_9vRuvn78boehvy5nM-_9_bHrjvZwrzo3q67ju5qpytq6Uma5eFyAX41aRTeFny8Kp6LvZcgC7nRSo3he5OSZkfajcH2iN_ELgzsgYJxlhF0qcR0ryBYHq_0elR8MPvnS6r2MCC7ycpGbmHBCbyzwg7BllKE2TMgTOJzZaR8Ek4Dpg8jBlmYU84lc9RRTDhlJ8vRfFzNJEQtaU4V6TTloFAevGSrT6kzGSvZEGDlyWTK5wa912LbUKCSJ7jWIJ7ou4F_LupyoKJHd7oKhkdImFFqhQzyXa92yDdkmG3aLWr2lwW4o9jLjxnqJIpC5n2ntZCgQxYJ1p1SwSZ2tE4buChDBhGCeBiSUMPK1M_NKapeFYuRmEKW_a9Rthe7-v169NW5Y9pfu-A0-AYpO",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jL0mD3icHdBRbpswAIBh7TJ9bLCdpl2kaJILTkQaU2xsAi8V2CEktgtKUFx46xV2hp2qp-m2E_z6_s8_9vRuvn78boehvy5nM-_9_bHrjvZwrzo3q67ju5qpytq6Uma5eFyAX41aRTeFny8Kp6LvZcgC7nRSo3he5OSZkfajcH2iN_ELgzsgYJxlhF0qcR0ryBYHq_0elR8MPvnS6r2MCC7ycpGbmHBCbyzwg7BllKE2TMgTOJzZaR8Ek4Dpg8jBlmYU84lc9RRTDhlJ8vRfFzNJEQtaU4V6TTloFAevGSrT6kzGSvZEGDlyWTK5wa912LbUKCSJ7jWIJ7ou4F_LupyoKJHd7oKhkdImFFqhQzyXa92yDdkmG3aLWr2lwW4o9jLjxnqJIpC5n2ntZCgQxYJ1p1SwSZ2tE4buChDBhGCeBiSUMPK1M_NKapeFYuRmEKW_a9Rthe7-v169NW5Y9pfu-A0-AYpO",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAxMCBjYXVzZXMgb2YgaGlnaCBibG9vZCBwcmVzc3VyZT8iLCJsayI6IkdpMTNhR0YwSUdGeVpTQjBhR1VnTVRBZ1kyRjFjMlZ6SUc5bUlHaHBaMmdnWW14dmIyUWdjSEpsYzNOMWNtVSIsImJzIjoiYzVXUXV3ckNRQkJGc1ozS09xQk9xLUlyWUwzNEZXcTVKck1QU0diRHpvYkZ2emNnQk5JRTdjLTVGdzVvT042ZFRxZ2pZWEtFbHpOV3VoY1NEQWFkdHc1ZlRRZzFkcEZFLWtpcVBCV0hfSThCVDlpTkZ3T2NkV1RQRnNWYl9qcnZqbUlpRmg5WWxmdGltMy1sNFFicmNib0tiUnQ0S3FoeVU2enlIQUVQdUU0QzFONFlpc1FKSldrNzAyRlluaVdXaXc4IiwiaWQiOiJmY19KN0MtYXVTSklwV3E1Tm9QbmVDU3NBUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSAxMCBjYXVzZXMgb2YgaGlnaCBibG9vZCBwcmVzc3VyZT8iLCJsayI6IkdpMTNhR0YwSUdGeVpTQjBhR1VnTVRBZ1kyRjFjMlZ6SUc5bUlHaHBaMmdnWW14dmIyUWdjSEpsYzNOMWNtVSIsImJzIjoiYzVXUXV3ckNRQkJGc1ozS09xQk9xLUlyWUwzNEZXcTVKck1QU0diRHpvYkZ2emNnQk5JRTdjLTVGdzVvT042ZFRxZ2pZWEtFbHpOV3VoY1NEQWFkdHc1ZlRRZzFkcEZFLWtpcVBCV0hfSThCVDlpTkZ3T2NkV1RQRnNWYl9qcnZqbUlpRmg5WWxmdGltMy1sNFFicmNib0tiUnQ0S3FoeVU2enlIQUVQdUU0QzFONFlpc1FKSldrNzAyRlluaVdXaXc4IiwiaWQiOiJmY19KN0MtYXVTSklwV3E1Tm9QbmVDU3NBUV80In0%3D"
+    },
+    {
+      "question": "What are 10 warning signs of hypertension?",
+      "type": "ai_overview",
+      "page_token": "UXc1i3icHdBLcoIwGADg6WVcVjTVVmecziBEfBAlkD-aTQeCGiE8WqlBdr1LT9XTtNP1t_u-vvWlzH8ebqpp6uu03zfGPJ6r6qyPj7Iq-vH1Xsq-jLVOYplPx8_jwetJztzPpT1_X9oBq2twqBUOR-PQVYZwodiQXGQXmChvdnE-uouiXcshbEIvjSRvl4nb2j6ijDtwpRYIjmFFYOX6nSh9hFvJSLtH2pLsxQozQY4e7GJ8aAT68w6bqIDrdtEq6tlqs4eb3wVDAmlHgSEf6RXFlCeOsDlUgwjwnPAVCazJINwD4Z4KSJ5iWupDmKt5ErEu0Xi5XeDymAnDMt0eCmW7Kl0Ty28Oe4jCXBtA7iAqJkFSgMMQsRmtLgGjncx0wTrlcUgb4Y6eoARbZFgdo9QIXTuxnnCK8IUFvZO8zVDv_3P2diqaaf1RnX8BYE6D3w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UXc1i3icHdBLcoIwGADg6WVcVjTVVmecziBEfBAlkD-aTQeCGiE8WqlBdr1LT9XTtNP1t_u-vvWlzH8ebqpp6uu03zfGPJ6r6qyPj7Iq-vH1Xsq-jLVOYplPx8_jwetJztzPpT1_X9oBq2twqBUOR-PQVYZwodiQXGQXmChvdnE-uouiXcshbEIvjSRvl4nb2j6ijDtwpRYIjmFFYOX6nSh9hFvJSLtH2pLsxQozQY4e7GJ8aAT68w6bqIDrdtEq6tlqs4eb3wVDAmlHgSEf6RXFlCeOsDlUgwjwnPAVCazJINwD4Z4KSJ5iWupDmKt5ErEu0Xi5XeDymAnDMt0eCmW7Kl0Ty28Oe4jCXBtA7iAqJkFSgMMQsRmtLgGjncx0wTrlcUgb4Y6eoARbZFgdo9QIXTuxnnCK8IUFvZO8zVDv_3P2diqaaf1RnX8BYE6D3w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIDEwIHdhcm5pbmcgc2lnbnMgb2YgaHlwZXJ0ZW5zaW9uPyIsImxrIjoiR2lsM2FHRjBJR0Z5WlNBeE1DQjNZWEp1YVc1bklITnBaMjV6SUc5bUlHaDVjR1Z5ZEdWdWMybHZiZyIsImJzIjoiYzVXUXV3ckNRQkJGc1ozS09xQk9xLUlyWUwzNEZXcTVKck1QU0diRHpvYkZ2emNnQk5JRTdjLTVGdzVvT042ZFRxZ2pZWEtFbHpOV3VoY1NEQWFkdHc1ZlRRZzFkcEZFLWtpcVBCV0hfSThCVDlpTkZ3T2NkV1RQRnNWYl9qcnZqbUlpRmg5WWxmdGltMy1sNFFicmNib0tiUnQ0S3FoeVU2enlIQUVQdUU0QzFONFlpc1FKSldrNzAyRlluaVdXaXc4IiwiaWQiOiJmY19KN0MtYXVTSklwV3E1Tm9QbmVDU3NBUV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIDEwIHdhcm5pbmcgc2lnbnMgb2YgaHlwZXJ0ZW5zaW9uPyIsImxrIjoiR2lsM2FHRjBJR0Z5WlNBeE1DQjNZWEp1YVc1bklITnBaMjV6SUc5bUlHaDVjR1Z5ZEdWdWMybHZiZyIsImJzIjoiYzVXUXV3ckNRQkJGc1ozS09xQk9xLUlyWUwzNEZXcTVKck1QU0diRHpvYkZ2emNnQk5JRTdjLTVGdzVvT042ZFRxZ2pZWEtFbHpOV3VoY1NEQWFkdHc1ZlRRZzFkcEZFLWtpcVBCV0hfSThCVDlpTkZ3T2NkV1RQRnNWYl9qcnZqbUlpRmg5WWxmdGltMy1sNFFicmNib0tiUnQ0S3FoeVU2enlIQUVQdUU0QzFONFlpc1FKSldrNzAyRlluaVdXaXc4IiwiaWQiOiJmY19KN0MtYXVTSklwV3E1Tm9QbmVDU3NBUV80In0%3D"
+    },
+    {
+      "question": "What are common warning signs?",
+      "type": "ai_overview",
+      "page_token": "fKR1SHicHZDbToMwAEDjz_i4tcOhLllMkDJWsaZXKi9mtu4CBYpjY-7Nf_Gr_BoXX8_LOTnfP27XVL9Xx23f-_1sPB6GYbRp2437GJm2Hq_2X40Zm5Vz7ytTzcLbED6szRwdltFjt4yo9F7FDPCcOKLVUlT4yFJ__ChdapuEajAN89ROpcM1SbAwiHQC-bMMyJSXltoaZlxt-yL3QR6riUhwnWnbcUmBdSh4dZgz5DsbRH2W90Qg2OTy7sxgVDKd7EVclHLiby5-JAU-FPXyxBewE2mkuSDaTLaFlFgoecJF4LUFp6mYwI5qF3CHw2dto5dYgTzHjwTAjFbtTaYjhrb2iYDn_lUrwSs3qABBUd_T91rFl_ZIsnZHJTub0l1I0hYCS7tIOAUnUCT3C1o5JhJWKmV3skFQ0uu1Oc6D6_-f87d13c_8Z7v5A_4sgMU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fKR1SHicHZDbToMwAEDjz_i4tcOhLllMkDJWsaZXKi9mtu4CBYpjY-7Nf_Gr_BoXX8_LOTnfP27XVL9Xx23f-_1sPB6GYbRp2437GJm2Hq_2X40Zm5Vz7ytTzcLbED6szRwdltFjt4yo9F7FDPCcOKLVUlT4yFJ__ChdapuEajAN89ROpcM1SbAwiHQC-bMMyJSXltoaZlxt-yL3QR6riUhwnWnbcUmBdSh4dZgz5DsbRH2W90Qg2OTy7sxgVDKd7EVclHLiby5-JAU-FPXyxBewE2mkuSDaTLaFlFgoecJF4LUFp6mYwI5qF3CHw2dto5dYgTzHjwTAjFbtTaYjhrb2iYDn_lUrwSs3qABBUd_T91rFl_ZIsnZHJTub0l1I0hYCS7tIOAUnUCT3C1o5JhJWKmV3skFQ0uu1Oc6D6_-f87d13c_8Z7v5A_4sgMU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIGNvbW1vbiB3YXJuaW5nIHNpZ25zPyIsImxrIjoiR2gxM2FHRjBJR0Z5WlNCamIyMXRiMjRnZDJGeWJtbHVaeUJ6YVdkdWN3IiwiYnMiOiJjNVdRdXdyQ1FCQkZzWjNLT3FCT3EtSXJZTDM0RldxNUpyTVBTR2JEem9iRnZ6Y2dCTklFN2MtNUZ3NW9PTjZkVHFnallYS0Vsek5XdWhjU0RBYWR0dzVmVFFnMWRwRkUta2lxUEJXSF9JOEJUOWlORndPY2RXVFBGc1ZiX2pydmptSWlGaDlZbGZ0aW0zLWw0UWJyY2JvS2JSdDRLcWh5VTZ6eUhBRVB1RTRDMU40WWlzUUpKV2s3MDJGWW5pV1dpdzgiLCJpZCI6ImZjX0o3Qy1hdVNKSXBXcTVOb1BuZUNTc0FRXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIGNvbW1vbiB3YXJuaW5nIHNpZ25zPyIsImxrIjoiR2gxM2FHRjBJR0Z5WlNCamIyMXRiMjRnZDJGeWJtbHVaeUJ6YVdkdWN3IiwiYnMiOiJjNVdRdXdyQ1FCQkZzWjNLT3FCT3EtSXJZTDM0RldxNUpyTVBTR2JEem9iRnZ6Y2dCTklFN2MtNUZ3NW9PTjZkVHFnallYS0Vsek5XdWhjU0RBYWR0dzVmVFFnMWRwRkUta2lxUEJXSF9JOEJUOWlORndPY2RXVFBGc1ZiX2pydmptSWlGaDlZbGZ0aW0zLWw0UWJyY2JvS2JSdDRLcWh5VTZ6eUhBRVB1RTRDMU40WWlzUUpKV2s3MDJGWW5pV1dpdzgiLCJpZCI6ImZjX0o3Qy1hdVNKSXBXcTVOb1BuZUNTc0FRXzQifQ%3D%3D"
+    },
+    {
+      "question": "What are the different stages of high blood pressure?",
+      "type": "ai_overview",
+      "page_token": "vZdw2HicHdDBbtowHIBx9WV6LE5grEVC0zKchJQYxfnbIb5MwS6Y2U4sSEnJra-wZ9hT7WmGdvxuP32ff-ypNX8ffuu-95fFZDIMw9Ox64727Ul2btJcbq2cyMbafSPNYv51Hnw7yCW-yujHWUYF856vKCrtugdMsEqzKK-6sKj0yEKuwegzGUlEA27erM0kyt63FYXSibgJPOQ4m6k0SthOIpEEG1KZkDBBKYtD6mLMsZjLU3CFUXPW-roybCRxPm5Apfu0uG13HEnk14TzM0_Uh3Jf1sQ89zTUtxp5nBtviMlcBRgBqKIO9KbkumchbaT1rTBoRlKSAMYzEQtGVnqXt-JSVC8FSXiSO3GToGqwypYjv0BqY6zVK0F5X-84lMYOfIoDcC_F3vEVm5KI0e5UMDrKX9bdtQdgWUK4Arj3NvUUxoyWTJHaxunefg_E8HiQ1-X08f_r5c-D6xf-3B3_AS6ojUM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=vZdw2HicHdDBbtowHIBx9WV6LE5grEVC0zKchJQYxfnbIb5MwS6Y2U4sSEnJra-wZ9hT7WmGdvxuP32ff-ypNX8ffuu-95fFZDIMw9Ox64727Ul2btJcbq2cyMbafSPNYv51Hnw7yCW-yujHWUYF856vKCrtugdMsEqzKK-6sKj0yEKuwegzGUlEA27erM0kyt63FYXSibgJPOQ4m6k0SthOIpEEG1KZkDBBKYtD6mLMsZjLU3CFUXPW-roybCRxPm5Apfu0uG13HEnk14TzM0_Uh3Jf1sQ89zTUtxp5nBtviMlcBRgBqKIO9KbkumchbaT1rTBoRlKSAMYzEQtGVnqXt-JSVC8FSXiSO3GToGqwypYjv0BqY6zVK0F5X-84lMYOfIoDcC_F3vEVm5KI0e5UMDrKX9bdtQdgWUK4Arj3NvUUxoyWTJHaxunefg_E8HiQ1-X08f_r5c-D6xf-3B3_AS6ojUM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBkaWZmZXJlbnQgc3RhZ2VzIG9mIGhpZ2ggYmxvb2QgcHJlc3N1cmU/IiwibGsiOiJHaDF6ZEdGblpYTWdiMllnYUdsbmFDQmliRzl2WkNCd2NtVnpjM1Z5WlEiLCJicyI6ImM1V1F1d3JDUUJCRnNaM0tPcUJPcS1JcllMMzRGV3E1SnJNUFNHYkR6b2JGdnpjZ0JOSUU3Yy01Rnc1b09ONmRUcWdqWVhLRWx6Tld1aGNTREFhZHR3NWZUUWcxZHBGRS1raXFQQldIX0k4QlQ5aU5Gd09jZFdUUEZzVmJfanJ2am1JaUZoOVlsZnRpbTMtbDRRYnJjYm9LYlJ0NEtxaHlVNnp5SEFFUHVFNEMxTjRZaXNRSkpXazcwMkZZbmlXV2l3OCIsImlkIjoiZmNfSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2QxVm1iMlkyZFcxMlJEZGxhRWhWUlRSYVUzTXhkV0l6Wm5WelZuZDFSVXRsWDFGQ00zZENaWFUzT1ZSa1VWUTRRMU5xVW5KdFlsSnNUV0paVUVOb2VYQlRTbVZrVDJkVFQydHNVWFpwVGxoelNUQmFkV296UW1OaFFSSVhTamRETFdGMVUwcEpjRmR4TlU1dlVHNWxRMU56UVZFYUlrRkVjM0k1WmxKYWJIRlJTMVZ0WWxJM1FtcGhRek5XVDJaUlpIbGxRek4wUjFFIiwiZmN2IjoiMyIsImVpIjoiSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVEiLCJxYyI6IkNoeHphV2R1Y3lCdlppQm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxFQUFZQVgzQkJUSV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBkaWZmZXJlbnQgc3RhZ2VzIG9mIGhpZ2ggYmxvb2QgcHJlc3N1cmU%2FIiwibGsiOiJHaDF6ZEdGblpYTWdiMllnYUdsbmFDQmliRzl2WkNCd2NtVnpjM1Z5WlEiLCJicyI6ImM1V1F1d3JDUUJCRnNaM0tPcUJPcS1JcllMMzRGV3E1SnJNUFNHYkR6b2JGdnpjZ0JOSUU3Yy01Rnc1b09ONmRUcWdqWVhLRWx6Tld1aGNTREFhZHR3NWZUUWcxZHBGRS1raXFQQldIX0k4QlQ5aU5Gd09jZFdUUEZzVmJfanJ2am1JaUZoOVlsZnRpbTMtbDRRYnJjYm9LYlJ0NEtxaHlVNnp5SEFFUHVFNEMxTjRZaXNRSkpXazcwMkZZbmlXV2l3OCIsImlkIjoiZmNfSjdDLWF1U0pJcFdxNU5vUG5lQ1NzQVFfNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "High blood pressure (hypertension) usually has no symptoms at all, which is why doctors call it the \"silent killer\".",
+        "snippet_highlighted_words": [
+          "no symptoms at all"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "The Reality of Symptoms"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "No warning signs: Most people with high blood pressure feel completely fine."
+          },
+          {
+            "snippet": "Silent progression: You can have high blood pressure for years without knowing it."
+          },
+          {
+            "snippet": "Regular checks: The only way to know your numbers is to measure your blood pressure with a cuff."
+          }
+        ],
+        "reference_indexes": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Signs of Dangerous Spikes (Hypertensive Crisis)"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "When blood pressure rises to dangerously high levels (above 180/120 mm Hg), it can cause a medical emergency. Seek immediate care if high readings happen with these symptoms:",
+        "reference_indexes": [
+          0,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Severe headache: A sudden, very painful head throbbing."
+          },
+          {
+            "snippet": "Chest pain: Tightness or squeezing in the chest area."
+          },
+          {
+            "snippet": "Shortness of breath: Trouble catching your breath while resting or moving."
+          },
+          {
+            "snippet": "Vision changes: Blurry vision, double vision, or sudden vision loss."
+          },
+          {
+            "snippet": "Neurological signs: Sudden weakness, numbness, confusion, or trouble speaking."
+          }
+        ],
+        "reference_indexes": [
+          0,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can learn more about risk factors on the American Heart Association or check the detailed overview from the Cleveland Clinic.",
+        "snippet_links": [
+          {
+            "text": "American Heart Association",
+            "link": "https://www.heart.org/en/health-topics/high-blood-pressure/know-your-risk-factors-for-high-blood-pressure/what-are-the-symptoms-of-high-blood-pressure"
+          },
+          {
+            "text": "Cleveland Clinic",
+            "link": "https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure"
+          }
+        ],
+        "reference_indexes": [
+          4,
+          6
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What was your last blood pressure reading?"
+          },
+          {
+            "snippet": "Are you feeling any specific symptoms right now?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you figure out if you need medical care."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "9 Surprisingly Subtle Symptoms of High Blood Pressure",
+        "link": "https://www.ncoa.org/article/9-surprisingly-subtle-symptoms-of-high-blood-pressure/",
+        "snippet": "High blood pressure rarely produces symptoms\u2014more than 40% of adults with hypertension don't even know they have it. Very elevated blood pressure readings may caus...",
+        "source": "The National Council on Aging (NCOA)",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ncoa.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTeAfA3zr_M4K4RigsCk0LtVwCOUmLky79pOatKohrr3NnLzA6osFEXPIWs_xJbj9HGrOJd8rvjSp9bC_l0mbP3SP7BMIxt1zHyTmv_"
+      },
+      {
+        "index": 1,
+        "title": "Symptoms of High Blood Pressure | Norton Healthcare Medical Minute",
+        "link": "https://www.youtube.com/watch?v=W-YApBzbhXg",
+        "snippet": "Symptoms of High Blood Pressure | Norton Healthcare Medical Minute hi I'm Jessica and welcome to Medical Minute with Norton. Healthcare. if you're wondering what s",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnZ2oWOxhfAMfohJd46S3ex2vo67H8riGi8-eS1HIGLYnYgCV7LB9ImE4g_RWLW3eNPXQOfyNtUXLMoO5ZETeGRbaDCYC-bw28ysm9Vg"
+      },
+      {
+        "index": 2,
+        "title": "About High Blood Pressure | High Blood Pressure | CDC",
+        "link": "https://www.cdc.gov/high-blood-pressure/about/index.html",
+        "snippet": "Definition: Hypertension is blood pressure consistently at or above 130/80 mm Hg; normal is below 120/80 mm Hg. Symptoms: Usually none; measuring is required to kn...",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cdc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFBc-GmjTiTzdtgTDX9bVyJ5zpR-Cxd7640m73GUmbRrMfDVnUIQRL5682aXCqykGHPbktKwYm9J-5SHr9cX0dQ6lY38it4CV-w36H"
+      },
+      {
+        "index": 3,
+        "title": "High Blood Pressure Symptoms: What Does Hypertension Feel Like?",
+        "link": "https://www.goodrx.com/conditions/hypertension/can-you-feel-high-blood-pressure-symptoms",
+        "snippet": "What are the symptoms of high blood pressure? Most people with high blood pressure don't have any warning signs or symptoms. \u00b7 When high blood pressure does cause ...",
+        "source": "GoodRx",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.goodrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkGUB8-ISHNr-msIUUiYH1WaoO-LuL6wfM1nbXwWeq_CKd56tgrbI65-6MHsDtwlduWCDDK39qfOl6n7yeVQoprPK9go6MRIjRjr8b"
+      },
+      {
+        "index": 4,
+        "title": "High Blood Pressure (Hypertension): Symptoms & Causes",
+        "link": "https://my.clevelandclinic.org/health/diseases/4314-hypertension-high-blood-pressure",
+        "snippet": "High Blood Pressure (Hypertension) Medically Reviewed.Last updated on 06/23/2026. High blood pressure (hypertension) means your blood is pushing too forcefully aga...",
+        "source": "Cleveland Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://my.clevelandclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRL03e4BH1wfrUO4y3beGWHyVIduVkNwmzLzMG4rL9ay8RY2PKDW-QeVb8d_gHBVtVwA76Nymq2IN4ZzCz_v454bII"
+      },
+      {
+        "index": 5,
+        "title": "10 High Blood Pressure Symptoms You Shouldn\u2019t Ignore",
+        "link": "https://www.magrabihealth.com/blog/high-blood-pressure-symptoms",
+        "snippet": "10 High Blood Pressure Symptoms You Shouldn't Ignore. ... Most people do not experience obvious high blood pressure symptoms, even when their readings have remaine...",
+        "source": "Magrabi Health",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.magrabihealth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTuZVoplw6DVFAzvyvrS7KIndH9eEaNxrjHzcUQp81oHoXmjMHhombzpFM4QqpNrsg2FriU28uf2WUhWFenTBLZIdI"
+      },
+      {
+        "index": 6,
+        "title": "What are the Signs and Symptoms of High Blood Pressure?",
+        "link": "https://www.heart.org/en/health-topics/high-blood-pressure/know-your-risk-factors-for-high-blood-pressure/what-are-the-symptoms-of-high-blood-pressure",
+        "snippet": "Hypertensive emergency. In severe hypertension, if your blood pressure is higher than 180/120 \u00b7 mm Hg and you are experiencing symptoms that may include: Chest pai...",
+        "source": "www.heart.org",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.heart.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvhzL01AJZRMDs9fjACSfRXvNti9t5zhBBQjIDE7j48yUavPJ35puonkdz_zwiBrIhGYiKAYGm0TMJuadHaZnCmG73-Oef78iQ8JsU"
+      },
+      {
+        "index": 7,
+        "title": "7 Signs of High Blood Pressure | Prime Healthcare CT",
+        "link": "https://www.primehc.com/blog/7-signs-you-may-have-hypertension-a-guide-from-prime-healthcare-in-hartford-ct",
+        "snippet": "If your blood pressure spikes dangerously high, you might experience the following seven signs. * 1. Severe Headaches. A sudden, intense headache that feels differ...",
+        "source": "Prime HealthCare, PC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.primehc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnoJN_xtNf2mLxXJptzA5onSSuLAWl-nPzfrgPgxHoyOc2Q0LdDNFuuswTN7p2saZ21HZ3AXUPLycrJv1nuAdKRCtCeV359KEWHpmw"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Signs (film)",
+      "link": "https://en.wikipedia.org/wiki/Signs_(film)",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV9DonqruXXwHBo1dCC7TKyvJdf_4Vo0ppahe9TmOvuLnICMgdJ1osZlEk0Fzhg6jfHeIjFCM__oXCJw9U3x-gAp0_YbQRCQjy1YCwBvJwt_GGDIk4NQBKRmhD6XTVjiZU&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Signs_(film)",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+      "snippet": "Signs is a 2002 American science fiction horror thriller film. Signs explores the themes of faith, kinship, and extraterrestrials.",
+      "snippet_highlighted_words": [
+        "Signs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Signs is a 2002 American science fiction horror thriller film. Signs explores the themes of faith, kinship, and extraterrestrials.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Signs_(film)",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjlEb25xcnVYWHdIQm8xZENDN1RLeXZKZGZfNFZvMHBwYWhlOVRtT3Z1TG5JQ01nZEoxb3NabEVrMEZ6aGc2amZIZUlqRkNNX19vWENKdzlVM3gtZ0FwMF9ZYlFSQ1FqeTFZQ3dCdkp3dF9HR0RJazROUUJLUm1oRDZYVFZqaVpVEgQaAggAGtIDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArAMIABAAGAAgACpYCgVzaWducxWGeX9AGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKWAS9nb3RvP3VybD1DQUVTWlFIck96QVY5RG9ucXJ1WFh3SEJvMWRDQzdUS3l2SmRmXzRWbzBwcGFoZTlUbU92dUxuSUNNZ2RKMW9zWmxFazBGemhnNmpmSGVJakZDTV9fb1hDSnc5VTN4LWdBcDBfWWJRUkNRankxWUN3QnZKd3RfR0dESWs0TlFCS1JtaEQ2WFRWamlaVTofPGI-U2lnbnM8L2I-IChmaWxtKSAtIFdpa2lwZWRpYUKJATxiPlNpZ25zPC9iPiBpcyBhIDIwMDIgQW1lcmljYW4gc2NpZW5jZSBmaWN0aW9uIGhvcnJvciB0aHJpbGxlciBmaWxtLiBTaWducyBleHBsb3JlcyB0aGUgdGhlbWVzIG9mIGZhaXRoLCBraW5zaGlwLCBhbmQgZXh0cmF0ZXJyZXN0cmlhbHMuSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjlEb25xcnVYWHdIQm8xZENDN1RLeXZKZGZfNFZvMHBwYWhlOVRtT3Z1TG5JQ01nZEoxb3NabEVrMEZ6aGc2amZIZUlqRkNNX19vWENKdzlVM3gtZ0FwMF9ZYlFSQ1FqeTFZQ3dCdkp3dF9HR0RJazROUUJLUm1oRDZYVFZqaVpVEgQaAggAGtIDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArAMIABAAGAAgACpYCgVzaWducxWGeX9AGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKWAS9nb3RvP3VybD1DQUVTWlFIck96QVY5RG9ucXJ1WFh3SEJvMWRDQzdUS3l2SmRmXzRWbzBwcGFoZTlUbU92dUxuSUNNZ2RKMW9zWmxFazBGemhnNmpmSGVJakZDTV9fb1hDSnc5VTN4LWdBcDBfWWJRUkNRankxWUN3QnZKd3RfR0dESWs0TlFCS1JtaEQ2WFRWamlaVTofPGI-U2lnbnM8L2I-IChmaWxtKSAtIFdpa2lwZWRpYUKJATxiPlNpZ25zPC9iPiBpcyBhIDIwMDIgQW1lcmljYW4gc2NpZW5jZSBmaWN0aW9uIGhvcnJvciB0aHJpbGxlciBmaWxtLiBTaWducyBleHBsb3JlcyB0aGUgdGhlbWVzIG9mIGZhaXRoLCBraW5zaGlwLCBhbmQgZXh0cmF0ZXJyZXN0cmlhbHMuSgJvZiICEAFIAFgAaAA",
+      "source": "Wikipedia"
+    },
+    {
+      "position": 2,
+      "title": "Custom Signs, Banners, Decals, and Signages - Free Design ...",
+      "link": "https://www.signs.com/?srsltid=AU7gw4XoL4rHv6JocbXZ70FNrP2fyrwC_hcS2rIBhlnpquQ8AQjp_SHW",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFWdIIw8kVurG_28G6UbQ-3lAqfdRmqpUZ5afTh5UIS1ywJyvj627lpHOkk169iyuk3rmNEpsYmilgqiPxg6qLfUdwPIbWr3BenWN25ZGuIz8uryuc_Yox6AtMDY1YcK2SGjU1T31oJrGGqLu_X9dBGNp7w4sXQzSclb0iMUSwS5QkRO7l0uOWnzG8Jauew&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://www.signs.com",
+      "favicon": "https://serpapi.com/images/i/UklGRr4AAABXRUJQVlA4ILIAAABwAwCdASoQABAAAsBMJbACdLoAyv-yACVEeKZ6abiq7wU4BmAA_vhAXYce3gE9km7cr3_mjhyvmr8PkYxltTJQJ_8oeQTcl2G5ZX_ATe5K_pnZXl1ntuNBdq024nUAqpbI41p8JvggXJwY6JplGyfz4agyWzzVrPZgs4GByyT6dZkA4DNaHNNP5eWIvoVTTCGqNaF95OeZBS2t01n8H9o79So6YhFNen3__hncjUSYixgA.webp",
+      "snippet": "Signs.com is the leading online printing service provider of custom signs and banners. Create your vinyl banners, yard signs, metal signs, and more.",
+      "snippet_highlighted_words": [
+        "Signs.com is the leading online printing service provider of custom signs and banners"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "day_delivery": "4\u201310",
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.7",
+            "store rating (9.4K)",
+            "4\u201310 day delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Signs.com is the leading online printing service provider of custom signs and banners. Create your vinyl banners, yard signs, metal signs, and more.",
+          "source_info_link": "https://www.signs.com/?srsltid=AU7gw4XoL4rHv6JocbXZ70FNrP2fyrwC_hcS2rIBhlnpquQ8AQjp_SHW",
+          "icon": "https://serpapi.com/images/i/UklGRr4AAABXRUJQVlA4ILIAAABwAwCdASoQABAAAsBMJbACdLoAyv-yACVEeKZ6abiq7wU4BmAA_vhAXYce3gE9km7cr3_mjhyvmr8PkYxltTJQJ_8oeQTcl2G5ZX_ATe5K_pnZXl1ntuNBdq024nUAqpbI41p8JvggXJwY6JplGyfz4agyWzzVrPZgs4GByyT6dZkA4DNaHNNP5eWIvoVTTCGqNaF95OeZBS2t01n8H9o79So6YhFNen3__hncjUSYixgA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZXZElJdzhrVnVyR18yOEc2VWJRLTNsQXFmZFJtcXBVWjVhZlRoNVVJUzF5d0p5dmo2MjdscEhPa2sxNjlpeXVrM3JtTkVwc1ltaWxncWlQeGc2cUxmVWR3UEliV3IzQmVuV04yNVpHdUl6OHVyeXVjX1lveDZBdE1EWTFZY0syU0dqVTFUMzFvSnJHR3FMdV9YOWRCR05wN3c0c1hRelNjbGIwaU1VU3dTNVFrUk83bDB1T1duekc4SmF1ZXcSBBoCCAAa7gMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDIAwgAEAAYACAAKlgKBXNpZ25zFR65p0AaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zMnwvZ290bz91cmw9Q0FFU1VRSHJPekFWVURCVi1kU2MxRFhKNk1pMlZFb0l4RG5OTzJ6YndUcl92NUpGZU9jN2tGRC1KY0hsTTRRczRjZERKMzNCcXZwZHlCakxIUXc4cDUydlVDTEd6UERTX1JjbTF1RjAtQ2h5UlBkYURROkRDdXN0b20gPGI-U2lnbnM8L2I-LCBCYW5uZXJzLCBEZWNhbHMsIGFuZCBTaWduYWdlcyAtIEZyZWUgRGVzaWduIC4uLkKbATxiPlNpZ25zLmNvbSBpcyB0aGUgbGVhZGluZyBvbmxpbmUgcHJpbnRpbmcgc2VydmljZSBwcm92aWRlciBvZiBjdXN0b20gc2lnbnMgYW5kIGJhbm5lcnM8L2I-LiBDcmVhdGUgeW91ciB2aW55bCBiYW5uZXJzLCB5YXJkIHNpZ25zLCBtZXRhbCBzaWducywgYW5kIG1vcmUuSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZXZElJdzhrVnVyR18yOEc2VWJRLTNsQXFmZFJtcXBVWjVhZlRoNVVJUzF5d0p5dmo2MjdscEhPa2sxNjlpeXVrM3JtTkVwc1ltaWxncWlQeGc2cUxmVWR3UEliV3IzQmVuV04yNVpHdUl6OHVyeXVjX1lveDZBdE1EWTFZY0syU0dqVTFUMzFvSnJHR3FMdV9YOWRCR05wN3c0c1hRelNjbGIwaU1VU3dTNVFrUk83bDB1T1duekc4SmF1ZXcSBBoCCAAa7gMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDIAwgAEAAYACAAKlgKBXNpZ25zFR65p0AaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zMnwvZ290bz91cmw9Q0FFU1VRSHJPekFWVURCVi1kU2MxRFhKNk1pMlZFb0l4RG5OTzJ6YndUcl92NUpGZU9jN2tGRC1KY0hsTTRRczRjZERKMzNCcXZwZHlCakxIUXc4cDUydlVDTEd6UERTX1JjbTF1RjAtQ2h5UlBkYURROkRDdXN0b20gPGI-U2lnbnM8L2I-LCBCYW5uZXJzLCBEZWNhbHMsIGFuZCBTaWduYWdlcyAtIEZyZWUgRGVzaWduIC4uLkKbATxiPlNpZ25zLmNvbSBpcyB0aGUgbGVhZGluZyBvbmxpbmUgcHJpbnRpbmcgc2VydmljZSBwcm92aWRlciBvZiBjdXN0b20gc2lnbnMgYW5kIGJhbm5lcnM8L2I-LiBDcmVhdGUgeW91ciB2aW55bCBiYW5uZXJzLCB5YXJkIHNpZ25zLCBtZXRhbCBzaWducywgYW5kIG1vcmUuSgJvZiICEAFIAFgAaAA",
+      "source": "signs.com"
+    },
+    {
+      "position": 3,
+      "title": "Signs (2002)",
+      "link": "https://www.imdb.com/title/tt0286106/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVmZmaLqdEwtma_P8lHldIOFlCB4xbD8biLUyZTZZBek1WFJQ4ADyQIfLHsMk0XlLmPsgAfzd8JknTK5O1Zx01W9nZubT3ZZ9i1ADFcmhebzcZtoCcuACCKlffxw&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.imdb.com \u203a title",
+      "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3oHE_b_0CAf8Bf6zhM7QFYHy7zSDVP7yEKoAAAP7SzMAeL1k-1L14b_SVrMPLai5_PJZ10_XMf83SHc4KpZ5w92J8lg__KVr_u_NV8mtuj0RfsrTzvl8pge3-OXHviHp_chztNWiCsheUpQ2OoihXSYqP3D3Ij9__47jIHRbWxd1mr_J3-bJfj_O_X-4BItytzHdYpz95AIjt0NsLD7bEjtHQk2j7CFDUV0yMrSMx2eGw7NcMHviEg39TVeV8FF3hh_7y1oDSoNDVJlWQKK1F4d_CJMWnmQeImtY1AQAAAA.webp",
+      "snippet": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something ...",
+      "about_this_result": {
+        "source": {
+          "description": "A widowed former reverend living with his children and brother on a Pennsylvania farm finds mysterious crop circles in their fields, which suggests something ...",
+          "source_info_link": "https://www.imdb.com/title/tt0286106/",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAAAwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3oHE_b_0CAf8Bf6zhM7QFYHy7zSDVP7yEKoAAAP7SzMAeL1k-1L14b_SVrMPLai5_PJZ10_XMf83SHc4KpZ5w92J8lg__KVr_u_NV8mtuj0RfsrTzvl8pge3-OXHviHp_chztNWiCsheUpQ2OoihXSYqP3D3Ij9__47jIHRbWxd1mr_J3-bJfj_O_X-4BItytzHdYpz95AIjt0NsLD7bEjtHQk2j7CFDUV0yMrSMx2eGw7NcMHviEg39TVeV8FF3hh_7y1oDSoNDVJlWQKK1F4d_CJMWnmQeImtY1AQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm1abWFMcWRFd3RtYV9QOGxIbGRJT0ZsQ0I0eGJEOGJpTFV5WlRaWkJlazFXRkpRNEFEeVFJZkxIc01rMFhsTG1Qc2dBZnpkOEprblRLNU8xWngwMVc5blp1YlQzWlo5aTFBREZjbWhlYnpjWnRvQ2N1QUNDS2xmZnh3EgQaAggAGuQDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACpYCgVzaWducxW_5oRAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZtWm1hTHFkRXd0bWFfUDhsSGxkSU9GbENCNHhiRDhiaUxVeVpUWlpCZWsxV0ZKUTRBRHlRSWZMSHNNazBYbExtUHNnQWZ6ZDhKa25USzVPMVp4MDFXOW5adWJUM1paOWkxQURGY21oZWJ6Y1p0b0NjdUFDQ0tsZmZ4dzoaPGI-U2lnbnM8L2I-ICgyMDAyKSAtIElNRGJCpgFBIHdpZG93ZWQgZm9ybWVyIHJldmVyZW5kIGxpdmluZyB3aXRoIGhpcyBjaGlsZHJlbiBhbmQgYnJvdGhlciBvbiBhIFBlbm5zeWx2YW5pYSBmYXJtIGZpbmRzIG15c3RlcmlvdXMgY3JvcCBjaXJjbGVzIGluIHRoZWlyIGZpZWxkcywgd2hpY2ggc3VnZ2VzdHMgc29tZXRoaW5nJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm1abWFMcWRFd3RtYV9QOGxIbGRJT0ZsQ0I0eGJEOGJpTFV5WlRaWkJlazFXRkpRNEFEeVFJZkxIc01rMFhsTG1Qc2dBZnpkOEprblRLNU8xWngwMVc5blp1YlQzWlo5aTFBREZjbWhlYnpjWnRvQ2N1QUNDS2xmZnh3EgQaAggAGuQDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvgMIABAAGAAgACpYCgVzaWducxW_5oRAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZtWm1hTHFkRXd0bWFfUDhsSGxkSU9GbENCNHhiRDhiaUxVeVpUWlpCZWsxV0ZKUTRBRHlRSWZMSHNNazBYbExtUHNnQWZ6ZDhKa25USzVPMVp4MDFXOW5adWJUM1paOWkxQURGY21oZWJ6Y1p0b0NjdUFDQ0tsZmZ4dzoaPGI-U2lnbnM8L2I-ICgyMDAyKSAtIElNRGJCpgFBIHdpZG93ZWQgZm9ybWVyIHJldmVyZW5kIGxpdmluZyB3aXRoIGhpcyBjaGlsZHJlbiBhbmQgYnJvdGhlciBvbiBhIFBlbm5zeWx2YW5pYSBmYXJtIGZpbmRzIG15c3RlcmlvdXMgY3JvcCBjaXJjbGVzIGluIHRoZWlyIGZpZWxkcywgd2hpY2ggc3VnZ2VzdHMgc29tZXRoaW5nJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "source": "IMDb",
+      "read_more_link": "https://www.imdb.com/title/tt0286106/#:~:text=6.8%2F10"
+    },
+    {
+      "position": 4,
+      "title": "Signs: Journal of Women in Culture and Society",
+      "link": "https://signsjournal.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVAHrOzAVB2S9PHh-1fTzFsqCjAo4XFedFnkKufgaH8eEPgMhv7Ue-1kzCFdCKRQvR-LEZdBq2l2r7dIGkj4R2xcorwRIoU-SeCC67r9nFWLQTPp1hQ&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://signsjournal.org",
+      "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACwBACdASocABkAPtE-tFooIigoFAEAGglpAAPiDQABrt42a1LjFKSAWxAvLAHAAP72CYis5MH_JlDl72rIwoTJYV-1du2u5U8ahbLG2rw51Mr3Gidz1toXxYFSpPapnQrjC9e-mYSEhW2Ls7uJstt_BX-VLhwoIjs-ASDQeWbRLi6_ktXKSPiilXpNx3A15sg-J-AAAAA.webp",
+      "snippet": "Pointed essays on feminist controversies. See all.",
+      "about_this_result": {
+        "source": {
+          "description": "Pointed essays on feminist controversies. See all.",
+          "source_info_link": "https://signsjournal.org/",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACwBACdASocABkAPtE-tFooIigoFAEAGglpAAPiDQABrt42a1LjFKSAWxAvLAHAAP72CYis5MH_JlDl72rIwoTJYV-1du2u5U8ahbLG2rw51Mr3Gidz1toXxYFSpPapnQrjC9e-mYSEhW2Ls7uJstt_BX-VLhwoIjs-ASDQeWbRLi6_ktXKSPiilXpNx3A15sg-J-AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVkIyUzlQSGgtMWZUekZzcUNqQW80WEZlZEZua0t1ZmdhSDhlRVBnTWh2N1VlLTFrekNGZENLUlF2Ui1MRVpkQnEybDJyN2RJR2tqNFIyeGNvcndSSW9VLVNlQ0M2N3I5bkZXTFFUUHAxaFESBBoCCAAa-gISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUAggAEAAYACAAKlgKBXNpZ25zFdsnqkAaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zMoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVkIyUzlQSGgtMWZUekZzcUNqQW80WEZlZEZua0t1ZmdhSDhlRVBnTWh2N1VlLTFrekNGZENLUlF2Ui1MRVpkQnEybDJyN2RJR2tqNFIyeGNvcndSSW9VLVNlQ0M2N3I5bkZXTFFUUHAxaFE6NTxiPlNpZ25zPC9iPjogSm91cm5hbCBvZiBXb21lbiBpbiBDdWx0dXJlIGFuZCBTb2NpZXR5QjJQb2ludGVkIGVzc2F5cyBvbiBmZW1pbmlzdCBjb250cm92ZXJzaWVzLiBTZWUgYWxsLkoCb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVkIyUzlQSGgtMWZUekZzcUNqQW80WEZlZEZua0t1ZmdhSDhlRVBnTWh2N1VlLTFrekNGZENLUlF2Ui1MRVpkQnEybDJyN2RJR2tqNFIyeGNvcndSSW9VLVNlQ0M2N3I5bkZXTFFUUHAxaFESBBoCCAAa-gISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUAggAEAAYACAAKlgKBXNpZ25zFdsnqkAaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zMoABL2dvdG8_dXJsPUNBRVNWQUhyT3pBVkIyUzlQSGgtMWZUekZzcUNqQW80WEZlZEZua0t1ZmdhSDhlRVBnTWh2N1VlLTFrekNGZENLUlF2Ui1MRVpkQnEybDJyN2RJR2tqNFIyeGNvcndSSW9VLVNlQ0M2N3I5bkZXTFFUUHAxaFE6NTxiPlNpZ25zPC9iPjogSm91cm5hbCBvZiBXb21lbiBpbiBDdWx0dXJlIGFuZCBTb2NpZXR5QjJQb2ludGVkIGVzc2F5cyBvbiBmZW1pbmlzdCBjb250cm92ZXJzaWVzLiBTZWUgYWxsLkoCb2YiAhABSABYAGgA",
+      "source": "Signs: Journal of Women in Culture and Society",
+      "read_more_link": "https://signsjournal.org/#:~:text=Pointed%20essays%20on%20feminist%20controversies.,See%20all."
+    },
+    {
+      "position": 5,
+      "title": "Signs: Journal of Women in Culture and Society",
+      "link": "https://www.journals.uchicago.edu/toc/signs/current",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVJHx8rQJy05_fpAxypsqVzSwSYMi4Z1Bg-dp8HvF3V5BGxkHqeqARTrXWZE9KVaD95LAd-ITJ3tuRvx4A5hgQg0DJL5GMSJ4JyW6_5n-fwIcY_FipUasO4oUByB2tM0zvnSHsqzU8R6F6&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://www.journals.uchicago.edu \u203a toc \u203a signs \u203a current",
+      "favicon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAAAwBgCdASogACAAPtEutFooIagoGAEAGglkALEUqAsB5E0DX5Tb3Ek4-w8Xr0zyFxrX4kL-7AmQc0mAAP72CrsC-FBtX40Rux2tp736xadTx7mjcDc6zdVJEPFx3IUG2mF4H7GqG9BYRcgZTmNeaayK-YVjkW3M_Mp7u37x_Wz-DtSx-HDd5LIct-6qgK7ekhxmUgtR1wT1kQnqeZk61ohrv_PZHKRKeDjPxzX0mjQKQhxcfhGHfujPNDnIWT4pZtEZe8hbfvnMnx3y3ogCfJu5WKmRjvURdq0JRRT6uEdltOnKU6ujj_pZHpSSe4KXxvMsGgWty5PsGC2lhr-60yCC54zGAckZWbCKa8u-s9FueqPB34veJ65-L4F_SDpB-7UrnEdoGUazwgmtivXMU_AA.webp",
+      "snippet": "This article offers a critical feminist analysis of the perversions of care that appear in moments when care is instrumentalized by neoliberal and fascist ...",
+      "about_this_result": {
+        "source": {
+          "description": "This article offers a critical feminist analysis of the perversions of care that appear in moments when care is instrumentalized by neoliberal and fascist ...",
+          "source_info_link": "https://www.journals.uchicago.edu/toc/signs/current",
+          "icon": "https://serpapi.com/images/i/UklGRjwBAABXRUJQVlA4IDABAAAwBgCdASogACAAPtEutFooIagoGAEAGglkALEUqAsB5E0DX5Tb3Ek4-w8Xr0zyFxrX4kL-7AmQc0mAAP72CrsC-FBtX40Rux2tp736xadTx7mjcDc6zdVJEPFx3IUG2mF4H7GqG9BYRcgZTmNeaayK-YVjkW3M_Mp7u37x_Wz-DtSx-HDd5LIct-6qgK7ekhxmUgtR1wT1kQnqeZk61ohrv_PZHKRKeDjPxzX0mjQKQhxcfhGHfujPNDnIWT4pZtEZe8hbfvnMnx3y3ogCfJu5WKmRjvURdq0JRRT6uEdltOnKU6ujj_pZHpSSe4KXxvMsGgWty5PsGC2lhr-60yCC54zGAckZWbCKa8u-s9FueqPB34veJ65-L4F_SDpB-7UrnEdoGUazwgmtivXMU_AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkpIeDhyUUp5MDVfZnBBeHlwc3FWelN3U1lNaTRaMUJnLWRwOEh2RjNWNUJHeGtIcWVxQVJUclhXWkU5S1ZhRDk1TEFkLUlUSjN0dVJ2eDRBNWhnUWcwREpMNUdNU0o0SnlXNl81bi1md0ljWV9GaXBVYXNPNG9VQnlCMnRNMHp2blNIc3F6VThSNkY2EgQaAggAGp0EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wMIABAAGAAgACpYCgVzaWducxVLuIhAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKiAS9nb3RvP3VybD1DQUVTYmdIck96QVZKSHg4clFKeTA1X2ZwQXh5cHNxVnpTd1NZTWk0WjFCZy1kcDhIdkYzVjVCR3hrSHFlcUFSVHJYV1pFOUtWYUQ5NUxBZC1JVEozdHVSdng0QTVoZ1FnMERKTDVHTVNKNEp5VzZfNW4tZndJY1lfRmlwVWFzTzRvVUJ5QjJ0TTB6dm5TSHNxelU4UjZGNjpEPGI-U2lnbnM8L2I-OiBKb3VybmFsIG9mIFdvbWVuIGluIEN1bHR1cmUgYW5kIFNvY2lldHkgfCBWb2wgNTEsIE5vIDRCowFUaGlzIGFydGljbGUgb2ZmZXJzIGEgY3JpdGljYWwgZmVtaW5pc3QgYW5hbHlzaXMgb2YgdGhlIHBlcnZlcnNpb25zIG9mIGNhcmUgdGhhdCBhcHBlYXIgaW4gbW9tZW50cyB3aGVuIGNhcmUgaXMgaW5zdHJ1bWVudGFsaXplZCBieSBuZW9saWJlcmFsIGFuZCBmYXNjaXN0Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkpIeDhyUUp5MDVfZnBBeHlwc3FWelN3U1lNaTRaMUJnLWRwOEh2RjNWNUJHeGtIcWVxQVJUclhXWkU5S1ZhRDk1TEFkLUlUSjN0dVJ2eDRBNWhnUWcwREpMNUdNU0o0SnlXNl81bi1md0ljWV9GaXBVYXNPNG9VQnlCMnRNMHp2blNIc3F6VThSNkY2EgQaAggAGp0EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wMIABAAGAAgACpYCgVzaWducxVLuIhAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKiAS9nb3RvP3VybD1DQUVTYmdIck96QVZKSHg4clFKeTA1X2ZwQXh5cHNxVnpTd1NZTWk0WjFCZy1kcDhIdkYzVjVCR3hrSHFlcUFSVHJYV1pFOUtWYUQ5NUxBZC1JVEozdHVSdng0QTVoZ1FnMERKTDVHTVNKNEp5VzZfNW4tZndJY1lfRmlwVWFzTzRvVUJ5QjJ0TTB6dm5TSHNxelU4UjZGNjpEPGI-U2lnbnM8L2I-OiBKb3VybmFsIG9mIFdvbWVuIGluIEN1bHR1cmUgYW5kIFNvY2lldHkgfCBWb2wgNTEsIE5vIDRCowFUaGlzIGFydGljbGUgb2ZmZXJzIGEgY3JpdGljYWwgZmVtaW5pc3QgYW5hbHlzaXMgb2YgdGhlIHBlcnZlcnNpb25zIG9mIGNhcmUgdGhhdCBhcHBlYXIgaW4gbW9tZW50cyB3aGVuIGNhcmUgaXMgaW5zdHJ1bWVudGFsaXplZCBieSBuZW9saWJlcmFsIGFuZCBmYXNjaXN0Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "source": "The University of Chicago Press: Journals",
+      "read_more_link": "https://www.journals.uchicago.edu/toc/signs/current#:~:text=Exposing%20the%20Gender%20Identity%20Industry%3A"
+    },
+    {
+      "position": 6,
+      "title": "Signs",
+      "link": "https://www.jstor.org/journal/signs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVMcL8q2HfXrkQcpSsVhwjWb_Eu_vGVq6VVoZNHMZzzq4r_FTTs4jLDWtWwnjwiMPc5ZnhkOip_spdUSmn7ovPYbOvXott2rLKlEVVrPEKtLyZM-Lws0R9dYE&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECEwQAQ&uoh=1",
+      "displayed_link": "https://www.jstor.org \u203a journal \u203a signs",
+      "favicon": "https://serpapi.com/images/i/UklGRjwCAABXRUJQVlA4IDACAAAwCwCdASocABwAPrUurVanIacnG_DgFolsAKwzHIFhCC7Gt5QmFOyfgsS2Dng7wbuDzvf6r0qcyzzr_1PcG_lX9T_33qzeu70SSwp6v6uLziUGhvJLJwBZBVJiOW7HpuoAAAD-3fYmih5MBTT3HSo-B0-HXJEmVCndX81hXn9tOfO6_Oox_Kge7iH5V2QJi0GG4P-r0FgiOG89P7OH88Oi3mxtzjimdvOD-5m83tZ3UC9zZEskhP39lEj9Ff_mPmk3euEJ2Hc81Y9PSWkQcpMhYZJJ8WGvrbrOuB_1RolpxVoInEUmlWKOJSXWut_CkVEdslWWO7mPIU1zR6nXagYuQhc5nARfNYNAp0gcLnnxgciPV1fbmir9fVh_b4myx7_YuIEHWdUYBUoGzENMkM_JHDWoc9QVoRIzXIZ_4nY7ykp-ofKfwiWtd0O3KFgrCHrh-qzvaxNcTDDvRWfzMvK4lKzf_JS76hTfMarJHgXkYsnqG90fjKPUm_4BbJNU8GK08WnQY35a4LzLPVIUFDfX4NA4UAzozX2eRpwnTVJE-Kc9o7zlvL0vku6ufmdkAMh_K8CqhxLDjrMQi_woylAdWLEd_grpjsfB4O3u7YzH6t7IiAqh4at33bZt6R1xVoaIe1DaRsMdL7gX9BK7h_s9gqlkM5Z-v-JfJ-hgRGuOZr_k5-fkV2oWvqByixVm1ZPQFPTMBes5gmmuFtoCE_jBxC98M8znfd88PVZJIaAAAA.webp",
+      "snippet": "Recognized as the leading international journal in women's studies, Signs is at the forefront of new directions in feminist scholarship.",
+      "snippet_highlighted_words": [
+        "Signs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Recognized as the leading international journal in women's studies, Signs is at the forefront of new directions in feminist scholarship.",
+          "source_info_link": "https://www.jstor.org/journal/signs",
+          "icon": "https://serpapi.com/images/i/UklGRjwCAABXRUJQVlA4IDACAAAwCwCdASocABwAPrUurVanIacnG_DgFolsAKwzHIFhCC7Gt5QmFOyfgsS2Dng7wbuDzvf6r0qcyzzr_1PcG_lX9T_33qzeu70SSwp6v6uLziUGhvJLJwBZBVJiOW7HpuoAAAD-3fYmih5MBTT3HSo-B0-HXJEmVCndX81hXn9tOfO6_Oox_Kge7iH5V2QJi0GG4P-r0FgiOG89P7OH88Oi3mxtzjimdvOD-5m83tZ3UC9zZEskhP39lEj9Ff_mPmk3euEJ2Hc81Y9PSWkQcpMhYZJJ8WGvrbrOuB_1RolpxVoInEUmlWKOJSXWut_CkVEdslWWO7mPIU1zR6nXagYuQhc5nARfNYNAp0gcLnnxgciPV1fbmir9fVh_b4myx7_YuIEHWdUYBUoGzENMkM_JHDWoc9QVoRIzXIZ_4nY7ykp-ofKfwiWtd0O3KFgrCHrh-qzvaxNcTDDvRWfzMvK4lKzf_JS76hTfMarJHgXkYsnqG90fjKPUm_4BbJNU8GK08WnQY35a4LzLPVIUFDfX4NA4UAzozX2eRpwnTVJE-Kc9o7zlvL0vku6ufmdkAMh_K8CqhxLDjrMQi_woylAdWLEd_grpjsfB4O3u7YzH6t7IiAqh4at33bZt6R1xVoaIe1DaRsMdL7gX9BK7h_s9gqlkM5Z-v-JfJ-hgRGuOZr_k5-fkV2oWvqByixVm1ZPQFPTMBes5gmmuFtoCE_jBxC98M8znfd88PVZJIaAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVk1jTDhxMkhmWHJrUWNwU3NWaHdqV2JfRXVfdkdWcTZWVm9aTkhNWnp6cTRyX0ZUVHM0akxEV3RXd25qd2lNUGM1Wm5oa09pcF9zcGRVU21uN292UFliT3ZYb3R0MnJMS2xFVlZyUEVLdEx5Wk0tTHdzMFI5ZFlFEgQaAggAGsgDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAogMIABAAGAAgACpYCgVzaWducxX6QHxAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKNAS9nb3RvP3VybD1DQUVTWGdIck96QVZNY0w4cTJIZlhya1FjcFNzVmh3aldiX0V1X3ZHVnE2VlZvWk5ITVp6enE0cl9GVFRzNGpMRFd0V3duandpTVBjNVpuaGtPaXBfc3BkVVNtbjdvdlBZYk92WG90dDJyTEtsRVZWclBFS3RMeVpNLUx3czBSOWRZRToUPGI-U2lnbnM8L2I-IC0ganN0b3JCkwFSZWNvZ25pemVkIGFzIHRoZSBsZWFkaW5nIGludGVybmF0aW9uYWwgam91cm5hbCBpbiB3b21lbiYjMzk7cyBzdHVkaWVzLCA8Yj5TaWduczwvYj4gaXMgYXQgdGhlIGZvcmVmcm9udCBvZiBuZXcgZGlyZWN0aW9ucyBpbiBmZW1pbmlzdCBzY2hvbGFyc2hpcC5KAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVk1jTDhxMkhmWHJrUWNwU3NWaHdqV2JfRXVfdkdWcTZWVm9aTkhNWnp6cTRyX0ZUVHM0akxEV3RXd25qd2lNUGM1Wm5oa09pcF9zcGRVU21uN292UFliT3ZYb3R0MnJMS2xFVlZyUEVLdEx5Wk0tTHdzMFI5ZFlFEgQaAggAGsgDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAogMIABAAGAAgACpYCgVzaWducxX6QHxAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKNAS9nb3RvP3VybD1DQUVTWGdIck96QVZNY0w4cTJIZlhya1FjcFNzVmh3aldiX0V1X3ZHVnE2VlZvWk5ITVp6enE0cl9GVFRzNGpMRFd0V3duandpTVBjNVpuaGtPaXBfc3BkVVNtbjdvdlBZYk92WG90dDJyTEtsRVZWclBFS3RMeVpNLUx3czBSOWRZRToUPGI-U2lnbnM8L2I-IC0ganN0b3JCkwFSZWNvZ25pemVkIGFzIHRoZSBsZWFkaW5nIGludGVybmF0aW9uYWwgam91cm5hbCBpbiB3b21lbiYjMzk7cyBzdHVkaWVzLCA8Yj5TaWduczwvYj4gaXMgYXQgdGhlIGZvcmVmcm9udCBvZiBuZXcgZGlyZWN0aW9ucyBpbiBmZW1pbmlzdCBzY2hvbGFyc2hpcC5KAm9mIgIQAUgAWABoAA",
+      "source": "jstor"
+    },
+    {
+      "position": 7,
+      "title": "Warning Signs for Bullying",
+      "link": "https://www.stopbullying.gov/bullying/warning-signs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVRShYBaEUy_BKHeeP8PvMeC3Tpj2FCbCn63tirt_M_Yd42Me02Nq9AC_NNobnCLOcPV_SZW95ZQK4nMzq4COa1naUfSoxx7Dem0h8Od-s1vCYEydsys5Om4uG-7w3-LpZ-Jb3dDCAr04E&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECE0QAQ&uoh=1",
+      "displayed_link": "https://www.stopbullying.gov \u203a bullying \u203a warning-signs",
+      "favicon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAADwBQCdASocABwAPtEutFooIagoGAEAGgloAMoB3N5gzOvbzbAV3T8WE9bogBPWdY5WI2c3P7dgAAD-9gelL66z6QzGhTlTczo_iofE4_a1quw1a657XTd_wznHWb9xk0Myuhads3mfesekRTLuxVJSdFphoR2c48fJXJ72nFExPf6v4z3CbL68GDSd9wuCbuS5rP-IX-ja3QPT0l0zGyEI9pqrOk0JvUjdDLJGwWn0_8Pv78SzR8WyQj9_ZMI0f19PX_PP9dtpp8rFfJNjYMWJ33PtcSMU8jvxAPey3TNwLwKT9WGTi1szg5w6Ejz6OfSj7Wfi7zPtHiQOz3lCPUN8T0vwaznmD9C24BwiaKjEetzZPhuj6-MWGVIWfGvvIKFihaeLYL8K-Ep8EuSmgZZ4Twre5caAku5ndAAA.webp",
+      "date": "Nov 10, 2021",
+      "snippet": "Frequent headaches or stomach aches, feeling sick or faking illness; Changes in eating habits, like suddenly skipping meals or binge eating.",
+      "snippet_highlighted_words": [
+        "Frequent headaches or stomach aches, feeling sick or faking illness"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Frequent headaches or stomach aches, feeling sick or faking illness; Changes in eating habits, like suddenly skipping meals or binge eating.",
+          "source_info_link": "https://www.stopbullying.gov/bullying/warning-signs",
+          "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAADwBQCdASocABwAPtEutFooIagoGAEAGgloAMoB3N5gzOvbzbAV3T8WE9bogBPWdY5WI2c3P7dgAAD-9gelL66z6QzGhTlTczo_iofE4_a1quw1a657XTd_wznHWb9xk0Myuhads3mfesekRTLuxVJSdFphoR2c48fJXJ72nFExPf6v4z3CbL68GDSd9wuCbuS5rP-IX-ja3QPT0l0zGyEI9pqrOk0JvUjdDLJGwWn0_8Pv78SzR8WyQj9_ZMI0f19PX_PP9dtpp8rFfJNjYMWJ33PtcSMU8jvxAPey3TNwLwKT9WGTi1szg5w6Ejz6OfSj7Wfi7zPtHiQOz3lCPUN8T0vwaznmD9C24BwiaKjEetzZPhuj6-MWGVIWfGvvIKFihaeLYL8K-Ep8EuSmgZZ4Twre5caAku5ndAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlJTaFlCYUVVeV9CS0hlZVA4UHZNZUMzVHBqMkZDYkNuNjN0aXJ0X01fWWQ0Mk1lMDJOcTlBQ19OTm9ibkNMT2NQVl9TWlc5NVpRSzRuTXpxNENPYTFuYVVmU294eDdEZW0waDhPZC1zMXZDWUV5ZHN5czVPbTR1Ry03dzMtTHBaLUpiM2REQ0FyMDRFEgQaAggAGv0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1wMIABAAGAAgACpYCgVzaWducxV4975AGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKiAS9nb3RvP3VybD1DQUVTYmdIck96QVZSU2hZQmFFVXlfQktIZWVQOFB2TWVDM1RwajJGQ2JDbjYzdGlydF9NX1lkNDJNZTAyTnE5QUNfTk5vYm5DTE9jUFZfU1pXOTVaUUs0bk16cTRDT2ExbmFVZlNveHg3RGVtMGg4T2QtczF2Q1lFeWRzeXM1T200dUctN3czLUxwWi1KYjNkRENBcjA0RTo0V2FybmluZyA8Yj5TaWduczwvYj4gZm9yIEJ1bGx5aW5nIHwgU3RvcEJ1bGx5aW5nLmdvdkKTATxiPkZyZXF1ZW50IGhlYWRhY2hlcyBvciBzdG9tYWNoIGFjaGVzLCBmZWVsaW5nIHNpY2sgb3IgZmFraW5nIGlsbG5lc3M8L2I-OyBDaGFuZ2VzIGluIGVhdGluZyBoYWJpdHMsIGxpa2Ugc3VkZGVubHkgc2tpcHBpbmcgbWVhbHMgb3IgYmluZ2UgZWF0aW5nLkoCb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlJTaFlCYUVVeV9CS0hlZVA4UHZNZUMzVHBqMkZDYkNuNjN0aXJ0X01fWWQ0Mk1lMDJOcTlBQ19OTm9ibkNMT2NQVl9TWlc5NVpRSzRuTXpxNENPYTFuYVVmU294eDdEZW0waDhPZC1zMXZDWUV5ZHN5czVPbTR1Ry03dzMtTHBaLUpiM2REQ0FyMDRFEgQaAggAGv0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1wMIABAAGAAgACpYCgVzaWducxV4975AGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tczKiAS9nb3RvP3VybD1DQUVTYmdIck96QVZSU2hZQmFFVXlfQktIZWVQOFB2TWVDM1RwajJGQ2JDbjYzdGlydF9NX1lkNDJNZTAyTnE5QUNfTk5vYm5DTE9jUFZfU1pXOTVaUUs0bk16cTRDT2ExbmFVZlNveHg3RGVtMGg4T2QtczF2Q1lFeWRzeXM1T200dUctN3czLUxwWi1KYjNkRENBcjA0RTo0V2FybmluZyA8Yj5TaWduczwvYj4gZm9yIEJ1bGx5aW5nIHwgU3RvcEJ1bGx5aW5nLmdvdkKTATxiPkZyZXF1ZW50IGhlYWRhY2hlcyBvciBzdG9tYWNoIGFjaGVzLCBmZWVsaW5nIHNpY2sgb3IgZmFraW5nIGlsbG5lc3M8L2I-OyBDaGFuZ2VzIGluIGVhdGluZyBoYWJpdHMsIGxpa2Ugc3VkZGVubHkgc2tpcHBpbmcgbWVhbHMgb3IgYmluZ2UgZWF0aW5nLkoCb2YiAhABSABYAGgA",
+      "source": "StopBullying.gov",
+      "read_more_link": "https://www.stopbullying.gov/bullying/warning-signs#:~:text=Frequent%20headaches%20or%20stomach%20aches%2C,skipping%20meals%20or%20binge%20eating."
+    },
+    {
+      "position": 8,
+      "title": "Warning Signs and Symptoms",
+      "link": "https://www.nami.org/warning-signs-and-symptoms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAV5-T5VBoPUesKAd-Q7MwWjDo5OIhi_6NvhIyIs22yepKLzI0Fl7uB_WZt2CX3LTkxmFo1sZ44PfngCyTmmL4yp0WKCSpZw0efDPMCsTpibXDm6oHCTt-XOjy6bhF5c_HYYLmBMgG6&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQFnoECFIQAQ&uoh=1",
+      "displayed_link": "https://www.nami.org \u203a warning-signs-and-symptoms",
+      "favicon": "https://serpapi.com/images/i/UklGRhYCAABXRUJQVlA4IAoCAABwCwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILI2jQ76-1V6ANsnzvGmAbzHWOdaOigo4n-k9OL_R8q30V7Av6t_63r3eg6N_wqQl1lWix82UsQuYdYloDk9kaqAT2MmPAAAP72C1vq8uqYuyl59_gP-vEjdyCCTgzqpHZ7gp23Nlun6Xelgwox_h3GMrzw2at_kwLzpRI00DZ9cFHQM90mBgGMR9UDPwj4pWb9YSRc9NqzEIqZ73uE6m8aN_yMnz93ksbqRBqp_FMAZbH_PHHHrKQu5EYTrV_9vlZJQ_mxHulzJ7tPS8EZqgc59eqcXAEHqiZyQCqaH3f__C-9MMUPkrcxUZD6Jyu2qH7TSGFSeSpBzdMw_AzLNW8IpGwXr2b8Sl9O_rVblGCb8l9zFZhSkl4u3-Dv82X_EQYRzcoF7K8CcGR006szhG6KEl90aJuqYBDHBFwf5-oXJstqDR1DkuHfnnbA2XVsWUPnNH45Us-Ton7FB043spGfWkkAgfqSiHMT2V_5KTjg9_PxgiaR-JdDk3b8MbRX_Qk_FvKy7GdzdigmUEgP2P-6eAKu6uoFtU4zZzGM7pEaukqI4TB1sduptBzZfLOcudnoyZX9X-9Z-84wP_lpD_t6QcreQIJYtENktLZLgRd-JtqzrUFaxsntnrgAtrFIf8rPT925dYPmnRgAAAA.webp",
+      "snippet": "Excessive worrying or fear \u00b7 Feeling excessively sad or low \u00b7 Confused thinking or problems concentrating and learning \u00b7 Extreme mood changes, including ...",
+      "snippet_highlighted_words": [
+        "Excessive worrying or fear"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Excessive worrying or fear \u00b7 Feeling excessively sad or low \u00b7 Confused thinking or problems concentrating and learning \u00b7 Extreme mood changes, including ...",
+          "source_info_link": "https://www.nami.org/warning-signs-and-symptoms/",
+          "icon": "https://serpapi.com/images/i/UklGRhYCAABXRUJQVlA4IAoCAABwCwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhILI2jQ76-1V6ANsnzvGmAbzHWOdaOigo4n-k9OL_R8q30V7Av6t_63r3eg6N_wqQl1lWix82UsQuYdYloDk9kaqAT2MmPAAAP72C1vq8uqYuyl59_gP-vEjdyCCTgzqpHZ7gp23Nlun6Xelgwox_h3GMrzw2at_kwLzpRI00DZ9cFHQM90mBgGMR9UDPwj4pWb9YSRc9NqzEIqZ73uE6m8aN_yMnz93ksbqRBqp_FMAZbH_PHHHrKQu5EYTrV_9vlZJQ_mxHulzJ7tPS8EZqgc59eqcXAEHqiZyQCqaH3f__C-9MMUPkrcxUZD6Jyu2qH7TSGFSeSpBzdMw_AzLNW8IpGwXr2b8Sl9O_rVblGCb8l9zFZhSkl4u3-Dv82X_EQYRzcoF7K8CcGR006szhG6KEl90aJuqYBDHBFwf5-oXJstqDR1DkuHfnnbA2XVsWUPnNH45Us-Ton7FB043spGfWkkAgfqSiHMT2V_5KTjg9_PxgiaR-JdDk3b8MbRX_Qk_FvKy7GdzdigmUEgP2P-6eAKu6uoFtU4zZzGM7pEaukqI4TB1sduptBzZfLOcudnoyZX9X-9Z-84wP_lpD_t6QcreQIJYtENktLZLgRd-JtqzrUFaxsntnrgAtrFIf8rPT925dYPmnRgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjUtVDVWQm9QVWVzS0FkLVE3TXdXakRvNU9JaGlfNk52aEl5SXMyMnllcEtMekkwRmw3dUJfV1p0MkNYM0xUa3htRm8xc1o0NFBmbmdDeVRtbUw0eXAwV0tDU3BadzBlZkRQTUNzVHBpYlhEbTZvSENUdC1YT2p5NmJoRjVjX0hZWUxtQk1nRzYSBBoCCAAangQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD4AwgAEAAYACAAKlgKBXNpZ25zFQCsW0AaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjUtVDVWQm9QVWVzS0FkLVE3TXdXakRvNU9JaGlfNk52aEl5SXMyMnllcEtMekkwRmw3dUJfV1p0MkNYM0xUa3htRm8xc1o0NFBmbmdDeVRtbUw0eXAwV0tDU3BadzBlZkRQTUNzVHBpYlhEbTZvSENUdC1YT2p5NmJoRjVjX0hZWUxtQk1nRzY6L1dhcm5pbmcgPGI-U2lnbnM8L2I-IGFuZCA8Yj5TeW1wdG9tczwvYj4gfCBOQU1JQr0BPGI-RXhjZXNzaXZlIHdvcnJ5aW5nIG9yIGZlYXI8L2I-ICZtaWRkb3Q7IEZlZWxpbmcgZXhjZXNzaXZlbHkgc2FkIG9yIGxvdyAmbWlkZG90OyBDb25mdXNlZCB0aGlua2luZyBvciBwcm9ibGVtcyBjb25jZW50cmF0aW5nIGFuZCBsZWFybmluZyAmbWlkZG90OyBFeHRyZW1lIG1vb2QgY2hhbmdlcywgaW5jbHVkaW5nJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjUtVDVWQm9QVWVzS0FkLVE3TXdXakRvNU9JaGlfNk52aEl5SXMyMnllcEtMekkwRmw3dUJfV1p0MkNYM0xUa3htRm8xc1o0NFBmbmdDeVRtbUw0eXAwV0tDU3BadzBlZkRQTUNzVHBpYlhEbTZvSENUdC1YT2p5NmJoRjVjX0hZWUxtQk1nRzYSBBoCCAAangQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD4AwgAEAAYACAAKlgKBXNpZ25zFQCsW0AaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjUtVDVWQm9QVWVzS0FkLVE3TXdXakRvNU9JaGlfNk52aEl5SXMyMnllcEtMekkwRmw3dUJfV1p0MkNYM0xUa3htRm8xc1o0NFBmbmdDeVRtbUw0eXAwV0tDU3BadzBlZkRQTUNzVHBpYlhEbTZvSENUdC1YT2p5NmJoRjVjX0hZWUxtQk1nRzY6L1dhcm5pbmcgPGI-U2lnbnM8L2I-IGFuZCA8Yj5TeW1wdG9tczwvYj4gfCBOQU1JQr0BPGI-RXhjZXNzaXZlIHdvcnJ5aW5nIG9yIGZlYXI8L2I-ICZtaWRkb3Q7IEZlZWxpbmcgZXhjZXNzaXZlbHkgc2FkIG9yIGxvdyAmbWlkZG90OyBDb25mdXNlZCB0aGlua2luZyBvciBwcm9ibGVtcyBjb25jZW50cmF0aW5nIGFuZCBsZWFybmluZyAmbWlkZG90OyBFeHRyZW1lIG1vb2QgY2hhbmdlcywgaW5jbHVkaW5nJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "source": "National Alliance on Mental Illness (NAMI)",
+      "read_more_link": "https://www.nami.org/warning-signs-and-symptoms/#:~:text=Excessive%20worrying%20or%20fear&text=Feeling%20excessively%20sad%20or%20low&text=Confused%20thinking%20or%20problems%20concentrating,and%20learning&text=Extreme%20mood%20changes%2C%20including%20uncontrollable,%E2%80%9Chighs%E2%80%9D%20or%20feelings%20of%20euphoria"
+    },
+    {
+      "position": 9,
+      "title": "Signs (2002) Trailer #1 | Movieclips Classic Trailers",
+      "link": "https://www.youtube.com/watch?v=dUw26F0WfLg",
+      "displayed_link": "2.8M+ views \u00b7 7 years ago",
+      "thumbnail": "https://serpapi.com/searches/6abeb027e6590e3018f00d6a/images/Tm02dJ_u1oOIFZXG6X9WAaiDQJT9Pq_Vct5UGOv_248.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "These aliens must be tired of life. Who breaks into a house where Mad Max, the joker and the little brother of Kevin McCallister live?!",
+      "duration": "2:36",
+      "about_this_result": {
+        "source": {
+          "description": "These aliens must be tired of life. Who breaks into a house where Mad Max, the joker and the little brother of Kevin McCallister live?!",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllvVjF4VFBqR3NmYVNaTDFVY3p2cGV2U2MteVVWM1NaVG8xNEc1dUFaMEdPS05ZUFI2UlNkNG90STZyRERZZWJUZWJiN0FZYjhWT2JGR3VMU2VORnZaem5tYV85a2RuTEhzM2Q4V0g2TTZubGRjN09tb2xRRmRoaDdMbF9fUDlJdHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVllvVjF4VFBqR3NmYVNaTDFVY3p2cGV2U2MteVVWM1NaVG8xNEc1dUFaMEdPS05ZUFI2UlNkNG90STZyRERZZWJUZWJiN0FZYjhWT2JGR3VMU2VORnZaem5tYV85a2RuTEhzM2Q4V0g2TTZubGRjN09tb2xRRmRoaDdMbF9fUDlJdHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ9zH8brIoHSvJzfkMougovJ1J0TU19opA2Dg",
+      "source": "YouTube \u00b7 Rotten Tomatoes Classic Trailers"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Signs movie cast",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Signs+movie+cast&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Signs+movie+cast"
+    },
+    {
+      "block_position": 1,
+      "query": "Signs alien",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Signs+alien&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Signs+alien"
+    },
+    {
+      "block_position": 1,
+      "query": "Blood pressure Monitor",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Blood+pressure+Monitor&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Blood+pressure+Monitor"
+    },
+    {
+      "block_position": 1,
+      "query": "Is signs movie on Netflix",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Is+signs+movie+on+Netflix&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Is+signs+movie+on+Netflix"
+    },
+    {
+      "block_position": 1,
+      "query": "Signs full movie",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Signs+full+movie&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Signs+full+movie"
+    },
+    {
+      "block_position": 1,
+      "query": "Is Signs a horror movie",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Is+Signs+a+horror+movie&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Is+Signs+a+horror+movie"
+    },
+    {
+      "block_position": 1,
+      "query": "Signs rotten tomatoes",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Signs+rotten+tomatoes&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Signs+rotten+tomatoes"
+    },
+    {
+      "block_position": 1,
+      "query": "Signs movie cast little boy",
+      "link": "https://www.google.com/search?sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&q=Signs+movie+cast+little+boy&sa=X&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Signs+movie+cast+little+boy"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&ei=J7C-auSJIpWq5NoPneCSsAQ&start=10&sa=N&sstk=AS6-VmLtHfcT2rbk9gIZdB_BVvdnW8oXUIltqOZFAi0-IqV7e_6ZErSeEv1eNg7jNHpB3Va_I4kqjYew5dJ0s2Hi-jOA-oNFO6y_oA&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ8NMDegQIQBAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=9690ff17f276db6e&hl=en&gl=us&sxsrf=APpeQnu1fHClyncnYxj9AEOYo7gE61LTSg:1790881831565&ei=J7C-auSJIpWq5NoPneCSsAQ&start=10&sa=N&sstk=AS6-VmLtHfcT2rbk9gIZdB_BVvdnW8oXUIltqOZFAi0-IqV7e_6ZErSeEv1eNg7jNHpB3Va_I4kqjYew5dJ0s2Hi-jOA-oNFO6y_oA&ved=2ahUKEwikuZ7bwpmXAxUVFVkFHR2wBEYQ8tMDegQIQBAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=10"
+    }
+  }
+}
