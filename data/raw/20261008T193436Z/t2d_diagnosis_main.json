@@ -1,0 +1,675 @@
+{
+  "search_metadata": {
+    "id": "6ac7f05c23df789a5f8f1a8d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/688KICxrA_9Y2N6EyTYrfRxMTPBZ396uRvYdlYEYddY/6ac7f05c23df789a5f8f1a8d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/688KICxrA_9Y2N6EyTYrfRxMTPBZ396uRvYdlYEYddY/6ac7f05c23df789a5f8f1a8d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/688KICxrA_9Y2N6EyTYrfRxMTPBZ396uRvYdlYEYddY/6ac7f05c23df789a5f8f1a8d.json_with_pixel_position",
+    "created_at": "2026-10-08 19:34:52 UTC",
+    "processed_at": "2026-10-08 19:34:52 UTC",
+    "google_url": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&oq=how+is+type+2+diabetes+diagnosed&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/688KICxrA_9Y2N6EyTYrfRxMTPBZ396uRvYdlYEYddY/6ac7f05c23df789a5f8f1a8d.html",
+    "total_time_taken": 9.61
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "how is type 2 diabetes diagnosed",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "how is type 2 diabetes diagnosed",
+    "total_results": 125,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the first warning signs of type 2 diabetes?",
+      "type": "ai_overview",
+      "page_token": "UwcXM3icHdBtbpswGABg7TL92fDRZCJSVCnDlLDhDn9B_GcydhISv4CXskD4tyvsDDvVTrOqJ3ik5_dfOHf236c_zTC4t_ViMY7j46nvT3B41H27UG_3Ti-0AqiVtuvV55X_fNQbdNPbL1e9LbhzIiYei3FQ82KZB9GZtNMkkybHgZ70TIhsfadgFyoBK-klT3wWHk_glftiJJ25Cm_pMWtUybBVlyyrIaoOwvmM40q8oFEnMn9F_tmkEuczxIxHu7zNShpK-u6m3ANGOxLUoeMMcK-4G2hg5m8ciErddxPC0pTJLwbQSCZuPBZfc4hiyhrAJXrah6dZBoJqlN11SpDyhmtZJRYjb1Y-QTmKZs1xTCAfmBUdaoziiOz2VfaztNOEbdbvLRQ6yGJ92RJK-nPByawv0PKyuNOXLNDcpYc4CU3ZiDqUR4mavRFNJdFE5fhw1LdN-PBxvflxbIe1u_an_wYsjWY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UwcXM3icHdBtbpswGABg7TL92fDRZCJSVCnDlLDhDn9B_GcydhISv4CXskD4tyvsDDvVTrOqJ3ik5_dfOHf236c_zTC4t_ViMY7j46nvT3B41H27UG_3Ti-0AqiVtuvV55X_fNQbdNPbL1e9LbhzIiYei3FQ82KZB9GZtNMkkybHgZ70TIhsfadgFyoBK-klT3wWHk_glftiJJ25Cm_pMWtUybBVlyyrIaoOwvmM40q8oFEnMn9F_tmkEuczxIxHu7zNShpK-u6m3ANGOxLUoeMMcK-4G2hg5m8ciErddxPC0pTJLwbQSCZuPBZfc4hiyhrAJXrah6dZBoJqlN11SpDyhmtZJRYjb1Y-QTmKZs1xTCAfmBUdaoziiOz2VfaztNOEbdbvLRQ6yGJ92RJK-nPByawv0PKyuNOXLNDcpYc4CU3ZiDqUR4mavRFNJdFE5fhw1LdN-PBxvflxbIe1u_an_wYsjWY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBmaXJzdCB3YXJuaW5nIHNpZ25zIG9mIHR5cGUgMiBkaWFiZXRlcz8iLCJsayI6IkdqTjNhR0YwSUdGeVpTQjBhR1VnWm1seWMzUWdkMkZ5Ym1sdVp5QnphV2R1Y3lCdlppQjBlWEJsSURJZ1pHbGhZbVYwWlhNIiwiYnMiOiJjNVZRdXc2Q1FCQ003VmJXVktQb0R3RFd0bHBZV3gteWNCZjAxdHl0WHZoN3daYUNVRTB5bVZlR1hsVGRyVkdZd0ZETGFGMklpbVNDZDc1RGRKMlBrQlk2dkJrRkdtZHFWbzduNHBTVmFiMlBlaW92a3RBSVI1Z1JIaW9CdlI4cDEyS1FENno1OHJ5dHlncTcya1pYMms5bEtxakR0S3FSNU9mWmViYXpTeXE2MGVGX2s0dGdFNTREeEVmV2VkZ3h5OU95YnJ2NUFRIiwiaWQiOiJmY19aUERIYXJqWkxxNkJoYklQc2JDcjBRSV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBmaXJzdCB3YXJuaW5nIHNpZ25zIG9mIHR5cGUgMiBkaWFiZXRlcz8iLCJsayI6IkdqTjNhR0YwSUdGeVpTQjBhR1VnWm1seWMzUWdkMkZ5Ym1sdVp5QnphV2R1Y3lCdlppQjBlWEJsSURJZ1pHbGhZbVYwWlhNIiwiYnMiOiJjNVZRdXc2Q1FCQ003VmJXVktQb0R3RFd0bHBZV3gteWNCZjAxdHl0WHZoN3daYUNVRTB5bVZlR1hsVGRyVkdZd0ZETGFGMklpbVNDZDc1RGRKMlBrQlk2dkJrRkdtZHFWbzduNHBTVmFiMlBlaW92a3RBSVI1Z1JIaW9CdlI4cDEyS1FENno1OHJ5dHlncTcya1pYMms5bEtxakR0S3FSNU9mWmViYXpTeXE2MGVGX2s0dGdFNTREeEVmV2VkZ3h5OU95YnJ2NUFRIiwiaWQiOiJmY19aUERIYXJqWkxxNkJoYklQc2JDcjBRSV81In0%3D"
+    },
+    {
+      "question": "How does a doctor know if you have type 2 diabetes?",
+      "type": "ai_overview",
+      "page_token": "YdN5QXicHZDRbpswFEC1n-ljA2bJlEhRJQ_clpXb2sYm8DI5ZomDbSAta4C3_cK-oV_Vr1m09yOdo_Pnw51a-_nlrxmG_m2zWFwul9tj1x3dr1vd-YV6m1q90Mq5vdJ2s_q2Cu8Oepu8a_z9VWMq-l7GLOARO8uY_BDJMmbeNKqocZlLDMJMTwIiJtPf4Lsl9-7AArC8dcDvw7NoTFa0kLEiHarZKYagLHNz2iEzqQQMRelKzvarylmmI9wo5KgMlmGVQK9DMez9-CKD8Akc-Hp-HCmCIUvIKp-rKSvqKSMY52GFZVBHzEmxQ30u7tcFkCqXaORX5_QsXaB2hHK0Nvuwp8JKqGJW7gtSCW8KQZjhIXuh9so8YEhMrUTCHstdei7sOIJNu9I6qlEa6wYzzroTFWzWjfPCwzkL1-7a8FzmpKGi7nQDLY_0IOz4ICMSUXpz0O_b6Ob_6-3Pgx82_Wt3_Afk34x7",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YdN5QXicHZDRbpswFEC1n-ljA2bJlEhRJQ_clpXb2sYm8DI5ZomDbSAta4C3_cK-oV_Vr1m09yOdo_Pnw51a-_nlrxmG_m2zWFwul9tj1x3dr1vd-YV6m1q90Mq5vdJ2s_q2Cu8Oepu8a_z9VWMq-l7GLOARO8uY_BDJMmbeNKqocZlLDMJMTwIiJtPf4Lsl9-7AArC8dcDvw7NoTFa0kLEiHarZKYagLHNz2iEzqQQMRelKzvarylmmI9wo5KgMlmGVQK9DMez9-CKD8Akc-Hp-HCmCIUvIKp-rKSvqKSMY52GFZVBHzEmxQ30u7tcFkCqXaORX5_QsXaB2hHK0Nvuwp8JKqGJW7gtSCW8KQZjhIXuh9so8YEhMrUTCHstdei7sOIJNu9I6qlEa6wYzzroTFWzWjfPCwzkL1-7a8FzmpKGi7nQDLY_0IOz4ICMSUXpz0O_b6Ob_6-3Pgx82_Wt3_Afk34x7",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IkhvdyBkb2VzIGEgZG9jdG9yIGtub3cgaWYgeW91IGhhdmUgdHlwZSAyIGRpYWJldGVzPyIsImxrIjoiYzVNeXlzZ3ZWMGpKVHkxV1NBUlN5U1g1UlFyWmVVQ2h6RFNGeXZ4U2hZekVzbFNGa3NxQ1ZBVWpoWlRNeEtUVWt0UmlBQSIsImJzIjoiYzVWUXV3NkNRQkNNN1ZiV1ZLUG9Ed0RXdGxwWVd4LXljQmYwMXR5dFh2aDd3WmFDVUUweW1WZUdYbFRkclZHWXdGRExhRjJJaW1TQ2Q3NURkSjJQa0JZNnZCa0ZHbWRxVm83bjRwU1ZhYjJQZWlvdmt0QUlSNWdSSGlvQnZSOHAxMktRRDZ6NThyeXR5Z3E3MmtaWDJrOWxLcWpEdEtxUjVPZlplYmF6U3lxNjBlRl9rNHRnRTU0RHhFZldlZGd4eTlPeWJydjVBUSIsImlkIjoiZmNfWlBESGFyalpMcTZCaGJJUHNiQ3IwUUlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IkhvdyBkb2VzIGEgZG9jdG9yIGtub3cgaWYgeW91IGhhdmUgdHlwZSAyIGRpYWJldGVzPyIsImxrIjoiYzVNeXlzZ3ZWMGpKVHkxV1NBUlN5U1g1UlFyWmVVQ2h6RFNGeXZ4U2hZekVzbFNGa3NxQ1ZBVWpoWlRNeEtUVWt0UmlBQSIsImJzIjoiYzVWUXV3NkNRQkNNN1ZiV1ZLUG9Ed0RXdGxwWVd4LXljQmYwMXR5dFh2aDd3WmFDVUUweW1WZUdYbFRkclZHWXdGRExhRjJJaW1TQ2Q3NURkSjJQa0JZNnZCa0ZHbWRxVm83bjRwU1ZhYjJQZWlvdmt0QUlSNWdSSGlvQnZSOHAxMktRRDZ6NThyeXR5Z3E3MmtaWDJrOWxLcWpEdEtxUjVPZlplYmF6U3lxNjBlRl9rNHRnRTU0RHhFZldlZGd4eTlPeWJydjVBUSIsImlkIjoiZmNfWlBESGFyalpMcTZCaGJJUHNiQ3IwUUlfNSJ9"
+    },
+    {
+      "question": "How to bring down type 2 diabetes?",
+      "type": "ai_overview",
+      "page_token": "R7u_dHicHdBNbqMwGABQ9TJdNvxEGTVSVIlgp6ABxgZ_BG9GYJMQ24ATaNJk17v0VHOaGc32Ld_XtzkN-s_TtZtnO60Xi9vt9nIcx6NpX8TYL-rpPoiFqI1paqHXqx8r9-0gNugjCrbnKCDMWgipk7vdr-xdYgrdhZjXqOg727zjcxpGXgIyAKCqxMxLFS64D3450Gu7Sx4t449WOy64rz8bFS-bXbzkJcyCIY-4GLMdmf-Zl6HKTcNU1Wy65wgs-HCDwVxgwEb23KtKHrRDlyQDeWRh7BYhnFOk79XeTkQBr934kIQprxyDAOFVo4hf6jhrB_7R9nwqwPZ0J7cA8Sl35IA6WTNEo2ofn0v9-ZnqeKy0IcKLQ6ECmtPxRBh9CGV6VsgxY0tP-qlTKRxWpTyRPWhS0j5Hti4QbAl5Pojrxn_-_7n5fejntb2Mx7_DRYNg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=R7u_dHicHdBNbqMwGABQ9TJdNvxEGTVSVIlgp6ABxgZ_BG9GYJMQ24ATaNJk17v0VHOaGc32Ld_XtzkN-s_TtZtnO60Xi9vt9nIcx6NpX8TYL-rpPoiFqI1paqHXqx8r9-0gNugjCrbnKCDMWgipk7vdr-xdYgrdhZjXqOg727zjcxpGXgIyAKCqxMxLFS64D3450Gu7Sx4t449WOy64rz8bFS-bXbzkJcyCIY-4GLMdmf-Zl6HKTcNU1Wy65wgs-HCDwVxgwEb23KtKHrRDlyQDeWRh7BYhnFOk79XeTkQBr934kIQprxyDAOFVo4hf6jhrB_7R9nwqwPZ0J7cA8Sl35IA6WTNEo2ofn0v9-ZnqeKy0IcKLQ6ECmtPxRBh9CGV6VsgxY0tP-qlTKRxWpTyRPWhS0j5Hti4QbAl5Pojrxn_-_7n5fejntb2Mx7_DRYNg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IkhvdyB0byBicmluZyBkb3duIHR5cGUgMiBkaWFiZXRlcz8iLCJsayI6IkdpRm9iM2NnZEc4Z1luSnBibWNnWkc5M2JpQjBlWEJsSURJZ1pHbGhZbVYwWlhNIiwiYnMiOiJjNVZRdXc2Q1FCQ003VmJXVktQb0R3RFd0bHBZV3gteWNCZjAxdHl0WHZoN3daYUNVRTB5bVZlR1hsVGRyVkdZd0ZETGFGMklpbVNDZDc1RGRKMlBrQlk2dkJrRkdtZHFWbzduNHBTVmFiMlBlaW92a3RBSVI1Z1JIaW9CdlI4cDEyS1FENno1OHJ5dHlncTcya1pYMms5bEtxakR0S3FSNU9mWmViYXpTeXE2MGVGX2s0dGdFNTREeEVmV2VkZ3h5OU95YnJ2NUFRIiwiaWQiOiJmY19aUERIYXJqWkxxNkJoYklQc2JDcjBRSV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IkhvdyB0byBicmluZyBkb3duIHR5cGUgMiBkaWFiZXRlcz8iLCJsayI6IkdpRm9iM2NnZEc4Z1luSnBibWNnWkc5M2JpQjBlWEJsSURJZ1pHbGhZbVYwWlhNIiwiYnMiOiJjNVZRdXc2Q1FCQ003VmJXVktQb0R3RFd0bHBZV3gteWNCZjAxdHl0WHZoN3daYUNVRTB5bVZlR1hsVGRyVkdZd0ZETGFGMklpbVNDZDc1RGRKMlBrQlk2dkJrRkdtZHFWbzduNHBTVmFiMlBlaW92a3RBSVI1Z1JIaW9CdlI4cDEyS1FENno1OHJ5dHlncTcya1pYMms5bEtxakR0S3FSNU9mWmViYXpTeXE2MGVGX2s0dGdFNTREeEVmV2VkZ3h5OU95YnJ2NUFRIiwiaWQiOiJmY19aUERIYXJqWkxxNkJoYklQc2JDcjBRSV81In0%3D"
+    },
+    {
+      "question": "What is early onset type 2 diabetes?",
+      "type": "ai_overview",
+      "page_token": "P6ccOnicHdBbTqtAGADguBkfLRfr0SaNCYcO7ejQMMwFeDkZfqRjGWDaYkHe3IurcjUm51vC9_Vt3rvm5-aqh8FeVovFOI53h74_mLc76NuFunx2sABlTKmgWT38eXCfa1hvPnbB39MuSLi1IqQO2wbb1Hv0Kmn2Zas_yghlRceXkGFUIWtfRXyfm51Pon4mLpaEw6xQ4qv26ZIaS0qH3zNEtWqngYT4Cg6MAplP2Swn1iU-RbbmEuE0og5hgackOpOZiswTCQgcSaEnyd263Lh6Hw1jyvTpVZjr2zbw-JEvlcj90i1OLCpeRGdjkE-cOfmScXSGubBU4Jc4Gl0e6j52hL_RleIbusszfJLNNMUN7vPGJODhEI4BTWn_nnA6w9G03PBBHRsXMoH23O5LZhgJC0OQkWSrbdWCV423NVzX_u3_z_W_uh1W9twffgEYe4QX",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P6ccOnicHdBbTqtAGADguBkfLRfr0SaNCYcO7ejQMMwFeDkZfqRjGWDaYkHe3IurcjUm51vC9_Vt3rvm5-aqh8FeVovFOI53h74_mLc76NuFunx2sABlTKmgWT38eXCfa1hvPnbB39MuSLi1IqQO2wbb1Hv0Kmn2Zas_yghlRceXkGFUIWtfRXyfm51Pon4mLpaEw6xQ4qv26ZIaS0qH3zNEtWqngYT4Cg6MAplP2Swn1iU-RbbmEuE0og5hgackOpOZiswTCQgcSaEnyd263Lh6Hw1jyvTpVZjr2zbw-JEvlcj90i1OLCpeRGdjkE-cOfmScXSGubBU4Jc4Gl0e6j52hL_RleIbusszfJLNNMUN7vPGJODhEI4BTWn_nnA6w9G03PBBHRsXMoH23O5LZhgJC0OQkWSrbdWCV423NVzX_u3_z_W_uh1W9twffgEYe4QX",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgZWFybHkgb25zZXQgdHlwZSAyIGRpYWJldGVzPyIsImxrIjoiR2lOM2FHRjBJR2x6SUdWaGNteDVJRzl1YzJWMElIUjVjR1VnTWlCa2FXRmlaWFJsY3ciLCJicyI6ImM1VlF1dzZDUUJDTTdWYldWS1BvRHdEV3RscFlXeC15Y0JmMDF0eXRYdmg3d1phQ1VFMHltVmVHWGxUZHJWR1l3RkRMYUYySWltU0NkNzVEZEoyUGtCWTZ2QmtGR21kcVZvN240cFNWYWIyUGVpb3ZrdEFJUjVnUkhpb0J2UjhwMTJLUUQ2ejU4cnl0eWdxNzJrWlgyazlsS3FqRHRLcVI1T2ZaZWJhelN5cTYwZUZfazR0Z0U1NER4RWZXZWRneHk5T3licnY1QVEiLCJpZCI6ImZjX1pQREhhcmpaTHE2QmhiSVBzYkNyMFFJXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlIyOVVUalk1WTI5VFFuUTNTM0l4YnpSbldUUnBTalJVVVhGaU5VMVJlRzQ0ZEdoRU1FWkpaM2hKVEhoVVJrTmtibVpXYldoS1NXTk5OVFppVEdGMFZXcHhZbFpyTUZWSlJuaGxURk5MYzJkNlVuTk9ibVpCUW5Ca1FSSVhXbEJFU0dGeWFscE1jVFpDYUdKSlVITmlRM0l3VVVrYUlrRkVjM0k1WmxJdGMxZHBVVGgxZHkxV2NWTnBhbmREVERWck0zVlliV3BFTmxFIiwiZmN2IjoiMyIsImVpIjoiWlBESGFyalpMcTZCaGJJUHNiQ3IwUUkiLCJxYyI6IkNpQm9iM2NnYVhNZ2RIbHdaU0F5SUdScFlXSmxkR1Z6SUdScFlXZHViM05sWkJBQUdBRjl0dk5kUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgZWFybHkgb25zZXQgdHlwZSAyIGRpYWJldGVzPyIsImxrIjoiR2lOM2FHRjBJR2x6SUdWaGNteDVJRzl1YzJWMElIUjVjR1VnTWlCa2FXRmlaWFJsY3ciLCJicyI6ImM1VlF1dzZDUUJDTTdWYldWS1BvRHdEV3RscFlXeC15Y0JmMDF0eXRYdmg3d1phQ1VFMHltVmVHWGxUZHJWR1l3RkRMYUYySWltU0NkNzVEZEoyUGtCWTZ2QmtGR21kcVZvN240cFNWYWIyUGVpb3ZrdEFJUjVnUkhpb0J2UjhwMTJLUUQ2ejU4cnl0eWdxNzJrWlgyazlsS3FqRHRLcVI1T2ZaZWJhelN5cTYwZUZfazR0Z0U1NER4RWZXZWRneHk5T3licnY1QVEiLCJpZCI6ImZjX1pQREhhcmpaTHE2QmhiSVBzYkNyMFFJXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Type 2 diabetes is diagnosed using specific blood tests evaluated against established glucose and A1C thresholds.",
+        "snippet_highlighted_words": [
+          "using specific blood tests evaluated against established glucose and A1C thresholds"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Diagnostic Tests and Thresholds"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "According to guidelines from the American Diabetes Association, a diagnosis requires meeting at least one of the following criteria (ideally confirmed by a repeat test on a second day, unless classic symptoms are present):",
+        "snippet_links": [
+          {
+            "text": "American Diabetes Association",
+            "link": "https://diabetes.org/about-diabetes/diagnosis"
+          }
+        ],
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "A1C Test: Measures average blood sugar over the past 2 to 3 months. No fasting is required.",
+            "list": [
+              {
+                "snippet": "Diabetes threshold: 6.5% or higher"
+              },
+              {
+                "snippet": "Prediabetes: 5.7% to 6.4%"
+              },
+              {
+                "snippet": "Normal: Below 5.7%"
+              }
+            ],
+            "reference_indexes": [
+              2,
+              3
+            ]
+          },
+          {
+            "snippet": "Normal: Below 5.7%",
+            "reference_indexes": [
+              2,
+              3
+            ]
+          },
+          {
+            "snippet": "Fasting Plasma Glucose (FPG) Test: Measures blood sugar after an 8-hour overnight fast.",
+            "list": [
+              {
+                "snippet": "Diabetes threshold: 126 mg/dL or higher"
+              },
+              {
+                "snippet": "Prediabetes: 100 to 125 mg/dL"
+              },
+              {
+                "snippet": "Normal: Below 100 mg/dL"
+              }
+            ],
+            "reference_indexes": [
+              2
+            ]
+          },
+          {
+            "snippet": "Oral Glucose Tolerance Test (OGTT): Measures blood sugar 2 hours after drinking a sugary liquid during a 75-gram glucose test.",
+            "list": [
+              {
+                "snippet": "Diabetes threshold: 200 mg/dL or higher"
+              },
+              {
+                "snippet": "Prediabetes: 140 to 199 mg/dL"
+              },
+              {
+                "snippet": "Normal: Below 140 mg/dL"
+              }
+            ],
+            "reference_indexes": [
+              2,
+              4,
+              5
+            ]
+          },
+          {
+            "snippet": "Random Plasma Glucose Test: Checked at any time of day when severe symptoms of high blood sugar are present.",
+            "list": [
+              {
+                "snippet": "Diabetes threshold: 200 mg/dL or higher alongside symptoms (like extreme thirst, frequent urination, or unexplained weight loss)."
+              }
+            ]
+          }
+        ],
+        "reference_indexes": [
+          2,
+          3,
+          5,
+          6
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Symptoms"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Type 2 diabetes develops slowly, and some people have no symptoms at first. Common signs include:",
+        "reference_indexes": [
+          3
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Increased thirst and frequent urination"
+          },
+          {
+            "snippet": "Unusual fatigue or hunger"
+          },
+          {
+            "snippet": "Blurred vision"
+          },
+          {
+            "snippet": "Slow-healing cuts or sores"
+          },
+          {
+            "snippet": "Tingling or numbness in the hands or feet"
+          }
+        ],
+        "reference_indexes": [
+          3
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you suspect you may have diabetes, would you like information on local screening guidelines, or are you looking to understand next steps after a recent diagnosis?"
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Diabetes Tests & Diagnosis - NIDDK",
+        "link": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis",
+        "snippet": "Diagnostic criteria: Blood tests measure glucose to diagnose diabetes, prediabetes, and gestational diabetes; over-the-counter meters cannot diagnose. Testing reco...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.niddk.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5AF9vcWsEDikOMDZx4G_pioxopcxGrKXaEUz9pEhbsRagXwWn8dKYEU0aUdy5bdlxYLqXRgKC7YNRTPqd9MfTcFxqnyPsGemDhKNU"
+      },
+      {
+        "index": 1,
+        "title": "Diabetes Type 2",
+        "link": "https://medlineplus.gov/diabetestype2.html",
+        "snippet": "Summary * How is type 2 diabetes diagnosed? Your provider will use blood tests to diagnose type 2 diabetes. The blood tests include: A1C test, which measures your ...",
+        "source": "MedlinePlus (.gov)",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://medlineplus.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS6FjnO9QZVMNNgcBaPTtCfaRZi161EpepOb3Sdz-aeseUFZmYL1yOXttDm5zKa7QwWSQqQgbxGq__sKPby-TosK12kWQbC0MX8zCr"
+      },
+      {
+        "index": 2,
+        "title": "Diabetes Diagnosis & Tests | ADA",
+        "link": "https://diabetes.org/about-diabetes/diagnosis",
+        "snippet": "Diagnosis Tests: A1C (Normal <5.7%, Prediabetes 5.7-6.4%, Diabetes \u22656.5%, no fasting required); Fasting Plasma Glucose / FPG (Normal <100, Prediabetes 100-125, Dia...",
+        "source": "American Diabetes Association",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://diabetes.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTHc6MX7BPDol44xO8vA_gjEj3bdj1-AWfFkQvIe7kSGNjQ5_h9llYIM41oso1rKngmKroqBmis6DAM17BRAUybY78HrGh9gg6LwnL"
+      },
+      {
+        "index": 3,
+        "title": "Type 2 Diabetes: What It Is, Causes, Symptoms & Treatment",
+        "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+        "snippet": "Type 2 Diabetes. Medically Reviewed.Last updated on 11/25/2025. Type 2 diabetes (T2D) is a chronic condition that happens when you have constant high blood sugar. ...",
+        "source": "Cleveland Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://my.clevelandclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8-xN-UORrPh6j7g1JWjIAEwDl-EtctYfrqjn74E2QW5JbKs-QLPNaY-T-tcTiR7Q2DN9uEnztbN3B6WwocTuOe5L2glKO2uzugUBJ"
+      },
+      {
+        "index": 4,
+        "title": "Diagnosis and Treatment of Type 2 Diabetes in Adults: A Review",
+        "link": "https://pubmed.ncbi.nlm.nih.gov/40549398/",
+        "snippet": "Importance: Observations: Risk factors for type 2 diabetes include older age, family history, overweight or obesity, physical inactivity, gestational diabetes, His...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://pubmed.ncbi.nlm.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 5,
+        "title": "Type 2 Diabetes: Symptoms, Causes, and Treatment",
+        "link": "https://www.webmd.com/diabetes/type-2-diabetes",
+        "snippet": "Questions & Answers * How is type 2 diabetes diagnosed? Type 2 diabetes is diagnosed by blood tests and clinical history. The American Diabetes Association (ADA) r...",
+        "source": "WebMD",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.webmd.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4YxAeFQD8SFg56a6IAXmpWW5-hWkO4YHagjPcxfC2tT8W2UE_8YXpn_Hf3PRvhCu_N_3-CzHB7q_iRiBD9Gs0ykwQ8YDWSEXlfM8K"
+      },
+      {
+        "index": 6,
+        "title": "Criteria for Diagnosing Diabetes",
+        "link": "https://www.cigna.com/knowledge-center/hw/criteria-for-diagnosing-diabetes-tj4293",
+        "snippet": "You will be diagnosed with diabetes if you meet one of the following criteria: * You have symptoms of diabetes and a blood sugar level equal to or greater than 200...",
+        "source": "Cigna",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cigna.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Type 2 diabetes - Diagnosis and treatment",
+      "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFXfzicotUrLzhD26z2R2EDC4AeHTqAYhyY9ERxJGaZ-RRN3nzNgHL_PVbLVDkXGJuRMauQKAcrW54dTC2ffRu5U76TIxtrRN6UDon6dCEGENkNu50S0RMkH9ToRUqcx8ZCdv8NAXslusPON9CthhLV7Lvuh5hQ1JWyZ9O3N2kGmpQvdxvmF-x9Ih24CCe3FBqMW84dR5&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.mayoclinic.org \u203a drc-20351199",
+      "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAACQBgCdASocABwAPtFAtFooIqgoFAEAGglpAARBX_c-Vn5s9gDoAeiN-oAdmxuE-_BVxosDUAEtxE7zgiwAAP72At1qeuAvdo_exPmgpO49C5CNOzTrRTOxS2YwieBhOiN8Wq5VLedwP3-uNUfhCZfonVgd1N5nCPwhN6Sn4hAJRpE-DXug776NIhzyWV58pDEiHSAujqY8TOVHhEgoHt1Ur1-jgf9MGlZlrj2c9icAnHv5Fe_Usvufz_2a_v8y216rX72POPsvvX0n8ypPwPPds-8q_cwb_4xfqiuVBgWezhcP7muEkAAA.webp",
+      "date": "Feb 27, 2025",
+      "snippet": "The glycated hemoglobin test most often diagnoses type 2 diabetes. Also called the A1C test, it reflects the average blood sugar level for the ...",
+      "snippet_highlighted_words": [
+        "The glycated hemoglobin test most often diagnoses type 2 diabetes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The glycated hemoglobin test most often diagnoses type 2 diabetes. Also called the A1C test, it reflects the average blood sugar level for the ...",
+          "source_info_link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+          "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAACQBgCdASocABwAPtFAtFooIqgoFAEAGglpAARBX_c-Vn5s9gDoAeiN-oAdmxuE-_BVxosDUAEtxE7zgiwAAP72At1qeuAvdo_exPmgpO49C5CNOzTrRTOxS2YwieBhOiN8Wq5VLedwP3-uNUfhCZfonVgd1N5nCPwhN6Sn4hAJRpE-DXug776NIhzyWV58pDEiHSAujqY8TOVHhEgoHt1Ur1-jgf9MGlZlrj2c9icAnHv5Fe_Usvufz_2a_v8y216rX72POPsvvX0n8ypPwPPds-8q_cwb_4xfqiuVBgWezhcP7muEkAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZYZnppY290VXJMemhEMjZ6MlIyRURDNEFlSFRxQVloeVk5RVJ4SkdhWi1SUk4zbnpOZ0hMX1BWYkxWRGtYR0p1Uk1hdVFLQWNyVzU0ZFRDMmZmUnU1VTc2VEl4dHJSTjZVRG9uNmRDRUdFTmtOdTUwUzBSTWtIOVRvUlVxY3g4WkNkdjhOQVhzbHVzUE9OOUN0aGhMVjdMdnVoNWhRMUpXeVo5TzNOMmtHbXBRdmR4dm1GLXg5SWgyNENDZTNGQnFNVzg0ZFI1EgQaAggAGvoFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1AUIABAAGAAgACoKCgNob3cVZ0KmPyoJCgJpcxUAAAAAKigKBHR5cGUVYumlQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKjIKATIVOnujQBoCaWkaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxVkBclAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMqTgoJZGlhZ25vc2VkFdBBdz8aCGRpYWdub3NlGgpkaWFnbm9zaW5nGglkaWFnbm9zaXMaC3VuZGlhZ25vc2VkGg5pdjtwO2RpYWdub3NlZDLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGWGZ6aWNvdFVyTHpoRDI2ejJSMkVEQzRBZUhUcUFZaHlZOUVSeEpHYVotUlJOM256TmdITF9QVmJMVkRrWEdKdVJNYXVRS0Fjclc1NGRUQzJmZlJ1NVU3NlRJeHRyUk42VURvbjZkQ0VHRU5rTnU1MFMwUk1rSDlUb1JVcWN4OFpDZHY4TkFYc2x1c1BPTjlDdGhoTFY3THZ1aDVoUTFKV3laOU8zTjJrR21wUXZkeHZtRi14OUloMjRDQ2UzRkJxTVc4NGRSNTpFPGI-VHlwZSAyIGRpYWJldGVzPC9iPiAtIDxiPkRpYWdub3NpczwvYj4gYW5kIHRyZWF0bWVudCAtIE1heW8gQ2xpbmljQp4BPGI-VGhlIGdseWNhdGVkIGhlbW9nbG9iaW4gdGVzdCBtb3N0IG9mdGVuIGRpYWdub3NlcyB0eXBlIDIgZGlhYmV0ZXM8L2I-LiBBbHNvIGNhbGxlZCB0aGUgQTFDIHRlc3QsIGl0IHJlZmxlY3RzIHRoZSBhdmVyYWdlIGJsb29kIHN1Z2FyIGxldmVsIGZvciB0aGUmbmJzcDsuLi5KAmlzIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZYZnppY290VXJMemhEMjZ6MlIyRURDNEFlSFRxQVloeVk5RVJ4SkdhWi1SUk4zbnpOZ0hMX1BWYkxWRGtYR0p1Uk1hdVFLQWNyVzU0ZFRDMmZmUnU1VTc2VEl4dHJSTjZVRG9uNmRDRUdFTmtOdTUwUzBSTWtIOVRvUlVxY3g4WkNkdjhOQVhzbHVzUE9OOUN0aGhMVjdMdnVoNWhRMUpXeVo5TzNOMmtHbXBRdmR4dm1GLXg5SWgyNENDZTNGQnFNVzg0ZFI1EgQaAggAGvoFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1AUIABAAGAAgACoKCgNob3cVZ0KmPyoJCgJpcxUAAAAAKigKBHR5cGUVYumlQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKjIKATIVOnujQBoCaWkaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxVkBclAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMqTgoJZGlhZ25vc2VkFdBBdz8aCGRpYWdub3NlGgpkaWFnbm9zaW5nGglkaWFnbm9zaXMaC3VuZGlhZ25vc2VkGg5pdjtwO2RpYWdub3NlZDLeAS9nb3RvP3VybD1DQUVTbWdFQjZ6c3dGWGZ6aWNvdFVyTHpoRDI2ejJSMkVEQzRBZUhUcUFZaHlZOUVSeEpHYVotUlJOM256TmdITF9QVmJMVkRrWEdKdVJNYXVRS0Fjclc1NGRUQzJmZlJ1NVU3NlRJeHRyUk42VURvbjZkQ0VHRU5rTnU1MFMwUk1rSDlUb1JVcWN4OFpDZHY4TkFYc2x1c1BPTjlDdGhoTFY3THZ1aDVoUTFKV3laOU8zTjJrR21wUXZkeHZtRi14OUloMjRDQ2UzRkJxTVc4NGRSNTpFPGI-VHlwZSAyIGRpYWJldGVzPC9iPiAtIDxiPkRpYWdub3NpczwvYj4gYW5kIHRyZWF0bWVudCAtIE1heW8gQ2xpbmljQp4BPGI-VGhlIGdseWNhdGVkIGhlbW9nbG9iaW4gdGVzdCBtb3N0IG9mdGVuIGRpYWdub3NlcyB0eXBlIDIgZGlhYmV0ZXM8L2I-LiBBbHNvIGNhbGxlZCB0aGUgQTFDIHRlc3QsIGl0IHJlZmxlY3RzIHRoZSBhdmVyYWdlIGJsb29kIHN1Z2FyIGxldmVsIGZvciB0aGUmbmJzcDsuLi5KAmlzIgIQAUgAWABoAA",
+      "source": "Mayo Clinic"
+    },
+    {
+      "position": 2,
+      "title": "Diabetes Type 2",
+      "link": "https://medlineplus.gov/diabetestype2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAV7uqUbBcmxmi4ElHOBHXDZev369gyzIBXdBdpAUM8PJQBiW693Re8EBRc49OG2uMNUkpRP6h1Iv_fCEEEwY-EAvKgp2qv9xgaefg0ZCsKap_N6r2gSxOrBGZyuy_V3R8R&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://medlineplus.gov \u203a Health Topics",
+      "favicon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAAAwCACdASocABwAPtEutFooIagoGAEAGglsALElQX4Bb2KHIZTbAYjN7AHPgey-Sqr_YeWPLnbENBt-oaj97zo2tHUxtFHIKcMsAAD-_sLL-Jl_uDJZ3kPS-0rpmFXAi8yf_jtpDTkH8YjY22PU8yXBREm4HdskGS3rJarUNYF6KD6MeiKOWP_JPGlx9vRjdhWb_Cn-Q_jgfkLQzZYxh-__QBy13nobhPwzSV_j2pMrCZNf8TZTkPufg9dvown-0ApATF4VfH0GicemEpaab76PwH1AEeM537GNyXUkqfO0cBFozpjwGJVbDaEfmxIz5hupZIjCOta-ZImS6nyi3UyZb2ODPHF9lVn-jW_NxW4-eRkHTubqGdNeP3zBAgJvH67zJkkrznH-I_Q_PVfujsCJlCDltAHIgRRpHJDAOtlhuPyzqB-rKEbrPt-wOffy4n7mUd_Ejy7_5tVdfMDTIs5Ln7ZLo5dn9U0RS3HQIaHtEuPXY_TB-idKj-Zb3aWkPrElCkDcAAA.webp",
+      "date": "Jan 21, 2026",
+      "snippet": "How is type 2 diabetes diagnosed? \u00b7 A1C test, which measures your average blood glucose level over the past 3 months. \u00b7 Fasting plasma glucose ( ...",
+      "snippet_highlighted_words": [
+        "A1C test, which measures your average blood glucose level over the past 3 months"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Summary",
+            "link": "https://medlineplus.gov/diabetestype2.html#summary"
+          },
+          {
+            "title": "Diagnosis and Tests",
+            "link": "https://medlineplus.gov/diabetestype2.html#cat_92"
+          },
+          {
+            "title": "Living With",
+            "link": "https://medlineplus.gov/diabetestype2.html#cat_77"
+          },
+          {
+            "title": "Related Issues",
+            "link": "https://medlineplus.gov/diabetestype2.html#cat_47"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "How is type 2 diabetes diagnosed? \u00b7 A1C test, which measures your average blood glucose level over the past 3 months. \u00b7 Fasting plasma glucose ( ...",
+          "source_info_link": "https://medlineplus.gov/diabetestype2.html",
+          "icon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAAAwCACdASocABwAPtEutFooIagoGAEAGglsALElQX4Bb2KHIZTbAYjN7AHPgey-Sqr_YeWPLnbENBt-oaj97zo2tHUxtFHIKcMsAAD-_sLL-Jl_uDJZ3kPS-0rpmFXAi8yf_jtpDTkH8YjY22PU8yXBREm4HdskGS3rJarUNYF6KD6MeiKOWP_JPGlx9vRjdhWb_Cn-Q_jgfkLQzZYxh-__QBy13nobhPwzSV_j2pMrCZNf8TZTkPufg9dvown-0ApATF4VfH0GicemEpaab76PwH1AEeM537GNyXUkqfO0cBFozpjwGJVbDaEfmxIz5hupZIjCOta-ZImS6nyi3UyZb2ODPHF9lVn-jW_NxW4-eRkHTubqGdNeP3zBAgJvH67zJkkrznH-I_Q_PVfujsCJlCDltAHIgRRpHJDAOtlhuPyzqB-rKEbrPt-wOffy4n7mUd_Ejy7_5tVdfMDTIs5Ln7ZLo5dn9U0RS3HQIaHtEuPXY_TB-idKj-Zb3aWkPrElCkDcAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjd1cVViQmNteG1pNEVsSE9CSFhEWmV2MzY5Z3l6SUJYZEJkcEFVTThQSlFCaVc2OTNSZThFQlJjNDlPRzJ1TU5Va3BSUDZoMUl2X2ZDRUVFd1ktRUF2S2dwMnF2OXhnYWVmZzBaQ3NLYXBfTjZyMmdTeE9yQkdaeXV5X1YzUjhSEgQaAggAGqEFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-wQIABAAGAAgACoKCgNob3cVFrT0PyoJCgJpcxUAAAAAKigKBHR5cGUVq9vHQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKjIKATIVN2THQBoCaWkaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxWyddpAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMqTgoJZGlhZ25vc2VkFURPPD4aCGRpYWdub3NlGgpkaWFnbm9zaW5nGglkaWFnbm9zaXMaC3VuZGlhZ25vc2VkGg5pdjtwO2RpYWdub3NlZDKWAS9nb3RvP3VybD1DQUVTWlFIck96QVY3dXFVYkJjbXhtaTRFbEhPQkhYRFpldjM2OWd5eklCWGRCZHBBVU04UEpRQmlXNjkzUmU4RUJSYzQ5T0cydU1OVWtwUlA2aDFJdl9mQ0VFRXdZLUVBdktncDJxdjl4Z2FlZmcwWkNzS2FwX042cjJnU3hPckJHWnl1eV9WM1I4UjokPGI-RGlhYmV0ZXMgVHlwZSAyPC9iPiAtIE1lZGxpbmVQbHVzQq4BSG93IGlzIHR5cGUgMiBkaWFiZXRlcyBkaWFnbm9zZWQ_ICZtaWRkb3Q7IDxiPkExQyB0ZXN0LCB3aGljaCBtZWFzdXJlcyB5b3VyIGF2ZXJhZ2UgYmxvb2QgZ2x1Y29zZSBsZXZlbCBvdmVyIHRoZSBwYXN0IDMgbW9udGhzPC9iPi4gJm1pZGRvdDsgRmFzdGluZyBwbGFzbWEgZ2x1Y29zZSAoJm5ic3A7Li4uSgJpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVjd1cVViQmNteG1pNEVsSE9CSFhEWmV2MzY5Z3l6SUJYZEJkcEFVTThQSlFCaVc2OTNSZThFQlJjNDlPRzJ1TU5Va3BSUDZoMUl2X2ZDRUVFd1ktRUF2S2dwMnF2OXhnYWVmZzBaQ3NLYXBfTjZyMmdTeE9yQkdaeXV5X1YzUjhSEgQaAggAGqEFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-wQIABAAGAAgACoKCgNob3cVFrT0PyoJCgJpcxUAAAAAKigKBHR5cGUVq9vHQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKjIKATIVN2THQBoCaWkaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxWyddpAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMqTgoJZGlhZ25vc2VkFURPPD4aCGRpYWdub3NlGgpkaWFnbm9zaW5nGglkaWFnbm9zaXMaC3VuZGlhZ25vc2VkGg5pdjtwO2RpYWdub3NlZDKWAS9nb3RvP3VybD1DQUVTWlFIck96QVY3dXFVYkJjbXhtaTRFbEhPQkhYRFpldjM2OWd5eklCWGRCZHBBVU04UEpRQmlXNjkzUmU4RUJSYzQ5T0cydU1OVWtwUlA2aDFJdl9mQ0VFRXdZLUVBdktncDJxdjl4Z2FlZmcwWkNzS2FwX042cjJnU3hPckJHWnl1eV9WM1I4UjokPGI-RGlhYmV0ZXMgVHlwZSAyPC9iPiAtIE1lZGxpbmVQbHVzQq4BSG93IGlzIHR5cGUgMiBkaWFiZXRlcyBkaWFnbm9zZWQ_ICZtaWRkb3Q7IDxiPkExQyB0ZXN0LCB3aGljaCBtZWFzdXJlcyB5b3VyIGF2ZXJhZ2UgYmxvb2QgZ2x1Y29zZSBsZXZlbCBvdmVyIHRoZSBwYXN0IDMgbW9udGhzPC9iPi4gJm1pZGRvdDsgRmFzdGluZyBwbGFzbWEgZ2x1Y29zZSAoJm5ic3A7Li4uSgJpcyICEAFIAFgAaAA",
+      "source": "MedlinePlus (.gov)",
+      "read_more_link": "https://medlineplus.gov/diabetestype2.html#:~:text=How%20is%20type%202%20diabetes,diagnosed%3F&text=A1C%20test%2C%20which%20measures%20your,over%20the%20past%203%20months.&text=Fasting%20plasma%20glucose%20(FPG)%20test%2C,your%20current%20blood%20glucose%20level."
+    },
+    {
+      "position": 3,
+      "title": "Diabetes Diagnosis & Tests | ADA",
+      "link": "https://diabetes.org/about-diabetes/diagnosis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAVfwmLi-JcjXfURIJ4deAeK2UD6FknLF6y6PWMMnvx70TRz-b-4FbcwWaoHLGuNJxUenNWVwmtCORBBm43YuQj2tlvHBkPRzV9Pcrq3yYKe0dHHDsUmEavH9SzexMH48jWGC2b&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://diabetes.org \u203a About Diabetes",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDlp0OkG_xKlN5JCg0MulNFeu6rf4AAA_tiUnXr9vvaIQAblJsFONqCgaYM8saEfps9Mw6n3g33tpEUYnEy_8EFkMXa-l911l3nSm9H_PoRuxcAzPqmSuPb3CdjDXd43iC4fZevVz2feiKW94VQtwnttwRrXmWJ8SvsMC2q73v4vPX98y5TJd6lBgBIr-Tw6Wh92_byCjHqZnSU8hMiWwhvYvLyWH1SHwa9Av_lN3_JKNMhBVZjKLPtQgEbExZYC4VSxwZ7X_p7B85eKYtUAAA.webp",
+      "snippet": "Diabetes is diagnosed at an A1C of greater than or equal to 6.5% \u00b7 Diabetes is diagnosed at fasting blood glucose of greater than or equal to 126 mg/dl \u00b7 Diabetes ...",
+      "snippet_highlighted_words": [
+        "Diabetes is diagnosed at an A1C of greater than or equal to 6.5"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Diabetes is diagnosed at an A1C of greater than or equal to 6.5% \u00b7 Diabetes is diagnosed at fasting blood glucose of greater than or equal to 126 mg/dl \u00b7 Diabetes ...",
+          "source_info_link": "https://diabetes.org/about-diabetes/diagnosis",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABQBQCdASocABwAPtEutFooIagoGAEAGglsAJ0zNDlp0OkG_xKlN5JCg0MulNFeu6rf4AAA_tiUnXr9vvaIQAblJsFONqCgaYM8saEfps9Mw6n3g33tpEUYnEy_8EFkMXa-l911l3nSm9H_PoRuxcAzPqmSuPb3CdjDXd43iC4fZevVz2feiKW94VQtwnttwRrXmWJ8SvsMC2q73v4vPX98y5TJd6lBgBIr-Tw6Wh92_byCjHqZnSU8hMiWwhvYvLyWH1SHwa9Av_lN3_JKNMhBVZjKLPtQgEbExZYC4VSxwZ7X_p7B85eKYtUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVmZ3bUxpLUpjalhmVVJJSjRkZUFlSzJVRDZGa25MRjZ5NlBXTU1udng3MFRSei1iLTRGYmN3V2FvSExHdU5KeFVlbk5XVndtdENPUkJCbTQzWXVRajJ0bHZIQmtQUnpWOVBjcnEzeVlLZTBkSEhEc1VtRWF2SDlTemV4TUg0OGpXR0MyYhIEGgIIABq-BRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJgFCAAQABgAIAAqCgoDaG93FXMyrz4qCQoCaXMVAAAAACooCgR0eXBlFSCLTEAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyoyCgEyFRx6NEAaAmlpGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMVvSK8QBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzKk4KCWRpYWdub3NlZBW3DMw_GghkaWFnbm9zZRoKZGlhZ25vc2luZxoJZGlhZ25vc2lzGgt1bmRpYWdub3NlZBoOaXY7cDtkaWFnbm9zZWQymgEvZ290bz91cmw9Q0FFU2FBSHJPekFWZndtTGktSmNqWGZVUklKNGRlQWVLMlVENkZrbkxGNnk2UFdNTW52eDcwVFJ6LWItNEZiY3dXYW9ITEd1Tkp4VWVuTldWd210Q09SQkJtNDNZdVFqMnRsdkhCa1BSelY5UGNycTN5WUtlMGRISERzVW1FYXZIOVN6ZXhNSDQ4aldHQzJiOis8Yj5EaWFiZXRlcyBEaWFnbm9zaXM8L2I-ICZhbXA7IFRlc3RzIHwgQURBQsABPGI-RGlhYmV0ZXMgaXMgZGlhZ25vc2VkIGF0IGFuIEExQyBvZiBncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8gNi41PC9iPiUgJm1pZGRvdDsgRGlhYmV0ZXMgaXMgZGlhZ25vc2VkIGF0IGZhc3RpbmcgYmxvb2QgZ2x1Y29zZSBvZiBncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8gMTI2IG1nL2RsICZtaWRkb3Q7IERpYWJldGVzJm5ic3A7Li4uSgJpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVmZ3bUxpLUpjalhmVVJJSjRkZUFlSzJVRDZGa25MRjZ5NlBXTU1udng3MFRSei1iLTRGYmN3V2FvSExHdU5KeFVlbk5XVndtdENPUkJCbTQzWXVRajJ0bHZIQmtQUnpWOVBjcnEzeVlLZTBkSEhEc1VtRWF2SDlTemV4TUg0OGpXR0MyYhIEGgIIABq-BRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJgFCAAQABgAIAAqCgoDaG93FXMyrz4qCQoCaXMVAAAAACooCgR0eXBlFSCLTEAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyoyCgEyFRx6NEAaAmlpGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMVvSK8QBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzKk4KCWRpYWdub3NlZBW3DMw_GghkaWFnbm9zZRoKZGlhZ25vc2luZxoJZGlhZ25vc2lzGgt1bmRpYWdub3NlZBoOaXY7cDtkaWFnbm9zZWQymgEvZ290bz91cmw9Q0FFU2FBSHJPekFWZndtTGktSmNqWGZVUklKNGRlQWVLMlVENkZrbkxGNnk2UFdNTW52eDcwVFJ6LWItNEZiY3dXYW9ITEd1Tkp4VWVuTldWd210Q09SQkJtNDNZdVFqMnRsdkhCa1BSelY5UGNycTN5WUtlMGRISERzVW1FYXZIOVN6ZXhNSDQ4aldHQzJiOis8Yj5EaWFiZXRlcyBEaWFnbm9zaXM8L2I-ICZhbXA7IFRlc3RzIHwgQURBQsABPGI-RGlhYmV0ZXMgaXMgZGlhZ25vc2VkIGF0IGFuIEExQyBvZiBncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8gNi41PC9iPiUgJm1pZGRvdDsgRGlhYmV0ZXMgaXMgZGlhZ25vc2VkIGF0IGZhc3RpbmcgYmxvb2QgZ2x1Y29zZSBvZiBncmVhdGVyIHRoYW4gb3IgZXF1YWwgdG8gMTI2IG1nL2RsICZtaWRkb3Q7IERpYWJldGVzJm5ic3A7Li4uSgJpcyICEAFIAFgAaAA",
+      "source": "American Diabetes Association",
+      "read_more_link": "https://diabetes.org/about-diabetes/diagnosis#:~:text=Diabetes%20is%20diagnosed%20at%20an,than%20or%20equal%20to%206.5%25&text=Diabetes%20is%20diagnosed%20at%20fasting,or%20equal%20to%20126%20mg%2Fdl&text=Diabetes%20is%20diagnosed%20at%20two%2Dhour,or%20equal%20to%20200%20mg%2Fdl"
+    },
+    {
+      "position": 4,
+      "title": "Diabetes Testing",
+      "link": "https://www.cdc.gov/diabetes/diabetes-testing/index.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVZmJRscJY4DTI35mjNyAMI1q5-sPVajkR8AQiMSm1eD8wCCwGSdm2weahOWq57jZQe7OZVNfwrHtbTCWEZnkV7cNg2GaBZl2Pv9vgMC44Jl8OuX-nDz21ZW4Q9EdYRJ0kSIFoBMYpqpgTWYsTkIg&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.cdc.gov \u203a diabetes \u203a diabetes-testing",
+      "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAKwvbRQI1X6gMKQsf8oADnEvQA4zFyuw7K1ep7yX3Mc9MHzVzIAA_vYGEnZ7GZCkKec0QAqLSv3j8o_X37jgyNwkWVZVrub-FX7q6uFaxios4Dc_ZY-BidQhra97zVql4fFJf2Jh16vaAjmewtT5hU5uZlIziV7Ri6D7yIQyaUaJJFbEIl27tJp9j6hYZnXY48fRfpKR0Ip01_zP5HFgfdyv8rmd94h83e39ng_jHo6U6_7pH_6QVT2mvo-fuiFVGzD6r--iDl_DSW1TbocuVbIR1msZfLd_3E_f_SfBr8FWjVW8ji3ew8SEXjZ2Nkq44_isWWB1onm2Vi_dYPjYQXv-fJptVAAAAA.webp",
+      "date": "May 15, 2024",
+      "snippet": "You'll fast (not eat) overnight before the test and have your blood drawn to measure your fasting blood sugar level. Then you'll drink the ...",
+      "snippet_highlighted_words": [
+        "have your blood drawn to measure your fasting blood sugar level"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You'll fast (not eat) overnight before the test and have your blood drawn to measure your fasting blood sugar level. Then you'll drink the ...",
+          "source_info_link": "https://www.cdc.gov/diabetes/diabetes-testing/index.html",
+          "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsAKwvbRQI1X6gMKQsf8oADnEvQA4zFyuw7K1ep7yX3Mc9MHzVzIAA_vYGEnZ7GZCkKec0QAqLSv3j8o_X37jgyNwkWVZVrub-FX7q6uFaxios4Dc_ZY-BidQhra97zVql4fFJf2Jh16vaAjmewtT5hU5uZlIziV7Ri6D7yIQyaUaJJFbEIl27tJp9j6hYZnXY48fRfpKR0Ip01_zP5HFgfdyv8rmd94h83e39ng_jHo6U6_7pH_6QVT2mvo-fuiFVGzD6r--iDl_DSW1TbocuVbIR1msZfLd_3E_f_SfBr8FWjVW8ji3ew8SEXjZ2Nkq44_isWWB1onm2Vi_dYPjYQXv-fJptVAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVlptSlJzY0pZNERUSTM1bWpOeUFNSTFxNS1zUFZhamtSOEFRaU1TbTFlRDh3Q0N3R1NkbTJ3ZWFoT1dxNTdqWlFlN09aVk5md3JIdGJUQ1dFWm5rVjdjTmcyR2FCWmwyUHY5dmdNQzQ0Smw4T3VYLW5EejIxWlc0UTlFZFlSSjBrU0lGb0JNWXBxcGdUV1lzVGtJZxIEGgIIABqhBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPsECAAQABgAIAAqCgoDaG93FUJEaj8qCQoCaXMVAAAAACooCgR0eXBlFc62UkAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyoyCgEyFemKNUAaAmlpGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMVdDjEQBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzKk4KCWRpYWdub3NlZBUAAAAAGghkaWFnbm9zZRoKZGlhZ25vc2luZxoJZGlhZ25vc2lzGgt1bmRpYWdub3NlZBoOaXY7cDtkaWFnbm9zZWQyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWWm1KUnNjSlk0RFRJMzVtak55QU1JMXE1LXNQVmFqa1I4QVFpTVNtMWVEOHdDQ3dHU2RtMndlYWhPV3E1N2paUWU3T1pWTmZ3ckh0YlRDV0VabmtWN2NOZzJHYUJabDJQdjl2Z01DNDRKbDhPdVgtbkR6MjFaVzRROUVkWVJKMGtTSUZvQk1ZcHFwZ1RXWXNUa0lnOh08Yj5EaWFiZXRlczwvYj4gVGVzdGluZyAtIENEQ0KiAVlvdSYjMzk7bGwgZmFzdCAobm90IGVhdCkgb3Zlcm5pZ2h0IGJlZm9yZSB0aGUgdGVzdCBhbmQgPGI-aGF2ZSB5b3VyIGJsb29kIGRyYXduIHRvIG1lYXN1cmUgeW91ciBmYXN0aW5nIGJsb29kIHN1Z2FyIGxldmVsPC9iPi4gVGhlbiB5b3UmIzM5O2xsIGRyaW5rIHRoZSZuYnNwOy4uLkoCaXMiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVlptSlJzY0pZNERUSTM1bWpOeUFNSTFxNS1zUFZhamtSOEFRaU1TbTFlRDh3Q0N3R1NkbTJ3ZWFoT1dxNTdqWlFlN09aVk5md3JIdGJUQ1dFWm5rVjdjTmcyR2FCWmwyUHY5dmdNQzQ0Smw4T3VYLW5EejIxWlc0UTlFZFlSSjBrU0lGb0JNWXBxcGdUV1lzVGtJZxIEGgIIABqhBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPsECAAQABgAIAAqCgoDaG93FUJEaj8qCQoCaXMVAAAAACooCgR0eXBlFc62UkAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyoyCgEyFemKNUAaAmlpGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMVdDjEQBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzKk4KCWRpYWdub3NlZBUAAAAAGghkaWFnbm9zZRoKZGlhZ25vc2luZxoJZGlhZ25vc2lzGgt1bmRpYWdub3NlZBoOaXY7cDtkaWFnbm9zZWQyqQEvZ290bz91cmw9Q0FFU2N3SHJPekFWWm1KUnNjSlk0RFRJMzVtak55QU1JMXE1LXNQVmFqa1I4QVFpTVNtMWVEOHdDQ3dHU2RtMndlYWhPV3E1N2paUWU3T1pWTmZ3ckh0YlRDV0VabmtWN2NOZzJHYUJabDJQdjl2Z01DNDRKbDhPdVgtbkR6MjFaVzRROUVkWVJKMGtTSUZvQk1ZcHFwZ1RXWXNUa0lnOh08Yj5EaWFiZXRlczwvYj4gVGVzdGluZyAtIENEQ0KiAVlvdSYjMzk7bGwgZmFzdCAobm90IGVhdCkgb3Zlcm5pZ2h0IGJlZm9yZSB0aGUgdGVzdCBhbmQgPGI-aGF2ZSB5b3VyIGJsb29kIGRyYXduIHRvIG1lYXN1cmUgeW91ciBmYXN0aW5nIGJsb29kIHN1Z2FyIGxldmVsPC9iPi4gVGhlbiB5b3UmIzM5O2xsIGRyaW5rIHRoZSZuYnNwOy4uLkoCaXMiAhABSABYAGgA",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "read_more_link": "https://www.cdc.gov/diabetes/diabetes-testing/index.html#:~:text=You'll%20fast%20(not%20eat)%20overnight,your%20blood%20sugar%20level%20checked."
+    },
+    {
+      "position": 5,
+      "title": "Type 2 diabetes - Symptoms and diagnosis (Part 1)",
+      "link": "https://www.youtube.com/watch?v=FdLn9IDOfMU",
+      "displayed_link": "3.3K+ views \u00b7 2 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ac7f05c23df789a5f8f1a8d/images/YNvNBAqJeVAhzPOFs_dsob1PYw_8WJB_JYXpX9Amcew.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+      "snippet": "In this video, we explain what type two diabetes is, the symptoms and the variety of tests clinicians use to diagnose the condition.",
+      "duration": "4:55",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=FdLn9IDOfMU&t=0"
+        },
+        {
+          "time": "00:13",
+          "title": "What is type two diabetes?",
+          "link": "https://www.youtube.com/watch?v=FdLn9IDOfMU&t=13"
+        },
+        {
+          "time": "00:49",
+          "title": "How many Australians are living with diabetes?",
+          "link": "https://www.youtube.com/watch?v=FdLn9IDOfMU&t=49"
+        },
+        {
+          "time": "01:18",
+          "title": "Symptoms",
+          "link": "https://www.youtube.com/watch?v=FdLn9IDOfMU&t=78"
+        },
+        {
+          "time": "02:19",
+          "title": "Diagnosis",
+          "link": "https://www.youtube.com/watch?v=FdLn9IDOfMU&t=139"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In this video, we explain what type two diabetes is, the symptoms and the variety of tests clinicians use to diagnose the condition.",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlNIMUtxb0tUX1diWngtSTdBTE9tblNTOWVyaWQ3NTZZOGtZNTFQd09BN3lvVDM2WU83OW1HR0lQYzdCUVg4b0FOWHFnT0FwUU40bWx4dmxvbkg0ZVhCV1lKWW1Wek1IYjJDd1pkMmpCWjlnWDdCRDlGVmJhR3ZOcDMxdkhPN3FJR0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlNIMUtxb0tUX1diWngtSTdBTE9tblNTOWVyaWQ3NTZZOGtZNTFQd09BN3lvVDM2WU83OW1HR0lQYzdCUVg4b0FOWHFnT0FwUU40bWx4dmxvbkg0ZVhCV1lKWW1Wek1IYjJDd1pkMmpCWjlnWDdCRDlGVmJhR3ZOcDMxdkhPN3FJR0ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "YouTube \u00b7 The Royal Melbourne Hospital"
+    },
+    {
+      "position": 6,
+      "title": "Type 2 Diabetes: What It Is, Causes, Symptoms & Treatment",
+      "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVLkyGVHWddt6kbOvwdNhztKtmfr7tqbEjCCVQqOg8FonMKBPOqToArp_cuNy9hmzPQqm0nuCZ9LH3AD_i8-r6ssP01kAMKI8xoy2qneTtZ5c5xZrYmATjNas9NehGrRb6Hq_A3t4PoXbqHq_Qn-I0m4K8gAuZ2fec0EA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://my.clevelandclinic.org \u203a health \u203a diseases \u203a 215...",
+      "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH4dphagCiASX-Fm7ckynuPFJbjKWKUBjC3iljgAAP6HHzR-_TSBGFqnI_ZlPOILnU912_XxcLWYnXgjtO2UWvM4dnC0pV7tzrIeL897H2zXQ4AwwVo4uDTsHodej0SkNnMZjvcQrKaXoFw4__E814MnFQ_OEwyb1z3Csh-td3GjOzO-v5sIJy1nIPW6Bfkx_CrfgDF-MNf1twuwT3pJ_j1fOczGHHyYt6nId4D1D_v4N_YjgvIAeao69eqkn1jwpqMtWY-tltfZXs2xB4OZlsjB0cqZUSWDnSj9sQZ5pv9vbXs-SYAAAA.webp",
+      "date": "Nov 25, 2025",
+      "snippet": "Blood tests can diagnose T2D , and others lower it. Fasting plasma glucose test: You typically get this test in the morning after an eight-hour ...",
+      "snippet_highlighted_words": [
+        "Blood tests can diagnose T2D"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Blood tests can diagnose T2D , and others lower it. Fasting plasma glucose test: You typically get this test in the morning after an eight-hour ...",
+          "source_info_link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhH4dphagCiASX-Fm7ckynuPFJbjKWKUBjC3iljgAAP6HHzR-_TSBGFqnI_ZlPOILnU912_XxcLWYnXgjtO2UWvM4dnC0pV7tzrIeL897H2zXQ4AwwVo4uDTsHodej0SkNnMZjvcQrKaXoFw4__E814MnFQ_OEwyb1z3Csh-td3GjOzO-v5sIJy1nIPW6Bfkx_CrfgDF-MNf1twuwT3pJ_j1fOczGHHyYt6nId4D1D_v4N_YjgvIAeao69eqkn1jwpqMtWY-tltfZXs2xB4OZlsjB0cqZUSWDnSj9sQZ5pv9vbXs-SYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkxreUdWSFdkZHQ2a2JPdndkTmh6dEt0bWZyN3RxYkVqQ0NWUXFPZzhGb25NS0JQT3FUb0FycF9jdU55OWhtelBRcW0wbnVDWjlMSDNBRF9pOC1yNnNzUDAxa0FNS0k4eG95MnFuZVR0WjVjNXhaclltQVRqTmFzOU5laEdyUmI2SHFfQTN0NFBvWGJxSHFfUW4tSTBtNEs4Z0F1WjJmZWMwRUESBBoCCAAa1QUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvBQgAEAAYACAAKgoKA2hvdxXdUKc_KgkKAmlzFQAAAAAqKAoEdHlwZRUaTdNAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqMgoBMhVGJdNAGgJpaRoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFZgK2UAaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlcypOCglkaWFnbm9zZWQVa6bVPhoIZGlhZ25vc2UaCmRpYWdub3NpbmcaCWRpYWdub3NpcxoLdW5kaWFnbm9zZWQaDml2O3A7ZGlhZ25vc2VkMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkxreUdWSFdkZHQ2a2JPdndkTmh6dEt0bWZyN3RxYkVqQ0NWUXFPZzhGb25NS0JQT3FUb0FycF9jdU55OWhtelBRcW0wbnVDWjlMSDNBRF9pOC1yNnNzUDAxa0FNS0k4eG95MnFuZVR0WjVjNXhaclltQVRqTmFzOU5laEdyUmI2SHFfQTN0NFBvWGJxSHFfUW4tSTBtNEs4Z0F1WjJmZWMwRUE6RDxiPlR5cGUgMiBEaWFiZXRlczwvYj46IFdoYXQgSXQgSXMsIENhdXNlcywgU3ltcHRvbXMgJmFtcDsgVHJlYXRtZW50Qp8BPGI-Qmxvb2QgdGVzdHMgY2FuIGRpYWdub3NlIFQyRDwvYj4gLCBhbmQgb3RoZXJzIGxvd2VyIGl0LiBGYXN0aW5nIHBsYXNtYSBnbHVjb3NlIHRlc3Q6IFlvdSB0eXBpY2FsbHkgZ2V0IHRoaXMgdGVzdCBpbiB0aGUgbW9ybmluZyBhZnRlciBhbiBlaWdodC1ob3VyJm5ic3A7Li4uSgJpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkxreUdWSFdkZHQ2a2JPdndkTmh6dEt0bWZyN3RxYkVqQ0NWUXFPZzhGb25NS0JQT3FUb0FycF9jdU55OWhtelBRcW0wbnVDWjlMSDNBRF9pOC1yNnNzUDAxa0FNS0k4eG95MnFuZVR0WjVjNXhaclltQVRqTmFzOU5laEdyUmI2SHFfQTN0NFBvWGJxSHFfUW4tSTBtNEs4Z0F1WjJmZWMwRUESBBoCCAAa1QUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvBQgAEAAYACAAKgoKA2hvdxXdUKc_KgkKAmlzFQAAAAAqKAoEdHlwZRUaTdNAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqMgoBMhVGJdNAGgJpaRoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFZgK2UAaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlcypOCglkaWFnbm9zZWQVa6bVPhoIZGlhZ25vc2UaCmRpYWdub3NpbmcaCWRpYWdub3NpcxoLdW5kaWFnbm9zZWQaDml2O3A7ZGlhZ25vc2VkMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkxreUdWSFdkZHQ2a2JPdndkTmh6dEt0bWZyN3RxYkVqQ0NWUXFPZzhGb25NS0JQT3FUb0FycF9jdU55OWhtelBRcW0wbnVDWjlMSDNBRF9pOC1yNnNzUDAxa0FNS0k4eG95MnFuZVR0WjVjNXhaclltQVRqTmFzOU5laEdyUmI2SHFfQTN0NFBvWGJxSHFfUW4tSTBtNEs4Z0F1WjJmZWMwRUE6RDxiPlR5cGUgMiBEaWFiZXRlczwvYj46IFdoYXQgSXQgSXMsIENhdXNlcywgU3ltcHRvbXMgJmFtcDsgVHJlYXRtZW50Qp8BPGI-Qmxvb2QgdGVzdHMgY2FuIGRpYWdub3NlIFQyRDwvYj4gLCBhbmQgb3RoZXJzIGxvd2VyIGl0LiBGYXN0aW5nIHBsYXNtYSBnbHVjb3NlIHRlc3Q6IFlvdSB0eXBpY2FsbHkgZ2V0IHRoaXMgdGVzdCBpbiB0aGUgbW9ybmluZyBhZnRlciBhbiBlaWdodC1ob3VyJm5ic3A7Li4uSgJpcyICEAFIAFgAaAA",
+      "source": "Cleveland Clinic"
+    },
+    {
+      "position": 7,
+      "title": "Criteria for Diagnosing Diabetes",
+      "link": "https://www.cigna.com/knowledge-center/hw/criteria-for-diagnosing-diabetes-tj4293",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFWLR2zANtk0o--JXM-jtvVplm9toaOOAs5-IFoYMiPgEGgEc8TFrUFt9tO9jfwtsg1dnZiQlBYVNLPYKJqrCdyc_nVawFiMg71pukjMCuFZWKY_nVUoUSD4yFjEIPHu4Z2lSra8EmB7B6dBxDx6C5R3VhqR1S0ZOSnV2d1sG7pfhZFaQOrJJ_A&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECEgQAQ&uoh=1",
+      "displayed_link": "https://www.cigna.com \u203a ... \u203a Wellness Library",
+      "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABQBQCdASogABcAPtEutFooIagoGAEAGglsALEe43tX-3iUAMT8e0qmciTiXK6f9qmUxAAA_vYJyp7zrHiX97LsIhH9pGaJjLynT0RKG957tdTXrN0CJq33X-tU7kvNSpGHcLa22f5fo2IJ_s3X4LQIppRodJsqPQmbjlrce6jnyjjE8qRg97f9P9CFjbbjw7RGzIWmPAWezv2AxVT_604_Tv2JQPd8Tf_7Qfeo2f74xkll76teH-6o9tCpHI2Cu18GmkJr_8_8yg1Djxj7ifQAAAA.webp",
+      "snippet": "You have symptoms of diabetes and a blood sugar level equal to or greater than 200 mg/dL. \u00b7 Your fasting blood sugar level is equal to or greater than 126 mg/dL.",
+      "snippet_highlighted_words": [
+        "You have symptoms of diabetes and a blood sugar level equal to or greater than 200 mg/dL"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You have symptoms of diabetes and a blood sugar level equal to or greater than 200 mg/dL. \u00b7 Your fasting blood sugar level is equal to or greater than 126 mg/dL.",
+          "source_info_link": "https://www.cigna.com/knowledge-center/hw/criteria-for-diagnosing-diabetes-tj4293",
+          "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABQBQCdASogABcAPtEutFooIagoGAEAGglsALEe43tX-3iUAMT8e0qmciTiXK6f9qmUxAAA_vYJyp7zrHiX97LsIhH9pGaJjLynT0RKG957tdTXrN0CJq33X-tU7kvNSpGHcLa22f5fo2IJ_s3X4LQIppRodJsqPQmbjlrce6jnyjjE8qRg97f9P9CFjbbjw7RGzIWmPAWezv2AxVT_604_Tv2JQPd8Tf_7Qfeo2f74xkll76teH-6o9tCpHI2Cu18GmkJr_8_8yg1Djxj7ifQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZXTFIyekFOdGswby0tSlhNLWp0dlZwbG05dG9hT09BczUtSUZvWU1pUGdFR2dFYzhURnJVRnQ5dE85amZ3dHNnMWRuWmlRbEJZVk5MUFlLSnFyQ2R5Y19uVmF3RmlNZzcxcHVrak1DdUZaV0tZX25WVW9VU0Q0eUZqRUlQSHU0WjJsU3JhOEVtQjdCNmRCeER4NkM1UjNWaHFSMVMwWk9TblYyZDFzRzdwZmhaRmFRT3JKSl9BEgQaAggAGuMFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAvQUIABAAGAAgACoKCgNob3cVm017PyoJCgJpcxUAAAAAKigKBHR5cGUVX9jjPxoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKjIKATIViL2lPxoCaWkaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxVc4LhAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMqTgoJZGlhZ25vc2VkFeYRhz8aCGRpYWdub3NlGgpkaWFnbm9zaW5nGglkaWFnbm9zaXMaC3VuZGlhZ25vc2VkGg5pdjtwO2RpYWdub3NlZDLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGV0xSMnpBTnRrMG8tLUpYTS1qdHZWcGxtOXRvYU9PQXM1LUlGb1lNaVBnRUdnRWM4VEZyVUZ0OXRPOWpmd3RzZzFkblppUWxCWVZOTFBZS0pxckNkeWNfblZhd0ZpTWc3MXB1a2pNQ3VGWldLWV9uVlVvVVNENHlGakVJUEh1NFoybFNyYThFbUI3QjZkQnhEeDZDNVIzVmhxUjFTMFpPU25WMmQxc0c3cGZoWkZhUU9ySkpfQTovQ3JpdGVyaWEgZm9yIDxiPkRpYWdub3NpbmcgRGlhYmV0ZXM8L2I-IC0gQ2lnbmFCrwE8Yj5Zb3UgaGF2ZSBzeW1wdG9tcyBvZiBkaWFiZXRlcyBhbmQgYSBibG9vZCBzdWdhciBsZXZlbCBlcXVhbCB0byBvciBncmVhdGVyIHRoYW4gMjAwIG1nL2RMPC9iPi4gJm1pZGRvdDsgWW91ciBmYXN0aW5nIGJsb29kIHN1Z2FyIGxldmVsIGlzIGVxdWFsIHRvIG9yIGdyZWF0ZXIgdGhhbiAxMjYgbWcvZEwuSgJpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZXTFIyekFOdGswby0tSlhNLWp0dlZwbG05dG9hT09BczUtSUZvWU1pUGdFR2dFYzhURnJVRnQ5dE85amZ3dHNnMWRuWmlRbEJZVk5MUFlLSnFyQ2R5Y19uVmF3RmlNZzcxcHVrak1DdUZaV0tZX25WVW9VU0Q0eUZqRUlQSHU0WjJsU3JhOEVtQjdCNmRCeER4NkM1UjNWaHFSMVMwWk9TblYyZDFzRzdwZmhaRmFRT3JKSl9BEgQaAggAGuMFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAvQUIABAAGAAgACoKCgNob3cVm017PyoJCgJpcxUAAAAAKigKBHR5cGUVX9jjPxoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKjIKATIViL2lPxoCaWkaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxVc4LhAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMqTgoJZGlhZ25vc2VkFeYRhz8aCGRpYWdub3NlGgpkaWFnbm9zaW5nGglkaWFnbm9zaXMaC3VuZGlhZ25vc2VkGg5pdjtwO2RpYWdub3NlZDLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGV0xSMnpBTnRrMG8tLUpYTS1qdHZWcGxtOXRvYU9PQXM1LUlGb1lNaVBnRUdnRWM4VEZyVUZ0OXRPOWpmd3RzZzFkblppUWxCWVZOTFBZS0pxckNkeWNfblZhd0ZpTWc3MXB1a2pNQ3VGWldLWV9uVlVvVVNENHlGakVJUEh1NFoybFNyYThFbUI3QjZkQnhEeDZDNVIzVmhxUjFTMFpPU25WMmQxc0c3cGZoWkZhUU9ySkpfQTovQ3JpdGVyaWEgZm9yIDxiPkRpYWdub3NpbmcgRGlhYmV0ZXM8L2I-IC0gQ2lnbmFCrwE8Yj5Zb3UgaGF2ZSBzeW1wdG9tcyBvZiBkaWFiZXRlcyBhbmQgYSBibG9vZCBzdWdhciBsZXZlbCBlcXVhbCB0byBvciBncmVhdGVyIHRoYW4gMjAwIG1nL2RMPC9iPi4gJm1pZGRvdDsgWW91ciBmYXN0aW5nIGJsb29kIHN1Z2FyIGxldmVsIGlzIGVxdWFsIHRvIG9yIGdyZWF0ZXIgdGhhbiAxMjYgbWcvZEwuSgJpcyICEAFIAFgAaAA",
+      "source": "Cigna",
+      "read_more_link": "https://www.cigna.com/knowledge-center/hw/criteria-for-diagnosing-diabetes-tj4293#:~:text=You%20have%20symptoms%20of%20diabetes,or%20greater%20than%20200%20mg%2FdL.&text=Your%20fasting%20blood%20sugar%20level,or%20greater%20than%20126%20mg%2FdL."
+    },
+    {
+      "position": 8,
+      "title": "Diagnosing Type 2 Diabetes",
+      "link": "https://nyulangone.org/conditions/type-2-diabetes/diagnosis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV4ov0U2AGfXtybtHLH9jPa2czJk4AwjjNsDSQvU9rt2bKih0fiGA_ouI4VbC2rRlNlLvd61nEr-wgWiVorSGFsuMxeyg8U4ky2WWEmBHYhspn1wrYu-e6egTxoeIOYIHrDK3e1JRUHZ7eVDBbRhuj76A&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECE8QAQ&uoh=1",
+      "displayed_link": "https://nyulangone.org \u203a type-2-diabetes \u203a diagnosis",
+      "favicon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAACQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHA3qvFBPFwANsB5gOg951XUwegB0qoIy4xboDlXy-icIO9Loef2BmocIPakJ-OeAAD--LppLs_r_AkYI3fW5UX82YaYHYTErgyKxE_Ai4cqA7T_6LVh_0-uBXcfZz_KG2phyLf812VJSlUM39f_P_Kzx2eI2v_JHcmxzVBN9PyMo_s_pN4nN9DUYFV2Bv2gh6vASTDjdQoCG_KpXdixSi3ki-mt5TENyXB53n9VT6-W8TXgD7mNl7dLgaRhm2cA0s1z8YXBxfYaxJgvsRlZ7Xs0k1J_S8gRaT3cYC19yEjb7yRMIh_jCV3yDfmV38iaolEhiLT0AtEU4fiJsUp__m3Q09Ztmt5JK_3-y3tNs3vn51hf9XLV5Dk-UqlYL9f126pQPGnMm3ac6hrV_zl3xxMcd_2RV-I7wLThYhMaM3LF76GyAvfkgCAA.webp",
+      "snippet": "NYU Langone specialists diagnose type 2 diabetes by measuring the amount of glucose, or sugar, in the blood. Learn more.",
+      "snippet_highlighted_words": [
+        "measuring the amount of glucose, or sugar, in the blood"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Risk Factors",
+            "link": "https://nyulangone.org/conditions/type-2-diabetes/diagnosis#:~:text=Risk%20Factors,-Being%20overweight%2C%20especially%20if"
+          },
+          {
+            "title": "Long-Term Effects",
+            "link": "https://nyulangone.org/conditions/type-2-diabetes/diagnosis#:~:text=Long%2DTerm%20Effects"
+          },
+          {
+            "title": "Diagnostic Tests",
+            "link": "https://nyulangone.org/conditions/type-2-diabetes/diagnosis#:~:text=Diagnostic%20Tests"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "NYU Langone specialists diagnose type 2 diabetes by measuring the amount of glucose, or sugar, in the blood. Learn more.",
+          "source_info_link": "https://nyulangone.org/conditions/type-2-diabetes/diagnosis",
+          "icon": "https://serpapi.com/images/i/UklGRnIBAABXRUJQVlA4IGYBAACQCACdASocABwAPrUurVanIacnG_DgFolsAJ0yhHA3qvFBPFwANsB5gOg951XUwegB0qoIy4xboDlXy-icIO9Loef2BmocIPakJ-OeAAD--LppLs_r_AkYI3fW5UX82YaYHYTErgyKxE_Ai4cqA7T_6LVh_0-uBXcfZz_KG2phyLf812VJSlUM39f_P_Kzx2eI2v_JHcmxzVBN9PyMo_s_pN4nN9DUYFV2Bv2gh6vASTDjdQoCG_KpXdixSi3ki-mt5TENyXB53n9VT6-W8TXgD7mNl7dLgaRhm2cA0s1z8YXBxfYaxJgvsRlZ7Xs0k1J_S8gRaT3cYC19yEjb7yRMIh_jCV3yDfmV38iaolEhiLT0AtEU4fiJsUp__m3Q09Ztmt5JK_3-y3tNs3vn51hf9XLV5Dk-UqlYL9f126pQPGnMm3ac6hrV_zl3xxMcd_2RV-I7wLThYhMaM3LF76GyAvfkgCAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjRvdjBVMkFHZlh0eWJ0SExIOWpQYTJjekprNEF3ampOc0RTUXZVOXJ0MmJLaWgwZmlHQV9vdUk0VmJDMnJSbE5sTHZkNjFuRXItd2dXaVZvclNHRnN1TXhleWc4VTRreTJXV0VtQkhZaHNwbjF3cll1LWU2ZWdUeG9lSU9ZSUhyREszZTFKUlVIWjdlVkRCYlJodWo3NkESBBoCCAAanAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQPQECAAQABgAIAAqCgoDaG93FRmiHz8qCQoCaXMVAAAAACooCgR0eXBlFU6utEAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyoyCgEyFevcs0AaAmlpGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMV3ta2QBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzKk4KCWRpYWdub3NlZBUAAAAAGghkaWFnbm9zZRoKZGlhZ25vc2luZxoJZGlhZ25vc2lzGgt1bmRpYWdub3NlZBoOaXY7cDtkaWFnbm9zZWQyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWNG92MFUyQUdmWHR5YnRITEg5alBhMmN6Sms0QXdqak5zRFNRdlU5cnQyYktpaDBmaUdBX291STRWYkMyclJsTmxMdmQ2MW5Fci13Z1dpVm9yU0dGc3VNeGV5ZzhVNGt5MldXRW1CSFloc3BuMXdyWXUtZTZlZ1R4b2VJT1lJSHJESzNlMUpSVUhaN2VWREJiUmh1ajc2QTo2PGI-RGlhZ25vc2luZyBUeXBlIDIgRGlhYmV0ZXM8L2I-IHwgTllVIExhbmdvbmUgSGVhbHRoQn9OWVUgTGFuZ29uZSBzcGVjaWFsaXN0cyBkaWFnbm9zZSB0eXBlIDIgZGlhYmV0ZXMgYnkgPGI-bWVhc3VyaW5nIHRoZSBhbW91bnQgb2YgZ2x1Y29zZSwgb3Igc3VnYXIsIGluIHRoZSBibG9vZDwvYj4uIExlYXJuIG1vcmUuSgJpcyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjRvdjBVMkFHZlh0eWJ0SExIOWpQYTJjekprNEF3ampOc0RTUXZVOXJ0MmJLaWgwZmlHQV9vdUk0VmJDMnJSbE5sTHZkNjFuRXItd2dXaVZvclNHRnN1TXhleWc4VTRreTJXV0VtQkhZaHNwbjF3cll1LWU2ZWdUeG9lSU9ZSUhyREszZTFKUlVIWjdlVkRCYlJodWo3NkESBBoCCAAanAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQPQECAAQABgAIAAqCgoDaG93FRmiHz8qCQoCaXMVAAAAACooCgR0eXBlFU6utEAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyoyCgEyFevcs0AaAmlpGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMV3ta2QBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzKk4KCWRpYWdub3NlZBUAAAAAGghkaWFnbm9zZRoKZGlhZ25vc2luZxoJZGlhZ25vc2lzGgt1bmRpYWdub3NlZBoOaXY7cDtkaWFnbm9zZWQyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWNG92MFUyQUdmWHR5YnRITEg5alBhMmN6Sms0QXdqak5zRFNRdlU5cnQyYktpaDBmaUdBX291STRWYkMyclJsTmxMdmQ2MW5Fci13Z1dpVm9yU0dGc3VNeGV5ZzhVNGt5MldXRW1CSFloc3BuMXdyWXUtZTZlZ1R4b2VJT1lJSHJESzNlMUpSVUhaN2VWREJiUmh1ajc2QTo2PGI-RGlhZ25vc2luZyBUeXBlIDIgRGlhYmV0ZXM8L2I-IHwgTllVIExhbmdvbmUgSGVhbHRoQn9OWVUgTGFuZ29uZSBzcGVjaWFsaXN0cyBkaWFnbm9zZSB0eXBlIDIgZGlhYmV0ZXMgYnkgPGI-bWVhc3VyaW5nIHRoZSBhbW91bnQgb2YgZ2x1Y29zZSwgb3Igc3VnYXIsIGluIHRoZSBibG9vZDwvYj4uIExlYXJuIG1vcmUuSgJpcyICEAFIAFgAaAA",
+      "source": "NYU Langone Health"
+    },
+    {
+      "position": 9,
+      "title": "Diabetes Tests & Diagnosis - NIDDK",
+      "link": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFd3Ca6jVV8UBOw2qwdIS6bCrpu92_cbbxkPI8BQjonU8s0ggUuNlkfMUJeXJU6VAPCnS4s2tJFv7hT12eM7RuH24C2tjJvoT1WZ6cd8rIwbESN8HYVocs0jm270kAJiVfbA0OhS-Y4LUKqjATwHg5DvkCxRZPN0xh3fyyctu4nnRvjgDvA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQFnoECEkQAQ&uoh=1",
+      "displayed_link": "https://www.niddk.nih.gov \u203a ... \u203a Diabetes Overview",
+      "favicon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAAAQBgCdASocABwAPtE-tFooIigoFAEAGgllAAgQVSeOT9AVAEhhy3sqXvBbaSiLHJ4JJqlcbAXp2QAA_vtjJG7xqry4KqZDq_YTsX6qztvBiYIOxzjAcyolY8cxOKttNg1j8iZN6Tu64Nx_fP72f_9gMiEoKeeJ3wsL4923hv4QRXrX15zjHuJAPRLpQcPW1_e12za4a4sBqMQ9psQpLJ7wPG5yNeho9CHJN8f8xPVwPMfp1hqcKCZyZTl6zUHPa4lOOdfs9QgZv3oEUBa8oN-qV-SlE2cf_6ZYHQG4YL7fbd1iqsKFA34_4Wjij0HtyIahbHzzz9Yae6YkW-nb_y-PyfpFw5hu3o_s_QXb5CvsIKZjARchZS4v92wX2InFnrLMzVbb0hsEvXC-Hl6pX7Mbqad__VPSIOa98mMbHwu7Y1OXAoj29Ml4GlZB7PM78w8RGeXwehU0th-oQAA.webp",
+      "snippet": "The oral glucose tolerance test (OGTT) helps doctors detect type 2 diabetes, prediabetes, and gestational diabetes. However, the OGTT is a more expensive test ...",
+      "snippet_highlighted_words": [
+        "oral glucose tolerance test (OGTT"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The oral glucose tolerance test (OGTT) helps doctors detect type 2 diabetes, prediabetes, and gestational diabetes. However, the OGTT is a more expensive test ...",
+          "source_info_link": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis",
+          "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAAAQBgCdASocABwAPtE-tFooIigoFAEAGgllAAgQVSeOT9AVAEhhy3sqXvBbaSiLHJ4JJqlcbAXp2QAA_vtjJG7xqry4KqZDq_YTsX6qztvBiYIOxzjAcyolY8cxOKttNg1j8iZN6Tu64Nx_fP72f_9gMiEoKeeJ3wsL4923hv4QRXrX15zjHuJAPRLpQcPW1_e12za4a4sBqMQ9psQpLJ7wPG5yNeho9CHJN8f8xPVwPMfp1hqcKCZyZTl6zUHPa4lOOdfs9QgZv3oEUBa8oN-qV-SlE2cf_6ZYHQG4YL7fbd1iqsKFA34_4Wjij0HtyIahbHzzz9Yae6YkW-nb_y-PyfpFw5hu3o_s_QXb5CvsIKZjARchZS4v92wX2InFnrLMzVbb0hsEvXC-Hl6pX7Mbqad__VPSIOa98mMbHwu7Y1OXAoj29Ml4GlZB7PM78w8RGeXwehU0th-oQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZkM0NhNmpWVjhVQk93MnF3ZElTNmJDcnB1OTJfY2JieGtQSThCUWpvblU4czBnZ1V1TmxrZk1VSmVYSlU2VkFQQ25TNHMydEpGdjdoVDEyZU03UnVIMjRDMnRqSnZvVDFXWjZjZDhySXdiRVNOOEhZVm9jczBqbTI3MGtBSmlWZmJBME9oUy1ZNExVS3FqQVR3SGc1RHZrQ3hSWlBOMHhoM2Z5eWN0dTRublJ2amdEdkESBBoCCAAa4wUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BQgAEAAYACAAKgoKA2hvdxUovQs_KgkKAmlzFQAAAAAqKAoEdHlwZRVCYnpAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqMgoBMhUCPGBAGgJpaRoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFXLH90AaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlcypOCglkaWFnbm9zZWQV9zdFPxoIZGlhZ25vc2UaCmRpYWdub3NpbmcaCWRpYWdub3NpcxoLdW5kaWFnbm9zZWQaDml2O3A7ZGlhZ25vc2VkMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZkM0NhNmpWVjhVQk93MnF3ZElTNmJDcnB1OTJfY2JieGtQSThCUWpvblU4czBnZ1V1TmxrZk1VSmVYSlU2VkFQQ25TNHMydEpGdjdoVDEyZU03UnVIMjRDMnRqSnZvVDFXWjZjZDhySXdiRVNOOEhZVm9jczBqbTI3MGtBSmlWZmJBME9oUy1ZNExVS3FqQVR3SGc1RHZrQ3hSWlBOMHhoM2Z5eWN0dTRublJ2amdEdkE6NDxiPkRpYWJldGVzPC9iPiBUZXN0cyAmYW1wOyA8Yj5EaWFnbm9zaXM8L2I-IC0gTklEREtCrgFUaGUgPGI-b3JhbCBnbHVjb3NlIHRvbGVyYW5jZSB0ZXN0IChPR1RUPC9iPikgaGVscHMgZG9jdG9ycyBkZXRlY3QgdHlwZSAyIGRpYWJldGVzLCBwcmVkaWFiZXRlcywgYW5kIGdlc3RhdGlvbmFsIGRpYWJldGVzLiBIb3dldmVyLCB0aGUgT0dUVCBpcyBhIG1vcmUgZXhwZW5zaXZlIHRlc3QmbmJzcDsuLi5KAmlzIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZkM0NhNmpWVjhVQk93MnF3ZElTNmJDcnB1OTJfY2JieGtQSThCUWpvblU4czBnZ1V1TmxrZk1VSmVYSlU2VkFQQ25TNHMydEpGdjdoVDEyZU03UnVIMjRDMnRqSnZvVDFXWjZjZDhySXdiRVNOOEhZVm9jczBqbTI3MGtBSmlWZmJBME9oUy1ZNExVS3FqQVR3SGc1RHZrQ3hSWlBOMHhoM2Z5eWN0dTRublJ2amdEdkESBBoCCAAa4wUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BQgAEAAYACAAKgoKA2hvdxUovQs_KgkKAmlzFQAAAAAqKAoEdHlwZRVCYnpAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqMgoBMhUCPGBAGgJpaRoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFXLH90AaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlcypOCglkaWFnbm9zZWQV9zdFPxoIZGlhZ25vc2UaCmRpYWdub3NpbmcaCWRpYWdub3NpcxoLdW5kaWFnbm9zZWQaDml2O3A7ZGlhZ25vc2VkMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZkM0NhNmpWVjhVQk93MnF3ZElTNmJDcnB1OTJfY2JieGtQSThCUWpvblU4czBnZ1V1TmxrZk1VSmVYSlU2VkFQQ25TNHMydEpGdjdoVDEyZU03UnVIMjRDMnRqSnZvVDFXWjZjZDhySXdiRVNOOEhZVm9jczBqbTI3MGtBSmlWZmJBME9oUy1ZNExVS3FqQVR3SGc1RHZrQ3hSWlBOMHhoM2Z5eWN0dTRublJ2amdEdkE6NDxiPkRpYWJldGVzPC9iPiBUZXN0cyAmYW1wOyA8Yj5EaWFnbm9zaXM8L2I-IC0gTklEREtCrgFUaGUgPGI-b3JhbCBnbHVjb3NlIHRvbGVyYW5jZSB0ZXN0IChPR1RUPC9iPikgaGVscHMgZG9jdG9ycyBkZXRlY3QgdHlwZSAyIGRpYWJldGVzLCBwcmVkaWFiZXRlcywgYW5kIGdlc3RhdGlvbmFsIGRpYWJldGVzLiBIb3dldmVyLCB0aGUgT0dUVCBpcyBhIG1vcmUgZXhwZW5zaXZlIHRlc3QmbmJzcDsuLi5KAmlzIgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://www.niddk.nih.gov/health-information/diabetes/overview/tests-diagnosis#:~:text=The%20oral%20glucose%20tolerance%20test,not%20as%20easy%20to%20give."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "How is type 2 diabetes treated",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=How+is+type+2+diabetes+treated&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=How+is+type+2+diabetes+treated"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes is it dangerous",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=Type+2+diabetes+is+it+dangerous&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+is+it+dangerous"
+    },
+    {
+      "block_position": 1,
+      "query": "What level of blood sugar is dangerous for type 2 diabetes",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=What+level+of+blood+sugar+is+dangerous+for+type+2+diabetes&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+level+of+blood+sugar+is+dangerous+for+type+2+diabetes"
+    },
+    {
+      "block_position": 1,
+      "query": "Just diagnosed with type 2 diabetes what can I eat",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=Just+diagnosed+with+type+2+diabetes+what+can+I+eat&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Just+diagnosed+with+type+2+diabetes+what+can+I+eat"
+    },
+    {
+      "block_position": 1,
+      "query": "Newly diagnosed type 2 diabetes guidelines",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=Newly+diagnosed+type+2+diabetes+guidelines&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Newly+diagnosed+type+2+diabetes+guidelines"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes effects",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=Type+2+diabetes+effects&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+effects"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes prevention",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=Type+2+diabetes+prevention&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+prevention"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes blood sugar levels chart",
+      "link": "https://www.google.com/search?sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&q=Type+2+diabetes+blood+sugar+levels+chart&sa=X&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+blood+sugar+levels+chart"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=10&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=10&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=20&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=30&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=40&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=50&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=60&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=70&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=80&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=how+is+type+2+diabetes+diagnosed&sca_esv=ad2f53e9788d7fab&hl=en&gl=us&sxsrf=APpeQnsV6v0Gub3IJBnpsCVh44N3jBahJg:1791488100772&ei=ZPDHarjZLq6BhbIPsbCr0QI&start=90&sa=N&sstk=AS6-VmJYZ7YvX_d3jmg2h9l0n-kIQtC2jT2_suJiJu-DIoKfyD6mgyPutHleql_mvIQkXrxhSVfH2WMcymQA_q5S-ZVuoSNaiKVZgA&ved=2ahUKEwi4m_aelauXAxWuQEEAHTHYKioQ8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=how+is+type+2+diabetes+diagnosed&start=90"
+    }
+  }
+}
