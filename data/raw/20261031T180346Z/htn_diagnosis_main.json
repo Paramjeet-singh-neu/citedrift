@@ -1,0 +1,565 @@
+{
+  "search_metadata": {
+    "id": "6ae62d921389b14079b072e8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Z7qBgXbRJg3cfZGbOcSy1kjMl1fA0tlXxwlNU1vkr14/6ae62d921389b14079b072e8.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Z7qBgXbRJg3cfZGbOcSy1kjMl1fA0tlXxwlNU1vkr14/6ae62d921389b14079b072e8.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Z7qBgXbRJg3cfZGbOcSy1kjMl1fA0tlXxwlNU1vkr14/6ae62d921389b14079b072e8.json_with_pixel_position",
+    "created_at": "2026-10-31 18:04:02 UTC",
+    "processed_at": "2026-10-31 18:04:02 UTC",
+    "google_url": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&oq=what+blood+pressure+numbers+are+considered+high&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Z7qBgXbRJg3cfZGbOcSy1kjMl1fA0tlXxwlNU1vkr14/6ae62d921389b14079b072e8.html",
+    "total_time_taken": 0.61
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "what blood pressure numbers are considered high",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "what blood pressure numbers are considered high",
+    "total_results": 142,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Which number is more serious for blood pressure?",
+      "type": "ai_overview",
+      "page_token": "19Dre3icHdBRToMwGADgeBkftzHGjEsWE1zpINJJaYv0xUCBMfkLbNSBe_MunsrTmPgd4fv-gVPb_N5da2P6YTOfj-M4O3bdEcqZ6vQ8G75aNVcZQJ6pZrN-WFtPldqiT999PvtuxClKoYCURU7eWCAtZQgmeyrgnHDnkjI5yiR00laEwpPXUsNO4ICXDdgHDGu5p0gsaueA60ZgExOvwAI5jDUBeVsMq2J5tMmS-glSTnYLdCYA5zromU0nIQhw4aZKwCKCdMGtoFWJqUqgN-p5WrWykhwu3CI4x8FINISZoK-M1VOa1BP7gCDmw5TjiYdJ4OY7vooT0lNuKKqLS8aISd_kFCNzpXiwmH6M1K2xqS5cTrtTxOtDiLgdY6d6Ef6tREaTve8kQuxKbnWysWSu_VXm9ZhH95W6bu37_8_te6XNpr90xz-nCIQT",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=19Dre3icHdBRToMwGADgeBkftzHGjEsWE1zpINJJaYv0xUCBMfkLbNSBe_MunsrTmPgd4fv-gVPb_N5da2P6YTOfj-M4O3bdEcqZ6vQ8G75aNVcZQJ6pZrN-WFtPldqiT999PvtuxClKoYCURU7eWCAtZQgmeyrgnHDnkjI5yiR00laEwpPXUsNO4ICXDdgHDGu5p0gsaueA60ZgExOvwAI5jDUBeVsMq2J5tMmS-glSTnYLdCYA5zromU0nIQhw4aZKwCKCdMGtoFWJqUqgN-p5WrWykhwu3CI4x8FINISZoK-M1VOa1BP7gCDmw5TjiYdJ4OY7vooT0lNuKKqLS8aISd_kFCNzpXiwmH6M1K2xqS5cTrtTxOtDiLgdY6d6Ef6tREaTve8kQuxKbnWysWSu_VXm9ZhH95W6bu37_8_te6XNpr90xz-nCIQT",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiV2hpY2ggbnVtYmVyIGlzIG1vcmUgc2VyaW91cyBmb3IgYmxvb2QgcHJlc3N1cmU/IiwibGsiOiJHaTkzYUdsamFDQnVkVzFpWlhJZ2FYTWdiVzl5WlNCelpYSnBiM1Z6SUdadmNpQmliRzl2WkNCd2NtVnpjM1Z5WlEiLCJicyI6ImM1MlB2UTZDUUJDRVEzdVZOWW02aGRvS3hNYnFwTlBLd29LYW40Vzk1SERKTFVoNEFOOWJvcDBhb3liVHpjdzNHWVVxU01qa0JPZXV6dENCRWFqWklRZzZ3NTFBeVE0eXkxeEE0MUNrYzZpajBGXzN2M1hVVVMzMzNFUEJLQ0FXc1lHMExERnZYOWdyZjBGZkJGV3NaZ2tOOS1uaHlRTXlGZWxvN2tfN1R3bDE5ZFR1Uk56WkFnNVFNYlNqYVBSWUd0T21Ga3o1cGpuaXdrMEFmQmxfYndNZHhiNldCOFA4eVpoNE53IiwiaWQiOiJmY19raTNtYXZxSEtvRGs1Tm9Qczk3RmdBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiV2hpY2ggbnVtYmVyIGlzIG1vcmUgc2VyaW91cyBmb3IgYmxvb2QgcHJlc3N1cmU%2FIiwibGsiOiJHaTkzYUdsamFDQnVkVzFpWlhJZ2FYTWdiVzl5WlNCelpYSnBiM1Z6SUdadmNpQmliRzl2WkNCd2NtVnpjM1Z5WlEiLCJicyI6ImM1MlB2UTZDUUJDRVEzdVZOWW02aGRvS3hNYnFwTlBLd29LYW40Vzk1SERKTFVoNEFOOWJvcDBhb3liVHpjdzNHWVVxU01qa0JPZXV6dENCRWFqWklRZzZ3NTFBeVE0eXkxeEE0MUNrYzZpajBGXzN2M1hVVVMzMzNFUEJLQ0FXc1lHMExERnZYOWdyZjBGZkJGV3NaZ2tOOS1uaHlRTXlGZWxvN2tfN1R3bDE5ZFR1Uk56WkFnNVFNYlNqYVBSWUd0T21Ga3o1cGpuaXdrMEFmQmxfYndNZHhiNldCOFA4eVpoNE53IiwiaWQiOiJmY19raTNtYXZxSEtvRGs1Tm9Qczk3RmdBUV81In0%3D"
+    },
+    {
+      "question": "How does sleep affect blood pressure?",
+      "type": "ai_overview",
+      "page_token": "qo6bZnicHdDBToMwAADQ-DMeHR063ZLFBFfYUGootKW9GGwZbG1hOoTKzX_xq_wajed3e1_f5tDqn4uh6fvTeTWbjeN4VXddbaor2dlZef5s5UyWxryWUq8Wtwtwv5dr-LELHt52QUow5EYZrnvAJ7ol1mWILvf8GDYKoIHa2MpN0xWeWihSO86En1h5jUIyZpS714LOxZwesyi0zOBRadDmrTgo5nnVMYhYGz_mbQfQJn5AsI8SBmxFlxhtDReb-FpFcM6nwFMhjrneuXyjgMjAU2KFEFOohUZC6rBMChHn2jUlvbvBRe0YE58KApz8GYoceoa7MZ2CkfphSVmPYaPeyxz1vBAug_2AozPI7TKVk_axVQHB3SElzXMCiZ9BDCptopKAGNs45Qxt0aQGBU8281xSRcoj6eVeDmv_8v9z_bK3_er03tW_CvyEJw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qo6bZnicHdDBToMwAADQ-DMeHR063ZLFBFfYUGootKW9GGwZbG1hOoTKzX_xq_wajed3e1_f5tDqn4uh6fvTeTWbjeN4VXddbaor2dlZef5s5UyWxryWUq8Wtwtwv5dr-LELHt52QUow5EYZrnvAJ7ol1mWILvf8GDYKoIHa2MpN0xWeWihSO86En1h5jUIyZpS714LOxZwesyi0zOBRadDmrTgo5nnVMYhYGz_mbQfQJn5AsI8SBmxFlxhtDReb-FpFcM6nwFMhjrneuXyjgMjAU2KFEFOohUZC6rBMChHn2jUlvbvBRe0YE58KApz8GYoceoa7MZ2CkfphSVmPYaPeyxz1vBAug_2AozPI7TKVk_axVQHB3SElzXMCiZ9BDCptopKAGNs45Qxt0aQGBU8281xSRcoj6eVeDmv_8v9z_bK3_er03tW_CvyEJw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiSG93IGRvZXMgc2xlZXAgYWZmZWN0IGJsb29kIHByZXNzdXJlPyIsImxrIjoiR2lSb2IzY2daRzlsY3lCemJHVmxjQ0JoWm1abFkzUWdZbXh2YjJRZ2NISmxjM04xY21VIiwiYnMiOiJjNTJQdlE2Q1FCQ0VRM3VWTlltNmhkb0t4TWJxcE5QS3dvS2FuNFc5NUhESkxVaDRBTjlib3AwYW95YlR6Y3czR1lVcVNNamtCT2V1enRDQkVhalpJUWc2dzUxQXlRNHl5MXhBNDFDa2M2aWowRl8zdjNYVVVTMzMzRVBCS0NBV3NZRzBMREZ2WDlncmYwRmZCRldzWmdrTjktbmh5UU15RmVsbzdrXzdUd2wxOWRUdVJOelpBZzVRTWJTamFQUllHdE9tRmt6NXBqbml3azBBZkJsX2J3TWR4YjZXQjhQOHlaaDROdyIsImlkIjoiZmNfa2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiSG93IGRvZXMgc2xlZXAgYWZmZWN0IGJsb29kIHByZXNzdXJlPyIsImxrIjoiR2lSb2IzY2daRzlsY3lCemJHVmxjQ0JoWm1abFkzUWdZbXh2YjJRZ2NISmxjM04xY21VIiwiYnMiOiJjNTJQdlE2Q1FCQ0VRM3VWTlltNmhkb0t4TWJxcE5QS3dvS2FuNFc5NUhESkxVaDRBTjlib3AwYW95YlR6Y3czR1lVcVNNamtCT2V1enRDQkVhalpJUWc2dzUxQXlRNHl5MXhBNDFDa2M2aWowRl8zdjNYVVVTMzMzRVBCS0NBV3NZRzBMREZ2WDlncmYwRmZCRldzWmdrTjktbmh5UU15RmVsbzdrXzdUd2wxOWRUdVJOelpBZzVRTWJTamFQUllHdE9tRmt6NXBqbml3azBBZkJsX2J3TWR4YjZXQjhQOHlaaDROdyIsImlkIjoiZmNfa2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVFfNSJ9"
+    },
+    {
+      "question": "Why is my blood pressure high?",
+      "type": "ai_overview",
+      "page_token": "-ZiExnicHZDbboIwAECzn_FRKF1dZmKWMLmIAwK9CS8LtCpKgUbJqrztX_ZV-5qZvZ-TnJzvH3Xq29-nXTOO-rq0LGPM_DgMR7Wfi6Gzquu9F5aolKor0S4XLwvwdhAr72rc98G4Gc29QklV7KQjJ7WWrAw5KxELgMmdW1bbN01DOsUdykjghzsHoZQjk7VRkIEkxVMMCQaInAu7BDIsp4gxEPUiYIt9C1zGxy1um62A3v3RwDFTMIa6jzsfCa5NyhOdewII2kAebgDuFJQTRdTTBfe1XZ8bJNe-LvoBZoB9PDxYE_ngBfadUccOaGTvb7Dz6lUTS2vgTimRQWn7eXCKXOw9m5zIMCYC1Sq5SK7PFDaMttmI_aTP17JJoKSU5O7sIL5WcPZ_bPV56MalvgzHP1C2dwc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-ZiExnicHZDbboIwAECzn_FRKF1dZmKWMLmIAwK9CS8LtCpKgUbJqrztX_ZV-5qZvZ-TnJzvH3Xq29-nXTOO-rq0LGPM_DgMR7Wfi6Gzquu9F5aolKor0S4XLwvwdhAr72rc98G4Gc29QklV7KQjJ7WWrAw5KxELgMmdW1bbN01DOsUdykjghzsHoZQjk7VRkIEkxVMMCQaInAu7BDIsp4gxEPUiYIt9C1zGxy1um62A3v3RwDFTMIa6jzsfCa5NyhOdewII2kAebgDuFJQTRdTTBfe1XZ8bJNe-LvoBZoB9PDxYE_ngBfadUccOaGTvb7Dz6lUTS2vgTimRQWn7eXCKXOw9m5zIMCYC1Sq5SK7PFDaMttmI_aTP17JJoKSU5O7sIL5WcPZ_bPV56MalvgzHP1C2dwc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiV2h5IGlzIG15IGJsb29kIHByZXNzdXJlIGhpZ2g/IiwibGsiOiJHaDEzYUhrZ2FYTWdiWGtnWW14dmIyUWdjSEpsYzNOMWNtVWdhR2xuYUEiLCJicyI6ImM1MlB2UTZDUUJDRVEzdVZOWW02aGRvS3hNYnFwTlBLd29LYW40Vzk1SERKTFVoNEFOOWJvcDBhb3liVHpjdzNHWVVxU01qa0JPZXV6dENCRWFqWklRZzZ3NTFBeVE0eXkxeEE0MUNrYzZpajBGXzN2M1hVVVMzMzNFUEJLQ0FXc1lHMExERnZYOWdyZjBGZkJGV3NaZ2tOOS1uaHlRTXlGZWxvN2tfN1R3bDE5ZFR1Uk56WkFnNVFNYlNqYVBSWUd0T21Ga3o1cGpuaXdrMEFmQmxfYndNZHhiNldCOFA4eVpoNE53IiwiaWQiOiJmY19raTNtYXZxSEtvRGs1Tm9Qczk3RmdBUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiV2h5IGlzIG15IGJsb29kIHByZXNzdXJlIGhpZ2g%2FIiwibGsiOiJHaDEzYUhrZ2FYTWdiWGtnWW14dmIyUWdjSEpsYzNOMWNtVWdhR2xuYUEiLCJicyI6ImM1MlB2UTZDUUJDRVEzdVZOWW02aGRvS3hNYnFwTlBLd29LYW40Vzk1SERKTFVoNEFOOWJvcDBhb3liVHpjdzNHWVVxU01qa0JPZXV6dENCRWFqWklRZzZ3NTFBeVE0eXkxeEE0MUNrYzZpajBGXzN2M1hVVVMzMzNFUEJLQ0FXc1lHMExERnZYOWdyZjBGZkJGV3NaZ2tOOS1uaHlRTXlGZWxvN2tfN1R3bDE5ZFR1Uk56WkFnNVFNYlNqYVBSWUd0T21Ga3o1cGpuaXdrMEFmQmxfYndNZHhiNldCOFA4eVpoNE53IiwiaWQiOiJmY19raTNtYXZxSEtvRGs1Tm9Qczk3RmdBUV81In0%3D"
+    },
+    {
+      "question": "Should I go to the hospital if my blood pressure is 140 over 90?",
+      "type": "ai_overview",
+      "page_token": "QQx7uHicHdFLjtowGABg9TKzHPIYqEBClRicQCBGMX4k3lTBPyQTOy9iSDq73qXrHqinadX9t_t-_jIfjf7z5XdpbTesZrNxHF-Lti3M9VW19SwffjRqpnJjLrnSq8XXhfvtptaoHd_fh3GTMIIyAyYTEztT6LkuvURM-hROglGJKCvmoGUfu-aZb_F0caDKQ2yZhptkURo7ylLNHxzh-9WUfo64BF0-eKNcwfZO7OCNqEh6FGagTTcqP8rwNgpyHRDql0wFpGb-ZsG9qKcaxD9PRcBN3nT9UXQVd6E8m6WWyJ5pyjH1OMYpe5Me353YYLlrXNDkEH-Wh2slJ0W5kSk-kHDqxTbax85yL0QwUO_NTQTZQQi9dMC_NoWTuRCAbzxgiQeVmsCxDSrhnlNss1ROZ2SfJBxcWi8T9al9UsOGkfYjYeUpRswnTUB4CA_gXBPE9WXHMXPIHEJLZD0_HtPIlePLTT3X_sv_h_X3W21X3b0t_gJ0vZev",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QQx7uHicHdFLjtowGABg9TKzHPIYqEBClRicQCBGMX4k3lTBPyQTOy9iSDq73qXrHqinadX9t_t-_jIfjf7z5XdpbTesZrNxHF-Lti3M9VW19SwffjRqpnJjLrnSq8XXhfvtptaoHd_fh3GTMIIyAyYTEztT6LkuvURM-hROglGJKCvmoGUfu-aZb_F0caDKQ2yZhptkURo7ylLNHxzh-9WUfo64BF0-eKNcwfZO7OCNqEh6FGagTTcqP8rwNgpyHRDql0wFpGb-ZsG9qKcaxD9PRcBN3nT9UXQVd6E8m6WWyJ5pyjH1OMYpe5Me353YYLlrXNDkEH-Wh2slJ0W5kSk-kHDqxTbax85yL0QwUO_NTQTZQQi9dMC_NoWTuRCAbzxgiQeVmsCxDSrhnlNss1ROZ2SfJBxcWi8T9al9UsOGkfYjYeUpRswnTUB4CA_gXBPE9WXHMXPIHEJLZD0_HtPIlePLTT3X_sv_h_X3W21X3b0t_gJ0vZev",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiU2hvdWxkIEkgZ28gdG8gdGhlIGhvc3BpdGFsIGlmIG15IGJsb29kIHByZXNzdXJlIGlzIDE0MCBvdmVyIDkwPyIsImxrIjoiY3czQ1FRcUFNQXdFd0g5NDJpZFU4T0xKdHlpTkpoRFprclNDdjlkaHBpMlZ3eXNNRjlIX0tsQm1zNzQ3N01UOTRuQ3lvb1ZramhCWVlsNEstRWhnTFI4IiwiYnMiOiJjNTJQdlE2Q1FCQ0VRM3VWTlltNmhkb0t4TWJxcE5QS3dvS2FuNFc5NUhESkxVaDRBTjlib3AwYW95YlR6Y3czR1lVcVNNamtCT2V1enRDQkVhalpJUWc2dzUxQXlRNHl5MXhBNDFDa2M2aWowRl8zdjNYVVVTMzMzRVBCS0NBV3NZRzBMREZ2WDlncmYwRmZCRldzWmdrTjktbmh5UU15RmVsbzdrXzdUd2wxOWRUdVJOelpBZzVRTWJTamFQUllHdE9tRmt6NXBqbml3azBBZkJsX2J3TWR4YjZXQjhQOHlaaDROdyIsImlkIjoiZmNfa2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVdtRm1TME14VjFFMFRYcFJhMko0YzFoWGJGTXhXR1UxT0dsWmVIaHBUbUZIWm5VMFptRkJjRU5VVkhVeE4yTklhVEZtVGsxaFVITnJhRk51VGs4MGFHdFhYMlpDVVZocGMxWXdPVnBSYm10aU9FbEthMk5sTFVkQ1p4SVhhMmt6YldGMmNVaExiMFJyTlU1dlVITTVOMFpuUVZFYUlrRklUakJGTjBobFJUbGtObWhpVG1oWmRqZGhhbUpxYmpsT01FdDNTa05IYW1jIiwiZmN2IjoiMyIsImVpIjoia2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVEiLCJxYyI6IkNpOTNhR0YwSUdKc2IyOWtJSEJ5WlhOemRYSmxJRzUxYldKbGNuTWdZWEpsSUdOdmJuTnBaR1Z5WldRZ2FHbG5hQkFBR0FGOTFwNVFQdyIsInF1ZXN0aW9uIjoiU2hvdWxkIEkgZ28gdG8gdGhlIGhvc3BpdGFsIGlmIG15IGJsb29kIHByZXNzdXJlIGlzIDE0MCBvdmVyIDkwPyIsImxrIjoiY3czQ1FRcUFNQXdFd0g5NDJpZFU4T0xKdHlpTkpoRFprclNDdjlkaHBpMlZ3eXNNRjlIX0tsQm1zNzQ3N01UOTRuQ3lvb1ZramhCWVlsNEstRWhnTFI4IiwiYnMiOiJjNTJQdlE2Q1FCQ0VRM3VWTlltNmhkb0t4TWJxcE5QS3dvS2FuNFc5NUhESkxVaDRBTjlib3AwYW95YlR6Y3czR1lVcVNNamtCT2V1enRDQkVhalpJUWc2dzUxQXlRNHl5MXhBNDFDa2M2aWowRl8zdjNYVVVTMzMzRVBCS0NBV3NZRzBMREZ2WDlncmYwRmZCRldzWmdrTjktbmh5UU15RmVsbzdrXzdUd2wxOWRUdVJOelpBZzVRTWJTamFQUllHdE9tRmt6NXBqbml3azBBZkJsX2J3TWR4YjZXQjhQOHlaaDROdyIsImlkIjoiZmNfa2kzbWF2cUhLb0RrNU5vUHM5N0ZnQVFfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Blood pressure is considered high when it is consistently 130/80 mm Hg or higher, according to guidelines from the American Heart Association and the Centers for Disease Control and Prevention.",
+        "snippet_links": [
+          {
+            "text": "American Heart Association",
+            "link": "https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings"
+          },
+          {
+            "text": "Centers for Disease Control and Prevention",
+            "link": "https://www.google.com/goto?url=CAEScwHrOzAVSdkHE60snedhYsftkytgC_0DTj9eNBjxQDpRvnfR_naZr0nHzt8LU2zFNtW7lC82ExCcik7Xu3yyeNpGThOTrCqhltkkpaGPHsNM1jlUgoIOvP3cgFEFcVkplRB79pbzKYgA8Ssr8L6a2Po_YSo"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "130/80 mm Hg or higher"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Blood pressure readings use two numbers:",
+        "reference_indexes": [
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Systolic (top number): Measures pressure in your arteries when your heart beats."
+          },
+          {
+            "snippet": "Diastolic (bottom number): Measures pressure in your arteries when your heart rests between beats.",
+            "reference_indexes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Blood Pressure Categories"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Normal: Less than 120/80 mm Hg",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Elevated: Systolic between 120\u2013129 and diastolic less than 80 mm Hg",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Stage 1 Hypertension (High Blood Pressure): Systolic 130\u2013139 or diastolic 80\u201389 mm Hg",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Stage 2 Hypertension (High Blood Pressure): Systolic 140 or higher or diastolic 90 or higher mm Hg",
+            "reference_indexes": [
+              1
+            ]
+          },
+          {
+            "snippet": "Severe Hypertension / Hypertensive Crisis: Systolic higher than 180 and/or diastolic higher than 120 mm Hg",
+            "list": [
+              {
+                "snippet": "If it is higher than 180/120 mm Hg with symptoms like chest pain, shortness of breath, back pain, numbness, weakness, or vision changes, it is a hypertensive emergency requiring a call to 911 immediately.",
+                "reference_indexes": [
+                  1,
+                  3
+                ]
+              }
+            ],
+            "reference_indexes": [
+              1,
+              3
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help tailor this information, are you asking:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "About a specific reading you or someone else recently had?"
+          },
+          {
+            "snippet": "What lifestyle changes or next steps to consider for a certain category?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "About High Blood Pressure | High Blood Pressure | CDC",
+        "link": "https://www.google.com/goto?url=CAEScwHrOzAVSdkHE60snedhYsftkytgC_0DTj9eNBjxQDpRvnfR_naZr0nHzt8LU2zFNtW7lC82ExCcik7Xu3yyeNpGThOTrCqhltkkpaGPHsNM1jlUgoIOvP3cgFEFcVkplRB79pbzKYgA8Ssr8L6a2Po_YSo",
+        "snippet": "Related Topics: High Blood Pressure About Risk Factors Preventing Managing High Blood Pressure High Blood Pressure Facts Measuring Your Blood Pressure View Menu Ke...",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cdc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO_IZppKafdxOvcqu0NznHPW366Fmtu1gx7ztVktHnOtcHFUJliXB0WLTqcZ8hs1juPSJWiP_qnEw4KPTPliP7_TGgvFBjeFQySog_Uwwgq531EA37m2vPXLHbh9L6dShelGAOwtqlU4KhLfJrj-qWGRQ"
+      },
+      {
+        "index": 1,
+        "title": "Understanding Blood Pressure Readings | American Heart Association",
+        "link": "https://www.google.com/goto?url=CAESmwEB6zswFbzi329Mda_TR8F9fjMnR6S7ku0Px4VV8pv4G5QUf_Igj9tJmW3Y0sC79EF44nKEAhdV_28EN7ZWatKo-BNrj6Bi1838xvrlm5TzgM1-CfNMlzrSEUby3Bf3r_vvznGCY3Kew40VtZ2S-1D4CnUO0ggfGktQUWf-Eo0QXB_6JCkqZIV06rXVR8WWFR2Sv8ZTcfr9TNZhhw",
+        "snippet": "What do your blood pressure numbers mean? High blood pressure, also known as hypertension, can lead to serious health problems including heart attack or stroke. Me...",
+        "source": "www.heart.org",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.heart.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSprMFga5RuNYdUENFzuACb19FBrihzJmrq_3SdTLy3BTKEDfj0VjMUGqbjhDjFQ41qUAWwQ7musEfTHyWLCSkuT91UhNpcMOFo9h_jmY5g2CvNqWzIa7eKkIa8WECiQbyw9SKjjsaUyK-AAaL_RlgEYcY"
+      },
+      {
+        "index": 2,
+        "title": "High Blood Pressure - What Is High Blood Pressure? | NHLBI, NIH",
+        "link": "https://www.google.com/goto?url=CAESbwHrOzAVmTCKubMbyfhBO6yYPYtf2cwAMPHHN_maYx3xl140NwXakaqx7VAUmsxKIEMh2nMmj_VOOu9yTv4x5IsqYcMzorBL0K8GiYYUgLBoci-uZx7_S5PS9hmT6jCLeXKE-dbuMyLYUEzZvU2pNw",
+        "snippet": "Per Executive Order 14434, federal agencies are now using \"Super Intelligence\" (SI) in place of \"Artificial Intelligence\" (AI). * High Blood Pressure Language swit...",
+        "source": "nhlbi, nih (.gov)",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nhlbi.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMYWGtCr3K05owfRCggg6HlLGSv19m6sd7IlxWmYsCf7IMAurJnGip-sNStzBFRA9tCj0h1cyY08GuM1DnUOk8CqKr5sQr9It6IBF7Lh2lkQlLRTBH7xGnnYPmW2rAO-lIwKcY-BMEbKXP4FQy60YLRvU"
+      },
+      {
+        "index": 3,
+        "title": "Reading the new blood pressure guidelines - Harvard Health",
+        "link": "https://www.google.com/goto?url=CAESkAEB6zswFUvfzsXS1mBIsHdz1RwYz-6rTCBaSh9jYVktL2ai_-Lf45icg0mDFvkZqjsWWhJ9e0LPSe4gWwd_G0_GWUWxgVGYH3D1fo23B_GEi9vmBFHaMeM2DFReD660atl4DaQGcb_DzxrtyohS-UN5NxUhW8glYOh-23OgYhy44llUiB-0K21FZqqh70uaCpg",
+        "snippet": "The latest advice emphasizes earlier treatment of high blood pressure to protect heart and brain health. To prevent a heart attack, stroke, and cognitive decline, ...",
+        "source": "Harvard Health",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.health.harvard.edu&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGeYRPWUsqFEFygmrQhk5fPPTbOvyRBFUnm7N2wOHjDgPGK2pTAT5nbxZ_ZEEfrAGFl-b9QyWGCHzb6cjOE1kebjwlYri2XCSwSVsifn1LRISColr6K990CBnfJ6wWC03n3Unl_JxcxFvs4vVa_lT2IA"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "New blood pressure guidelines: What you need to know",
+      "link": "https://magazine.medlineplus.gov/article/new-blood-pressure-guidelines-what-you-need-to-know",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFbzCfhxHIImlt8ZpnZ4iUphkey1kYExpohsl6z0yWW7CFhr5c4BsZU78xXo6eMdJ7KDH8q7O8qWUchSyWK8d0T5mAxgfQmiHAaivHnIOQIRGV8tVvMEj1rNxGw3ZOwBoexFcanMr9Wr4FTBpcOU4CsXLhoLH6iJV4Z2m4o7Q-uq3Som79FQsqqXehth0YDV7DRTv&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://magazine.medlineplus.gov \u203a article \u203a new-blood...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEUpC0ooCEklAEgiAEUjAEY9IVlYQHFtWINgSnlILGUUAD4wF087I1csDkxjTXmpnLXj3-jp5u2uortYQnBKN2NkU3iFdpWcjquAb5NELGAcAELJwtD____y7_Q6G1mRgaH9_P0qAExiUXjAt8innrImBUi1q78uClCXjaWcjatxXoZwYYMfAENQNmqxqbqBb5TZ1N9ROG1xRDGkAAABLUlEQVR4Ac2RhQHDIBAA4UPcPaSfVOO-_3B17wLF4Xgnf94oCAzo7zOl50WUZEVlGnvnAKAbokmIKVq243o-gSczgzCKE04oAEtTaYVZzB-U5mtnY-eMbYNd6JtpvsfNQSzulMlZWQHwumm9VQf9kKGbsDvje1cVWLB3WrDxAFS7iG7pVev2gKVGzfMK-SrrBJJGiGN1hX3o4JSy3YzRUs4toaRvcVPfPIJ6g23POjezk6VPzwLphE7YX7VWI2KUXuBO63VuEqKV-DK5wb0GfL85BH4r61RQ3T1_OJu4mA097Mr9egqNAqoyk--MFOJFNO8h930OBcvtjbPO6Z0CjzNcSX0vsIIQnsRRGJivvBPfcx3buqXe0AHgvV5MY6oiSyK91-6nzEwASv67nQBMSBrKazeMQgAAAABJRU5ErkJggg.png",
+      "date": "Jul 12, 2018",
+      "snippet": "Under the updated AHA/ACC guidelines, if you have systolic blood pressure rates of 130 and higher you are considered to have high blood pressure ...",
+      "snippet_highlighted_words": [
+        "systolic blood pressure rates of 130 and higher"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Under the updated AHA/ACC guidelines, if you have systolic blood pressure rates of 130 and higher you are considered to have high blood pressure ...",
+          "source_info_link": "https://magazine.medlineplus.gov/article/new-blood-pressure-guidelines-what-you-need-to-know",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAllBMVEUpC0ooCEklAEgiAEUjAEY9IVlYQHFtWINgSnlILGUUAD4wF087I1csDkxjTXmpnLXj3-jp5u2uortYQnBKN2NkU3iFdpWcjquAb5NELGAcAELJwtD____y7_Q6G1mRgaH9_P0qAExiUXjAt8innrImBUi1q78uClCXjaWcjatxXoZwYYMfAENQNmqxqbqBb5TZ1N9ROG1xRDGkAAABLUlEQVR4Ac2RhQHDIBAA4UPcPaSfVOO-_3B17wLF4Xgnf94oCAzo7zOl50WUZEVlGnvnAKAbokmIKVq243o-gSczgzCKE04oAEtTaYVZzB-U5mtnY-eMbYNd6JtpvsfNQSzulMlZWQHwumm9VQf9kKGbsDvje1cVWLB3WrDxAFS7iG7pVev2gKVGzfMK-SrrBJJGiGN1hX3o4JSy3YzRUs4toaRvcVPfPIJ6g23POjezk6VPzwLphE7YX7VWI2KUXuBO63VuEqKV-DK5wb0GfL85BH4r61RQ3T1_OJu4mA097Mr9egqNAqoyk--MFOJFNO8h930OBcvtjbPO6Z0CjzNcSX0vsIIQnsRRGJivvBPfcx3buqXe0AHgvV5MY6oiSyK91-6nzEwASv67nQBMSBrKazeMQgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZZX2tsX3hJcENLeExEVTdXSlUxanpUZEZYaHBqUGRfZ3ZvVEFTdHhaN2g1OFl1WktZWTkydlRYRkpnVFRNSmUtYldlNTY2ZXppandFWEhRMDVzNDI3TDBkYlVxdUZHanp3Z1NSdkIwSGwzcEJnUlYtTWlYUWtvcmNMb09PeUFsTkhROWoxQ3dVeGRBUnBCdnJQdExlSE5tejRQY3YwRE8tRzhWam9XX3V1RUxBRDBOMzFRaThWUnpPSmw0akJpcTJ4bVkSBBoCCAAakQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDrBQgAEAAYACAAKhIKBHdoYXQVvsiSQBoFd2hpY2gqKQoFYmxvb2QViEb6QBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFbdC_kAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVWz_tPxoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVV3WZPxoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVg6dXQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGWV9rbF94SXBDS3hMRFU3V0pVMWp6VGRGWGhwalBkX2d2b1RBU3R4WjdoNThZdVpLWVk5MnZUWEZKZ1RUTUplLWJXZTU2NmV6aWp3RVhIUTA1czQyN0wwZGJVcXVGR2p6d2dTUnZCMEhsM3BCZ1JWLU1pWFFrb3JjTG9PT3lBbE5IUTlqMUN3VXhkQVJwQnZyUHRMZUhObXo0UGN2MERPLUc4VmpvV191dUVMQUQwTjMxUWk4VlJ6T0psNGpCaXEyeG1ZOjtOZXcgPGI-Ymxvb2QgcHJlc3N1cmU8L2I-IGd1aWRlbGluZXM6IFdoYXQgeW91IG5lZWQgdG8ga25vd0KgAVVuZGVyIHRoZSB1cGRhdGVkIEFIQS9BQ0MgZ3VpZGVsaW5lcywgaWYgeW91IGhhdmUgPGI-c3lzdG9saWMgYmxvb2QgcHJlc3N1cmUgcmF0ZXMgb2YgMTMwIGFuZCBoaWdoZXI8L2I-IHlvdSBhcmUgY29uc2lkZXJlZCB0byBoYXZlIGhpZ2ggYmxvb2QgcHJlc3N1cmUmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZZX2tsX3hJcENLeExEVTdXSlUxanpUZEZYaHBqUGRfZ3ZvVEFTdHhaN2g1OFl1WktZWTkydlRYRkpnVFRNSmUtYldlNTY2ZXppandFWEhRMDVzNDI3TDBkYlVxdUZHanp3Z1NSdkIwSGwzcEJnUlYtTWlYUWtvcmNMb09PeUFsTkhROWoxQ3dVeGRBUnBCdnJQdExlSE5tejRQY3YwRE8tRzhWam9XX3V1RUxBRDBOMzFRaThWUnpPSmw0akJpcTJ4bVkSBBoCCAAakQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDrBQgAEAAYACAAKhIKBHdoYXQVvsiSQBoFd2hpY2gqKQoFYmxvb2QViEb6QBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFbdC_kAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVWz_tPxoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVV3WZPxoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVg6dXQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGWV9rbF94SXBDS3hMRFU3V0pVMWp6VGRGWGhwalBkX2d2b1RBU3R4WjdoNThZdVpLWVk5MnZUWEZKZ1RUTUplLWJXZTU2NmV6aWp3RVhIUTA1czQyN0wwZGJVcXVGR2p6d2dTUnZCMEhsM3BCZ1JWLU1pWFFrb3JjTG9PT3lBbE5IUTlqMUN3VXhkQVJwQnZyUHRMZUhObXo0UGN2MERPLUc4VmpvV191dUVMQUQwTjMxUWk4VlJ6T0psNGpCaXEyeG1ZOjtOZXcgPGI-Ymxvb2QgcHJlc3N1cmU8L2I-IGd1aWRlbGluZXM6IFdoYXQgeW91IG5lZWQgdG8ga25vd0KgAVVuZGVyIHRoZSB1cGRhdGVkIEFIQS9BQ0MgZ3VpZGVsaW5lcywgaWYgeW91IGhhdmUgPGI-c3lzdG9saWMgYmxvb2QgcHJlc3N1cmUgcmF0ZXMgb2YgMTMwIGFuZCBoaWdoZXI8L2I-IHlvdSBhcmUgY29uc2lkZXJlZCB0byBoYXZlIGhpZ2ggYmxvb2QgcHJlc3N1cmUmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "source": "NIH MedlinePlus Magazine (.gov)",
+      "read_more_link": "https://www.google.com/goto?url=CAES9wEB6zswFQglBnOApYcjHwymNnA4YTv-Wff1Q6Dg4XoUPqrEjUoFBbftb7LNpjxdQ_xFWBO_ssk7FC7bpDIfz9A4ACkdWLlnwTizNcHn6Dr8yE5shDR3U1-0pEMp6MtlkcSZNvnGd8YGPBY_pWO0PG6N_cYi6r0d1tBwpuRLgzqZOzXYqzbsH2mLKL6A9VuChesVsKxiyAz9r1aNC4NcskGS3jiHij3Dgr2cK16r4csnsFgsBalTQiowc_JZaUvyc95lMf4g6bDtPAb1E0Nfnv0qjQXRu0rLvnGy2cvUyU4CaTpjOPIlmuTkqcg8D3Y05sUv5kUIqRT9"
+    },
+    {
+      "position": 2,
+      "title": "Understanding your blood pressure numbers",
+      "link": "https://www.rapidesregional.com/healthy-living/blog/understanding-your-blood-pressure-numbers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFUdqnSIxCOVyr8tj9hRbn19-Sm5Lxzswb1cdOhs7cCe3haSIaEuW571klQouR963x4upSgfecYvL9R_j51qGghSwefTMo_mhZWDCUPyWHOVvTi-VqgsH0PgALu6moEbZjsDX9-ZIVCGjD63-AbyyrpiWNyHIJCwZL1ULN1SsOXMj0eWtcYccsBz6JfceMysT2owKvg&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.rapidesregional.com \u203a healthy-living \u203a blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEX____Ezt5nhLCHnb90jrahssy6xtmHnL__7-7--fmZq8jwpqjlU1jhJi_fABPzuLnhLjbgGCTiNz7pdHj419jrhIjqfYHriYzhKzPjQ0n2zM30vb_30NHgICriOUDiNTzobHDnY2jkUVbhMjntkpXunaDfDRv8vbzwZ2jwb2_yd3fsUlPvnJ4cVJdQc6dKeq56ncLbwco9Zp8ANIgAQ44AOovNv80ASJDlUlgARo8MTpMAPYzo7fNkjrnKq7rS2-fldyZbAAAB3klEQVR4AX2TB5aCMBRFsReMhIAaAp_Qp9rb2Pe_q0kCdo-XzruQrglK5cpLqjVNUW9oF5qtZuv6VGvf53oHdQ1sEsu-NUpF3ur1B5RQwyHEZNQ9GzWtrCk8ipEHvhR4oFMIipKqWiUvu8t9rIdcCsh1iA9WLlRygUUeEOK4SAicMOTjgPEboQk4FAZiXAhUDzgOPMDWVQhjXxqxpZuGDx7InPgmOwtNQFwZJgvtwSABmZMYrLOQMjeEGIfMstOg77oBA05x4ul2IZjI0b2EZqlrYh4jpwUQGayHIMkFG3yCUY8ZzPQlcYcxt4Nin0e5YAAX0EwPMBcQHxgFHAuyXPj4_JJ8sm_J1w-i6W9PYbVEPByNxjnFdTIliT5Q9AvhzGy-kCxXLr8r4kppuRYsZjYz_kQliXMrKGYbZaRZx2B9gP6TMJTCZmsDpyjxUvYoNHZrwbJtyaHAEGp3wr693a0Xu93yMIBAGki_Feqz-W6z2x4q7SML1XBzR7sRhsvFer1r_35-EOBqwnjd5o1QW6rK_XYzg6PMJQiZ4d2Ua6vaLSrH4-ooDnU6KYpJu58vNoKdqKI81GmuWIh5LTnNhsPh9pnhTi6NN7RL4nhjNOrKqr3NBbVqpfGCSrkkwn89L01Mwh1bYAAAAABJRU5ErkJggg.png",
+      "date": "Jan 4, 2026",
+      "snippet": "Elevated blood pressure is between 120 and 129 systolic and less than 80 diastolic. High blood pressure stage 1 is 130 to 139 systolic OR 80 to ...",
+      "snippet_highlighted_words": [
+        "between 120 and 129 systolic and less than 80 diastolic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Elevated blood pressure is between 120 and 129 systolic and less than 80 diastolic. High blood pressure stage 1 is 130 to 139 systolic OR 80 to ...",
+          "source_info_link": "https://www.rapidesregional.com/healthy-living/blog/understanding-your-blood-pressure-numbers",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEX____Ezt5nhLCHnb90jrahssy6xtmHnL__7-7--fmZq8jwpqjlU1jhJi_fABPzuLnhLjbgGCTiNz7pdHj419jrhIjqfYHriYzhKzPjQ0n2zM30vb_30NHgICriOUDiNTzobHDnY2jkUVbhMjntkpXunaDfDRv8vbzwZ2jwb2_yd3fsUlPvnJ4cVJdQc6dKeq56ncLbwco9Zp8ANIgAQ44AOovNv80ASJDlUlgARo8MTpMAPYzo7fNkjrnKq7rS2-fldyZbAAAB3klEQVR4AX2TB5aCMBRFsReMhIAaAp_Qp9rb2Pe_q0kCdo-XzruQrglK5cpLqjVNUW9oF5qtZuv6VGvf53oHdQ1sEsu-NUpF3ur1B5RQwyHEZNQ9GzWtrCk8ipEHvhR4oFMIipKqWiUvu8t9rIdcCsh1iA9WLlRygUUeEOK4SAicMOTjgPEboQk4FAZiXAhUDzgOPMDWVQhjXxqxpZuGDx7InPgmOwtNQFwZJgvtwSABmZMYrLOQMjeEGIfMstOg77oBA05x4ul2IZjI0b2EZqlrYh4jpwUQGayHIMkFG3yCUY8ZzPQlcYcxt4Nin0e5YAAX0EwPMBcQHxgFHAuyXPj4_JJ8sm_J1w-i6W9PYbVEPByNxjnFdTIliT5Q9AvhzGy-kCxXLr8r4kppuRYsZjYz_kQliXMrKGYbZaRZx2B9gP6TMJTCZmsDpyjxUvYoNHZrwbJtyaHAEGp3wr693a0Xu93yMIBAGki_Feqz-W6z2x4q7SML1XBzR7sRhsvFer1r_35-EOBqwnjd5o1QW6rK_XYzg6PMJQiZ4d2Ua6vaLSrH4-ooDnU6KYpJu58vNoKdqKI81GmuWIh5LTnNhsPh9pnhTi6NN7RL4nhjNOrKqr3NBbVqpfGCSrkkwn89L01Mwh1bYAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZiUUtIbnJYMWlYaEt1cGFjZmdCWXp3VU0ydnRJS3ZKcTVCNnR1cU1rM3A1WVM2c2JTYnA0LVdUUWx1aHZwQ3JJbFpITVdhMGVUQkxSam9aRnd5aDFKX3EyckZfSjVRRXZnX19fV0luVkMxMGFHaXFvNmEyMHU0UmhjcjZQLWgyT2tXcUlkMFJYamstZWZaVFZocTNkMDZDbnRRMVpXU3c2VHowa3BySjFaT203LVprQlhPcHFvR2h0X3R3TUItQXhzWGVBQRIEGgIIABqFBhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDhBQgAEAAYACAAKhIKBHdoYXQVAIw2QBoFd2hpY2gqKQoFYmxvb2QVRqjZQBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFdVp2kAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVgPO0QBoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVkiEFPhoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVwDYXQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLcAS9nb3RvP3VybD1DQUVTbUFFQjZ6c3dGYlFLSG5yWDFpWGhLdXBhY2ZnQll6d1VNMnZ0SUt2SnE1QjZ0dXFNazNwNVlTNnNiU2JwNC1XVFFsdWh2cENySWxaSE1XYTBlVEJMUmpvWkZ3eWgxSl9xMnJGX0o1UUV2Z19fX1dJblZDMTBhR2lxbzZhMjB1NFJoY3I2UC1oMk9rV3FJZDBSWGprLWVmWlRWaHEzZDA2Q250UTFaV1N3NlR6MGtwckoxWk9tNy1aa0JYT3Bxb0dodF90d01CLUF4c1hlQUE6MFVuZGVyc3RhbmRpbmcgeW91ciA8Yj5ibG9vZCBwcmVzc3VyZSBudW1iZXJzPC9iPkKfAUVsZXZhdGVkIGJsb29kIHByZXNzdXJlIGlzIDxiPmJldHdlZW4gMTIwIGFuZCAxMjkgc3lzdG9saWMgYW5kIGxlc3MgdGhhbiA4MCBkaWFzdG9saWM8L2I-LiBIaWdoIGJsb29kIHByZXNzdXJlIHN0YWdlIDEgaXMgMTMwIHRvIDEzOSBzeXN0b2xpYyBPUiA4MCB0byZuYnNwOy4uLkoDYXJlIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZiUUtIbnJYMWlYaEt1cGFjZmdCWXp3VU0ydnRJS3ZKcTVCNnR1cU1rM3A1WVM2c2JTYnA0LVdUUWx1aHZwQ3JJbFpITVdhMGVUQkxSam9aRnd5aDFKX3EyckZfSjVRRXZnX19fV0luVkMxMGFHaXFvNmEyMHU0UmhjcjZQLWgyT2tXcUlkMFJYamstZWZaVFZocTNkMDZDbnRRMVpXU3c2VHowa3BySjFaT203LVprQlhPcHFvR2h0X3R3TUItQXhzWGVBQRIEGgIIABqFBhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDhBQgAEAAYACAAKhIKBHdoYXQVAIw2QBoFd2hpY2gqKQoFYmxvb2QVRqjZQBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFdVp2kAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVgPO0QBoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVkiEFPhoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVwDYXQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLcAS9nb3RvP3VybD1DQUVTbUFFQjZ6c3dGYlFLSG5yWDFpWGhLdXBhY2ZnQll6d1VNMnZ0SUt2SnE1QjZ0dXFNazNwNVlTNnNiU2JwNC1XVFFsdWh2cENySWxaSE1XYTBlVEJMUmpvWkZ3eWgxSl9xMnJGX0o1UUV2Z19fX1dJblZDMTBhR2lxbzZhMjB1NFJoY3I2UC1oMk9rV3FJZDBSWGprLWVmWlRWaHEzZDA2Q250UTFaV1N3NlR6MGtwckoxWk9tNy1aa0JYT3Bxb0dodF90d01CLUF4c1hlQUE6MFVuZGVyc3RhbmRpbmcgeW91ciA8Yj5ibG9vZCBwcmVzc3VyZSBudW1iZXJzPC9iPkKfAUVsZXZhdGVkIGJsb29kIHByZXNzdXJlIGlzIDxiPmJldHdlZW4gMTIwIGFuZCAxMjkgc3lzdG9saWMgYW5kIGxlc3MgdGhhbiA4MCBkaWFzdG9saWM8L2I-LiBIaWdoIGJsb29kIHByZXNzdXJlIHN0YWdlIDEgaXMgMTMwIHRvIDEzOSBzeXN0b2xpYyBPUiA4MCB0byZuYnNwOy4uLkoDYXJlIgIQAUgAWABoAA",
+      "source": "Rapides Regional Medical Center",
+      "read_more_link": "https://www.google.com/goto?url=CAES6wEB6zswFVFBu2hozE1wJqBTpf4Uj13NkLfthJYI382dEIspZk8QJi3WG-JocAfvBMxD_h5gZM-fS23WUteAtw_SBzN9XbY-Ax6rYisKXzi9FDiRWobOH-u6UOvPUyau4wmEueP6W97PQNwxsFJW8XOfDIIOWmGDvCsnPEwqHrICQVgFc11SnyxmajQFTbFziuzkqCPGzeSAaB94-jKOuoZ4qLzstgJm6MbaPYN8gmbks0sfgR6sfdO4jmzzA5pATUZ0teYLBDgO08WUMFxFDdf1dZBJFSOkaw3dryzGCVaNSC92MwSqr-cz0VTY"
+    },
+    {
+      "position": 3,
+      "title": "High blood pressure redefined for first time in 14 years: 130 ...",
+      "link": "https://www.acc.org/about-acc/press-releases/2017/11/13/15/35/high-blood-pressure-redefined-for-first-time-in-14-years-130-is-the-new-high",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFZnK1a-kfq5PvbQXDLiQbtZT9E9gghVaTj4OO4-ovTFti4-IXk0Hq68k005wm4VkSCPvVElG98eLIVibtbRhMjQSQ4bEuPqw7xTyHdHVV797a2VpKgyMrJ64jWABXeVMzqECa236vef6NNKjSqGaCIj7WI4g6rPFEmEmWggTUAjQZ_pQlM9MOpQr45KOPajsTFBwEBLT8NHUNqWwqW-y5mjf2ZcifkB4uLZ69YEEvgT6h9JCIXzy-C1jbzC7dxVTXHQ&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.acc.org \u203a press-releases \u203a 2017/11/13 \u203a high...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEX____u8_m7zuFsl8JaiLhXhba2zODw9fn9_P26zOE1Y6IGOYgUVpodY6IpaaUXPYqlutcQM4UtU5hdjrzE1Of29vunutYxT5anvtjFz-FJZqN-ocjQ3epPgrUhT5T1_v-Kqcuux95rkr4CRJA3cKve5_GYtdNAdq0hW5yevNjY5PAtWZyEpssESpI9b6k6Z6QjPl-jAAAAwklEQVR4AS2PRQKDQBRDgw7uzhju7f1PV-XtvibBF0XVdEMzCf5YtuN6fuCFjoofUZykWZTlRelW-FDHDVpqMxVo3BrIHS6opJreKQB3cpixTbVO9tKWLdRQhcbRDeNE5m5ZgFUD81EtGqXTVs3AYnwbXTu207RnJrCw7wk1eqlkZGp_J-ZHivdstjalnehgI18PcY5Xj05RqPORRe0eII9l37E_h_pn3S07-Oc0X0N1h1vD1R-D8mnjRum0VNe6X_w3PFURC9vvqw4AAAAASUVORK5CYII.png",
+      "date": "Nov 13, 2017",
+      "snippet": "Stage 2: Systolic at least 140 or diastolic at least 90 mm Hg;; Hypertensive crisis: Top number over 180 and/or bottom number over 120, with ...",
+      "snippet_highlighted_words": [
+        "Systolic at least 140 or diastolic at least 90 mm Hg"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Stage 2: Systolic at least 140 or diastolic at least 90 mm Hg;; Hypertensive crisis: Top number over 180 and/or bottom number over 120, with ...",
+          "source_info_link": "https://www.acc.org/about-acc/press-releases/2017/11/13/15/35/high-blood-pressure-redefined-for-first-time-in-14-years-130-is-the-new-high",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEX____u8_m7zuFsl8JaiLhXhba2zODw9fn9_P26zOE1Y6IGOYgUVpodY6IpaaUXPYqlutcQM4UtU5hdjrzE1Of29vunutYxT5anvtjFz-FJZqN-ocjQ3epPgrUhT5T1_v-Kqcuux95rkr4CRJA3cKve5_GYtdNAdq0hW5yevNjY5PAtWZyEpssESpI9b6k6Z6QjPl-jAAAAwklEQVR4AS2PRQKDQBRDgw7uzhju7f1PV-XtvibBF0XVdEMzCf5YtuN6fuCFjoofUZykWZTlRelW-FDHDVpqMxVo3BrIHS6opJreKQB3cpixTbVO9tKWLdRQhcbRDeNE5m5ZgFUD81EtGqXTVs3AYnwbXTu207RnJrCw7wk1eqlkZGp_J-ZHivdstjalnehgI18PcY5Xj05RqPORRe0eII9l37E_h_pn3S07-Oc0X0N1h1vD1R-D8mnjRum0VNe6X_w3PFURC9vvqw4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZaOTBmZ3gzOG0xWDNkWHBGQklTdGhxaEFnSkF2UW5NSmNfUnlUMmJNaHlxbkl1WWFvT3AzVTZVNmZYY0E4ckthYVBpSnFUYzBtRjg2eDFXS2p5VnpTRVVwVVlHWS1lemFLeGwyYlFTdTNuUm11SHRlQWtNMVRkcTFRRnRXQmh0S0hiYnhpV0ozSGFGZHQyblc1aHlpUW9YMVNBNUliOGxqU2tEYTVRTmxRXzZTXzVRbkpDLTdkS3FnQXJlU3NWWktTMms2VUVmVXdWenZnSFVDME56aGRUX0FtbERoVlJLZTJUY2RrLXNpbTBpYnZ4VnlKbUx3TVVCZElLaUsyOHFGSFkSBBoCCAAa3AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC2BggAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqKQoFYmxvb2QVpmGuQBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFTH9rUAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVAAAAABoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVpp18PhoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVoAexQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczKZAi9nb3RvP3VybD1DQUVTeGdFQjZ6c3dGWjkwZmd4MzhtMVgzZFhwRkJJU3RocWhBZ0pBdlFuTUpjX1J5VDJiTWh5cW5JdVlhb09wM1U2VTZmWGNBOHJLYWFQaUpxVGMwbUY4NngxV0tqeVZ6U0VVcFVZR1ktZXphS3hsMmJRU3UzblJtdUh0ZUFrTTFUZHExUUZ0V0JodEtIYmJ4aVdKM0hhRmR0Mm5XNWh5aVFvWDFTQTVJYjhsalNrRGE1UU5sUV82U181UW5KQy03ZEtxZ0FyZVNzVlpLUzJrNlVFZlV3Vnp2Z0hVQzBOemhkVF9BbWxEaFZSS2UyVGNkay1zaW0waWJ2eFZ5Sm1Md01VQmRJS2lLMjhxRkhZOks8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiByZWRlZmluZWQgZm9yIGZpcnN0IHRpbWUgaW4gMTQgeWVhcnM6IDEzMCBpcyAuLi5CnAFTdGFnZSAyOiA8Yj5TeXN0b2xpYyBhdCBsZWFzdCAxNDAgb3IgZGlhc3RvbGljIGF0IGxlYXN0IDkwIG1tIEhnPC9iPjs7IEh5cGVydGVuc2l2ZSBjcmlzaXM6IFRvcCBudW1iZXIgb3ZlciAxODAgYW5kL29yIGJvdHRvbSBudW1iZXIgb3ZlciAxMjAsIHdpdGgmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZaOTBmZ3gzOG0xWDNkWHBGQklTdGhxaEFnSkF2UW5NSmNfUnlUMmJNaHlxbkl1WWFvT3AzVTZVNmZYY0E4ckthYVBpSnFUYzBtRjg2eDFXS2p5VnpTRVVwVVlHWS1lemFLeGwyYlFTdTNuUm11SHRlQWtNMVRkcTFRRnRXQmh0S0hiYnhpV0ozSGFGZHQyblc1aHlpUW9YMVNBNUliOGxqU2tEYTVRTmxRXzZTXzVRbkpDLTdkS3FnQXJlU3NWWktTMms2VUVmVXdWenZnSFVDME56aGRUX0FtbERoVlJLZTJUY2RrLXNpbTBpYnZ4VnlKbUx3TVVCZElLaUsyOHFGSFkSBBoCCAAa3AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC2BggAEAAYACAAKhIKBHdoYXQVAAAAABoFd2hpY2gqKQoFYmxvb2QVpmGuQBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFTH9rUAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVAAAAABoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVpp18PhoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVoAexQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczKZAi9nb3RvP3VybD1DQUVTeGdFQjZ6c3dGWjkwZmd4MzhtMVgzZFhwRkJJU3RocWhBZ0pBdlFuTUpjX1J5VDJiTWh5cW5JdVlhb09wM1U2VTZmWGNBOHJLYWFQaUpxVGMwbUY4NngxV0tqeVZ6U0VVcFVZR1ktZXphS3hsMmJRU3UzblJtdUh0ZUFrTTFUZHExUUZ0V0JodEtIYmJ4aVdKM0hhRmR0Mm5XNWh5aVFvWDFTQTVJYjhsalNrRGE1UU5sUV82U181UW5KQy03ZEtxZ0FyZVNzVlpLUzJrNlVFZlV3Vnp2Z0hVQzBOemhkVF9BbWxEaFZSS2UyVGNkay1zaW0waWJ2eFZ5Sm1Md01VQmRJS2lLMjhxRkhZOks8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiByZWRlZmluZWQgZm9yIGZpcnN0IHRpbWUgaW4gMTQgeWVhcnM6IDEzMCBpcyAuLi5CnAFTdGFnZSAyOiA8Yj5TeXN0b2xpYyBhdCBsZWFzdCAxNDAgb3IgZGlhc3RvbGljIGF0IGxlYXN0IDkwIG1tIEhnPC9iPjs7IEh5cGVydGVuc2l2ZSBjcmlzaXM6IFRvcCBudW1iZXIgb3ZlciAxODAgYW5kL29yIGJvdHRvbSBudW1iZXIgb3ZlciAxMjAsIHdpdGgmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "source": "American College of Cardiology",
+      "read_more_link": "https://www.google.com/goto?url=CAESmgIB6zswFfqYGu2X1Ui9Wbt3kwxXQZlUV6ZbBCSeXz9HjjgpV3eA-bTzpeK98iDnLLyhoqKbE7G-mdeHLngJZk45RF4Vw31EnW17mrQqpR89hMgOKEcV_KrLuXJvfm7haA8C-Lq6fZ3h9PEN0_5ZDDNfry8KNUYP-oj46JBwwPEVGNT7SJBlBtvzMOTHv0PWenEFPwEagD_uumveAJtBxSnK1IAJCY6UltTcD30Yp0H5EqUKOj1x_oaH4GCEpUbCBrrxyMhWFtBWpGbdj6h0PBgU4wzUFJjVHalaGQsA1JoJeq2GGqPL5ciwdIWm0n1BbegZE0RJdAtjP-dYrdb_70nCWJLhSVvzDjItmhGOfTHb6YkvMrMM_UHcAjY"
+    },
+    {
+      "position": 4,
+      "title": "What is high blood pressure?",
+      "link": "/goto?url=CAESrQEB6zswFZN9eRFUPmCAi3YNa86570mu-cw767kIjO7WRyAW_fBZPnTft9SXddz6-GaAiZFo_j4hWevY9Qrrsr27uCnuHjtxcw1VFuLCBnhHl6523Or6WS1ssjwoTuhkX4kwk__AcBsHu26Mid3HoM1lecdAoIvlYG1H4ELKke6SyI6pbLa65NTCwV1X1YUXS_VVcOghNcfyyhG9qGngyj_19twDA0Xtc21xnIQ8HA",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFbwB0ClBv-Cfacl9Jbh4itFBAuvdwZMyHt87fuBcjCwQZQxCzFqga5yQJJPgIqGIkpoDeoEJkqrAXUyry5iVrK8BflFG0BnQ_UBw-J4pyX6E5O1Xz0UsEgzM4Mx2GbO1gPyzXbXRdBbA-twIHydoeu7eDUgWf1rkKOC2Oe9PzIysCruAER9T263FpX8Jm6EWcZPmCqkKM_08T0OPAmj7Wx6pN-Vmq68CNQ&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://www.bloodpressureuk.org \u203a your-blood-pressure",
+      "snippet": "You will probably be diagnosed with high blood pressure (hypertension) if your readings are consistently 140/90mmHg or higher over a number of weeks. This is ...",
+      "snippet_highlighted_words": [
+        "140/90mmHg or higher"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "You will probably be diagnosed with high blood pressure (hypertension) if your readings are consistently 140/90mmHg or higher over a number of weeks. This is ...",
+          "source_info_link": "/goto?url=CAESrQEB6zswFZN9eRFUPmCAi3YNa86570mu-cw767kIjO7WRyAW_fBZPnTft9SXddz6-GaAiZFo_j4hWevY9Qrrsr27uCnuHjtxcw1VFuLCBnhHl6523Or6WS1ssjwoTuhkX4kwk__AcBsHu26Mid3HoM1lecdAoIvlYG1H4ELKke6SyI6pbLa65NTCwV1X1YUXS_VVcOghNcfyyhG9qGngyj_19twDA0Xtc21xnIQ8HA"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZaTjllUkZVUG1DQWkzWU5hODY1NzBtdS1jdzc2N2tJak83V1J5QVdfZkJaUG5UZnQ5U1hkZHo2LUdhQWlaRm9fajRoV2V2WTlRcnJzcjI3dUNudUhqdHhjdzFWRnVMQ0JuaEhsNjUyM09yNldTMXNzandvVHVoa1g0a3drX19BY0JzSHUyNk1pZDNIb00xbGVjZEFvSXZsWUcxSDRFTEtrZTZTeUk2cGJMYTY1TlRDd1YxWDFZVVhTX1ZWY09naE5jZnl5aEc5cUduZ3lqXzE5dHdEQTBYdGMyMXhuSVE4SEESBBoCCAAapAYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD-BQgAEAAYACAAKhIKBHdoYXQVLFYgQBoFd2hpY2gqKQoFYmxvb2QVpcIhQRoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFY9IG0EaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMV7Nc-PxoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVAAAAABoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVwNhTQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGWk45ZVJGVVBtQ0FpM1lOYTg2NTcwbXUtY3c3NjdrSWpPN1dSeUFXX2ZCWlBuVGZ0OVNYZGR6Ni1HYUFpWkZvX2o0aFdldlk5UXJyc3IyN3VDbnVIanR4Y3cxVkZ1TENCbmhIbDY1MjNPcjZXUzFzc2p3b1R1aGtYNGt3a19fQWNCc0h1MjZNaWQzSG9NMWxlY2RBb0l2bFlHMUg0RUxLa2U2U3lJNnBiTGE2NU5UQ3dWMVgxWVVYU19WVmNPZ2hOY2Z5eWhHOXFHbmd5al8xOXR3REEwWHRjMjF4bklROEhBOiNXaGF0IGlzIDxiPmhpZ2ggYmxvb2QgcHJlc3N1cmU8L2I-P0KtAVlvdSB3aWxsIHByb2JhYmx5IGJlIGRpYWdub3NlZCB3aXRoIGhpZ2ggYmxvb2QgcHJlc3N1cmUgKGh5cGVydGVuc2lvbikgaWYgeW91ciByZWFkaW5ncyBhcmUgY29uc2lzdGVudGx5IDxiPjE0MC85MG1tSGcgb3IgaGlnaGVyPC9iPiBvdmVyIGEgbnVtYmVyIG9mIHdlZWtzLiBUaGlzIGlzJm5ic3A7Li4uSgNhcmUiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZaTjllUkZVUG1DQWkzWU5hODY1NzBtdS1jdzc2N2tJak83V1J5QVdfZkJaUG5UZnQ5U1hkZHo2LUdhQWlaRm9fajRoV2V2WTlRcnJzcjI3dUNudUhqdHhjdzFWRnVMQ0JuaEhsNjUyM09yNldTMXNzandvVHVoa1g0a3drX19BY0JzSHUyNk1pZDNIb00xbGVjZEFvSXZsWUcxSDRFTEtrZTZTeUk2cGJMYTY1TlRDd1YxWDFZVVhTX1ZWY09naE5jZnl5aEc5cUduZ3lqXzE5dHdEQTBYdGMyMXhuSVE4SEESBBoCCAAapAYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD-BQgAEAAYACAAKhIKBHdoYXQVLFYgQBoFd2hpY2gqKQoFYmxvb2QVpcIhQRoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFY9IG0EaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMV7Nc-PxoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVAAAAABoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVwNhTQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGWk45ZVJGVVBtQ0FpM1lOYTg2NTcwbXUtY3c3NjdrSWpPN1dSeUFXX2ZCWlBuVGZ0OVNYZGR6Ni1HYUFpWkZvX2o0aFdldlk5UXJyc3IyN3VDbnVIanR4Y3cxVkZ1TENCbmhIbDY1MjNPcjZXUzFzc2p3b1R1aGtYNGt3a19fQWNCc0h1MjZNaWQzSG9NMWxlY2RBb0l2bFlHMUg0RUxLa2U2U3lJNnBiTGE2NU5UQ3dWMVgxWVVYU19WVmNPZ2hOY2Z5eWhHOXFHbmd5al8xOXR3REEwWHRjMjF4bklROEhBOiNXaGF0IGlzIDxiPmhpZ2ggYmxvb2QgcHJlc3N1cmU8L2I-P0KtAVlvdSB3aWxsIHByb2JhYmx5IGJlIGRpYWdub3NlZCB3aXRoIGhpZ2ggYmxvb2QgcHJlc3N1cmUgKGh5cGVydGVuc2lvbikgaWYgeW91ciByZWFkaW5ncyBhcmUgY29uc2lzdGVudGx5IDxiPjE0MC85MG1tSGcgb3IgaGlnaGVyPC9iPiBvdmVyIGEgbnVtYmVyIG9mIHdlZWtzLiBUaGlzIGlzJm5ic3A7Li4uSgNhcmUiAhABSABYAGgA",
+      "source": "Blood Pressure UK",
+      "read_more_link": "https://www.google.com/goto?url=CAESiQIB6zswFZCYxNVYtOUJxAv8j8uZz78FM3HsdF5Emphp_FCsucCzCSJvrIsGxeVDarOUz5eiOkt5MUd20EppX4H0LlcBtjaNX0cZzjG4JAENdiknPU_YVFwHKPlW4qf5rdqfvbQ3rrPDxuLv7IuJi5Fu80pvCziaCjPgC43dFFF7H0_ysRhTNAh4O6OCvJ4PGkSNqbrSWR8I2QtKBqMegD4wRJRclf7_qTIZSjNzaYciAV4uGEEOlxBcyJU5wD_G7P-Fvo-xXRrmXGeizUyFpjoiWwunTr_uDPKXAeq_5uD0vbhLrQd81JDM8898DlBNQKPaZOa4V4m87yyoB_mopzi2uLMArVtnCHvn"
+    },
+    {
+      "position": 5,
+      "title": "High blood pressure (hypertension) - causes and symptoms",
+      "link": "/goto?url=CAEShQEB6zswFbCEdgESk6jE9aNEUkGPlSWnBKVA6-AQZe6P-sdfgEgyeJoOytNyGwgubExx5WFHNNJGbD4N7bJEHchsyEriKaKCHuxWZduAGLMCJjHE9JT2tAvLx9G4QgFbWe5uCN_9SuH3Dz8dI3IssA121xw_Jj_TVxDN-SZ--Z2AX4Xs3oeG",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFWXviGwqzF1yulbTdfnR-XJODMKAs-4yBEPdiyrioYOwvGJJrhKoUdA2OYPWy0lsM0fPef5rjUDrrj3UediKLkojXIxyjPpnn15kWQbhX3VFL-lb8Yrwj3nfojL8O8V9P-VbHV5EIDlSEB2MNCnzcYMYMvxHixdi4-7AuueJEfal&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECEAQAQ&uoh=1",
+      "displayed_link": "https://www.bhf.org.uk \u203a ... \u203a High blood pressure",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEXsGzDsFCzrABjsABPrABDsABzsGC7rCibuPUn50tT9___2u73xg4r89vX56enwe4DuOETznJ_wZGz1tLf329zyiY_55eTwa3LxjpPsACL3x8ruSFPsECnrAADzl5v2q63sAB_3wsPwWWH43uDzn6LvUlv0rq_uRlHxcXf8___yf4PuLTv0pKfsJTX2t7rwbnNzSzG0AAABVUlEQVR4AaXQVYLDIBAAUEImsCXZuEDDQIS63f92q23ktzg8nLwfPOpDwAgHH_ja-MdGiJBC9CnihK7WpUJkeVFWdRPFQqoF0q1oqUYTI1dYi2CBKLbwXSmPEcITkesl2u7Z1u0KadnTZ5s3QrM56kGo5wCWxeq6KEf8UzAjLK2rdFXCj4LbAFuY3okC8zJgBPYFLtcxJe0GD8MInQnbVoHHJmOqPI7D6bytuhPGdS4u2nti0Nc9jkbW5fVyCpPYHsex6F7qB3RTJDvHVCKxjANKu8V17anlihHOvcPyf76H2M1Q8j2oNfG-Kzaz5AxDOvhHzvOcKtWRj0nV1Vpzl3sXQni3rrfGqGnlOXo052Mij8GxSQYnLxGfMDoCpRR8jJAeBoSAzq66z_fOmNDt7fVamL3pnZpWVphFTiZnJ93ZnLPzueJkUqK4Uvw7f9ffkXPyXvgCK9EdnprJE7cAAAAASUVORK5CYII.png",
+      "snippet": "If you're over 80 years old, your blood pressure should usually be below 150/90 mmHg when checked by a healthcare professional or below 145/85 mmHg when checked ...",
+      "snippet_highlighted_words": [
+        "blood pressure"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you're over 80 years old, your blood pressure should usually be below 150/90 mmHg when checked by a healthcare professional or below 145/85 mmHg when checked ...",
+          "source_info_link": "/goto?url=CAEShQEB6zswFbCEdgESk6jE9aNEUkGPlSWnBKVA6-AQZe6P-sdfgEgyeJoOytNyGwgubExx5WFHNNJGbD4N7bJEHchsyEriKaKCHuxWZduAGLMCJjHE9JT2tAvLx9G4QgFbWe5uCN_9SuH3Dz8dI3IssA121xw_Jj_TVxDN-SZ--Z2AX4Xs3oeG",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEXsGzDsFCzrABjsABPrABDsABzsGC7rCibuPUn50tT9___2u73xg4r89vX56enwe4DuOETznJ_wZGz1tLf329zyiY_55eTwa3LxjpPsACL3x8ruSFPsECnrAADzl5v2q63sAB_3wsPwWWH43uDzn6LvUlv0rq_uRlHxcXf8___yf4PuLTv0pKfsJTX2t7rwbnNzSzG0AAABVUlEQVR4AaXQVYLDIBAAUEImsCXZuEDDQIS63f92q23ktzg8nLwfPOpDwAgHH_ja-MdGiJBC9CnihK7WpUJkeVFWdRPFQqoF0q1oqUYTI1dYi2CBKLbwXSmPEcITkesl2u7Z1u0KadnTZ5s3QrM56kGo5wCWxeq6KEf8UzAjLK2rdFXCj4LbAFuY3okC8zJgBPYFLtcxJe0GD8MInQnbVoHHJmOqPI7D6bytuhPGdS4u2nti0Nc9jkbW5fVyCpPYHsex6F7qB3RTJDvHVCKxjANKu8V17anlihHOvcPyf76H2M1Q8j2oNfG-Kzaz5AxDOvhHzvOcKtWRj0nV1Vpzl3sXQni3rrfGqGnlOXo052Mij8GxSQYnLxGfMDoCpRR8jJAeBoSAzq66z_fOmNDt7fVamL3pnZpWVphFTiZnJ93ZnLPzueJkUqK4Uvw7f9ffkXPyXvgCK9EdnprJE7cAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZiQ0VkZ0VTazZqRTlhTkVVa0dQbFNXbkJLVkE2LUFRWmU2UC1zZGZnRWd5ZUpvT3l0TnlHd2d1YkV4eDVXRkhOTkpHYkQ0TjdiSkVIY2hzeUVyaUthS0NIdXhXWmR1QUdMTUNKakhFOUpUMnRBdkx4OUc0UWdGYldlNXVDTl85U3VIM0R6OGRJM0lzc0ExMjF4d19Kal9UVnhETi1TWi0tWjJBWDRYczNvZUcSBBoCCAAaiAYSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDiBQgAEAAYACAAKhIKBHdoYXQVXXv5PxoFd2hpY2gqKQoFYmxvb2QV2TmfQBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFWBEn0AaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVX7m6PhoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVAAAAABoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVpS-HQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGYkNFZGdFU2s2akU5YU5FVWtHUGxTV25CS1ZBNi1BUVplNlAtc2RmZ0VneWVKb095dE55R3dndWJFeHg1V0ZITk5KR2JENE43YkpFSGNoc3lFcmlLYUtDSHV4V1pkdUFHTE1DSmpIRTlKVDJ0QXZMeDlHNFFnRmJXZTV1Q05fOVN1SDNEejhkSTNJc3NBMTIxeHdfSmpfVFZ4RE4tU1otLVoyQVg0WHMzb2VHOjY8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiAtIGNhdXNlcyBhbmQgc3ltcHRvbXMgLSBCSEZCtAFJZiB5b3UmIzM5O3JlIG92ZXIgODAgeWVhcnMgb2xkLCB5b3VyIDxiPmJsb29kIHByZXNzdXJlPC9iPiBzaG91bGQgdXN1YWxseSBiZSBiZWxvdyAxNTAvOTAgbW1IZyB3aGVuIGNoZWNrZWQgYnkgYSBoZWFsdGhjYXJlIHByb2Zlc3Npb25hbCBvciBiZWxvdyAxNDUvODUgbW1IZyB3aGVuIGNoZWNrZWQmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZiQ0VkZ0VTazZqRTlhTkVVa0dQbFNXbkJLVkE2LUFRWmU2UC1zZGZnRWd5ZUpvT3l0TnlHd2d1YkV4eDVXRkhOTkpHYkQ0TjdiSkVIY2hzeUVyaUthS0NIdXhXWmR1QUdMTUNKakhFOUpUMnRBdkx4OUc0UWdGYldlNXVDTl85U3VIM0R6OGRJM0lzc0ExMjF4d19Kal9UVnhETi1TWi0tWjJBWDRYczNvZUcSBBoCCAAaiAYSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDiBQgAEAAYACAAKhIKBHdoYXQVXXv5PxoFd2hpY2gqKQoFYmxvb2QV2TmfQBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFWBEn0AaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMVX7m6PhoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVAAAAABoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVpS-HQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGYkNFZGdFU2s2akU5YU5FVWtHUGxTV25CS1ZBNi1BUVplNlAtc2RmZ0VneWVKb095dE55R3dndWJFeHg1V0ZITk5KR2JENE43YkpFSGNoc3lFcmlLYUtDSHV4V1pkdUFHTE1DSmpIRTlKVDJ0QXZMeDlHNFFnRmJXZTV1Q05fOVN1SDNEejhkSTNJc3NBMTIxeHdfSmpfVFZ4RE4tU1otLVoyQVg0WHMzb2VHOjY8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiAtIGNhdXNlcyBhbmQgc3ltcHRvbXMgLSBCSEZCtAFJZiB5b3UmIzM5O3JlIG92ZXIgODAgeWVhcnMgb2xkLCB5b3VyIDxiPmJsb29kIHByZXNzdXJlPC9iPiBzaG91bGQgdXN1YWxseSBiZSBiZWxvdyAxNTAvOTAgbW1IZyB3aGVuIGNoZWNrZWQgYnkgYSBoZWFsdGhjYXJlIHByb2Zlc3Npb25hbCBvciBiZWxvdyAxNDUvODUgbW1IZyB3aGVuIGNoZWNrZWQmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "source": "British Heart Foundation",
+      "read_more_link": "https://www.google.com/goto?url=CAES0QEB6zswFTkKfHbndJYc3e8cloW9--Qy-1UU1A4t0WF7YfYwcIi3mDQr2rTg-LNJJt6nRCSz3CvDgYl3HnAVEjOv-TZkPSP-3WrbPf0ZKBA7f8OkbGvuA4SMwyhptnV5c80YjtGe8S6SX0mnv1Yrxw0zpXrKjyOHmfH9rgPfF1yro-iJzWzRXTV94xXds7P6g6CyQbMZ3ktj0WjIA1pOZxP8dE_oMtrg-hG2JGXSQFZjWtRkgeyfWqvtf1go9YIO-CQWXErhx2Emd6Z50h1WxauHaw"
+    },
+    {
+      "position": 6,
+      "title": "High Blood Pressure (Hypertension)",
+      "link": "/goto?url=CAESpAEB6zswFROeUxLQN5GukWPAOCxcns3XzsBSnqeYv7yBafLGLVLKC1xVASu1FdrFAKfj0JMiP8g_nG7wg90-izveR_RC8MYbI4ZOapPNISauXDXkEiNplYMct5njBzZU_2Qe9GAwhAzoQn6mugKTq7DcAeZfMYL6_WXTAWGAZV3SsmPM_E1UHAa6HIZ89_IAqYityIxHMeJt9yeRjfoLHvMiQYdLMg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFQJFY8HzJYjq_UKecUIofrNTSf39CsMyoQv_jc77lq65E0t_WFVD7ws1F_kU7eSHDkb1MXla9G-QOzb4_ZDAfb3nl2pJ6fpfZvVvePJ_HsDkWcO4Txa0B21F_gipAb8ED9AbHJrn6Np42_bTt0g44a5kKUlhbp-mP_0q0waGWSczXJo-KNDhX9LkKKw4qG_yDy1AJ5rIQzA8pZg2sUSg0A&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.texasheart.org \u203a heart-health \u203a topics \u203a high-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACdElEQVR4AbXXA9AcQRCG4di2bTspx7Zt27ZZip1CbNu2bdtm5w1_bc8ct-o5f7ddu8NQ2jG1faHU6IYV2Iml6IwUofx5cILQKIeT-AYJ5Du2IaEhHxnJkBbxEdbdAoriHkTxABmCZSIiL_phK67jPs5hOvK4evLY2AExOI-kyIwy6Ib1eAlR3EIlVwqoiE8Qg50ohXO4jINYg4VYi-v47pC7jty2AoZDLFYgEXIjBWIhBuIhAdJioZKdi_CmAuZCLOYgIhphMlZgD07jBDohB247ZB8hp3byMFgAsZiANIaG-gSFsBTioI3pCsyBWAxFMlyDOPiBupgAcTDFVMBYiEW_v7-thp1461BAHYwztKFwWgHtIBa9Av0-KqriMgSCDyhuaE8bEEEroBQ-Qgx6OuTK4TUEN5Edu5X8atMVSIe7EIO-Drno2B_oBDlwX8nPM7WBKNgOMRiu9KBFELRDTXzTGrFtMBoBMZhk6EEPkRWzlOx31LUVUFpvB3or5rN5mIb0uK5knyKnrYBEOAtRHEUsh1vQGznQFj-U7H7EcGVSmgRR3Ed6hzVEVMTDAYhilKvTchl8gDj4hLJKrjG-KLm3KOJqAXFwyDQcO2QS4whEsRsx3VkZ9YYo9iJmsDYwxHDvf6CTu0uzjLgJcfAelQP9tgqeQxRXkMaTBeoYS28ojua4AzEY7OkKOROuQxTv8AVicNK-lLe3hR8QD7xFTW_3CQmxF-KmHxiP8L7YrJTBC4gb1iCer3ZLYTEM3yE2OID0vt6yxcEKiMVR5PDXvjENdls2LVn9vXlNj7XBFhyvMBlJlZjPi0iAftiLZaiESJ7810-m4MdArg7j2AAAAABJRU5ErkJggg.png",
+      "snippet": "Those with a blood pressure reading anywhere from 120/80 up to 129/80 are classified within a category called elevated blood pressure. Hypertension is defined ...",
+      "snippet_highlighted_words": [
+        "120/80 up to 129/80"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Those with a blood pressure reading anywhere from 120/80 up to 129/80 are classified within a category called elevated blood pressure. Hypertension is defined ...",
+          "source_info_link": "/goto?url=CAESpAEB6zswFROeUxLQN5GukWPAOCxcns3XzsBSnqeYv7yBafLGLVLKC1xVASu1FdrFAKfj0JMiP8g_nG7wg90-izveR_RC8MYbI4ZOapPNISauXDXkEiNplYMct5njBzZU_2Qe9GAwhAzoQn6mugKTq7DcAeZfMYL6_WXTAWGAZV3SsmPM_E1UHAa6HIZ89_IAqYityIxHMeJt9yeRjfoLHvMiQYdLMg",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACdElEQVR4AbXXA9AcQRCG4di2bTspx7Zt27ZZip1CbNu2bdtm5w1_bc8ct-o5f7ddu8NQ2jG1faHU6IYV2Iml6IwUofx5cILQKIeT-AYJ5Du2IaEhHxnJkBbxEdbdAoriHkTxABmCZSIiL_phK67jPs5hOvK4evLY2AExOI-kyIwy6Ib1eAlR3EIlVwqoiE8Qg50ohXO4jINYg4VYi-v47pC7jty2AoZDLFYgEXIjBWIhBuIhAdJioZKdi_CmAuZCLOYgIhphMlZgD07jBDohB247ZB8hp3byMFgAsZiANIaG-gSFsBTioI3pCsyBWAxFMlyDOPiBupgAcTDFVMBYiEW_v7-thp1461BAHYwztKFwWgHtIBa9Av0-KqriMgSCDyhuaE8bEEEroBQ-Qgx6OuTK4TUEN5Edu5X8atMVSIe7EIO-Drno2B_oBDlwX8nPM7WBKNgOMRiu9KBFELRDTXzTGrFtMBoBMZhk6EEPkRWzlOx31LUVUFpvB3or5rN5mIb0uK5knyKnrYBEOAtRHEUsh1vQGznQFj-U7H7EcGVSmgRR3Ed6hzVEVMTDAYhilKvTchl8gDj4hLJKrjG-KLm3KOJqAXFwyDQcO2QS4whEsRsx3VkZ9YYo9iJmsDYwxHDvf6CTu0uzjLgJcfAelQP9tgqeQxRXkMaTBeoYS28ojua4AzEY7OkKOROuQxTv8AVicNK-lLe3hR8QD7xFTW_3CQmxF-KmHxiP8L7YrJTBC4gb1iCer3ZLYTEM3yE2OID0vt6yxcEKiMVR5PDXvjENdls2LVn9vXlNj7XBFhyvMBlJlZjPi0iAftiLZaiESJ7810-m4MdArg7j2AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZST2VVeExRTjVHdWtXUEFPQ3hjbnMzWHpzQlNucWVZdjd5QmFmTEdMVkxLQzF4VkFTdTFGZHJGQUtmajBKTWlQOGdfbkc3d2c5MC1penZlUl9SQzhNWWJJNFpPYXBQTklTYXVYRFhrRWlOcGxZTWN0NW5qQnpaVV8yUWU5R0F3aEF6b1FuNm11Z0tUcTdEY0FlWmZNWUw2X1dYVEFXR0FaVjNTc21QTV9FMVVIQWE2SElaODlfSUFxWWl0eUl4SE1lSnQ5eWVSamZvTEh2TWlRWWRMTWcSBBoCCAAaxAYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCeBggAEAAYACAAKhIKBHdoYXQVcIpjPxoFd2hpY2gqKQoFYmxvb2QVTtu6QBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFWyfuUAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMV6CMcPxoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVAAAAABoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVuQemQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGUk9lVXhMUU41R3VrV1BBT0N4Y25zM1h6c0JTbnFlWXY3eUJhZkxHTFZMS0MxeFZBU3UxRmRyRkFLZmowSk1pUDhnX25HN3dnOTAtaXp2ZVJfUkM4TVliSTRaT2FwUE5JU2F1WERYa0VpTnBsWU1jdDVuakJ6WlVfMlFlOUdBd2hBem9RbjZtdWdLVHE3RGNBZVpmTVlMNl9XWFRBV0dBWlYzU3NtUE1fRTFVSEFhNkhJWjg5X0lBcVlpdHlJeEhNZUp0OXllUmpmb0xIdk1pUVlkTE1nOk48Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPiAoPGI-SHlwZXJ0ZW5zaW9uPC9iPikgfCBUaGUgVGV4YXMgSGVhcnQgSW5zdGl0dXRlwq5CrgFUaG9zZSB3aXRoIGEgYmxvb2QgcHJlc3N1cmUgcmVhZGluZyBhbnl3aGVyZSBmcm9tIDxiPjEyMC84MCB1cCB0byAxMjkvODA8L2I-IGFyZSBjbGFzc2lmaWVkIHdpdGhpbiBhIGNhdGVnb3J5IGNhbGxlZCBlbGV2YXRlZCBibG9vZCBwcmVzc3VyZS4gSHlwZXJ0ZW5zaW9uIGlzIGRlZmluZWQmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZST2VVeExRTjVHdWtXUEFPQ3hjbnMzWHpzQlNucWVZdjd5QmFmTEdMVkxLQzF4VkFTdTFGZHJGQUtmajBKTWlQOGdfbkc3d2c5MC1penZlUl9SQzhNWWJJNFpPYXBQTklTYXVYRFhrRWlOcGxZTWN0NW5qQnpaVV8yUWU5R0F3aEF6b1FuNm11Z0tUcTdEY0FlWmZNWUw2X1dYVEFXR0FaVjNTc21QTV9FMVVIQWE2SElaODlfSUFxWWl0eUl4SE1lSnQ5eWVSamZvTEh2TWlRWWRMTWcSBBoCCAAaxAYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCeBggAEAAYACAAKhIKBHdoYXQVcIpjPxoFd2hpY2gqKQoFYmxvb2QVTtu6QBoMaHlwZXJ0ZW5zaW9uGg1ibG9vZHByZXNzdXJlKjcKCHByZXNzdXJlFWyfuUAaDGh5cGVydGVuc2lvbhoJcHJlc3N1cmVzGg1ibG9vZHByZXNzdXJlKjcKB251bWJlcnMV6CMcPxoGbGV2ZWxzGgZudW1iZXIaBXJhbmdlGghyZWFkaW5ncxoGdmFsdWVzKgoKA2FyZRUAAAAAKj0KCmNvbnNpZGVyZWQVAAAAABoJY29uc2lkZXJzGgZkZWVtZWQaCHJlZ2FyZGVkGgV3aGF0cxoGbm9ybWFsKiMKBGhpZ2gVuQemQBoGaGlnaGVyGgdoaWdoZXN0GgVoaWdoczLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGUk9lVXhMUU41R3VrV1BBT0N4Y25zM1h6c0JTbnFlWXY3eUJhZkxHTFZMS0MxeFZBU3UxRmRyRkFLZmowSk1pUDhnX25HN3dnOTAtaXp2ZVJfUkM4TVliSTRaT2FwUE5JU2F1WERYa0VpTnBsWU1jdDVuakJ6WlVfMlFlOUdBd2hBem9RbjZtdWdLVHE3RGNBZVpmTVlMNl9XWFRBV0dBWlYzU3NtUE1fRTFVSEFhNkhJWjg5X0lBcVlpdHlJeEhNZUp0OXllUmpmb0xIdk1pUVlkTE1nOk48Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPiAoPGI-SHlwZXJ0ZW5zaW9uPC9iPikgfCBUaGUgVGV4YXMgSGVhcnQgSW5zdGl0dXRlwq5CrgFUaG9zZSB3aXRoIGEgYmxvb2QgcHJlc3N1cmUgcmVhZGluZyBhbnl3aGVyZSBmcm9tIDxiPjEyMC84MCB1cCB0byAxMjkvODA8L2I-IGFyZSBjbGFzc2lmaWVkIHdpdGhpbiBhIGNhdGVnb3J5IGNhbGxlZCBlbGV2YXRlZCBibG9vZCBwcmVzc3VyZS4gSHlwZXJ0ZW5zaW9uIGlzIGRlZmluZWQmbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "source": "The Texas Heart Institute",
+      "read_more_link": "https://www.google.com/goto?url=CAES-AEB6zswFfwSGT9IW4zHeKrrmwYfwI_YcuBUArPPhePvqZ26i0pjeWrFLJsTqM_WSJheSam_2MohHACn7mTM94UoKYeS_D_8ugOVLaTB5gJkSwdnfAQU4qgJUqvCtqa6jVCtJAd_ZSR7YMOem-1rvLkkCtSpu1-jFhFCIl2ewuZuHxL3Yt3wB_O2sP2Oa3s2fPMRcbNLXefYXm5SxdWnGSY-hvce-b4R7aq1aMcBqdBdk_R0Gf9pyAwMenmNlrs0enW1415ZEtplNj0vDYRkL_uZDwywqkvlNL42V5ZYcptSxj6NhpdDl4054ny97pxBGEctqJk08MYLyg"
+    },
+    {
+      "position": 7,
+      "title": "What is the ideal blood pressure number?",
+      "link": "/goto?url=CAESnQEB6zswFabjyboeJCbjM8WIdT-Ggayr1Bb-D8Vsd3pOat9PMucPV0Wj26bAFT1KO60lpKb7f_x1y3SB22jj9dv0ilne5ZLT19ctD60auusEK7jfUTH6dZkSn2G9jjSBHs95bsuaNAWUCde_XqpOFDiP2dPWTJm3-WXtyGXS9Nwmm4ifzTChnwFXl8_H8EDBfQv3w4TTVBFFpqa6OUva",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFcPMCZpX-MpAukiue9Btp15lWnHMBs83-KxqnjjdalmnU-XOmvjXC2YvuNyLP_7twcnbob6Bk0Ez7NlyitnZjAzLEN-Dy2K_JLbH50jn2WZDvKH2CWFI_fuiQWDk4AsIXOzCFvydAMTJNA50C0c9nSmK2rP6_NCabzdlWMD4qEoi_arFuzI_dUOJIM-c09oE1VA1Lov8lDTa&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECEsQAQ&uoh=1",
+      "displayed_link": "https://www.health.harvard.edu \u203a what-is-the-ideal-bloo...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA8FBMVEX____X19etoaGwo6Oxo6OolZWYAACKLy-aMzOcPT2NKCiiAACeAACpmJhzRESzurrAxcV6S0uGT0_Hzc3W2dl_XFyFV1eMFRWnp6fAwsKVJSWSkJCbLS13Tk6HWFiQAABxODiUAACUHh6jEhISAAAcAACUgoLFurpqWVk3Gxs3ISEMAACbVlZnAABfAACRSUmlZWV_MTFxExO1AAC-AACnAAB_QkKagYGRZWWtAAC5Cwt0AABYLi54aWmvr6-Ramrm6emIAAD8__9_OjpnUlKBgoJkMDCwAACYhoZkPDyifHyCAAB_Kyt9ICCSdHROTU2vP4NYAAABcUlEQVR4Aa3MhXakMBSA4Qzu0rDdZBh3N0JbLhWkru__NOuLrBxrf4h-5wS9rwbH_0goZq5RoCjJiqrpuqYosvFjlsQCTct2HMc9sm3sfTr-NuNjs8TPjk1os0l825NblPhEq6DreJ7ttm3Pw50j59vsVrDbs1y3L7ltyx0M3Z7V7pZIeHM0nkxn47kgLEaz6WS89AvkVqv1Zrvbr9er3WG9323Xa658NmDDWciaJ6dnEbAwZhCUz_IRGP5paJxjLLHw7CKAiC-Q6hAc8OUFptQY9K4GADotMEkB-jHBWeIbszwOALpJgdkJg6h7TcnlTUxubiVgeYaKuOhudk8nFsXpynsI4M5EZUka9fJDml_jx-6lzIKnBFUSIxbmNEtoMtnewd09qpY9s3jtZxci8mNgLwmqRdNrQp21jz2X9Sn6I_OpeWukL2vzURfRX71GAUD45qev2d-YvYYAoJdW14kRMOm-tHokfbpE_81L0Mf0FX92NnzvR-kXAAAAAElFTkSuQmCC.png",
+      "date": "Aug 1, 2022",
+      "snippet": "High blood pressure (hypertension) Stage 1. 130 \u2013 139. or. 80 \u2013 89. High blood pressure (hypertension) Stage 2. 140 or higher. or. 90 or higher.",
+      "snippet_highlighted_words": [
+        "High blood pressure",
+        "hypertension",
+        "High blood pressure",
+        "hypertension",
+        "higher",
+        "higher"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "High blood pressure (hypertension) Stage 1. 130 \u2013 139. or. 80 \u2013 89. High blood pressure (hypertension) Stage 2. 140 or higher. or. 90 or higher.",
+          "source_info_link": "/goto?url=CAESnQEB6zswFabjyboeJCbjM8WIdT-Ggayr1Bb-D8Vsd3pOat9PMucPV0Wj26bAFT1KO60lpKb7f_x1y3SB22jj9dv0ilne5ZLT19ctD60auusEK7jfUTH6dZkSn2G9jjSBHs95bsuaNAWUCde_XqpOFDiP2dPWTJm3-WXtyGXS9Nwmm4ifzTChnwFXl8_H8EDBfQv3w4TTVBFFpqa6OUva",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA8FBMVEX____X19etoaGwo6Oxo6OolZWYAACKLy-aMzOcPT2NKCiiAACeAACpmJhzRESzurrAxcV6S0uGT0_Hzc3W2dl_XFyFV1eMFRWnp6fAwsKVJSWSkJCbLS13Tk6HWFiQAABxODiUAACUHh6jEhISAAAcAACUgoLFurpqWVk3Gxs3ISEMAACbVlZnAABfAACRSUmlZWV_MTFxExO1AAC-AACnAAB_QkKagYGRZWWtAAC5Cwt0AABYLi54aWmvr6-Ramrm6emIAAD8__9_OjpnUlKBgoJkMDCwAACYhoZkPDyifHyCAAB_Kyt9ICCSdHROTU2vP4NYAAABcUlEQVR4Aa3MhXakMBSA4Qzu0rDdZBh3N0JbLhWkru__NOuLrBxrf4h-5wS9rwbH_0goZq5RoCjJiqrpuqYosvFjlsQCTct2HMc9sm3sfTr-NuNjs8TPjk1os0l825NblPhEq6DreJ7ttm3Pw50j59vsVrDbs1y3L7ltyx0M3Z7V7pZIeHM0nkxn47kgLEaz6WS89AvkVqv1Zrvbr9er3WG9323Xa658NmDDWciaJ6dnEbAwZhCUz_IRGP5paJxjLLHw7CKAiC-Q6hAc8OUFptQY9K4GADotMEkB-jHBWeIbszwOALpJgdkJg6h7TcnlTUxubiVgeYaKuOhudk8nFsXpynsI4M5EZUka9fJDml_jx-6lzIKnBFUSIxbmNEtoMtnewd09qpY9s3jtZxci8mNgLwmqRdNrQp21jz2X9Sn6I_OpeWukL2vzURfRX71GAUD45qev2d-YvYYAoJdW14kRMOm-tHokfbpE_81L0Mf0FX92NnzvR-kXAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhYmp5Ym9lSkNiak04V0lkVC1HZ2F5cjFCYi1EOFZzZDNwT2F0OVBNdWNQVjBXajI2YkFGVDFLTzYwbHBLYjdmX3gxeTNTQjIyamo5ZHYwaWxuZTVaTFQxOWN0RDYwYXV1c0VLN2pmVVRINmRaa1NuMkc5ampTQkhzOTVic3VhTkFXVUNkZV9YcXBPRkRpUDJkUFdUSm0zLVdYdHlHWFM5TndtbTRpZnpUQ2hud0ZYbDhfSDhFREJmUXYzdzRUVFZCRkZwcWE2T1V2YRIEGgIIABq8BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJYGCAAQABgAIAAqEgoEd2hhdBXb75hAGgV3aGljaCopCgVibG9vZBVgaKVAGgxoeXBlcnRlbnNpb24aDWJsb29kcHJlc3N1cmUqNwoIcHJlc3N1cmUVN7KoQBoMaHlwZXJ0ZW5zaW9uGglwcmVzc3VyZXMaDWJsb29kcHJlc3N1cmUqNwoHbnVtYmVycxUP8xg_GgZsZXZlbHMaBm51bWJlchoFcmFuZ2UaCHJlYWRpbmdzGgZ2YWx1ZXMqCgoDYXJlFQAAAAAqPQoKY29uc2lkZXJlZBXIqfQ-Ggljb25zaWRlcnMaBmRlZW1lZBoIcmVnYXJkZWQaBXdoYXRzGgZub3JtYWwqIwoEaGlnaBV95p8-GgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhYmp5Ym9lSkNiak04V0lkVC1HZ2F5cjFCYi1EOFZzZDNwT2F0OVBNdWNQVjBXajI2YkFGVDFLTzYwbHBLYjdmX3gxeTNTQjIyamo5ZHYwaWxuZTVaTFQxOWN0RDYwYXV1c0VLN2pmVVRINmRaa1NuMkc5ampTQkhzOTVic3VhTkFXVUNkZV9YcXBPRkRpUDJkUFdUSm0zLVdYdHlHWFM5TndtbTRpZnpUQ2hud0ZYbDhfSDhFREJmUXYzdzRUVFZCRkZwcWE2T1V2YTpAV2hhdCBpcyB0aGUgaWRlYWwgPGI-Ymxvb2QgcHJlc3N1cmUgbnVtYmVyPC9iPj8gLSBIYXJ2YXJkIEhlYWx0aEK-ATxiPkhpZ2ggYmxvb2QgcHJlc3N1cmU8L2I-ICg8Yj5oeXBlcnRlbnNpb248L2I-KSBTdGFnZSAxLiAxMzAg4oCTIDEzOS4gb3IuIDgwIOKAkyA4OS4gPGI-SGlnaCBibG9vZCBwcmVzc3VyZTwvYj4gKDxiPmh5cGVydGVuc2lvbjwvYj4pIFN0YWdlIDIuIDE0MCBvciA8Yj5oaWdoZXI8L2I-LiBvci4gOTAgb3IgPGI-aGlnaGVyPC9iPi5KA2FyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhYmp5Ym9lSkNiak04V0lkVC1HZ2F5cjFCYi1EOFZzZDNwT2F0OVBNdWNQVjBXajI2YkFGVDFLTzYwbHBLYjdmX3gxeTNTQjIyamo5ZHYwaWxuZTVaTFQxOWN0RDYwYXV1c0VLN2pmVVRINmRaa1NuMkc5ampTQkhzOTVic3VhTkFXVUNkZV9YcXBPRkRpUDJkUFdUSm0zLVdYdHlHWFM5TndtbTRpZnpUQ2hud0ZYbDhfSDhFREJmUXYzdzRUVFZCRkZwcWE2T1V2YRIEGgIIABq8BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJYGCAAQABgAIAAqEgoEd2hhdBXb75hAGgV3aGljaCopCgVibG9vZBVgaKVAGgxoeXBlcnRlbnNpb24aDWJsb29kcHJlc3N1cmUqNwoIcHJlc3N1cmUVN7KoQBoMaHlwZXJ0ZW5zaW9uGglwcmVzc3VyZXMaDWJsb29kcHJlc3N1cmUqNwoHbnVtYmVycxUP8xg_GgZsZXZlbHMaBm51bWJlchoFcmFuZ2UaCHJlYWRpbmdzGgZ2YWx1ZXMqCgoDYXJlFQAAAAAqPQoKY29uc2lkZXJlZBXIqfQ-Ggljb25zaWRlcnMaBmRlZW1lZBoIcmVnYXJkZWQaBXdoYXRzGgZub3JtYWwqIwoEaGlnaBV95p8-GgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhYmp5Ym9lSkNiak04V0lkVC1HZ2F5cjFCYi1EOFZzZDNwT2F0OVBNdWNQVjBXajI2YkFGVDFLTzYwbHBLYjdmX3gxeTNTQjIyamo5ZHYwaWxuZTVaTFQxOWN0RDYwYXV1c0VLN2pmVVRINmRaa1NuMkc5ampTQkhzOTVic3VhTkFXVUNkZV9YcXBPRkRpUDJkUFdUSm0zLVdYdHlHWFM5TndtbTRpZnpUQ2hud0ZYbDhfSDhFREJmUXYzdzRUVFZCRkZwcWE2T1V2YTpAV2hhdCBpcyB0aGUgaWRlYWwgPGI-Ymxvb2QgcHJlc3N1cmUgbnVtYmVyPC9iPj8gLSBIYXJ2YXJkIEhlYWx0aEK-ATxiPkhpZ2ggYmxvb2QgcHJlc3N1cmU8L2I-ICg8Yj5oeXBlcnRlbnNpb248L2I-KSBTdGFnZSAxLiAxMzAg4oCTIDEzOS4gb3IuIDgwIOKAkyA4OS4gPGI-SGlnaCBibG9vZCBwcmVzc3VyZTwvYj4gKDxiPmh5cGVydGVuc2lvbjwvYj4pIFN0YWdlIDIuIDE0MCBvciA8Yj5oaWdoZXI8L2I-LiBvci4gOTAgb3IgPGI-aGlnaGVyPC9iPi5KA2FyZSICEAFIAFgAaAA",
+      "source": "Harvard Health",
+      "read_more_link": "https://www.google.com/goto?url=CAES6AEB6zswFQ9CGCwluMTFtz58MTm_z4gsOt0p-kz016FiiKw2DrNf9E6MsjsRQycHnD6z2fe23u9pFtYJcxeHGnxoHB2CNXXKiM4Tj1A7C1iTnwjyfyS8l2mr1E1s0TwbtzjWPs2CbjX5KkxWpKx3y9Li-p40LAwcLsXA2AK-ksX5CpHV9E3JJOsM7yW0N6D3WlBDvFUl24O0s1NaA7c1iO4e_eYFiB3EHJ00B97_KlM5hZDznyIj0qRNKeRJH0LR9OnTgVQp1pdvZlOWtoEiNT3eXAX5f0IbeEi-elltWoKuIfNCTtjuwRLs"
+    },
+    {
+      "position": 8,
+      "title": "Normal Blood Pressure: What Your Numbers Mean",
+      "link": "/goto?url=CAEShQEB6zswFZj65wqRg2eju9k1DDnFQjXYkQGLqfjojzFd-K-ODCnw4pGIbvQ9I4rRJpnFaU8WxVrWJHKnSxlE12b46OVrQpuhYo6_gJcY1U6jlG-foFOZvsvQqP4aW3cKHFCFOS2XrLuW5LdkfmAqdQv09ixKPeGolStPFZeFHVsU4TDZr_8v",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFaQHFvhdD7xr5_XjFHtjheVYaIe-lTgYyzRQLOQMXidWnnTmsa9NrK9UG9UXaVqnlYDobr97_MQBL3BYfjqK4NKVkAHgIGM-vmuwsrC4sPhXeE3pZ6SW63oarH4kHUIYg_pDPY7IdpkGIOqjVNt3ZATsYslMUG9_W-R5PCze67Sv&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://zenithfamilycare.com \u203a normal-blood-pressure-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEz_MTH_MTH_MDD_Ly__MzP_MTH_MTH_MTH_NDT9Pz__MjL_MTH6SEj3V1fxcnL_MTH_MTH_MTH9OjrxcHDufX3riYnhubn_MTHplZXgvLzmoqLlp6flo6Pgurrfvr7ex8fcysrczs4mAuQ-AAAAI3RSTlMAtP9qFNoFSjBVP-zC__86-iGS_8rwuQmn5il68Vq6IaJPQVJJ3BEAAACiSURBVHgBzdBFAsMwDATAzboYZub__7EMUgrXdo62GD9kUTBQVlSgrb99YnOF7WtZVd_CwtZgs9vvbYdcY8ml6zjO2vN9P4C2c0LSjRAz8dIsLyDZPCmxvwwT5FW9LLtBdIkANk2rf00MhPdhNl1bvN4hxE3TQylJRrjrVWFDco-HYZTLkIwhyM_LLtaNATDVIlHZAcWMB4fSCoCcaCus8KeOJHcGnyLMxqIAAAAASUVORK5CYII.png",
+      "date": "Sep 3, 2026",
+      "snippet": "What Is Considered High Blood Pressure \u00b7 Elevated: 120129 systolic and less than 80 diastolic \u00b7 Stage 1 hypertension: 130-139 systolic or 80-89 ...",
+      "snippet_highlighted_words": [
+        "120129 systolic and less than 80 diastolic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What Is Considered High Blood Pressure \u00b7 Elevated: 120129 systolic and less than 80 diastolic \u00b7 Stage 1 hypertension: 130-139 systolic or 80-89 ...",
+          "source_info_link": "/goto?url=CAEShQEB6zswFZj65wqRg2eju9k1DDnFQjXYkQGLqfjojzFd-K-ODCnw4pGIbvQ9I4rRJpnFaU8WxVrWJHKnSxlE12b46OVrQpuhYo6_gJcY1U6jlG-foFOZvsvQqP4aW3cKHFCFOS2XrLuW5LdkfmAqdQv09ixKPeGolStPFZeFHVsU4TDZr_8v",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEVHcEz_MTH_MTH_MDD_Ly__MzP_MTH_MTH_MTH_NDT9Pz__MjL_MTH6SEj3V1fxcnL_MTH_MTH_MTH9OjrxcHDufX3riYnhubn_MTHplZXgvLzmoqLlp6flo6Pgurrfvr7ex8fcysrczs4mAuQ-AAAAI3RSTlMAtP9qFNoFSjBVP-zC__86-iGS_8rwuQmn5il68Vq6IaJPQVJJ3BEAAACiSURBVHgBzdBFAsMwDATAzboYZub__7EMUgrXdo62GD9kUTBQVlSgrb99YnOF7WtZVd_CwtZgs9vvbYdcY8ml6zjO2vN9P4C2c0LSjRAz8dIsLyDZPCmxvwwT5FW9LLtBdIkANk2rf00MhPdhNl1bvN4hxE3TQylJRrjrVWFDco-HYZTLkIwhyM_LLtaNATDVIlHZAcWMB4fSCoCcaCus8KeOJHcGnyLMxqIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZaajY1d3FSZzJlanU5azFERG5GUWpYWWtRR0xxZmpvanpGZC1LLU9EQ253NHBHSWJ2UTlJNHJSSnBuRmFVOFd4VnJXSkhLblN4bEUxMmI0Nk9WclFwdWhZbzZfZ0pjWTFVNmpsRy1mb0ZPWnZzdlFxUDRhVzNjS0hGQ0ZPUzJYckx1VzVMZGtmbUFxZFF2MDlpeEtQZUdvbFN0UEZaZUZIVnNVNFREWnJfOHYSBBoCCAAahAYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA4AUIABAAGAAgACoSCgR3aGF0FT_IsEAaBXdoaWNoKikKBWJsb29kFa2LAUEaDGh5cGVydGVuc2lvbhoNYmxvb2RwcmVzc3VyZSo3CghwcmVzc3VyZRWdZwNBGgxoeXBlcnRlbnNpb24aCXByZXNzdXJlcxoNYmxvb2RwcmVzc3VyZSo3CgdudW1iZXJzFViHx0AaBmxldmVscxoGbnVtYmVyGgVyYW5nZRoIcmVhZGluZ3MaBnZhbHVlcyoKCgNhcmUVAAAAACo9Cgpjb25zaWRlcmVkFW-U6z8aCWNvbnNpZGVycxoGZGVlbWVkGghyZWdhcmRlZBoFd2hhdHMaBm5vcm1hbCojCgRoaWdoFVmeOEAaBmhpZ2hlchoHaGlnaGVzdBoFaGlnaHMywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlpqNjV3cVJnMmVqdTlrMUREbkZRalhZa1FHTHFmam9qekZkLUstT0RDbnc0cEdJYnZROUk0clJKcG5GYVU4V3hWcldKSEtuU3hsRTEyYjQ2T1ZyUXB1aFlvNl9nSmNZMVU2amxHLWZvRk9adnN2UXFQNGFXM2NLSEZDRk9TMlhyTHVXNUxka2ZtQXFkUXYwOWl4S1BlR29sU3RQRlplRkhWc1U0VERacl84djo7Tm9ybWFsIDxiPkJsb29kIFByZXNzdXJlPC9iPjogV2hhdCBZb3VyIDxiPk51bWJlcnM8L2I-IE1lYW5CrQFXaGF0IElzIENvbnNpZGVyZWQgSGlnaCBCbG9vZCBQcmVzc3VyZSAmbWlkZG90OyBFbGV2YXRlZDogPGI-MTIwMTI5IHN5c3RvbGljIGFuZCBsZXNzIHRoYW4gODAgZGlhc3RvbGljPC9iPiAmbWlkZG90OyBTdGFnZSAxIGh5cGVydGVuc2lvbjogMTMwLTEzOSBzeXN0b2xpYyBvciA4MC04OSZuYnNwOy4uLkoDYXJlIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZaajY1d3FSZzJlanU5azFERG5GUWpYWWtRR0xxZmpvanpGZC1LLU9EQ253NHBHSWJ2UTlJNHJSSnBuRmFVOFd4VnJXSkhLblN4bEUxMmI0Nk9WclFwdWhZbzZfZ0pjWTFVNmpsRy1mb0ZPWnZzdlFxUDRhVzNjS0hGQ0ZPUzJYckx1VzVMZGtmbUFxZFF2MDlpeEtQZUdvbFN0UEZaZUZIVnNVNFREWnJfOHYSBBoCCAAahAYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA4AUIABAAGAAgACoSCgR3aGF0FT_IsEAaBXdoaWNoKikKBWJsb29kFa2LAUEaDGh5cGVydGVuc2lvbhoNYmxvb2RwcmVzc3VyZSo3CghwcmVzc3VyZRWdZwNBGgxoeXBlcnRlbnNpb24aCXByZXNzdXJlcxoNYmxvb2RwcmVzc3VyZSo3CgdudW1iZXJzFViHx0AaBmxldmVscxoGbnVtYmVyGgVyYW5nZRoIcmVhZGluZ3MaBnZhbHVlcyoKCgNhcmUVAAAAACo9Cgpjb25zaWRlcmVkFW-U6z8aCWNvbnNpZGVycxoGZGVlbWVkGghyZWdhcmRlZBoFd2hhdHMaBm5vcm1hbCojCgRoaWdoFVmeOEAaBmhpZ2hlchoHaGlnaGVzdBoFaGlnaHMywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlpqNjV3cVJnMmVqdTlrMUREbkZRalhZa1FHTHFmam9qekZkLUstT0RDbnc0cEdJYnZROUk0clJKcG5GYVU4V3hWcldKSEtuU3hsRTEyYjQ2T1ZyUXB1aFlvNl9nSmNZMVU2amxHLWZvRk9adnN2UXFQNGFXM2NLSEZDRk9TMlhyTHVXNUxka2ZtQXFkUXYwOWl4S1BlR29sU3RQRlplRkhWc1U0VERacl84djo7Tm9ybWFsIDxiPkJsb29kIFByZXNzdXJlPC9iPjogV2hhdCBZb3VyIDxiPk51bWJlcnM8L2I-IE1lYW5CrQFXaGF0IElzIENvbnNpZGVyZWQgSGlnaCBCbG9vZCBQcmVzc3VyZSAmbWlkZG90OyBFbGV2YXRlZDogPGI-MTIwMTI5IHN5c3RvbGljIGFuZCBsZXNzIHRoYW4gODAgZGlhc3RvbGljPC9iPiAmbWlkZG90OyBTdGFnZSAxIGh5cGVydGVuc2lvbjogMTMwLTEzOSBzeXN0b2xpYyBvciA4MC04OSZuYnNwOy4uLkoDYXJlIgIQAUgAWABoAA",
+      "source": "Zenith Primary & Urgent Care",
+      "read_more_link": "https://www.google.com/goto?url=CAES1gIB6zswFcQmF2_WYU1ysfmHcRFnApEfQAgUUK0VuiB2vOwt34aisJU6S0-CdgCVnbrE31JsEGGowu7V-MBPuMggoMTmIJiQ-o9Wpz-CsQbs8FXnmJjNGbn4FEObzT3WClpWnd2uvlUf8XKQ2ANCp7lOH0_5Hf2f-Dmt5GBqC6RExnysKFCXpuwwgqNxwTURVKIhSHuk-TpPN3ZpIOSW0QRp-Bi_8Y2MLKdZ0L9tGTkXlL7Fd-OJcp-aF3vSVzNuDLjEMwaqZY_E7H1DLK87k_3T_chcBvlEtg02oizyT9uu6DgVF0_mRS0rGAcEmHN3JtBCSmLM5Ea_0twsNSmYwu0M6ROm4S9m0hjfZ4qRUuMZtNwvv7iUqN9ZfWumkLBVMnjiUatt3-zMZgoaNDRdgHrhOnnjkQojsMQh3_XK0rpdD91lCkPVmzzyTFazPJqlpOLP0v-R1M8"
+    },
+    {
+      "position": 9,
+      "title": "Understanding your blood pressure numbers",
+      "link": "/goto?url=CAESkQEB6zswFX6Iq8rhDoiHkqABiE6pN-HCceGlodpsacL3UEU5yAwj_KycUIrtP8HVf1DuDJ9tiJvHLh1flt85g2XJRsczHHSy8DaqB5n1Zmnir10OzDwDNg004OBN5_UZ66mWJyDdQqHHZVJF-9e35GJ2eMbgoypbZYfM0FRvyh7m_jP4CJrRqhsyzNwJV_TmDafl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFT0oHhjJ5jnRUa471nFjrFRbjJoVJmGJ4MhIF1DRP_UagbHE1VuEJKVFn_7JtUk0S_aHCoUDWarzsH55hCb-E7r4RgJvnjY9X8tJAyPNCREI3E7Uu1GEcteMATW1Ya0zweWOzpz4UrKKshO4XyHHhMN6c_i_sRFTlDbCYUMgiP0i9fgIX-BcBm-WzPg4&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://www.sahealth.com \u203a healthy-living \u203a blog \u203a und...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEzDAS8fHx-nDCvDAS8TIB0hHx_BAi8AIhzCAS_BAS_CAS--Ay7DAS-fDCsHIB4iHx8jHh7BAi83HCEAIB0iHx_BAS-fDipnEyQiHx_CAS_BAi_BAi_HLrhiAAAAHXRSTlMAbHYL0Er_T2j0_92_j_-RQSMs___YfYAYiqY1Y8UL2EIAAAC0SURBVHgBhdLLEoIwEETRhoyJdBLfRg3-_3dKKBZKOcNdn1VXY1WH3sFKdh5WQfY2GDaA0AZCG0SSyQBCG2QeptLRn-Z2Z3x3geP11vJL9_WAhY_W8-XPc_itILGV0Xv8KyNyqkIFroECHYwTCDBAqRRYIL5ZLVAYmGwQC0cDdKTUYdRB4JTIWwUXzg1FA-CS00BZQKf-QThXVYDKVtQBXMjk0ICRcAM8twDSFsh9D7PO4bcPf68KbA6pvHIAAAAASUVORK5CYII.png",
+      "date": "Jan 4, 2026",
+      "snippet": "Elevated blood pressure is between 120 and 129 systolic and less than 80 diastolic. High blood pressure stage 1 is 130 to 139 systolic OR 80 to ...",
+      "snippet_highlighted_words": [
+        "between 120 and 129 systolic and less than 80 diastolic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Elevated blood pressure is between 120 and 129 systolic and less than 80 diastolic. High blood pressure stage 1 is 130 to 139 systolic OR 80 to ...",
+          "source_info_link": "/goto?url=CAESkQEB6zswFX6Iq8rhDoiHkqABiE6pN-HCceGlodpsacL3UEU5yAwj_KycUIrtP8HVf1DuDJ9tiJvHLh1flt85g2XJRsczHHSy8DaqB5n1Zmnir10OzDwDNg004OBN5_UZ66mWJyDdQqHHZVJF-9e35GJ2eMbgoypbZYfM0FRvyh7m_jP4CJrRqhsyzNwJV_TmDafl",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAV1BMVEVHcEzDAS8fHx-nDCvDAS8TIB0hHx_BAi8AIhzCAS_BAS_CAS--Ay7DAS-fDCsHIB4iHx8jHh7BAi83HCEAIB0iHx_BAS-fDipnEyQiHx_CAS_BAi_BAi_HLrhiAAAAHXRSTlMAbHYL0Er_T2j0_92_j_-RQSMs___YfYAYiqY1Y8UL2EIAAAC0SURBVHgBhdLLEoIwEETRhoyJdBLfRg3-_3dKKBZKOcNdn1VXY1WH3sFKdh5WQfY2GDaA0AZCG0SSyQBCG2QeptLRn-Z2Z3x3geP11vJL9_WAhY_W8-XPc_itILGV0Xv8KyNyqkIFroECHYwTCDBAqRRYIL5ZLVAYmGwQC0cDdKTUYdRB4JTIWwUXzg1FA-CS00BZQKf-QThXVYDKVtQBXMjk0ICRcAM8twDSFsh9D7PO4bcPf68KbA6pvHIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZYNklxOHJoRG9pSGtxQUJpRTZwTi1IQ2NlR2xvZHBzYWNMM1VFVTV5QXdqX0t5Y1VJcnRQOEhWZjFEdURKOXRpSnZITGgxZmx0ODVnMlhKUnNjekhIU3k4RGFxQjVuMVptbmlyMTBPekR3RE5nMDA0T0JONV9VWjY2bVdKeURkUXFISFpWSkYtOWUzNUdKMmVNYmdveXBiWllmTTBGUnZ5aDdtX2pQNENKclJxaHN5ek53SlZfVG1EYWZsEgQaAggAGvsFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNcFCAAQABgAIAAqEgoEd2hhdBXKryZAGgV3aGljaCopCgVibG9vZBV2t9RAGgxoeXBlcnRlbnNpb24aDWJsb29kcHJlc3N1cmUqNwoIcHJlc3N1cmUVDonVQBoMaHlwZXJ0ZW5zaW9uGglwcmVzc3VyZXMaDWJsb29kcHJlc3N1cmUqNwoHbnVtYmVycxWUsa9AGgZsZXZlbHMaBm51bWJlchoFcmFuZ2UaCHJlYWRpbmdzGgZ2YWx1ZXMqCgoDYXJlFQAAAAAqPQoKY29uc2lkZXJlZBWlYhg-Ggljb25zaWRlcnMaBmRlZW1lZBoIcmVnYXJkZWQaBXdoYXRzGgZub3JtYWwqIwoEaGlnaBVgWA5AGgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzMtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZYNklxOHJoRG9pSGtxQUJpRTZwTi1IQ2NlR2xvZHBzYWNMM1VFVTV5QXdqX0t5Y1VJcnRQOEhWZjFEdURKOXRpSnZITGgxZmx0ODVnMlhKUnNjekhIU3k4RGFxQjVuMVptbmlyMTBPekR3RE5nMDA0T0JONV9VWjY2bVdKeURkUXFISFpWSkYtOWUzNUdKMmVNYmdveXBiWllmTTBGUnZ5aDdtX2pQNENKclJxaHN5ek53SlZfVG1EYWZsOjBVbmRlcnN0YW5kaW5nIHlvdXIgPGI-Ymxvb2QgcHJlc3N1cmUgbnVtYmVyczwvYj5CnwFFbGV2YXRlZCBibG9vZCBwcmVzc3VyZSBpcyA8Yj5iZXR3ZWVuIDEyMCBhbmQgMTI5IHN5c3RvbGljIGFuZCBsZXNzIHRoYW4gODAgZGlhc3RvbGljPC9iPi4gSGlnaCBibG9vZCBwcmVzc3VyZSBzdGFnZSAxIGlzIDEzMCB0byAxMzkgc3lzdG9saWMgT1IgODAgdG8mbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZYNklxOHJoRG9pSGtxQUJpRTZwTi1IQ2NlR2xvZHBzYWNMM1VFVTV5QXdqX0t5Y1VJcnRQOEhWZjFEdURKOXRpSnZITGgxZmx0ODVnMlhKUnNjekhIU3k4RGFxQjVuMVptbmlyMTBPekR3RE5nMDA0T0JONV9VWjY2bVdKeURkUXFISFpWSkYtOWUzNUdKMmVNYmdveXBiWllmTTBGUnZ5aDdtX2pQNENKclJxaHN5ek53SlZfVG1EYWZsEgQaAggAGvsFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNcFCAAQABgAIAAqEgoEd2hhdBXKryZAGgV3aGljaCopCgVibG9vZBV2t9RAGgxoeXBlcnRlbnNpb24aDWJsb29kcHJlc3N1cmUqNwoIcHJlc3N1cmUVDonVQBoMaHlwZXJ0ZW5zaW9uGglwcmVzc3VyZXMaDWJsb29kcHJlc3N1cmUqNwoHbnVtYmVycxWUsa9AGgZsZXZlbHMaBm51bWJlchoFcmFuZ2UaCHJlYWRpbmdzGgZ2YWx1ZXMqCgoDYXJlFQAAAAAqPQoKY29uc2lkZXJlZBWlYhg-Ggljb25zaWRlcnMaBmRlZW1lZBoIcmVnYXJkZWQaBXdoYXRzGgZub3JtYWwqIwoEaGlnaBVgWA5AGgZoaWdoZXIaB2hpZ2hlc3QaBWhpZ2hzMtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZYNklxOHJoRG9pSGtxQUJpRTZwTi1IQ2NlR2xvZHBzYWNMM1VFVTV5QXdqX0t5Y1VJcnRQOEhWZjFEdURKOXRpSnZITGgxZmx0ODVnMlhKUnNjekhIU3k4RGFxQjVuMVptbmlyMTBPekR3RE5nMDA0T0JONV9VWjY2bVdKeURkUXFISFpWSkYtOWUzNUdKMmVNYmdveXBiWllmTTBGUnZ5aDdtX2pQNENKclJxaHN5ek53SlZfVG1EYWZsOjBVbmRlcnN0YW5kaW5nIHlvdXIgPGI-Ymxvb2QgcHJlc3N1cmUgbnVtYmVyczwvYj5CnwFFbGV2YXRlZCBibG9vZCBwcmVzc3VyZSBpcyA8Yj5iZXR3ZWVuIDEyMCBhbmQgMTI5IHN5c3RvbGljIGFuZCBsZXNzIHRoYW4gODAgZGlhc3RvbGljPC9iPi4gSGlnaCBibG9vZCBwcmVzc3VyZSBzdGFnZSAxIGlzIDEzMCB0byAxMzkgc3lzdG9saWMgT1IgODAgdG8mbmJzcDsuLi5KA2FyZSICEAFIAFgAaAA",
+      "source": "Methodist Healthcare",
+      "read_more_link": "https://www.google.com/goto?url=CAES5AEB6zswFUTA1RWBUH2X0fwm7qxV0Ws4Rv4ncoH8PqKDBB9aKKEPQovNAfVmJU5st-n_QO9tc8xSfcVrjsJGnuMDM2pb6a3-P3uNWvXyCQJzDEXE92tqq7U082RlgtRQbLP-IU1d6HgA8_wwZZRJjc1D32z0y6ZDyEHfXFRJ1GAU7BThsqZGc_zOwceNZY3jWByzpVPv5vTig87isdznIGYkMelzFDacIFlAPWh_EPVarep2_hPV4ybnqbECl0HebUmHOHHSPy6ZFg_A7eR2euoBtoAlyN8pWpiLeCuk7tlP-1BVf-0"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "What is a normal blood pressure for a woman",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=What+is+a+normal+blood+pressure+for+a+woman&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+is+a+normal+blood+pressure+for+a+woman"
+    },
+    {
+      "block_position": 1,
+      "query": "Bottom number of blood pressure",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=Bottom+number+of+blood+pressure&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Bottom+number+of+blood+pressure"
+    },
+    {
+      "block_position": 1,
+      "query": "Normal blood pressure over the decades",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=Normal+blood+pressure+over+the+decades&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Normal+blood+pressure+over+the+decades"
+    },
+    {
+      "block_position": 1,
+      "query": "Is optimal blood pressure good or bad",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=Is+optimal+blood+pressure+good+or+bad&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Is+optimal+blood+pressure+good+or+bad"
+    },
+    {
+      "block_position": 1,
+      "query": "What are low blood pressure numbers",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=What+are+low+blood+pressure+numbers&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+are+low+blood+pressure+numbers"
+    },
+    {
+      "block_position": 1,
+      "query": "How to lower top number of blood pressure",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=How+to+lower+top+number+of+blood+pressure&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=How+to+lower+top+number+of+blood+pressure"
+    },
+    {
+      "block_position": 1,
+      "query": "Old blood pressure guidelines vs new",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=Old+blood+pressure+guidelines+vs+new&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Old+blood+pressure+guidelines+vs+new"
+    },
+    {
+      "block_position": 1,
+      "query": "What causes high blood pressure",
+      "link": "https://www.google.com/search?sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&q=What+causes+high+blood+pressure&sa=X&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+causes+high+blood+pressure"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=10&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=10&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=20&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=30&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=40&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=50&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=60&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=70&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=80&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=what+blood+pressure+numbers+are+considered+high&sca_esv=6375638c50974878&hl=en&gl=us&sxsrf=AKL5yDhAor_yqlTuf2_l2OQ9Kax9uJ54mA:1793469842695&ei=ki3mavqHKoDk5NoPs97FgAQ&start=90&sa=N&sstk=AS6-VmKbnrUD3Q53EE0MZiAaQb45KE5h0C3oWE-l8Uht7uFCkLitXUSgsF5FTkOpDJBEJU8K3qJ4i5lgDI_p_EROLblltSS9dY5Lmw&ved=2ahUKEwj6mI7n6-SXAxUAMlkFHTNvEUAQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=what+blood+pressure+numbers+are+considered+high&start=90"
+    }
+  }
+}
