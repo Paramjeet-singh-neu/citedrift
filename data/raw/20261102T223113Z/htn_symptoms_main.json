@@ -1,0 +1,645 @@
+{
+  "search_metadata": {
+    "id": "6ae90f46430875c0fa719743",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/llfW1tpA0sdP28G5d3l_PaWAPM83rExilq2FJRexYAc/6ae90f46430875c0fa719743.json",
+    "markdown_endpoint": "https://serpapi.com/searches/llfW1tpA0sdP28G5d3l_PaWAPM83rExilq2FJRexYAc/6ae90f46430875c0fa719743.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/llfW1tpA0sdP28G5d3l_PaWAPM83rExilq2FJRexYAc/6ae90f46430875c0fa719743.json_with_pixel_position",
+    "created_at": "2026-11-02 22:31:34 UTC",
+    "processed_at": "2026-11-02 22:31:34 UTC",
+    "google_url": "https://www.google.com/search?q=signs+of+high+blood+pressure&oq=signs+of+high+blood+pressure&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/llfW1tpA0sdP28G5d3l_PaWAPM83rExilq2FJRexYAc/6ae90f46430875c0fa719743.html",
+    "total_time_taken": 0.54
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "signs of high blood pressure",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "signs of high blood pressure",
+    "total_results": 202,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "How to raise blood pressure?",
+      "type": "ai_overview",
+      "page_token": "odOBBnicHdBfboIwHADg7DI-TrDDTROzDGlVEjC09FfoywJURCh_IkyUt91lp9ppluw7wvf9oy9N9fskimHo-vV8Po7j87ltz_r0nLX1POkfTTbPEq3TJKvWy9el-Z5nG9z39rYd7YBTHGulBRQgDXfPF9XEwo-HrEkXAEUwKZ2CXfnMDFLUOVIUQboY2BFW9VHQF3-yQxmpr5TLO-Au9xqSKKQs5mAEBt2FHI5U6FKFHpJIeQpbQB0-giBmCCt5cuxr0BARihgJ0ZrxxbCC0i1VSUog_iNtqpFpaQEvernTD9Uc7gnA3sNvjGi3iZBdZIJbNKKXuHFNCvaNRZozjpNDRQ5haRPfUKUyhohjiyWOxN7kD0fhbhVxPW_S9FTDTRp4lme3DZr9h20-83pYd9f2_Af61nhd",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=odOBBnicHdBfboIwHADg7DI-TrDDTROzDGlVEjC09FfoywJURCh_IkyUt91lp9ppluw7wvf9oy9N9fskimHo-vV8Po7j87ltz_r0nLX1POkfTTbPEq3TJKvWy9el-Z5nG9z39rYd7YBTHGulBRQgDXfPF9XEwo-HrEkXAEUwKZ2CXfnMDFLUOVIUQboY2BFW9VHQF3-yQxmpr5TLO-Au9xqSKKQs5mAEBt2FHI5U6FKFHpJIeQpbQB0-giBmCCt5cuxr0BARihgJ0ZrxxbCC0i1VSUog_iNtqpFpaQEvernTD9Uc7gnA3sNvjGi3iZBdZIJbNKKXuHFNCvaNRZozjpNDRQ5haRPfUKUyhohjiyWOxN7kD0fhbhVxPW_S9FTDTRp4lme3DZr9h20-83pYd9f2_Af61nhd",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJIb3cgdG8gcmFpc2UgYmxvb2QgcHJlc3N1cmU/IiwibGsiOiJHaHRvYjNjZ2RHOGdjbUZwYzJVZ1lteHZiMlFnY0hKbGMzTjFjbVUiLCJicyI6ImMzV1FRV3ZDUUJCRzZYVlB2WW1wNHZRa2xKNkNlSk1nQ3ZYaTFaNm51Mk4ySU5tUm5RMFNoUDcybWtncHRjMTUzdnUtbVRFck05bkpHWkpBUkZhQ2owckV3U21TYWhPcHlLZlpreC1lbTRzNXZIdE1nSkVnZVFKdDYxT1NXZ0dEQTR1TmtvSWN3WFBwNzlSWFFHc2xPZzVsbDk3SmUyd0ZOaFVIdGtYLW5NMy1zYUR1R05zejV0TnNmNVd2YTRwc01jQ09NQ1pZcTRwbFRDeGhydmM1WmNPT3JqR2tSYjdNRnZpdC1sN0ZIM1ZZTkdfbXBlOTNjcjFTVzAxU3NmMnpNT0h0ay1Oc05NQThQbndCIiwiaWQiOiJmY19SZ19wYXFlOUV0YmJydUVQb0l5VElBXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJIb3cgdG8gcmFpc2UgYmxvb2QgcHJlc3N1cmU%2FIiwibGsiOiJHaHRvYjNjZ2RHOGdjbUZwYzJVZ1lteHZiMlFnY0hKbGMzTjFjbVUiLCJicyI6ImMzV1FRV3ZDUUJCRzZYVlB2WW1wNHZRa2xKNkNlSk1nQ3ZYaTFaNm51Mk4ySU5tUm5RMFNoUDcybWtncHRjMTUzdnUtbVRFck05bkpHWkpBUkZhQ2owckV3U21TYWhPcHlLZlpreC1lbTRzNXZIdE1nSkVnZVFKdDYxT1NXZ0dEQTR1TmtvSWN3WFBwNzlSWFFHc2xPZzVsbDk3SmUyd0ZOaFVIdGtYLW5NMy1zYUR1R05zejV0TnNmNVd2YTRwc01jQ09NQ1pZcTRwbFRDeGhydmM1WmNPT3JqR2tSYjdNRnZpdC1sN0ZIM1ZZTkdfbXBlOTNjcjFTVzAxU3NmMnpNT0h0ay1Oc05NQThQbndCIiwiaWQiOiJmY19SZ19wYXFlOUV0YmJydUVQb0l5VElBXzUifQ%3D%3D"
+    },
+    {
+      "question": "What are the symptoms and causes of high blood pressure, according to the Mayo Clinic?",
+      "type": "ai_overview",
+      "page_token": "ppPXc3icHdBdboIwAADg7DI-zhbBRROzBC0qSbtRaKG8LKUV6yigk42ft91lp9ppluw7wvf9Yy9N9fvQma673tfzed_3j-e2PdvTo2rrubyPjZoraW0hVbVePi3hc6k26BP529vRjxhFwmqb2qATjZHUMa_UGUy8BW5RaV4EflpAMeiEebmT12pndgSGN5VpFmV4OmW0pWCVFQyWIqWE1NCnO55gQLpoEg5NvYU8hHuOrjFPvZoBeJRVWCWOwaJiTjSRu07spFLPioZP1BEuDfDAQeBJQG6sHj5yvsJ5gD2chVBkeoj3-buuiFsAPCou3NTyUjgGYXRd8IZkBHgLZPI4h6teZIF9YRyIOhw141EBrMeR9feX0I-R29NEH1jV9QqEWFpfSNBOkvUjZZZg1r0SaIZ4hP6sVF-bxex_c_NW1t36-tGe_wAKZYDf",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ppPXc3icHdBdboIwAADg7DI-zhbBRROzBC0qSbtRaKG8LKUV6yigk42ft91lp9ppluw7wvf9Yy9N9fvQma673tfzed_3j-e2PdvTo2rrubyPjZoraW0hVbVePi3hc6k26BP529vRjxhFwmqb2qATjZHUMa_UGUy8BW5RaV4EflpAMeiEebmT12pndgSGN5VpFmV4OmW0pWCVFQyWIqWE1NCnO55gQLpoEg5NvYU8hHuOrjFPvZoBeJRVWCWOwaJiTjSRu07spFLPioZP1BEuDfDAQeBJQG6sHj5yvsJ5gD2chVBkeoj3-buuiFsAPCou3NTyUjgGYXRd8IZkBHgLZPI4h6teZIF9YRyIOhw141EBrMeR9feX0I-R29NEH1jV9QqEWFpfSNBOkvUjZZZg1r0SaIZ4hP6sVF-bxex_c_NW1t36-tGe_wAKZYDf",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc3ltcHRvbXMgYW5kIGNhdXNlcyBvZiBoaWdoIGJsb29kIHByZXNzdXJlLCBhY2NvcmRpbmcgdG8gdGhlIE1heW8gQ2xpbmljPyIsImxrIjoiR2g5b2FXZG9JR0pzYjI5a0lIQnlaWE56ZFhKbElHMWhlVzhnWTJ4cGJtbGoiLCJicyI6ImMzV1FRV3ZDUUJCRzZYVlB2WW1wNHZRa2xKNkNlSk1nQ3ZYaTFaNm51Mk4ySU5tUm5RMFNoUDcybWtncHRjMTUzdnUtbVRFck05bkpHWkpBUkZhQ2owckV3U21TYWhPcHlLZlpreC1lbTRzNXZIdE1nSkVnZVFKdDYxT1NXZ0dEQTR1TmtvSWN3WFBwNzlSWFFHc2xPZzVsbDk3SmUyd0ZOaFVIdGtYLW5NMy1zYUR1R05zejV0TnNmNVd2YTRwc01jQ09NQ1pZcTRwbFRDeGhydmM1WmNPT3JqR2tSYjdNRnZpdC1sN0ZIM1ZZTkdfbXBlOTNjcjFTVzAxU3NmMnpNT0h0ay1Oc05NQThQbndCIiwiaWQiOiJmY19SZ19wYXFlOUV0YmJydUVQb0l5VElBXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgc3ltcHRvbXMgYW5kIGNhdXNlcyBvZiBoaWdoIGJsb29kIHByZXNzdXJlLCBhY2NvcmRpbmcgdG8gdGhlIE1heW8gQ2xpbmljPyIsImxrIjoiR2g5b2FXZG9JR0pzYjI5a0lIQnlaWE56ZFhKbElHMWhlVzhnWTJ4cGJtbGoiLCJicyI6ImMzV1FRV3ZDUUJCRzZYVlB2WW1wNHZRa2xKNkNlSk1nQ3ZYaTFaNm51Mk4ySU5tUm5RMFNoUDcybWtncHRjMTUzdnUtbVRFck05bkpHWkpBUkZhQ2owckV3U21TYWhPcHlLZlpreC1lbTRzNXZIdE1nSkVnZVFKdDYxT1NXZ0dEQTR1TmtvSWN3WFBwNzlSWFFHc2xPZzVsbDk3SmUyd0ZOaFVIdGtYLW5NMy1zYUR1R05zejV0TnNmNVd2YTRwc01jQ09NQ1pZcTRwbFRDeGhydmM1WmNPT3JqR2tSYjdNRnZpdC1sN0ZIM1ZZTkdfbXBlOTNjcjFTVzAxU3NmMnpNT0h0ay1Oc05NQThQbndCIiwiaWQiOiJmY19SZ19wYXFlOUV0YmJydUVQb0l5VElBXzUifQ%3D%3D"
+    },
+    {
+      "question": "What are the American Heart Association's blood pressure guidelines?",
+      "type": "ai_overview",
+      "page_token": "n2kr2nicHdBdbpswAABg7TJ9bAyErkSKKlEwKY3NTPwDvEzG5idgIEtQCX3bDXaInaqnmbTvCN_vv-Y89l_f_rTzfLntNptlWR6baWpM9aimYSNv66g2ShpTStXvnr4_WS-12ocfuf96VT5haZgbbfJB05K9WeJA7gpYFxGlPbULB_G4q3rXTrLeQpxneuQJhzw5jewuerzFhoGEwm0Z4E5GXnv69CkGaaBBfCtNWosOfdJIOyVwXfFqCXZAgNpznUTzmdvWjxJ4Dh60rA75QrtmIax1pdMssosTFOCCB8RCrH3nGQE5he8yIyuCPNCcd8qOrwTAgopnR1FzJE58Lw1_Qw6UfMTwKC7H3DyvKHINsr2JZ-mvKgTbsC1OheUteQZNwjjIh3jVjJMSGJeHxo_OsX8Kt0tKNZRBAeQBX8nQA72COwLGr3pPlLDFqYBG9en4UKuPvfPwf3r_sx7m3eU6Nf8A1SiI3w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n2kr2nicHdBdbpswAABg7TJ9bAyErkSKKlEwKY3NTPwDvEzG5idgIEtQCX3bDXaInaqnmbTvCN_vv-Y89l_f_rTzfLntNptlWR6baWpM9aimYSNv66g2ShpTStXvnr4_WS-12ocfuf96VT5haZgbbfJB05K9WeJA7gpYFxGlPbULB_G4q3rXTrLeQpxneuQJhzw5jewuerzFhoGEwm0Z4E5GXnv69CkGaaBBfCtNWosOfdJIOyVwXfFqCXZAgNpznUTzmdvWjxJ4Dh60rA75QrtmIax1pdMssosTFOCCB8RCrH3nGQE5he8yIyuCPNCcd8qOrwTAgopnR1FzJE58Lw1_Qw6UfMTwKC7H3DyvKHINsr2JZ-mvKgTbsC1OheUteQZNwjjIh3jVjJMSGJeHxo_OsX8Kt0tKNZRBAeQBX8nQA72COwLGr3pPlLDFqYBG9en4UKuPvfPwf3r_sx7m3eU6Nf8A1SiI3w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgQW1lcmljYW4gSGVhcnQgQXNzb2NpYXRpb24ncyBibG9vZCBwcmVzc3VyZSBndWlkZWxpbmVzPyIsImxrIjoiY3dYQndRM0FJQXdEd0QzNjhoQmRLQVdyUktKSkZjUC0zRjIzZlN4dkZoaTBXakFwbTl2eUREd3pzLU12U3J1SWQzdm45S0FPIiwiYnMiOiJjM1dRUVd2Q1FCQkc2WFZQdlltcDR2UWtsSjZDZUpNZ0N2WGkxWjZudTJOMklObVJuUTBTaFA3Mm1rZ3B0YzE1M3Z1LW1URXJNOW5KR1pKQVJGYUNqMHJFd1NtU2FoT3B5S2Zaa3gtZW00czV2SHRNZ0pFZ2VRSnQ2MU9TV2dHREE0dU5rb0ljd1hQcDc5UlhRR3NsT2c1bGw5N0plMndGTmhVSHRrWC1uTTMtc2FEdUdOc3o1dE5zZjVXdmE0cHNNY0NPTUNaWXE0cGxUQ3hocnZjNVpjT09yakdrUmI3TUZ2aXQtbDdGSDNWWU5HX21wZTkzY3IxU1cwMVNzZjJ6TU9IdGstTnNOTUE4UG53QiIsImlkIjoiZmNfUmdfcGFxZTlFdGJicnVFUG9JeVRJQV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgQW1lcmljYW4gSGVhcnQgQXNzb2NpYXRpb24ncyBibG9vZCBwcmVzc3VyZSBndWlkZWxpbmVzPyIsImxrIjoiY3dYQndRM0FJQXdEd0QzNjhoQmRLQVdyUktKSkZjUC0zRjIzZlN4dkZoaTBXakFwbTl2eUREd3pzLU12U3J1SWQzdm45S0FPIiwiYnMiOiJjM1dRUVd2Q1FCQkc2WFZQdlltcDR2UWtsSjZDZUpNZ0N2WGkxWjZudTJOMklObVJuUTBTaFA3Mm1rZ3B0YzE1M3Z1LW1URXJNOW5KR1pKQVJGYUNqMHJFd1NtU2FoT3B5S2Zaa3gtZW00czV2SHRNZ0pFZ2VRSnQ2MU9TV2dHREE0dU5rb0ljd1hQcDc5UlhRR3NsT2c1bGw5N0plMndGTmhVSHRrWC1uTTMtc2FEdUdOc3o1dE5zZjVXdmE0cHNNY0NPTUNaWXE0cGxUQ3hocnZjNVpjT09yakdrUmI3TUZ2aXQtbDdGSDNWWU5HX21wZTkzY3IxU1cwMVNzZjJ6TU9IdGstTnNOTUE4UG53QiIsImlkIjoiZmNfUmdfcGFxZTlFdGJicnVFUG9JeVRJQV81In0%3D"
+    },
+    {
+      "question": "What does systolic blood pressure measure?",
+      "type": "ai_overview",
+      "page_token": "K8Nf53icHdDPboIwAIDx7GU8CgVl0cQs6aBBFlhoaUu9LLX4D1pg2gjjtnfZU-1pZnb_8jt83z_60ja_T_xsbX9bO84wDPNT1530Ya4648jbV6scJbXeS9Wsg-cAvBzVJrrd4Gs3wJziSOhKC74EAqCL8MaU0q1X8BEQjlKlxXSIIcy4DaSLS2UYSOPkXtDc0vrMKm_1Kc0K8Abf30OExdT43CBziBmpPHbJqB24PoHCrRZFm6HcBQvhLZck1JCy7ZjW-loCFucGhUz3b5ivxn2cPdok2ntM7kzfM767pqH2qY8n6j2MFtm0UQTppC19eFacLnGJL6JNAGbwTkpNCY3ktkHbooYoc8Ww573FAAcZomM-aUpZH0sCJCmqugjPhjXR7KjuG3_2P2zzcTR23V-70x8zlXe8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=K8Nf53icHdDPboIwAIDx7GU8CgVl0cQs6aBBFlhoaUu9LLX4D1pg2gjjtnfZU-1pZnb_8jt83z_60ja_T_xsbX9bO84wDPNT1530Ya4648jbV6scJbXeS9Wsg-cAvBzVJrrd4Gs3wJziSOhKC74EAqCL8MaU0q1X8BEQjlKlxXSIIcy4DaSLS2UYSOPkXtDc0vrMKm_1Kc0K8Abf30OExdT43CBziBmpPHbJqB24PoHCrRZFm6HcBQvhLZck1JCy7ZjW-loCFucGhUz3b5ivxn2cPdok2ntM7kzfM767pqH2qY8n6j2MFtm0UQTppC19eFacLnGJL6JNAGbwTkpNCY3ktkHbooYoc8Ww573FAAcZomM-aUpZH0sCJCmqugjPhjXR7KjuG3_2P2zzcTR23V-70x8zlXe8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgc3lzdG9saWMgYmxvb2QgcHJlc3N1cmUgbWVhc3VyZT8iLCJsayI6IkdoZHplWE4wYjJ4cFl5QmliRzl2WkNCd2NtVnpjM1Z5WlEiLCJicyI6ImMzV1FRV3ZDUUJCRzZYVlB2WW1wNHZRa2xKNkNlSk1nQ3ZYaTFaNm51Mk4ySU5tUm5RMFNoUDcybWtncHRjMTUzdnUtbVRFck05bkpHWkpBUkZhQ2owckV3U21TYWhPcHlLZlpreC1lbTRzNXZIdE1nSkVnZVFKdDYxT1NXZ0dEQTR1TmtvSWN3WFBwNzlSWFFHc2xPZzVsbDk3SmUyd0ZOaFVIdGtYLW5NMy1zYUR1R05zejV0TnNmNVd2YTRwc01jQ09NQ1pZcTRwbFRDeGhydmM1WmNPT3JqR2tSYjdNRnZpdC1sN0ZIM1ZZTkdfbXBlOTNjcjFTVzAxU3NmMnpNT0h0ay1Oc05NQThQbndCIiwiaWQiOiJmY19SZ19wYXFlOUV0YmJydUVQb0l5VElBXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJSRVJpVjJWaU1IaFZkR1pZVGxReE9UazFiMHd0WHpKWWVVdEZiazVuUXpWcmRsRndlbTkyTFRaSmRuRkhhMkZ3TWs1c1NVMDFMVjlqTTBkMFZWWm9PRWw0WVhOMlJXcEJlWFZZVWkxQ1ZEZGpVblZMV21FdGQzRktORFl3ZERkWlFSSVdVbWRmY0dGeFpUbEZkR0ppY25WRlVHOUplVlJKUVJvaVFVaE9NRVUzUjJsaE16a3paRTlNT1Roa1FrWTJNbmRUVm05UWRraEJkbXN4VVEiLCJmY3YiOiIzIiwiZWkiOiJSZ19wYXFlOUV0YmJydUVQb0l5VElBIiwicWMiOiJDaHh6YVdkdWN5QnZaaUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsRUFBWUFYMGtWVlFfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgc3lzdG9saWMgYmxvb2QgcHJlc3N1cmUgbWVhc3VyZT8iLCJsayI6IkdoZHplWE4wYjJ4cFl5QmliRzl2WkNCd2NtVnpjM1Z5WlEiLCJicyI6ImMzV1FRV3ZDUUJCRzZYVlB2WW1wNHZRa2xKNkNlSk1nQ3ZYaTFaNm51Mk4ySU5tUm5RMFNoUDcybWtncHRjMTUzdnUtbVRFck05bkpHWkpBUkZhQ2owckV3U21TYWhPcHlLZlpreC1lbTRzNXZIdE1nSkVnZVFKdDYxT1NXZ0dEQTR1TmtvSWN3WFBwNzlSWFFHc2xPZzVsbDk3SmUyd0ZOaFVIdGtYLW5NMy1zYUR1R05zejV0TnNmNVd2YTRwc01jQ09NQ1pZcTRwbFRDeGhydmM1WmNPT3JqR2tSYjdNRnZpdC1sN0ZIM1ZZTkdfbXBlOTNjcjFTVzAxU3NmMnpNT0h0ay1Oc05NQThQbndCIiwiaWQiOiJmY19SZ19wYXFlOUV0YmJydUVQb0l5VElBXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "High blood pressure (hypertension) usually has no symptoms at all, which is why it is often called the \"silent killer\".",
+        "snippet_highlighted_words": [
+          "usually has no symptoms at all"
+        ],
+        "reference_indexes": [
+          0
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "When Symptoms Can Occur"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Most people can live with high blood pressure for years without knowing it. However, if blood pressure becomes dangerously high\u2014known as severe hypertension or a hypertensive crisis (readings higher than 180/120 mm Hg)\u2014a person may experience:",
+        "reference_indexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Severe headaches"
+          },
+          {
+            "snippet": "Dizziness or lightheadedness"
+          },
+          {
+            "snippet": "Vision changes (such as blurred or double vision)"
+          },
+          {
+            "snippet": "Fatigue or confusion"
+          },
+          {
+            "snippet": "Nosebleeds"
+          },
+          {
+            "snippet": "Pounding in the chest, neck, or ears"
+          },
+          {
+            "snippet": "Blood spots in the eyes"
+          },
+          {
+            "snippet": "Shortness of breath",
+            "reference_indexes": [
+              2,
+              3,
+              4,
+              5,
+              6
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Hypertensive Emergency (Call 911)"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If a blood pressure reading is higher than 180/120 mm Hg and accompanied by any of the following warning signs, it is a medical emergency:",
+        "reference_indexes": [
+          1,
+          2
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Chest pain"
+          },
+          {
+            "snippet": "Shortness of breath"
+          },
+          {
+            "snippet": "Back pain"
+          },
+          {
+            "snippet": "Numbness or weakness"
+          },
+          {
+            "snippet": "Change in vision"
+          },
+          {
+            "snippet": "Difficulty speaking or confusion",
+            "reference_indexes": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "How to Know Your Numbers"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Because symptoms are rare, the only reliable way to check for high blood pressure is through regular measurements at a doctor\u2019s office or with an approved home monitor.",
+        "reference_indexes": [
+          7
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "For official guidelines and reading categories, you can review the American Heart Association High Blood Pressure Guide or learn more via the Centers for Disease Control and Prevention.",
+        "snippet_links": [
+          {
+            "text": "American Heart Association High Blood Pressure Guide",
+            "link": "https://www.heart.org/en/health-topics/high-blood-pressure/know-your-risk-factors-for-high-blood-pressure/what-are-the-symptoms-of-high-blood-pressure"
+          },
+          {
+            "text": "Centers for Disease Control and Prevention",
+            "link": "https://www.cdc.gov/high-blood-pressure/about/index.html"
+          }
+        ],
+        "reference_indexes": [
+          1,
+          7
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What your recent blood pressure readings were (if you have checked them)"
+          },
+          {
+            "snippet": "Whether you are asking for yourself or someone else"
+          },
+          {
+            "snippet": "If you are experiencing any specific symptoms right now"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you understand what those numbers mean or what steps to take next."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "High Blood Pressure Symptoms: What Does Hypertension Feel Like? - GoodRx",
+        "link": "https://www.goodrx.com/conditions/hypertension/can-you-feel-high-blood-pressure-symptoms",
+        "snippet": "Key takeaways: * Most people don't have symptoms from high blood pressure, even though it can cause serious health problems. That's why it's often called the \u201csile...",
+        "source": "GoodRx",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.goodrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYRen07F42avKF_V-PHK8q1UWFvejqPgvYOa_6d1Ax0fC4vqhBqug_toPuAdwVMmiPwhKvBKO55KSa_dSiPPPpItqailSs4bXcRX6SfMbTGbTKq9FuAJtnynrMq3a9Zi8QCs43K6QVSHAFVORtUwf6qy4"
+      },
+      {
+        "index": 1,
+        "title": "What are the Signs and Symptoms of High Blood Pressure? | American Heart Association",
+        "link": "https://www.heart.org/en/health-topics/high-blood-pressure/know-your-risk-factors-for-high-blood-pressure/what-are-the-symptoms-of-high-blood-pressure",
+        "snippet": "How Is High Blood Pressure Diagnosed? To diagnose high blood pressure, also known as hypertension, you need to have your blood pressure checked in a healthcare set...",
+        "source": "www.heart.org",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.heart.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXQYXMTbNh9cqi0MxaC7niJPFi2MTZtKwDem2-iDfk6zaX6eQV0oKEYsaVPfUc4J7kTECmCAVw7_VecGVNONNrrNS28joP2vQnfJEcFNOaBPGsOomKfhKg7wsvWao7jkAUsLHxCLcgl-SM2URlZt_AhwE"
+      },
+      {
+        "index": 2,
+        "title": "High blood pressure warning signs: What you need to know",
+        "link": "https://www.hcamidwest.com/healthy-living/blog/high-blood-pressure-warning-signs-what-you-need-to-know",
+        "snippet": "Why high blood pressure can be difficult to spot When high blood pressure may cause symptoms Symptoms may occur when blood pressure becomes dangerously high. These...",
+        "source": "HCA Midwest Health",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hcamidwest.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGabaTwla3Gh_MVeiGuWW1mDSLp1iNrDL-oUiKndNanUhb8FCjE0bk8ju8jwTqz17ReefmNfxqotcIQc3B2xDCcXqxKvUteehPCOkNWhgAUWeTa1QBP63y9Kt386lHP0CTfSQtagZ15wKosyRR7KV72u8"
+      },
+      {
+        "index": 3,
+        "title": "4 subtle symptoms of high blood pressure | UnitedHealthcare",
+        "link": "https://www.uhc.com/news-articles/medicare-articles/4-subtle-symptoms-of-high-blood-pressure",
+        "snippet": "4 subtle symptoms of high blood pressure Almost half of all adults in the U.S. have high blood pressure. 1 That number increases to 70% in those ages 65 and over,2...",
+        "source": "UnitedHealthcare",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.uhc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJz9u41wiwwPlxcyxYg1IKX0JMf-BmcdZ4WHOdJB5c-vk131gXKsGGQZf8VHuiesZ9RHFvFhgAnz2_z5y_s4tbQod2uInSaQVrGjKMMbkbyZmWWmqQegSrqMm11DJbp1LfrSHIUi0QjxnafYBYgB2uhD0"
+      },
+      {
+        "index": 4,
+        "title": "8 Warning Signs of High Blood Pressure: How to Identify Them and ...",
+        "link": "https://www.youtube.com/watch?v=paSeR-CS7k4&t=12",
+        "snippet": "\ud83e\udd75 8 Warning Signs of High Blood Pressure: How to Identify Them and What to Do Next and nothing burns my bubble more about my job than when I meet a person who alr",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLfOCjC1gMKl616Yn3yqPE_xZxZC3dgh-7SujAxh1dStCHavGeLw6K4G0f4TwTwAJ3Sokguqfxl12jReNv37XXY8rJJAlhkUhXaepWGwPIQVTSZyLMmA0ciZwA6uhbepGn2us6Qe11UScBWNLlC-rBwC4"
+      },
+      {
+        "index": 5,
+        "title": "What Are the Signs and Symptoms of Hypertension?",
+        "link": "https://www.ncoa.org/article/9-surprisingly-subtle-symptoms-of-high-blood-pressure/",
+        "snippet": "Who is most likely to have silent high blood pressure? Because most people with high blood pressure have no symptoms at all, it's easy to go undiagnosed. Some of t...",
+        "source": "The National Council on Aging (NCOA)",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ncoa.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTsoIqL-el5diUHnQGbnj0Sm57kNsZCacO8vk7O5_P6tp3UIcQCKVad8cMWdroWIdQlri0GcrjXElLHVmhHlI6kUFsveNasqAsV5JOzjo2ur1H2u2ienpSYkfVaB1lnfVCoOWJsOciAGhW0iRKwI2UHmr0"
+      },
+      {
+        "index": 6,
+        "title": "7 Signs of High Blood Pressure | Prime Healthcare CT",
+        "link": "https://www.primehc.com/blog/7-signs-you-may-have-hypertension-a-guide-from-prime-healthcare-in-hartford-ct",
+        "snippet": "What Is Hypertension? When patients visit the doctor, they frequently ask: what is hypertension? Put simply, hypertension is the medical term for high blood pressu...",
+        "source": "Prime HealthCare, PC",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.primehc.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-zNf4LffFdAeS4AqwfS3QgGJG6Lov3Xs41t5rcB5wuUMm2Li9Wmom-g60gOHi3GbnWBIjHG_KYoEkxvV9N2__MxI9xqazO84zi9pm3Ql_uU_WESuEIE38DN9y--lxsJ5myUHJICQCCJ45Gq3_-PbUDyw"
+      },
+      {
+        "index": 7,
+        "title": "About High Blood Pressure - CDC",
+        "link": "https://www.cdc.gov/high-blood-pressure/about/index.html",
+        "snippet": "Related Topics: High Blood Pressure About Risk Factors Preventing Managing High Blood Pressure High Blood Pressure Facts Measuring Your Blood Pressure View Menu Ke...",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cdc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO_IZppKafdxOvcqu0NznHPW366Fmtu1gx7ztVktHnOtcHFUJliXB0WLTqcZ8hs1juPSJWiP_qnEw4KPTPliP7_TGgvFBjeFQySog_Uwwgq531EA37m2vPXLHbh9L6dShelGAOwtqlU4KhLfJrj-qWGRQ"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Signs and Symptoms of High Blood Pressure: What to Look ...",
+      "link": "https://www.sjmed.com/blog-articles/signs-and-symptoms-high-blood-pressure-what-look-out",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFSv20rVwCpZ0TdjPxZmnnMqZanZvkOvwTaq1J2DdaShkTbp27xOjdIidWtqcYgm9VyDZwStcNg3KzIOMW2IpfM-vf2lCwo9XPi6pqf7rJvlOOe8GMuagd2rZeXOtXJIkW1N8zoYWwQSlo6v-q-QZKuWCv6TdV36A_9YBOdcX-UqmFXw-DtBYfyhDZHfrYb0&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.sjmed.com \u203a Blog Articles",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkAGy4hNGlkbMbiAAAADnRSTlMAcFsm8o3fyBdICTqrnXFZIxkAAADPSURBVCiRrZLJDsMgDETNFtbI__-3xQaDSdtDpc4hIjww4wGAPyhZQ0ofkPHIChDCA1mcynD3r9GsCavMEN1mUZgFM1i8FrxRznOD9SVRYBmsryZXEeqoMpUZJgg8yQz9Kuw8WUzsU5znPh-Gs9q7y1k7b2xVZ2JwiQxfu2cXUMkP2B3ednckEkg9ykjvbBIO-BPGnbl7g-wEZwLPsoVgkGE72LxVP6HVTNJLs-xx6LpRN3_yZlWlFjnmVfg6X5kdETp6FP54QlrF5m_oB70AY0gUJm9vX50AAAAASUVORK5CYII.png",
+      "snippet": "Fatigue or confusion: Blurry vision or visual changes: Nosebleeds: Chest pain and shortness of breath: Ringing in the ears (Tinnitus):",
+      "snippet_highlighted_words": [
+        "Fatigue or confusion"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Fatigue or confusion: Blurry vision or visual changes: Nosebleeds: Chest pain and shortness of breath: Ringing in the ears (Tinnitus)",
+          "source_info_link": "https://www.sjmed.com/blog-articles/signs-and-symptoms-high-blood-pressure-what-look-out",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEwhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkhNGkAGy4hNGlkbMbiAAAADnRSTlMAcFsm8o3fyBdICTqrnXFZIxkAAADPSURBVCiRrZLJDsMgDETNFtbI__-3xQaDSdtDpc4hIjww4wGAPyhZQ0ofkPHIChDCA1mcynD3r9GsCavMEN1mUZgFM1i8FrxRznOD9SVRYBmsryZXEeqoMpUZJgg8yQz9Kuw8WUzsU5znPh-Gs9q7y1k7b2xVZ2JwiQxfu2cXUMkP2B3ednckEkg9ykjvbBIO-BPGnbl7g-wEZwLPsoVgkGE72LxVP6HVTNJLs-xx6LpRN3_yZlWlFjnmVfg6X5kdETp6FP54QlrF5m_oB70AY0gUJm9vX50AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZSZDFBbjk4MXhwZlk3Z2I1cDdRQ2pQOVpicHRzX1hKaFhFMjJYcWRSZ3VpS3Q3cTJ4SE5NUVFkczZmS0g3TUI5MFByUTlUVGZVRW1nR0Nkdl9mZlZzV3VBSFU0YW5jUG13Q1B5SGtkRHMySGlFTEpqeG5KTHZFNk9EdkpTSzI4MnFSWWFkbk8xQ2UzcVNBRVdxMlQ2VTYxZVlNODdzb1ZnZlRMdlBTVjBkR3RVaTByekxINFhOTUhwRTRSN2RzEgQaAggAGpsGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqWAoFc2lnbnMVydyaQBoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFUq-w0AaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVPoveQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFaQW30AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZSZDFBbjk4MXhwZlk3Z2I1cDdRQ2pQOVpicHRzX1hKaFhFMjJYcWRSZ3VpS3Q3cTJ4SE5NUVFkczZmS0g3TUI5MFByUTlUVGZVRW1nR0Nkdl9mZlZzV3VBSFU0YW5jUG13Q1B5SGtkRHMySGlFTEpqeG5KTHZFNk9EdkpTSzI4MnFSWWFkbk8xQ2UzcVNBRVdxMlQ2VTYxZVlNODdzb1ZnZlRMdlBTVjBkR3RVaTByekxINFhOTUhwRTRSN2RzOkJTaWducyBhbmQgPGI-U3ltcHRvbXMgb2YgSGlnaCBCbG9vZCBQcmVzc3VyZTwvYj46IFdoYXQgdG8gTG9vayAuLi5CjQE8Yj5GYXRpZ3VlIG9yIGNvbmZ1c2lvbjwvYj46IEJsdXJyeSB2aXNpb24gb3IgdmlzdWFsIGNoYW5nZXM6IE5vc2VibGVlZHM6IENoZXN0IHBhaW4gYW5kIHNob3J0bmVzcyBvZiBicmVhdGg6IFJpbmdpbmcgaW4gdGhlIGVhcnMgKFRpbm5pdHVzKTpKAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZSZDFBbjk4MXhwZlk3Z2I1cDdRQ2pQOVpicHRzX1hKaFhFMjJYcWRSZ3VpS3Q3cTJ4SE5NUVFkczZmS0g3TUI5MFByUTlUVGZVRW1nR0Nkdl9mZlZzV3VBSFU0YW5jUG13Q1B5SGtkRHMySGlFTEpqeG5KTHZFNk9EdkpTSzI4MnFSWWFkbk8xQ2UzcVNBRVdxMlQ2VTYxZVlNODdzb1ZnZlRMdlBTVjBkR3RVaTByekxINFhOTUhwRTRSN2RzEgQaAggAGpsGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqWAoFc2lnbnMVydyaQBoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFUq-w0AaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVPoveQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFaQW30AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZSZDFBbjk4MXhwZlk3Z2I1cDdRQ2pQOVpicHRzX1hKaFhFMjJYcWRSZ3VpS3Q3cTJ4SE5NUVFkczZmS0g3TUI5MFByUTlUVGZVRW1nR0Nkdl9mZlZzV3VBSFU0YW5jUG13Q1B5SGtkRHMySGlFTEpqeG5KTHZFNk9EdkpTSzI4MnFSWWFkbk8xQ2UzcVNBRVdxMlQ2VTYxZVlNODdzb1ZnZlRMdlBTVjBkR3RVaTByekxINFhOTUhwRTRSN2RzOkJTaWducyBhbmQgPGI-U3ltcHRvbXMgb2YgSGlnaCBCbG9vZCBQcmVzc3VyZTwvYj46IFdoYXQgdG8gTG9vayAuLi5CjQE8Yj5GYXRpZ3VlIG9yIGNvbmZ1c2lvbjwvYj46IEJsdXJyeSB2aXNpb24gb3IgdmlzdWFsIGNoYW5nZXM6IE5vc2VibGVlZHM6IENoZXN0IHBhaW4gYW5kIHNob3J0bmVzcyBvZiBicmVhdGg6IFJpbmdpbmcgaW4gdGhlIGVhcnMgKFRpbm5pdHVzKTpKAm9mIgIQAUgAWABoAA",
+      "source": "Saint Joseph Health System"
+    },
+    {
+      "position": 2,
+      "title": "High blood pressure warning signs: What you need to know",
+      "link": "https://www.memorialhealth.com/healthy-living/blog/high-blood-pressure-warning-signs-what-you-need-to-know",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFT54A5Fza-1bEiXl4HndIy96k7g8ETTy-4vqWVV7h4WgKkDqEA6k6PVrL-eyKmz4JS7L-zjFxU8vLol0D65h7HuuqDoZF38_2yTdilqoI_CJB80UhUJyDm83Uj6PNiwIdFGFjHuCneWAr4mTaZLrlto8wFiEFvs3xEXVRIgjPwyaFHZWSeQ1Ewf_fkwVMreaUpu38v-kddYysB23nP14bhQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.memorialhealth.com \u203a healthy-living \u203a blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEX____s3drtzce1ko3uqZ5XTk_ignT--_wAAADgNx_Z19jTAAD_-_aPkJHFAAD_0cb1STH_QjVhYmaan6L_AAD-mZeUlZolJzH_q6r-v76lpq3-MC3_srJtbnq3uL3_9fT-NTTb3uSRlaUAACNVWGbp6ev_0dL_iYb_pZj_5Nqlqb4tN2oAAEsAADwAADnOUUzUfnrgr6y0uMpSWIAhK2QAAEPS1uN3e4Q_R08ADV-EhYlrcZYAEVtUVFYAAFNBQ1F9g59vc4cAABgpQG2Dh5hCU3iQmLGyYbWQAAAAw0lEQVR4AWIgHgDqmAfsCIAgiqIv7Brbtm179r-jOOO6R8X_9Izu5RXd2zsqIxZUVrHZ0TjE6dJTxe1B4RUf_gAPBSUEYX-EB6IiViDmj3MnIZIESKVvt5lsTvIFfhVL5YqdP9VavdHMciFic7baHb51e_3BYMhZYSQi4yjmr61O-l3-TEWCGa7MmvOfiVVkwZ1qfWl-dlMe6DZmsJIRD60bBausUNSrm20BRXU32KMxg8YQ1WGAbt1DVz2iMxnQpbj0CX5KEY7m9RrQAAAAAElFTkSuQmCC.png",
+      "date": "Oct 18, 2026",
+      "snippet": "Severe headaches: Shortness of breath: Confusion or other neurological changes: Sudden confusion, weakness, numbness, chest pain, shortness of ...",
+      "snippet_highlighted_words": [
+        "Severe headaches"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Severe headaches: Shortness of breath: Confusion or other neurological changes: Sudden confusion, weakness, numbness, chest pain, shortness of ...",
+          "source_info_link": "https://www.memorialhealth.com/healthy-living/blog/high-blood-pressure-warning-signs-what-you-need-to-know",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEX____s3drtzce1ko3uqZ5XTk_ignT--_wAAADgNx_Z19jTAAD_-_aPkJHFAAD_0cb1STH_QjVhYmaan6L_AAD-mZeUlZolJzH_q6r-v76lpq3-MC3_srJtbnq3uL3_9fT-NTTb3uSRlaUAACNVWGbp6ev_0dL_iYb_pZj_5Nqlqb4tN2oAAEsAADwAADnOUUzUfnrgr6y0uMpSWIAhK2QAAEPS1uN3e4Q_R08ADV-EhYlrcZYAEVtUVFYAAFNBQ1F9g59vc4cAABgpQG2Dh5hCU3iQmLGyYbWQAAAAw0lEQVR4AWIgHgDqmAfsCIAgiqIv7Brbtm179r-jOOO6R8X_9Izu5RXd2zsqIxZUVrHZ0TjE6dJTxe1B4RUf_gAPBSUEYX-EB6IiViDmj3MnIZIESKVvt5lsTvIFfhVL5YqdP9VavdHMciFic7baHb51e_3BYMhZYSQi4yjmr61O-l3-TEWCGa7MmvOfiVVkwZ1qfWl-dlMe6DZmsJIRD60bBausUNSrm20BRXU32KMxg8YQ1WGAbt1DVz2iMxnQpbj0CX5KEY7m9RrQAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWazZUODktX2liY3A4dThqV2ExTFBDN3UyMVRXWGdacDQzNUV1TFlqZlJXS3Npcm1GWEFnYVRkQ1Ztdk0yN01GM0Z3MFpOQ2tQMGwyWDJVSGxWZFBiVWhGYmNhU0dINGhmNHhRYk9PRTQyRGZkN2V4UEtzT2ZVdVNkYzhleHJjUVM3MTVWREFncGxva1BHRWZDajZNVXdtY0VybWI3T0RxdW1hQ0NYejlWM09HZDhyZFVLZmdPWHpJWnFNNDQzYVM0NlNiYmR4NzlhUDRTYjlfMWNJcE1NEgQaAggAGsgGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQKQGCAAQABgAIAAqWAoFc2lnbnMVkA6nQBoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFR7p3UAaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVLfn1QBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFdbl80AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWazZUODktX2liY3A4dThqV2ExTFBDN3UyMVRXWGdacDQzNUV1TFlqZlJXS3Npcm1GWEFnYVRkQ1Ztdk0yN01GM0Z3MFpOQ2tQMGwyWDJVSGxWZFBiVWhGYmNhU0dINGhmNHhRYk9PRTQyRGZkN2V4UEtzT2ZVdVNkYzhleHJjUVM3MTVWREFncGxva1BHRWZDajZNVXdtY0VybWI3T0RxdW1hQ0NYejlWM09HZDhyZFVLZmdPWHpJWnFNNDQzYVM0NlNiYmR4NzlhUDRTYjlfMWNJcE1NOkY8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiB3YXJuaW5nIDxiPnNpZ25zPC9iPjogV2hhdCB5b3UgbmVlZCB0byBrbm93Qp4BPGI-U2V2ZXJlIGhlYWRhY2hlczwvYj46IFNob3J0bmVzcyBvZiBicmVhdGg6IENvbmZ1c2lvbiBvciBvdGhlciBuZXVyb2xvZ2ljYWwgY2hhbmdlczogU3VkZGVuIGNvbmZ1c2lvbiwgd2Vha25lc3MsIG51bWJuZXNzLCBjaGVzdCBwYWluLCBzaG9ydG5lc3Mgb2YmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWazZUODktX2liY3A4dThqV2ExTFBDN3UyMVRXWGdacDQzNUV1TFlqZlJXS3Npcm1GWEFnYVRkQ1Ztdk0yN01GM0Z3MFpOQ2tQMGwyWDJVSGxWZFBiVWhGYmNhU0dINGhmNHhRYk9PRTQyRGZkN2V4UEtzT2ZVdVNkYzhleHJjUVM3MTVWREFncGxva1BHRWZDajZNVXdtY0VybWI3T0RxdW1hQ0NYejlWM09HZDhyZFVLZmdPWHpJWnFNNDQzYVM0NlNiYmR4NzlhUDRTYjlfMWNJcE1NEgQaAggAGsgGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQKQGCAAQABgAIAAqWAoFc2lnbnMVkA6nQBoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFR7p3UAaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVLfn1QBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFdbl80AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZWazZUODktX2liY3A4dThqV2ExTFBDN3UyMVRXWGdacDQzNUV1TFlqZlJXS3Npcm1GWEFnYVRkQ1Ztdk0yN01GM0Z3MFpOQ2tQMGwyWDJVSGxWZFBiVWhGYmNhU0dINGhmNHhRYk9PRTQyRGZkN2V4UEtzT2ZVdVNkYzhleHJjUVM3MTVWREFncGxva1BHRWZDajZNVXdtY0VybWI3T0RxdW1hQ0NYejlWM09HZDhyZFVLZmdPWHpJWnFNNDQzYVM0NlNiYmR4NzlhUDRTYjlfMWNJcE1NOkY8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiB3YXJuaW5nIDxiPnNpZ25zPC9iPjogV2hhdCB5b3UgbmVlZCB0byBrbm93Qp4BPGI-U2V2ZXJlIGhlYWRhY2hlczwvYj46IFNob3J0bmVzcyBvZiBicmVhdGg6IENvbmZ1c2lvbiBvciBvdGhlciBuZXVyb2xvZ2ljYWwgY2hhbmdlczogU3VkZGVuIGNvbmZ1c2lvbiwgd2Vha25lc3MsIG51bWJuZXNzLCBjaGVzdCBwYWluLCBzaG9ydG5lc3Mgb2YmbmJzcDsuLi5KAm9mIgIQAUgAWABoAA",
+      "source": "memorialhealth.com"
+    },
+    {
+      "position": 3,
+      "title": "Signs of High Blood Pressure And Strokes You Should be ...",
+      "link": "https://quartzbenefits.com/blog/health-and-well-living/signs-of-high-blood-pressure-and-strokes-you-should-be-aware-of/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsgEB6zswFY7MtXzNhkmD_6jeyIY2j3PUaZpDHnBJ7oODlDrn_qJuhPvlAl_ASLNODkQuyXS42J49m5GwJxM5Nltoae4rIJfskkKittgJjvX51e46cwomAusrkQddycJFag53wOIknuTfazqF0sbu_UG8-QPjvuRA53eNsI7nPwFn7Qdr6MeK9jArtzqgJ3l1BdwBCUxW1XBuHfdsTgbcDwRzbKrfYZGzyMBXDy1EiIsdheQU&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECC0QAQ&uoh=1",
+      "displayed_link": "https://quartzbenefits.com \u203a Health & Well-Living",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAVFBMVEVHcEzaGzPdGjLZHTHZHTDeGjDdGjPeGjDdGjHeGTDfGTTdGjHaABndECr__f3zztHooan44uT88PPXOkvkiJPvtrzeXWzklJ7fTl_fb3nefYXVJT7N36-nAAAAC3RSTlMAgfiLG9dqx-X0k1-llTIAAAEASURBVDiNvZPbbsQgEEOzabZpihkY7pD__88OqFWlqglv6yckDmZsxLLMtF_rc-vAqm60C3DcAetzAij1mAHrDFAvAjQAfQOgGrb6D4FfAJlidq6baCgxU9AIjOGrBTgpyJKCrWjWG46IKcqhaowJRS9HInGHicbCsm-eGpMN1FLIVPsVhbz-BjIrw5TZIsiVnizGDM4AlYoAYhrBmQMC4aTWsy2HLs7JMVhybKIzZDnLrrPETix6zEDOnfAt6YKazlK8xEs-peRHD7pVRDJUe_bex6hEQo9uRpMyZAke6j_9vIW-KvsVz_2cAW8zYJsBy_sMmBD9e26P_eNS09__BSBRLMgQr92-AAAAAElFTkSuQmCC.png",
+      "date": "May 22, 2024",
+      "snippet": "Suddenly feeling weak or numb on one side of your body, like in your face, arm, or leg; Having trouble speaking or understanding what others are ...",
+      "snippet_highlighted_words": [
+        "Suddenly feeling weak or numb on one side of your body"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Suddenly feeling weak or numb on one side of your body, like in your face, arm, or leg; Having trouble speaking or understanding what others are ...",
+          "source_info_link": "https://quartzbenefits.com/blog/health-and-well-living/signs-of-high-blood-pressure-and-strokes-you-should-be-aware-of/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAVFBMVEVHcEzaGzPdGjLZHTHZHTDeGjDdGjPeGjDdGjHeGTDfGTTdGjHaABndECr__f3zztHooan44uT88PPXOkvkiJPvtrzeXWzklJ7fTl_fb3nefYXVJT7N36-nAAAAC3RSTlMAgfiLG9dqx-X0k1-llTIAAAEASURBVDiNvZPbbsQgEEOzabZpihkY7pD__88OqFWlqglv6yckDmZsxLLMtF_rc-vAqm60C3DcAetzAij1mAHrDFAvAjQAfQOgGrb6D4FfAJlidq6baCgxU9AIjOGrBTgpyJKCrWjWG46IKcqhaowJRS9HInGHicbCsm-eGpMN1FLIVPsVhbz-BjIrw5TZIsiVnizGDM4AlYoAYhrBmQMC4aTWsy2HLs7JMVhybKIzZDnLrrPETix6zEDOnfAt6YKazlK8xEs-peRHD7pVRDJUe_bex6hEQo9uRpMyZAke6j_9vIW-KvsVz_2cAW8zYJsBy_sMmBD9e26P_eNS09__BSBRLMgQr92-AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZWZkNIdl8yMDVjckVrcGp0ZmotMTN3OXVkREJhWTZudVZTSVpXTHlGckpuMndKM09mM0szaW9sZnViT0lQRVE3NXFtalFSQ1g5MDJ5YU9WWHlMQW9hV2lFdW1sSUctNWd5OWV3TEJRaE9QZDUxWFRZWk1jdENFb2RmZTFvSVlHS0hnTnhSLU4xbDRnLVg4Z1VNSlNJaWh4ZjZBSjRZT0pGWHdqMENVWEtMOXE1RFVGd1FOVHNpUFEzSnVwalNpcFhncUwyU3NtVzByYzhFa1VJQldLa3A4U2tqRmJuTEhvTlI0OGxIV0USBBoCCAAa1gYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAsgYIABAAGAAgACpYCgVzaWducxXI0JlAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tcyoJCgJvZhUAAAAAKlwKBGhpZ2gVWuSbQBoIZWxldmF0ZWQaEmVsZXZhdGVkIHRyZWF0bWVudBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZSpHCgVibG9vZBV8OKFAGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaDWJsb29kcHJlc3N1cmUqMQoIcHJlc3N1cmUVcrWfQBoRaGlnaGJsb29kcHJlc3N1cmUaDWJsb29kcHJlc3N1cmUy_gEvZ290bz91cmw9Q0FFU3NnRUI2enN3RlZmQ0h2XzIwNWNyRWtwanRmai0xM3c5dWREQmFZNm51VlNJWldMeUZySm4yd0ozT2YzSzNpb2xmdWJPSVBFUTc1cW1qUVJDWDkwMnlhT1ZYeUxBb2FXaUV1bWxJRy01Z3k5ZXdMQlFoT1BkNTFYVFlaTWN0Q0VvZGZlMW9JWUdLSGdOeFItTjFsNGctWDhnVU1KU0lpaHhmNkFKNFlPSkZYd2owQ1VYS0w5cTVEVUZ3UU5Uc2lQUTNKdXBqU2lwWGdxTDJTc21XMHJjOEVrVUlCV0trcDhTa2pGYm5MSG9OUjQ4bEhXRTpBPGI-U2lnbnMgb2YgSGlnaCBCbG9vZCBQcmVzc3VyZTwvYj4gQW5kIFN0cm9rZXMgWW91IFNob3VsZCBiZSAuLi5CoAE8Yj5TdWRkZW5seSBmZWVsaW5nIHdlYWsgb3IgbnVtYiBvbiBvbmUgc2lkZSBvZiB5b3VyIGJvZHk8L2I-LCBsaWtlIGluIHlvdXIgZmFjZSwgYXJtLCBvciBsZWc7IEhhdmluZyB0cm91YmxlIHNwZWFraW5nIG9yIHVuZGVyc3RhbmRpbmcgd2hhdCBvdGhlcnMgYXJlJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv4BL2dvdG8_dXJsPUNBRVNzZ0VCNnpzd0ZWZkNIdl8yMDVjckVrcGp0ZmotMTN3OXVkREJhWTZudVZTSVpXTHlGckpuMndKM09mM0szaW9sZnViT0lQRVE3NXFtalFSQ1g5MDJ5YU9WWHlMQW9hV2lFdW1sSUctNWd5OWV3TEJRaE9QZDUxWFRZWk1jdENFb2RmZTFvSVlHS0hnTnhSLU4xbDRnLVg4Z1VNSlNJaWh4ZjZBSjRZT0pGWHdqMENVWEtMOXE1RFVGd1FOVHNpUFEzSnVwalNpcFhncUwyU3NtVzByYzhFa1VJQldLa3A4U2tqRmJuTEhvTlI0OGxIV0USBBoCCAAa1gYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAsgYIABAAGAAgACpYCgVzaWducxXI0JlAGgZjYXVzZXMaCWRpYWdub3NpcxoSZWxldmF0ZWQgdHJlYXRtZW50GgppbmRpY2F0b3JzGgRzaWduGgdzeW1wdG9tGghzeW1wdG9tcyoJCgJvZhUAAAAAKlwKBGhpZ2gVWuSbQBoIZWxldmF0ZWQaEmVsZXZhdGVkIHRyZWF0bWVudBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZSpHCgVibG9vZBV8OKFAGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaDWJsb29kcHJlc3N1cmUqMQoIcHJlc3N1cmUVcrWfQBoRaGlnaGJsb29kcHJlc3N1cmUaDWJsb29kcHJlc3N1cmUy_gEvZ290bz91cmw9Q0FFU3NnRUI2enN3RlZmQ0h2XzIwNWNyRWtwanRmai0xM3c5dWREQmFZNm51VlNJWldMeUZySm4yd0ozT2YzSzNpb2xmdWJPSVBFUTc1cW1qUVJDWDkwMnlhT1ZYeUxBb2FXaUV1bWxJRy01Z3k5ZXdMQlFoT1BkNTFYVFlaTWN0Q0VvZGZlMW9JWUdLSGdOeFItTjFsNGctWDhnVU1KU0lpaHhmNkFKNFlPSkZYd2owQ1VYS0w5cTVEVUZ3UU5Uc2lQUTNKdXBqU2lwWGdxTDJTc21XMHJjOEVrVUlCV0trcDhTa2pGYm5MSG9OUjQ4bEhXRTpBPGI-U2lnbnMgb2YgSGlnaCBCbG9vZCBQcmVzc3VyZTwvYj4gQW5kIFN0cm9rZXMgWW91IFNob3VsZCBiZSAuLi5CoAE8Yj5TdWRkZW5seSBmZWVsaW5nIHdlYWsgb3IgbnVtYiBvbiBvbmUgc2lkZSBvZiB5b3VyIGJvZHk8L2I-LCBsaWtlIGluIHlvdXIgZmFjZSwgYXJtLCBvciBsZWc7IEhhdmluZyB0cm91YmxlIHNwZWFraW5nIG9yIHVuZGVyc3RhbmRpbmcgd2hhdCBvdGhlcnMgYXJlJm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "source": "Quartz Benefits",
+      "read_more_link": "https://quartzbenefits.com/blog/health-and-well-living/signs-of-high-blood-pressure-and-strokes-you-should-be-aware-of/#:~:text=Suddenly%20feeling%20weak%20or%20numb,understanding%20what%20others%20are%20saying"
+    },
+    {
+      "position": 4,
+      "title": "High Blood Pressure (Hypertension)",
+      "link": "https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFRLGS1v9LiEFh_PW8PB7KazOzfGk1h_LEIfykAMWlSRZTdt7xbydneVaV-7-Wvfoaqv9sVOrLoB1zqz9miV0KKGD_zIfOXUp08MLdFacxT4OPP_2kYrC8L9eZUuYa07kEshpgTKaG-1FxIo1rZHoUNsv4M7dkzvGEzNTx6UIY9FbaX0Jp9MWzlARbdT9yUa2VMxsD7R48ChqDM4oVto6_g&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.texasheart.org \u203a heart-health \u203a topics \u203a high-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACdElEQVR4AbXXA9AcQRCG4di2bTspx7Zt27ZZip1CbNu2bdtm5w1_bc8ct-o5f7ddu8NQ2jG1faHU6IYV2Iml6IwUofx5cILQKIeT-AYJ5Du2IaEhHxnJkBbxEdbdAoriHkTxABmCZSIiL_phK67jPs5hOvK4evLY2AExOI-kyIwy6Ib1eAlR3EIlVwqoiE8Qg50ohXO4jINYg4VYi-v47pC7jty2AoZDLFYgEXIjBWIhBuIhAdJioZKdi_CmAuZCLOYgIhphMlZgD07jBDohB247ZB8hp3byMFgAsZiANIaG-gSFsBTioI3pCsyBWAxFMlyDOPiBupgAcTDFVMBYiEW_v7-thp1461BAHYwztKFwWgHtIBa9Av0-KqriMgSCDyhuaE8bEEEroBQ-Qgx6OuTK4TUEN5Edu5X8atMVSIe7EIO-Drno2B_oBDlwX8nPM7WBKNgOMRiu9KBFELRDTXzTGrFtMBoBMZhk6EEPkRWzlOx31LUVUFpvB3or5rN5mIb0uK5knyKnrYBEOAtRHEUsh1vQGznQFj-U7H7EcGVSmgRR3Ed6hzVEVMTDAYhilKvTchl8gDj4hLJKrjG-KLm3KOJqAXFwyDQcO2QS4whEsRsx3VkZ9YYo9iJmsDYwxHDvf6CTu0uzjLgJcfAelQP9tgqeQxRXkMaTBeoYS28ojua4AzEY7OkKOROuQxTv8AVicNK-lLe3hR8QD7xFTW_3CQmxF-KmHxiP8L7YrJTBC4gb1iCer3ZLYTEM3yE2OID0vt6yxcEKiMVR5PDXvjENdls2LVn9vXlNj7XBFhyvMBlJlZjPi0iAftiLZaiESJ7810-m4MdArg7j2AAAAABJRU5ErkJggg.png",
+      "snippet": "In some cases, people with high blood pressure may have a pounding feeling in their head or chest, a feeling of lightheadedness or dizziness, or other signs.",
+      "snippet_highlighted_words": [
+        "a pounding feeling in their head or chest"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "In some cases, people with high blood pressure may have a pounding feeling in their head or chest, a feeling of lightheadedness or dizziness, or other signs.",
+          "source_info_link": "https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACdElEQVR4AbXXA9AcQRCG4di2bTspx7Zt27ZZip1CbNu2bdtm5w1_bc8ct-o5f7ddu8NQ2jG1faHU6IYV2Iml6IwUofx5cILQKIeT-AYJ5Du2IaEhHxnJkBbxEdbdAoriHkTxABmCZSIiL_phK67jPs5hOvK4evLY2AExOI-kyIwy6Ib1eAlR3EIlVwqoiE8Qg50ohXO4jINYg4VYi-v47pC7jty2AoZDLFYgEXIjBWIhBuIhAdJioZKdi_CmAuZCLOYgIhphMlZgD07jBDohB247ZB8hp3byMFgAsZiANIaG-gSFsBTioI3pCsyBWAxFMlyDOPiBupgAcTDFVMBYiEW_v7-thp1461BAHYwztKFwWgHtIBa9Av0-KqriMgSCDyhuaE8bEEEroBQ-Qgx6OuTK4TUEN5Edu5X8atMVSIe7EIO-Drno2B_oBDlwX8nPM7WBKNgOMRiu9KBFELRDTXzTGrFtMBoBMZhk6EEPkRWzlOx31LUVUFpvB3or5rN5mIb0uK5knyKnrYBEOAtRHEUsh1vQGznQFj-U7H7EcGVSmgRR3Ed6hzVEVMTDAYhilKvTchl8gDj4hLJKrjG-KLm3KOJqAXFwyDQcO2QS4whEsRsx3VkZ9YYo9iJmsDYwxHDvf6CTu0uzjLgJcfAelQP9tgqeQxRXkMaTBeoYS28ojua4AzEY7OkKOROuQxTv8AVicNK-lLe3hR8QD7xFTW_3CQmxF-KmHxiP8L7YrJTBC4gb1iCer3ZLYTEM3yE2OID0vt6yxcEKiMVR5PDXvjENdls2LVn9vXlNj7XBFhyvMBlJlZjPi0iAftiLZaiESJ7810-m4MdArg7j2AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZTVmRYQl82Y1plLXRwWmhIWXdKNUxyTTNXZFNlQVFXRkpEWWU4UDhLaXZhY3FpVUhlWlF0ZEtfTXhsNGYwRi05dmFQTmhQc2RBS3pMOWI5Vk1LbjRHMlRDaWpmNWdPS0VXR2x6R3RhZnl6SXJMMWlXV1R6S3d3Zk53Rzl2OUJzUXRpSklXWUlQOGZqUWRrUzEwMUViRDB3YVN1YXNCRkFrdlF0dXYzS29YTlVTdmhTQnY0OVhob1F5R1B3T2w3MGhNc3RwU1hONXZQbXRGMjNBX3RLNkESBBoCCAAa1wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKlgKBXNpZ25zFUL-Lz8aBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zKgkKAm9mFQAAAAAqXAoEaGlnaBVuWLdAGghlbGV2YXRlZBoSZWxldmF0ZWQgdHJlYXRtZW50GgVoaWdocxoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlKkcKBWJsb29kFfx-xEAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZSoxCghwcmVzc3VyZRUuPMNAGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZTLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGU1ZkWEJfNmNaZS10cFpoSFl3SjVMck0zV2RTZUFRV0ZKRFllOFA4S2l2YWNxaVVIZVpRdGRLX014bDRmMEYtOXZhUE5oUHNkQUt6TDliOVZNS240RzJUQ2lqZjVnT0tFV0dsekd0YWZ5eklyTDFpV1dUekt3d2ZOd0c5djlCc1F0aUpJV1lJUDhmalFka1MxMDFFYkQwd2FTdWFzQkZBa3ZRdHV2M0tvWE5VU3ZoU0J2NDlYaG9ReUdQd09sNzBoTXN0cFNYTjV2UG10RjIzQV90SzZBOk48Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPiAoPGI-SHlwZXJ0ZW5zaW9uPC9iPikgfCBUaGUgVGV4YXMgSGVhcnQgSW5zdGl0dXRlwq5CpAFJbiBzb21lIGNhc2VzLCBwZW9wbGUgd2l0aCBoaWdoIGJsb29kIHByZXNzdXJlIG1heSBoYXZlIDxiPmEgcG91bmRpbmcgZmVlbGluZyBpbiB0aGVpciBoZWFkIG9yIGNoZXN0PC9iPiwgYSBmZWVsaW5nIG9mIGxpZ2h0aGVhZGVkbmVzcyBvciBkaXp6aW5lc3MsIG9yIG90aGVyIHNpZ25zLkoCb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZTVmRYQl82Y1plLXRwWmhIWXdKNUxyTTNXZFNlQVFXRkpEWWU4UDhLaXZhY3FpVUhlWlF0ZEtfTXhsNGYwRi05dmFQTmhQc2RBS3pMOWI5Vk1LbjRHMlRDaWpmNWdPS0VXR2x6R3RhZnl6SXJMMWlXV1R6S3d3Zk53Rzl2OUJzUXRpSklXWUlQOGZqUWRrUzEwMUViRDB3YVN1YXNCRkFrdlF0dXYzS29YTlVTdmhTQnY0OVhob1F5R1B3T2w3MGhNc3RwU1hONXZQbXRGMjNBX3RLNkESBBoCCAAa1wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKlgKBXNpZ25zFUL-Lz8aBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zKgkKAm9mFQAAAAAqXAoEaGlnaBVuWLdAGghlbGV2YXRlZBoSZWxldmF0ZWQgdHJlYXRtZW50GgVoaWdocxoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlKkcKBWJsb29kFfx-xEAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZSoxCghwcmVzc3VyZRUuPMNAGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZTLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGU1ZkWEJfNmNaZS10cFpoSFl3SjVMck0zV2RTZUFRV0ZKRFllOFA4S2l2YWNxaVVIZVpRdGRLX014bDRmMEYtOXZhUE5oUHNkQUt6TDliOVZNS240RzJUQ2lqZjVnT0tFV0dsekd0YWZ5eklyTDFpV1dUekt3d2ZOd0c5djlCc1F0aUpJV1lJUDhmalFka1MxMDFFYkQwd2FTdWFzQkZBa3ZRdHV2M0tvWE5VU3ZoU0J2NDlYaG9ReUdQd09sNzBoTXN0cFNYTjV2UG10RjIzQV90SzZBOk48Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPiAoPGI-SHlwZXJ0ZW5zaW9uPC9iPikgfCBUaGUgVGV4YXMgSGVhcnQgSW5zdGl0dXRlwq5CpAFJbiBzb21lIGNhc2VzLCBwZW9wbGUgd2l0aCBoaWdoIGJsb29kIHByZXNzdXJlIG1heSBoYXZlIDxiPmEgcG91bmRpbmcgZmVlbGluZyBpbiB0aGVpciBoZWFkIG9yIGNoZXN0PC9iPiwgYSBmZWVsaW5nIG9mIGxpZ2h0aGVhZGVkbmVzcyBvciBkaXp6aW5lc3MsIG9yIG90aGVyIHNpZ25zLkoCb2YiAhABSABYAGgA",
+      "source": "The Texas Heart Institute",
+      "read_more_link": "https://www.texasheart.org/heart-health/heart-information-center/topics/high-blood-pressure-hypertension/#:~:text=In%20some%20cases%2C%20people%20with,or%20dizziness%2C%20or%20other%20signs."
+    },
+    {
+      "position": 5,
+      "title": "What are high blood pressure symptoms in women?",
+      "link": "https://www.abbott.com/en-us/corpnewsroom/healthy-heart/what-are-high-blood-pressure-symptoms-in-women",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFbabky4YLFz8-GOq1g0yNsI9Dugt5h64N0Tr9xDqODDwrkytwdLsV10cY9QsiQ6hF8noJvS4TBxa1O1vkU5NY5aj0nyq4otF-IK_rmFwYcVJ8MKyq1hRiURoavmLrul0gHZXR-7xKKlx6-6hz_0lG0cwBA2U8gxSyokmCr5Ovk6CCEfoR-aBOotg0Ydbc5zlvRhGRinShuA8qwpq7w&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECE4QAQ&uoh=1",
+      "displayed_link": "https://www.abbott.com \u203a corpnewsroom \u203a healthy-heart",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAAnklEQVR4AWNwL_ChK6a7hUBQmgnEhTTGJsgWvgLi_3TA--lnIQI3gSz8SkcLX4EsFKYdLpdG89ArOqTK0v2Dx0JYMFCGS4UJWQjOi9RMiXgtBBKuIA49LbxIbwtfoWsABTE5GFaMkWLhfpql0lELKcejFiKwMyhpUwUjChXMjE8nfBFejtIJZ8LCeRodLJuG0UwEhTkNsDNylTX8G8IAk0xV6NKYjLQAAAAASUVORK5CYII.png",
+      "date": "Jun 1, 2026",
+      "snippet": "However, when symptoms do appear, they may be easy to overlook or mistaken for everyday issues, such as headaches, fatigue, shortness of breath ...",
+      "snippet_highlighted_words": [
+        "headaches, fatigue, shortness of breath"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "However, when symptoms do appear, they may be easy to overlook or mistaken for everyday issues, such as headaches, fatigue, shortness of breath ...",
+          "source_info_link": "https://www.abbott.com/en-us/corpnewsroom/healthy-heart/what-are-high-blood-pressure-symptoms-in-women",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAYAAABvCO8sAAAAnklEQVR4AWNwL_ChK6a7hUBQmgnEhTTGJsgWvgLi_3TA--lnIQI3gSz8SkcLX4EsFKYdLpdG89ArOqTK0v2Dx0JYMFCGS4UJWQjOi9RMiXgtBBKuIA49LbxIbwtfoWsABTE5GFaMkWLhfpql0lELKcejFiKwMyhpUwUjChXMjE8nfBFejtIJZ8LCeRodLJuG0UwEhTkNsDNylTX8G8IAk0xV6NKYjLQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZiNFlIUG80MEZXZmpMbjYwYS1aS2ZoSV9Td0h0U2R3Z2FBWHBSMGVNYnhwS1AtUU9VN0xLbjhvTm5xRHhIREpPMnVPU2l0TGFFV0FpaEZRX21KangxZ0F4RDJEM05OWWE2bXptOTl1UVRfS3NjZzJyUnJ1T0tYOEdzTGE3dm9OTmpIMUVpem9ESi1XR1pYSkUyaUZPUlEyT2xCeTR6TkZwTTlzbG52NnZrSk5mVmZjWHNJQncxTWZJZVJkRzVRSkdpUnI4UVljZ2hCc09IbnNDdxIEGgIIABq_BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJkGCAAQABgAIAAqWAoFc2lnbnMV9AN2PxoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFcz3ykAaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVDePfQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFQ3j30AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZiNFlIUG80MEZXZmpMbjYwYS1aS2ZoSV9Td0h0U2R3Z2FBWHBSMGVNYnhwS1AtUU9VN0xLbjhvTm5xRHhIREpPMnVPU2l0TGFFV0FpaEZRX21KangxZ0F4RDJEM05OWWE2bXptOTl1UVRfS3NjZzJyUnJ1T0tYOEdzTGE3dm9OTmpIMUVpem9ESi1XR1pYSkUyaUZPUlEyT2xCeTR6TkZwTTlzbG52NnZrSk5mVmZjWHNJQncxTWZJZVJkRzVRSkdpUnI4UVljZ2hCc09IbnNDdzo_V2hhdCBhcmUgPGI-aGlnaCBibG9vZCBwcmVzc3VyZSBzeW1wdG9tczwvYj4gaW4gd29tZW4_IC0gQWJib3R0Qp8BSG93ZXZlciwgd2hlbiBzeW1wdG9tcyBkbyBhcHBlYXIsIHRoZXkgbWF5IGJlIGVhc3kgdG8gb3Zlcmxvb2sgb3IgbWlzdGFrZW4gZm9yIGV2ZXJ5ZGF5IGlzc3Vlcywgc3VjaCBhcyA8Yj5oZWFkYWNoZXMsIGZhdGlndWUsIHNob3J0bmVzcyBvZiBicmVhdGg8L2I-Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZiNFlIUG80MEZXZmpMbjYwYS1aS2ZoSV9Td0h0U2R3Z2FBWHBSMGVNYnhwS1AtUU9VN0xLbjhvTm5xRHhIREpPMnVPU2l0TGFFV0FpaEZRX21KangxZ0F4RDJEM05OWWE2bXptOTl1UVRfS3NjZzJyUnJ1T0tYOEdzTGE3dm9OTmpIMUVpem9ESi1XR1pYSkUyaUZPUlEyT2xCeTR6TkZwTTlzbG52NnZrSk5mVmZjWHNJQncxTWZJZVJkRzVRSkdpUnI4UVljZ2hCc09IbnNDdxIEGgIIABq_BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJkGCAAQABgAIAAqWAoFc2lnbnMV9AN2PxoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFcz3ykAaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVDePfQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFQ3j30AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZiNFlIUG80MEZXZmpMbjYwYS1aS2ZoSV9Td0h0U2R3Z2FBWHBSMGVNYnhwS1AtUU9VN0xLbjhvTm5xRHhIREpPMnVPU2l0TGFFV0FpaEZRX21KangxZ0F4RDJEM05OWWE2bXptOTl1UVRfS3NjZzJyUnJ1T0tYOEdzTGE3dm9OTmpIMUVpem9ESi1XR1pYSkUyaUZPUlEyT2xCeTR6TkZwTTlzbG52NnZrSk5mVmZjWHNJQncxTWZJZVJkRzVRSkdpUnI4UVljZ2hCc09IbnNDdzo_V2hhdCBhcmUgPGI-aGlnaCBibG9vZCBwcmVzc3VyZSBzeW1wdG9tczwvYj4gaW4gd29tZW4_IC0gQWJib3R0Qp8BSG93ZXZlciwgd2hlbiBzeW1wdG9tcyBkbyBhcHBlYXIsIHRoZXkgbWF5IGJlIGVhc3kgdG8gb3Zlcmxvb2sgb3IgbWlzdGFrZW4gZm9yIGV2ZXJ5ZGF5IGlzc3Vlcywgc3VjaCBhcyA8Yj5oZWFkYWNoZXMsIGZhdGlndWUsIHNob3J0bmVzcyBvZiBicmVhdGg8L2I-Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "source": "Abbott",
+      "read_more_link": "https://www.abbott.com/en-us/corpnewsroom/healthy-heart/what-are-high-blood-pressure-symptoms-in-women#:~:text=However%2C%20when%20symptoms%20do%20appear%2C,of%20breath%20or%20vision%20changes."
+    },
+    {
+      "position": 6,
+      "title": "Hypertension: What Causes High Blood Pressure and How ...",
+      "link": "https://www.yalemedicine.org/news/what-causes-high-blood-pressure",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVQYJD5h3VNBAdD7jzUaiSGENlTFhbCVdsotxVcF_sH5pumkHUNOzSGzp79GQ2RoWay0QpGzrKgA0vOtzfWU7WoYYidrZ-KFz5WriOP_VMq6ftFU8r7IxGn0OILm8HCCmp20PG8uMDGiLEiWx9yGo_qTA3rqelgyA&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECFIQAQ&uoh=1",
+      "displayed_link": "https://www.yalemedicine.org \u203a news \u203a what-causes-hig...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEU2iso2i8o1isoxiMkkhMgfgscrhshUmNDB1uzb5_TQ4fCVveBDkM2wzeebv-Hk7fdbnNHu9PoAe8S70-r6_f5KlM6mxuRqpNX___-80-pvptZjoNN9rtmuyubF2e2Gs9sJX-DXAAAAu0lEQVR4AdSOhQHDQAhFW_gQd5de9t-yXOo2QHF4JxxMjqZm78kL_ZQ_hAyBEquAFPuYha-QgzCKE02zKAzyUDxLi5Jvz0pR1X4i0rSd9ejb4Q65GxNIFDCmfII_3Mw3aF02Ym5ACJcCpOspfIKMMYuUDA55ohKRe4Kk27jtcNZCuqh-hv7XkncocZCt8gqDG9TFFYIXiGCcYcmGUvV4gZo45xIlzRfWLWXNy-eFAKjP_HA6bzglE7zZAQDcUw1NLDsoWgAAAABJRU5ErkJggg.png",
+      "date": "Jan 14, 2025",
+      "snippet": "A normal blood pressure is 120 (systolic) over 80 (diastolic), or 120/80. Hypertension is defined as blood pressure that is consistently 130/80 ...",
+      "snippet_highlighted_words": [
+        "130/80"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A normal blood pressure is 120 (systolic) over 80 (diastolic), or 120/80. Hypertension is defined as blood pressure that is consistently 130/80 ...",
+          "source_info_link": "https://www.yalemedicine.org/news/what-causes-high-blood-pressure",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEU2iso2i8o1isoxiMkkhMgfgscrhshUmNDB1uzb5_TQ4fCVveBDkM2wzeebv-Hk7fdbnNHu9PoAe8S70-r6_f5KlM6mxuRqpNX___-80-pvptZjoNN9rtmuyubF2e2Gs9sJX-DXAAAAu0lEQVR4AdSOhQHDQAhFW_gQd5de9t-yXOo2QHF4JxxMjqZm78kL_ZQ_hAyBEquAFPuYha-QgzCKE02zKAzyUDxLi5Jvz0pR1X4i0rSd9ejb4Q65GxNIFDCmfII_3Mw3aF02Ym5ACJcCpOspfIKMMYuUDA55ohKRe4Kk27jtcNZCuqh-hv7XkncocZCt8gqDG9TFFYIXiGCcYcmGUvV4gZo45xIlzRfWLWXNy-eFAKjP_HA6bzglE7zZAQDcUw1NLDsoWgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlkwVUpoa1hqTFNUQ0JLZzRHcTctNEpOZm1xeTRxTGQ4MnhaSnhXVExwd0hBb01uUVMyYnN0bzhQazhaSHpoWU1xOVJsdEg2azI0M0tHRk5henNqT1gtazBLYWRZd2pkbS1tZ1dRZjcyX25ldUxCNTUteXl1MTJIMnIwNW1DV244RXNIOGZ1enhDNjZrbmdmcG1vV3pWbm5aRkstN1pFSRIEGgIIABqQBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqWAoFc2lnbnMVAAAAABoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFQb2xEAaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVxlTvQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFWlP-0AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlkwVUpoa1hqTFNUQ0JLZzRHcTctNEpOZm1xeTRxTGQ4MnhaSnhXVExwd0hBb01uUVMyYnN0bzhQazhaSHpoWU1xOVJsdEg2azI0M0tHRk5henNqT1gtazBLYWRZd2pkbS1tZ1dRZjcyX25ldUxCNTUteXl1MTJIMnIwNW1DV244RXNIOGZ1enhDNjZrbmdmcG1vV3pWbm5aRkstN1pFSTpDSHlwZXJ0ZW5zaW9uOiBXaGF0IDxiPkNhdXNlcyBIaWdoIEJsb29kIFByZXNzdXJlPC9iPiBhbmQgSG93IHRvIC4uLkKfAUEgbm9ybWFsIGJsb29kIHByZXNzdXJlIGlzIDEyMCAoc3lzdG9saWMpIG92ZXIgODAgKGRpYXN0b2xpYyksIG9yIDEyMC84MC4gSHlwZXJ0ZW5zaW9uIGlzIGRlZmluZWQgYXMgYmxvb2QgcHJlc3N1cmUgdGhhdCBpcyBjb25zaXN0ZW50bHkgPGI-MTMwLzgwPC9iPiZuYnNwOy4uLkoCb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlkwVUpoa1hqTFNUQ0JLZzRHcTctNEpOZm1xeTRxTGQ4MnhaSnhXVExwd0hBb01uUVMyYnN0bzhQazhaSHpoWU1xOVJsdEg2azI0M0tHRk5henNqT1gtazBLYWRZd2pkbS1tZ1dRZjcyX25ldUxCNTUteXl1MTJIMnIwNW1DV244RXNIOGZ1enhDNjZrbmdmcG1vV3pWbm5aRkstN1pFSRIEGgIIABqQBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqWAoFc2lnbnMVAAAAABoGY2F1c2VzGglkaWFnbm9zaXMaEmVsZXZhdGVkIHRyZWF0bWVudBoKaW5kaWNhdG9ycxoEc2lnbhoHc3ltcHRvbRoIc3ltcHRvbXMqCQoCb2YVAAAAACpcCgRoaWdoFQb2xEAaCGVsZXZhdGVkGhJlbGV2YXRlZCB0cmVhdG1lbnQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUqRwoFYmxvb2QVxlTvQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlKjEKCHByZXNzdXJlFWlP-0AaEWhpZ2hibG9vZHByZXNzdXJlGg1ibG9vZHByZXNzdXJlMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlkwVUpoa1hqTFNUQ0JLZzRHcTctNEpOZm1xeTRxTGQ4MnhaSnhXVExwd0hBb01uUVMyYnN0bzhQazhaSHpoWU1xOVJsdEg2azI0M0tHRk5henNqT1gtazBLYWRZd2pkbS1tZ1dRZjcyX25ldUxCNTUteXl1MTJIMnIwNW1DV244RXNIOGZ1enhDNjZrbmdmcG1vV3pWbm5aRkstN1pFSTpDSHlwZXJ0ZW5zaW9uOiBXaGF0IDxiPkNhdXNlcyBIaWdoIEJsb29kIFByZXNzdXJlPC9iPiBhbmQgSG93IHRvIC4uLkKfAUEgbm9ybWFsIGJsb29kIHByZXNzdXJlIGlzIDEyMCAoc3lzdG9saWMpIG92ZXIgODAgKGRpYXN0b2xpYyksIG9yIDEyMC84MC4gSHlwZXJ0ZW5zaW9uIGlzIGRlZmluZWQgYXMgYmxvb2QgcHJlc3N1cmUgdGhhdCBpcyBjb25zaXN0ZW50bHkgPGI-MTMwLzgwPC9iPiZuYnNwOy4uLkoCb2YiAhABSABYAGgA",
+      "source": "Yale Medicine",
+      "read_more_link": "https://www.yalemedicine.org/news/what-causes-high-blood-pressure#:~:text=A%20normal%20blood%20pressure%20is,pressure%20is%2080%20or%20higher."
+    },
+    {
+      "position": 7,
+      "title": "High blood pressure (hypertension) - causes and symptoms",
+      "link": "https://www.bhf.org.uk/informationsupport/risk-factors/high-blood-pressure",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFWh75y497kwT6jYDVklYZDAte0ZkfDVfQ4ES-iAzVup2kKzhJu3jMVUo4IYqS_y9mmxE1HVRCuyIVP_6-DmdPbSYkVPZ0AEx9kEr1hOr6r4NBaMymEMtGmN3WlgahkOkJmhIMEpK5Meo-_rD01OuTi0wUuScakCF8aA3lAQE1SRB&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECFYQAQ&uoh=1",
+      "displayed_link": "https://www.bhf.org.uk \u203a ... \u203a High blood pressure",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEXsGzDsFCzrABjsABPrABDsABzsGC7rCibuPUn50tT9___2u73xg4r89vX56enwe4DuOETznJ_wZGz1tLf329zyiY_55eTwa3LxjpPsACL3x8ruSFPsECnrAADzl5v2q63sAB_3wsPwWWH43uDzn6LvUlv0rq_uRlHxcXf8___yf4PuLTv0pKfsJTX2t7rwbnNzSzG0AAABVUlEQVR4AaXQVYLDIBAAUEImsCXZuEDDQIS63f92q23ktzg8nLwfPOpDwAgHH_ja-MdGiJBC9CnihK7WpUJkeVFWdRPFQqoF0q1oqUYTI1dYi2CBKLbwXSmPEcITkesl2u7Z1u0KadnTZ5s3QrM56kGo5wCWxeq6KEf8UzAjLK2rdFXCj4LbAFuY3okC8zJgBPYFLtcxJe0GD8MInQnbVoHHJmOqPI7D6bytuhPGdS4u2nti0Nc9jkbW5fVyCpPYHsex6F7qB3RTJDvHVCKxjANKu8V17anlihHOvcPyf76H2M1Q8j2oNfG-Kzaz5AxDOvhHzvOcKtWRj0nV1Vpzl3sXQni3rrfGqGnlOXo052Mij8GxSQYnLxGfMDoCpRR8jJAeBoSAzq66z_fOmNDt7fVamL3pnZpWVphFTiZnJ93ZnLPzueJkUqK4Uvw7f9ffkXPyXvgCK9EdnprJE7cAAAAASUVORK5CYII.png",
+      "snippet": "High blood pressure usually has no symptoms. high blood pressure can cause complications like loss of vision and sexual dysfunction.",
+      "snippet_highlighted_words": [
+        "High blood pressure usually has no symptoms"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "High blood pressure usually has no symptoms. high blood pressure can cause complications like loss of vision and sexual dysfunction.",
+          "source_info_link": "https://www.bhf.org.uk/informationsupport/risk-factors/high-blood-pressure",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAkFBMVEXsGzDsFCzrABjsABPrABDsABzsGC7rCibuPUn50tT9___2u73xg4r89vX56enwe4DuOETznJ_wZGz1tLf329zyiY_55eTwa3LxjpPsACL3x8ruSFPsECnrAADzl5v2q63sAB_3wsPwWWH43uDzn6LvUlv0rq_uRlHxcXf8___yf4PuLTv0pKfsJTX2t7rwbnNzSzG0AAABVUlEQVR4AaXQVYLDIBAAUEImsCXZuEDDQIS63f92q23ktzg8nLwfPOpDwAgHH_ja-MdGiJBC9CnihK7WpUJkeVFWdRPFQqoF0q1oqUYTI1dYi2CBKLbwXSmPEcITkesl2u7Z1u0KadnTZ5s3QrM56kGo5wCWxeq6KEf8UzAjLK2rdFXCj4LbAFuY3okC8zJgBPYFLtcxJe0GD8MInQnbVoHHJmOqPI7D6bytuhPGdS4u2nti0Nc9jkbW5fVyCpPYHsex6F7qB3RTJDvHVCKxjANKu8V17anlihHOvcPyf76H2M1Q8j2oNfG-Kzaz5AxDOvhHzvOcKtWRj0nV1Vpzl3sXQni3rrfGqGnlOXo052Mij8GxSQYnLxGfMDoCpRR8jJAeBoSAzq66z_fOmNDt7fVamL3pnZpWVphFTiZnJ93ZnLPzueJkUqK4Uvw7f9ffkXPyXvgCK9EdnprJE7cAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZWSF9IZWRrRW5nYTF5Q3pYSDJSMFV3VDlybjh2ZV9iTjlER2hFc3RCeldnT2ZaVWFHaGpHOGx5dktPeE9NSEtfMHFSaGxIOXpvNDA4b3JvMm91eU9Sb2Ytcl9KbE1yWU9rdnB6VWowN1llU1R2eWFONUZ6LXdacDJJdlZyWVBsc21vZENpcjA4MVNBR0EwaFRHeFZBOWg0VjVUMktPQk1HZks5R09wekxON0kSBBoCCAAaigYSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDkBQgAEAAYACAAKlgKBXNpZ25zFQAAAAAaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zKgkKAm9mFQAAAAAqXAoEaGlnaBVOKqVAGghlbGV2YXRlZBoSZWxldmF0ZWQgdHJlYXRtZW50GgVoaWdocxoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlKkcKBWJsb29kFf8WsUAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZSoxCghwcmVzc3VyZRX2HLFAGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZTLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGVkhfSGVka0VuZ2ExeUN6WEgyUjBVd1Q5cm44dmVfYk45REdoRXN0QnpXZ09mWlVhR2hqRzhseXZLT3hPTUhLXzBxUmhsSDl6bzQwOG9ybzJvdXlPUm9mLXJfSmxNcllPa3ZwelVqMDdZZVNUdnlhTjVGei13WnAySXZWcllQbHNtb2RDaXIwODFTQUdBMGhUR3hWQTloNFY1VDJLT0JNR2ZLOUdPcHpMTjdJOkQ8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiAtIDxiPmNhdXNlczwvYj4gYW5kIDxiPnN5bXB0b21zPC9iPiAtIEJIRkKLATxiPkhpZ2ggYmxvb2QgcHJlc3N1cmUgdXN1YWxseSBoYXMgbm8gc3ltcHRvbXM8L2I-LiBoaWdoIGJsb29kIHByZXNzdXJlIGNhbiBjYXVzZSBjb21wbGljYXRpb25zIGxpa2UgbG9zcyBvZiB2aXNpb24gYW5kIHNleHVhbCBkeXNmdW5jdGlvbi5KAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZWSF9IZWRrRW5nYTF5Q3pYSDJSMFV3VDlybjh2ZV9iTjlER2hFc3RCeldnT2ZaVWFHaGpHOGx5dktPeE9NSEtfMHFSaGxIOXpvNDA4b3JvMm91eU9Sb2Ytcl9KbE1yWU9rdnB6VWowN1llU1R2eWFONUZ6LXdacDJJdlZyWVBsc21vZENpcjA4MVNBR0EwaFRHeFZBOWg0VjVUMktPQk1HZks5R09wekxON0kSBBoCCAAaigYSAggBGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDkBQgAEAAYACAAKlgKBXNpZ25zFQAAAAAaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zKgkKAm9mFQAAAAAqXAoEaGlnaBVOKqVAGghlbGV2YXRlZBoSZWxldmF0ZWQgdHJlYXRtZW50GgVoaWdocxoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlKkcKBWJsb29kFf8WsUAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZSoxCghwcmVzc3VyZRX2HLFAGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZTLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGVkhfSGVka0VuZ2ExeUN6WEgyUjBVd1Q5cm44dmVfYk45REdoRXN0QnpXZ09mWlVhR2hqRzhseXZLT3hPTUhLXzBxUmhsSDl6bzQwOG9ybzJvdXlPUm9mLXJfSmxNcllPa3ZwelVqMDdZZVNUdnlhTjVGei13WnAySXZWcllQbHNtb2RDaXIwODFTQUdBMGhUR3hWQTloNFY1VDJLT0JNR2ZLOUdPcHpMTjdJOkQ8Yj5IaWdoIGJsb29kIHByZXNzdXJlPC9iPiAtIDxiPmNhdXNlczwvYj4gYW5kIDxiPnN5bXB0b21zPC9iPiAtIEJIRkKLATxiPkhpZ2ggYmxvb2QgcHJlc3N1cmUgdXN1YWxseSBoYXMgbm8gc3ltcHRvbXM8L2I-LiBoaWdoIGJsb29kIHByZXNzdXJlIGNhbiBjYXVzZSBjb21wbGljYXRpb25zIGxpa2UgbG9zcyBvZiB2aXNpb24gYW5kIHNleHVhbCBkeXNmdW5jdGlvbi5KAm9mIgIQAUgAWABoAA",
+      "source": "British Heart Foundation"
+    },
+    {
+      "position": 8,
+      "title": "Symptoms of High Blood Pressure | Norton Healthcare Medical ...",
+      "link": "https://www.youtube.com/watch?v=W-YApBzbhXg",
+      "displayed_link": "127.6K+ views",
+      "date": "3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ae90f46430875c0fa719743/images/Hbm5BJ52VFwziS8tF1EaYSK_Da8VOUK_jHDANWcs11Y.jpeg",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAh0lEQVR4AWP4__8_RXgwGMBgzA_EU4H4DBA_B-JPQPwfB_4EVXMGqocfZMAMkCSZeCrIgKsUGHAFZMAXrJIZbf__u-cQMuATA07JCcv-g8H2o___a4bgNASvAXDw4-f__xYJWNVR7AKKw4AqsTCdknQAS4nTgPgsEL8glBKhas5A9fAPfGYCADVteZOv2-CaAAAAAElFTkSuQmCC.png",
+      "snippet": "Jessica Perez, APRN, Norton Community Medical Associates primary care shares the variety of symptoms and dangers of high blood pressure.",
+      "duration": "1:25",
+      "key_moments": [
+        {
+          "time": "00:13",
+          "title": "No Symptoms At All",
+          "link": "https://www.youtube.com/watch?v=W-YApBzbhXg&t=13"
+        },
+        {
+          "time": "00:18",
+          "title": "Silent Killer",
+          "link": "https://www.youtube.com/watch?v=W-YApBzbhXg&t=18"
+        },
+        {
+          "time": "00:52",
+          "title": "Normal Blood Pressure",
+          "link": "https://www.youtube.com/watch?v=W-YApBzbhXg&t=52"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Jessica Perez, APRN, Norton Community Medical Associates primary care shares the variety of symptoms and dangers of high blood pressure.",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAh0lEQVR4AWP4__8_RXgwGMBgzA_EU4H4DBA_B-JPQPwfB_4EVXMGqocfZMAMkCSZeCrIgKsUGHAFZMAXrJIZbf__u-cQMuATA07JCcv-g8H2o___a4bgNASvAXDw4-f__xYJWNVR7AKKw4AqsTCdknQAS4nTgPgsEL8glBKhas5A9fAPfGYCADVteZOv2-CaAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnlQZmJjZlBHbnRtM1dyR3RVVHdHZTBLUk5tRHFXM0hSX25IdUswV1RmR1hVVEhuVmIyOVFIWHFVOGI4aGw2ZXRNNGRrWU94dlptdXZfV2lIM1JVblJRdldzeC1CbjlNTWNJUU5SOWFYMVZoNk9BYkJ4MUlyczM5QlBCdXZtdVVJcEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnlQZmJjZlBHbnRtM1dyR3RVVHdHZTBLUk5tRHFXM0hSX25IdUswV1RmR1hVVEhuVmIyOVFIWHFVOGI4aGw2ZXRNNGRrWU94dlptdXZfV2lIM1JVblJRdldzeC1CbjlNTWNJUU5SOWFYMVZoNk9BYkJ4MUlyczM5QlBCdXZtdVVJcEESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "source": "YouTube \u00b7 Norton Healthcare"
+    },
+    {
+      "position": 9,
+      "title": "High Blood Pressure Symptoms You Shouldn't Ignore",
+      "link": "https://www.bassmedicalgroup.com/blog-post/high-blood-pressure-symptoms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFfncq_eEGtaXKWZIJxhE4rIUwvuj_rsJYxKR9XDYHgS_AMBk4GDhbbQDZdv7Ambe19v38C9XekLT3ZEH3DQYJtA3H0xVQimjMyaxtgd-DjOtYkLBQxE4QzAHrzwFFv9YXsDcSwvTIICMO-r6WW0LwEBpWSY0ygdqyjeEYbMY&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQFnoECE0QAQ&uoh=1",
+      "displayed_link": "https://www.bassmedicalgroup.com \u203a blog-post \u203a high-...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiMaOm_KAAAAD3RSTlMAyNxfGY2wPOnzcpwsTgmgDFVKAAABI0lEQVQokWVSC7aFIAhEUVRQ2f9uH6S-ujWdk9IQDB-Ag5IzjpIAkBh-wS3PdRuq-sMmpf97NpIe3FC8jW5ksRMPV37CcLc3zR0T4Y0U07pU-lCim0Odj89lsFQXNNIw-0ibTE0vkP1GkJvVvtRMWkSlsVOqditriVLKPPqKIW0Cq2YI1e24ipl9YI4qpsKiBKjBK00wkepJmQqIp1h60knZCL0SU-LYpPkLY7mK4uC2e0KN3oe7f9hocxqBdPfYtUj0pq-YPhu2ctI49Ufzk83ZVLuWsQnC6VPXtuD9ZdSAJa1hhRo3QhT_UqfFReQcFuh6QnCRGYr5fSGXSpD8ghhoT3TGL2q_twZf4OdW5VYfaK_F6cXQL9j5WTgYEky24L1Sf2DEDzhCCxigAAAAAElFTkSuQmCC.png",
+      "date": "Apr 22, 2025",
+      "snippet": "Common Symptoms of High Blood Pressure \u00b7 Frequent headaches (especially in the morning) \u00b7 Blurred vision \u00b7 Fatigue or confusion \u00b7 Chest ...",
+      "snippet_highlighted_words": [
+        "Frequent headaches (especially in the morning"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common Symptoms of High Blood Pressure \u00b7 Frequent headaches (especially in the morning) \u00b7 Blurred vision \u00b7 Fatigue or confusion \u00b7 Chest ...",
+          "source_info_link": "https://www.bassmedicalgroup.com/blog-post/high-blood-pressure-symptoms",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAMFBMVEVHcEzvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiPvdiMaOm_KAAAAD3RSTlMAyNxfGY2wPOnzcpwsTgmgDFVKAAABI0lEQVQokWVSC7aFIAhEUVRQ2f9uH6S-ujWdk9IQDB-Ag5IzjpIAkBh-wS3PdRuq-sMmpf97NpIe3FC8jW5ksRMPV37CcLc3zR0T4Y0U07pU-lCim0Odj89lsFQXNNIw-0ibTE0vkP1GkJvVvtRMWkSlsVOqditriVLKPPqKIW0Cq2YI1e24ipl9YI4qpsKiBKjBK00wkepJmQqIp1h60knZCL0SU-LYpPkLY7mK4uC2e0KN3oe7f9hocxqBdPfYtUj0pq-YPhu2ctI49Ufzk83ZVLuWsQnC6VPXtuD9ZdSAJa1hhRo3QhT_UqfFReQcFuh6QnCRGYr5fSGXSpD8ghhoT3TGL2q_twZf4OdW5VYfaK_F6cXQL9j5WTgYEky24L1Sf2DEDzhCCxigAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZReERhRDBIU1BoQnlVNFpoRVFjSS13NlFWanU1cU9NYXV1MG5SSlZ2M3BVNHBfOGVESnNVUWNyN3pKMlUyaEpLODdEcGNxd3N0OEdfQlVaRnRSR1E3cEtYT2xRN2NZNmpzRDlFMlBOYXo0VmZnZlp1M0tCcU9mbEo5M2NYR0dWYTNneVl0WGpMN0RBY195VUxvcGd5ZnFjQlQyU1F3ZnJianNQaTF3NxIEGgIIABqkBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCABggAEAAYACAAKlgKBXNpZ25zFeplG0AaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zKgkKAm9mFQAAAAAqXAoEaGlnaBU0mfxAGghlbGV2YXRlZBoSZWxldmF0ZWQgdHJlYXRtZW50GgVoaWdocxoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlKkcKBWJsb29kFRW-AkEaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZSoxCghwcmVzc3VyZRVRowBBGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZTK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGUXhEYUQwSFNQaEJ5VTRaaEVRY0ktdzZRVmp1NXFPTWF1dTBuUkpWdjNwVTRwXzhlREpzVVFjcjd6SjJVMmhKSzg3RHBjcXdzdDhHX0JVWkZ0UkdRN3BLWE9sUTdjWTZqc0Q5RTJQTmF6NFZmZ2ZadTNLQnFPZmxKOTNjWEdHVmEzZ3lZdFhqTDdEQWNfeVVMb3BneWZxY0JUMlNRd2ZyYmpzUGkxdzc6PDxiPkhpZ2ggQmxvb2QgUHJlc3N1cmUgU3ltcHRvbXM8L2I-IFlvdSBTaG91bGRuJiMzOTt0IElnbm9yZUKzAUNvbW1vbiBTeW1wdG9tcyBvZiBIaWdoIEJsb29kIFByZXNzdXJlICZtaWRkb3Q7IDxiPkZyZXF1ZW50IGhlYWRhY2hlcyAoZXNwZWNpYWxseSBpbiB0aGUgbW9ybmluZzwvYj4pICZtaWRkb3Q7IEJsdXJyZWQgdmlzaW9uICZtaWRkb3Q7IEZhdGlndWUgb3IgY29uZnVzaW9uICZtaWRkb3Q7IENoZXN0Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZReERhRDBIU1BoQnlVNFpoRVFjSS13NlFWanU1cU9NYXV1MG5SSlZ2M3BVNHBfOGVESnNVUWNyN3pKMlUyaEpLODdEcGNxd3N0OEdfQlVaRnRSR1E3cEtYT2xRN2NZNmpzRDlFMlBOYXo0VmZnZlp1M0tCcU9mbEo5M2NYR0dWYTNneVl0WGpMN0RBY195VUxvcGd5ZnFjQlQyU1F3ZnJianNQaTF3NxIEGgIIABqkBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCABggAEAAYACAAKlgKBXNpZ25zFeplG0AaBmNhdXNlcxoJZGlhZ25vc2lzGhJlbGV2YXRlZCB0cmVhdG1lbnQaCmluZGljYXRvcnMaBHNpZ24aB3N5bXB0b20aCHN5bXB0b21zKgkKAm9mFQAAAAAqXAoEaGlnaBU0mfxAGghlbGV2YXRlZBoSZWxldmF0ZWQgdHJlYXRtZW50GgVoaWdocxoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlKkcKBWJsb29kFRW-AkEaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZSoxCghwcmVzc3VyZRVRowBBGhFoaWdoYmxvb2RwcmVzc3VyZRoNYmxvb2RwcmVzc3VyZTK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGUXhEYUQwSFNQaEJ5VTRaaEVRY0ktdzZRVmp1NXFPTWF1dTBuUkpWdjNwVTRwXzhlREpzVVFjcjd6SjJVMmhKSzg3RHBjcXdzdDhHX0JVWkZ0UkdRN3BLWE9sUTdjWTZqc0Q5RTJQTmF6NFZmZ2ZadTNLQnFPZmxKOTNjWEdHVmEzZ3lZdFhqTDdEQWNfeVVMb3BneWZxY0JUMlNRd2ZyYmpzUGkxdzc6PDxiPkhpZ2ggQmxvb2QgUHJlc3N1cmUgU3ltcHRvbXM8L2I-IFlvdSBTaG91bGRuJiMzOTt0IElnbm9yZUKzAUNvbW1vbiBTeW1wdG9tcyBvZiBIaWdoIEJsb29kIFByZXNzdXJlICZtaWRkb3Q7IDxiPkZyZXF1ZW50IGhlYWRhY2hlcyAoZXNwZWNpYWxseSBpbiB0aGUgbW9ybmluZzwvYj4pICZtaWRkb3Q7IEJsdXJyZWQgdmlzaW9uICZtaWRkb3Q7IEZhdGlndWUgb3IgY29uZnVzaW9uICZtaWRkb3Q7IENoZXN0Jm5ic3A7Li4uSgJvZiICEAFIAFgAaAA",
+      "source": "BASS Medical Group",
+      "read_more_link": "https://www.bassmedicalgroup.com/blog-post/high-blood-pressure-symptoms#:~:text=Common%20Symptoms%20of%20High%20Blood,Pressure&text=Frequent%20headaches%20(especially%20in%20the,morning)&text=Blurred%20vision&text=Fatigue%20or%20confusion&text=Chest%20discomfort%20or%20tightness"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "What does high blood pressure feel like for a woman",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=What+does+high+blood+pressure+feel+like+for+a+woman&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+does+high+blood+pressure+feel+like+for+a+woman"
+    },
+    {
+      "block_position": 1,
+      "query": "What are the top 10 symptoms of high blood pressure",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=What+are+the+top+10+symptoms+of+high+blood+pressure&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+are+the+top+10+symptoms+of+high+blood+pressure"
+    },
+    {
+      "block_position": 1,
+      "query": "Can high blood pressure be reversed",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=Can+high+blood+pressure+be+reversed&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Can+high+blood+pressure+be+reversed"
+    },
+    {
+      "block_position": 1,
+      "query": "What causes high blood pressure",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=What+causes+high+blood+pressure&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+causes+high+blood+pressure"
+    },
+    {
+      "block_position": 1,
+      "query": "Blood pressure monitor",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=Blood+pressure+monitor&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Blood+pressure+monitor"
+    },
+    {
+      "block_position": 1,
+      "query": "Does high blood pressure cause nausea",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=Does+high+blood+pressure+cause+nausea&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Does+high+blood+pressure+cause+nausea"
+    },
+    {
+      "block_position": 1,
+      "query": "How do you know if you have high blood pressure",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=How+do+you+know+if+you+have+high+blood+pressure&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=How+do+you+know+if+you+have+high+blood+pressure"
+    },
+    {
+      "block_position": 1,
+      "query": "What does high blood pressure do to your body",
+      "link": "https://www.google.com/search?sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&q=What+does+high+blood+pressure+do+to+your+body&sa=X&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+does+high+blood+pressure+do+to+your+body"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=10&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8NMDegQINRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=10&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=20&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=30&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAI",
+      "5": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=40&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAK",
+      "6": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=50&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAM",
+      "7": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=60&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAO",
+      "8": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=70&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAQ",
+      "9": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=80&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAS",
+      "10": "https://www.google.com/search?q=signs+of+high+blood+pressure&sca_esv=565ce27c3d9f9e6a&hl=en&gl=us&sxsrf=AKL5yDgi0T3RiitJ9QG851ik1VR7FUxS4Q:1793658694310&ei=Rg_paqe9EtbbruEPoIyTIA&start=90&sa=N&sstk=AS6-VmICpMed-mULeDfOMCDa_qUoPo8TFDK-BbzT9n3UC3-1pTmFaZpOd0aKB8tBeBwtSwPLB041aVZji8c8D88TMx0z3knCRbMITQ&ved=2ahUKEwin-Mmqq-qXAxXWrSsGHSDGBAQQ8tMDegQINRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=signs+of+high+blood+pressure&start=90"
+    }
+  }
+}
