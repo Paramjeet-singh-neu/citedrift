@@ -1,0 +1,707 @@
+{
+  "search_metadata": {
+    "id": "6aececc774268e3f416d943b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bS5V8xPcQnOZiKUT47aUtMmLEgZMpj6dZg_OJ0ueyf8/6aececc774268e3f416d943b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bS5V8xPcQnOZiKUT47aUtMmLEgZMpj6dZg_OJ0ueyf8/6aececc774268e3f416d943b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bS5V8xPcQnOZiKUT47aUtMmLEgZMpj6dZg_OJ0ueyf8/6aececc774268e3f416d943b.json_with_pixel_position",
+    "created_at": "2026-11-05 20:53:27 UTC",
+    "processed_at": "2026-11-05 20:53:27 UTC",
+    "google_url": "https://www.google.com/search?q=high+blood+pressure+treatment+options&oq=high+blood+pressure+treatment+options&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bS5V8xPcQnOZiKUT47aUtMmLEgZMpj6dZg_OJ0ueyf8/6aececc774268e3f416d943b.html",
+    "total_time_taken": 0.98
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "high blood pressure treatment options",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "high blood pressure treatment options",
+    "total_results": 187,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is high blood pressure genetic?",
+      "type": "ai_overview",
+      "page_token": "iYE4l3icHdBfcqIwHADg2cv0sRpjXXXG6UyWwOIqNoFfArzsxCSYShBa_9Dy1rv0VD1Nd_YC38P38emfT_XXj5u7XLrzcjTq-_7-0LYHb-9124zU-f2kR1p5v1e6Xs5-ztBjpVf0GpNfLzFhwGnhjZe5gWLweEtLxDJyVY2LS6knZXR4EBNUlSGdlohXliK_i9DAJK9Us5jJIB62sH5Lcg5mPO8VhsHW8L7JzMYew4JnIlKBe0s94ELEOB1CbI8aQbaWSUBuJihwGbBBBuTEo64w9FJuafgnlZ0DRJ5sWCAZLda8RoLnempDwdgRxtrP8f43PzMRUhjELgFHdGNwmTsiToJTZ6abvBuKXLgU2um-CV-BemYz82IjxFPePjNwuy0FzMddvz8SDsIr7V2fSJ_8M2dm8pApv8jTej5h7K7StxW--_-5-ls1l2X32h6-AR-Agew",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=iYE4l3icHdBfcqIwHADg2cv0sRpjXXXG6UyWwOIqNoFfArzsxCSYShBa_9Dy1rv0VD1Nd_YC38P38emfT_XXj5u7XLrzcjTq-_7-0LYHb-9124zU-f2kR1p5v1e6Xs5-ztBjpVf0GpNfLzFhwGnhjZe5gWLweEtLxDJyVY2LS6knZXR4EBNUlSGdlohXliK_i9DAJK9Us5jJIB62sH5Lcg5mPO8VhsHW8L7JzMYew4JnIlKBe0s94ELEOB1CbI8aQbaWSUBuJihwGbBBBuTEo64w9FJuafgnlZ0DRJ5sWCAZLda8RoLnempDwdgRxtrP8f43PzMRUhjELgFHdGNwmTsiToJTZ6abvBuKXLgU2um-CV-BemYz82IjxFPePjNwuy0FzMddvz8SDsIr7V2fSJ_8M2dm8pApv8jTej5h7K7StxW--_-5-ls1l2X32h6-AR-Agew",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IklzIGhpZ2ggYmxvb2QgcHJlc3N1cmUgZ2VuZXRpYz8iLCJsayI6IkdoNXBjeUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsSUdkbGJtVjBhV00iLCJicyI6ImM1WFB2US1DUUF3RjhMamU1TXlnTlVUanpLcUdSQmNaVEhSeTVxTndqWEFsZHlVMy1iOExrY2tvaWZ2dnZiNnFrMW9tRGpSVkdyS2F1WURXb25PZFJhalFvRkFlUnhBc2FKS29pOXFjMlVQQjZENUpnd1hsWkJBODIwY2NoY0ZLOTNJS09mVlUtNkV1VHcwa19RMEJTd1Z3LVhXQ0o5SGN5YnNpRldJVFI0ZGdwOGM4X1o5WE43Vzk2MVNnZjFvMFFrbldDZFREUExHWVNvTkdvR1FMeDJzY3JZUFFqX2FueTlyNTdBVSIsImlkIjoiZmNfeC16c2F1YUlKOG5ha1BJUHk3anhtUUlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IklzIGhpZ2ggYmxvb2QgcHJlc3N1cmUgZ2VuZXRpYz8iLCJsayI6IkdoNXBjeUJvYVdkb0lHSnNiMjlrSUhCeVpYTnpkWEpsSUdkbGJtVjBhV00iLCJicyI6ImM1WFB2US1DUUF3RjhMamU1TXlnTlVUanpLcUdSQmNaVEhSeTVxTndqWEFsZHlVMy1iOExrY2tvaWZ2dnZiNnFrMW9tRGpSVkdyS2F1WURXb25PZFJhalFvRkFlUnhBc2FKS29pOXFjMlVQQjZENUpnd1hsWkJBODIwY2NoY0ZLOTNJS09mVlUtNkV1VHcwa19RMEJTd1Z3LVhXQ0o5SGN5YnNpRldJVFI0ZGdwOGM4X1o5WE43Vzk2MVNnZjFvMFFrbldDZFREUExHWVNvTkdvR1FMeDJzY3JZUFFqX2FueTlyNTdBVSIsImlkIjoiZmNfeC16c2F1YUlKOG5ha1BJUHk3anhtUUlfNSJ9"
+    },
+    {
+      "question": "How does blood pressure medicine work?",
+      "type": "ai_overview",
+      "page_token": "SoZZMnicHZDNbqMwGEXVl-myCT_pKJGiSrQ2TUuIMPls480IsIMDBpyGFJpd32Weap6mURd3cxZHR_f7nzl2zf-7Tz0M9ryazcZxfKj6vjLqoezbWX7-6spZmRtT5GWzevzz6DwdyjW6bILn0yZIgKDMSJM1ziT224Vgg1MwGRSu4enVQBrqo2K6gdAKFZpO1vjEqD2XeDlFbOIRowug9lm-WrTjySTxxldomedYJ4xWvjDSuw1nPIhKoANBeMxqUYvG9rQdXDGXfuxm_i6coOTxQtXgpy14WxAvjN8kjrQFlpeIkgCYU6t9DIwtId7HYe5pqhhM4LwRFZIgbvHblsfvgmOCtPQjbq8ZpzqF3i9a_AHIJGovTyp0SEr6YwJ6t0XgkblBxJVu2lXzW_QlvsqO3vgOUUReNx5j-kWO94fyc-3d__65_ntoh5X96KsfHVGDPg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=SoZZMnicHZDNbqMwGEXVl-myCT_pKJGiSrQ2TUuIMPls480IsIMDBpyGFJpd32Weap6mURd3cxZHR_f7nzl2zf-7Tz0M9ryazcZxfKj6vjLqoezbWX7-6spZmRtT5GWzevzz6DwdyjW6bILn0yZIgKDMSJM1ziT224Vgg1MwGRSu4enVQBrqo2K6gdAKFZpO1vjEqD2XeDlFbOIRowug9lm-WrTjySTxxldomedYJ4xWvjDSuw1nPIhKoANBeMxqUYvG9rQdXDGXfuxm_i6coOTxQtXgpy14WxAvjN8kjrQFlpeIkgCYU6t9DIwtId7HYe5pqhhM4LwRFZIgbvHblsfvgmOCtPQjbq8ZpzqF3i9a_AHIJGovTyp0SEr6YwJ6t0XgkblBxJVu2lXzW_QlvsqO3vgOUUReNx5j-kWO94fyc-3d__65_ntoh5X96KsfHVGDPg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IkhvdyBkb2VzIGJsb29kIHByZXNzdXJlIG1lZGljaW5lIHdvcms/IiwibGsiOiJHaUZvYjNjZ1lteHZiMlFnY0hKbGMzTjFjbVVnYldWa2FXTnBibVVnZDI5eWEzTSIsImJzIjoiYzVYUHZRLUNRQXdGOExqZTVNeWdOVVRqektxR1JCY1pUSFJ5NXFOd2pYQWxkeVUzLWI4TGtja29pZnZ2dmI2cWsxb21EalJWR3JLYXVZRFdvbk9kUmFqUW9GQWVSeEFzYUpLb2k5cWMyVVBCNkQ1Smd3WGxaQkE4MjBjY2hjRks5M0lLT2ZWVS02RXVUdzBrX1EwQlN3VnctWFdDSjlIY3lic2lGV0lUUjRkZ3A4YzhfWjlYTjdXOTYxU2dmMW8wUWtuV0NkVERQTEdZU29OR29HUUx4MnNjcllQUWpfYW55OXI1N0FVIiwiaWQiOiJmY194LXpzYXVhSUo4bmFrUElQeTdqeG1RSV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IkhvdyBkb2VzIGJsb29kIHByZXNzdXJlIG1lZGljaW5lIHdvcms%2FIiwibGsiOiJHaUZvYjNjZ1lteHZiMlFnY0hKbGMzTjFjbVVnYldWa2FXTnBibVVnZDI5eWEzTSIsImJzIjoiYzVYUHZRLUNRQXdGOExqZTVNeWdOVVRqektxR1JCY1pUSFJ5NXFOd2pYQWxkeVUzLWI4TGtja29pZnZ2dmI2cWsxb21EalJWR3JLYXVZRFdvbk9kUmFqUW9GQWVSeEFzYUpLb2k5cWMyVVBCNkQ1Smd3WGxaQkE4MjBjY2hjRks5M0lLT2ZWVS02RXVUdzBrX1EwQlN3VnctWFdDSjlIY3lic2lGV0lUUjRkZ3A4YzhfWjlYTjdXOTYxU2dmMW8wUWtuV0NkVERQTEdZU29OR29HUUx4MnNjcllQUWpfYW55OXI1N0FVIiwiaWQiOiJmY194LXpzYXVhSUo4bmFrUElQeTdqeG1RSV81In0%3D"
+    },
+    {
+      "question": "How can I get rid of high blood pressure without medication?",
+      "type": "ai_overview",
+      "page_token": "IXoyJ3icHdBbjpswFABQdTPzOeERpk2kqFIGTIoCETa-GP9UYEOcYF4BDQx_3ULX0FV1NY26giOdX3_0ra3_fvmtpqkf95vNPM-v16676vJVdM0mHz9bsRG51kUu6v3b1zfzeyUO3oc4vj_EMabYy7TUaVs7KQRG7kY_QsCkSHWX36UqTG8p_F0b6l3GVgmE9Yi7HBIXR6ULLTZgYXZoXVjkE4RQlMAArjbCJHBEjRK2Ijs0g-3Fn1Skd--cOkNkczu2xCpXVeV3PkYpxtxaRmaiMz_1kIGyEzsYpNWvpA4u8V1DDMcTtnojpM4s66djfTOpAR2w4Gmh2zmtLdHME6-BYB-6slZDTpc0bTkmdJlLpsbwjoP8xCNPye2Z9WvGQBHabYsGPain4zKRQ-mbmODuFlN1CT1qExdrwYILbajzvGHnlFsE0RVYz2UKGaW4kvNLJT4O9sv_68PPqpn2_aO7_gPsEYz0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IXoyJ3icHdBbjpswFABQdTPzOeERpk2kqFIGTIoCETa-GP9UYEOcYF4BDQx_3ULX0FV1NY26giOdX3_0ra3_fvmtpqkf95vNPM-v16676vJVdM0mHz9bsRG51kUu6v3b1zfzeyUO3oc4vj_EMabYy7TUaVs7KQRG7kY_QsCkSHWX36UqTG8p_F0b6l3GVgmE9Yi7HBIXR6ULLTZgYXZoXVjkE4RQlMAArjbCJHBEjRK2Ijs0g-3Fn1Skd--cOkNkczu2xCpXVeV3PkYpxtxaRmaiMz_1kIGyEzsYpNWvpA4u8V1DDMcTtnojpM4s66djfTOpAR2w4Gmh2zmtLdHME6-BYB-6slZDTpc0bTkmdJlLpsbwjoP8xCNPye2Z9WvGQBHabYsGPain4zKRQ-mbmODuFlN1CT1qExdrwYILbajzvGHnlFsE0RVYz2UKGaW4kvNLJT4O9sv_68PPqpn2_aO7_gPsEYz0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBnZXQgcmlkIG9mIGhpZ2ggYmxvb2QgcHJlc3N1cmUgd2l0aG91dCBtZWRpY2F0aW9uPyIsImxrIjoiY3dYQjBRMkFJQXdFMEQzOHVqMmNCcUhTUzVRenBZVDFmZTg0WFJ1MURCRGRFc0VHM1hCMnhfVklEVl9ZbkNzTW0tbGFpZGNhYTBscV9BIiwiYnMiOiJjNVhQdlEtQ1FBd0Y4TGplNU15Z05VVGp6S3FHUkJjWlRIUnk1cU53alhBbGR5VTMtYjhMa2Nrb2lmdnZ2YjZxazFvbURqUlZHckthdVlEV29uT2RSYWpRb0ZBZVJ4QXNhSktvaTlxYzJVUEI2RDVKZ3dYbFpCQTgyMGNjaGNGSzkzSUtPZlZVLTZFdVR3MGtfUTBCU3dWdy1YV0NKOUhjeWJzaUZXSVRSNGRncDhjOF9aOVhON1c5NjFTZ2YxbzBRa25XQ2RURFBMR1lTb05Hb0dRTHgyc2NyWVBRal9hbnk5cjU3QVUiLCJpZCI6ImZjX3gtenNhdWFJSjhuYWtQSVB5N2p4bVFJXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IkhvdyBjYW4gSSBnZXQgcmlkIG9mIGhpZ2ggYmxvb2QgcHJlc3N1cmUgd2l0aG91dCBtZWRpY2F0aW9uPyIsImxrIjoiY3dYQjBRMkFJQXdFMEQzOHVqMmNCcUhTUzVRenBZVDFmZTg0WFJ1MURCRGRFc0VHM1hCMnhfVklEVl9ZbkNzTW0tbGFpZGNhYTBscV9BIiwiYnMiOiJjNVhQdlEtQ1FBd0Y4TGplNU15Z05VVGp6S3FHUkJjWlRIUnk1cU53alhBbGR5VTMtYjhMa2Nrb2lmdnZ2YjZxazFvbURqUlZHckthdVlEV29uT2RSYWpRb0ZBZVJ4QXNhSktvaTlxYzJVUEI2RDVKZ3dYbFpCQTgyMGNjaGNGSzkzSUtPZlZVLTZFdVR3MGtfUTBCU3dWdy1YV0NKOUhjeWJzaUZXSVRSNGRncDhjOF9aOVhON1c5NjFTZ2YxbzBRa25XQ2RURFBMR1lTb05Hb0dRTHgyc2NyWVBRal9hbnk5cjU3QVUiLCJpZCI6ImZjX3gtenNhdWFJSjhuYWtQSVB5N2p4bVFJXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the first line treatment for BP?",
+      "type": "ai_overview",
+      "page_token": "rekYv3icHdBdbpswAABg9TJ9bOyQdFKkqBLDhmSB1DY2Py8T2ARTDLiJ11DedpedqqeptO8I399_phv7r4cP7Zy97Var-_3-1E5Ta5onOQ2r6vY5ypWsjKkr2e-efzzDl4vcoz8H_-f7wSecosIoU_R4qt902Ai70AyWcdBu4tHncXa0Mk1eaYhPdaBAFZGtCtCSRvSoopKpiL6qDMxlB0ES2uM58EeFqCNAGJEbEr_1Hlv8teC2EwZ7Ijo4htxce-Kq1rqIh9ssA-KowF2-Fp8px9ssKl0FJ8A8slCO54prUPT2VwyS4cy5a4Z5XSxlyRnUKvUhzY9-hvGBpWSpEAQnBkek1eaU26XIhWZ82tQDvnJkSJOq9yaElNGpI1yfY8Q9FrRL0avglPZbKZKhyW0VhwIr4AYWYlfkOiHk8SI_9t7j_8_978vgdvY6td8ULoMa",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rekYv3icHdBdbpswAABg9TJ9bOyQdFKkqBLDhmSB1DY2Py8T2ARTDLiJ11DedpedqqeptO8I399_phv7r4cP7Zy97Var-_3-1E5Ta5onOQ2r6vY5ypWsjKkr2e-efzzDl4vcoz8H_-f7wSecosIoU_R4qt902Ai70AyWcdBu4tHncXa0Mk1eaYhPdaBAFZGtCtCSRvSoopKpiL6qDMxlB0ES2uM58EeFqCNAGJEbEr_1Hlv8teC2EwZ7Ijo4htxce-Kq1rqIh9ssA-KowF2-Fp8px9ssKl0FJ8A8slCO54prUPT2VwyS4cy5a4Z5XSxlyRnUKvUhzY9-hvGBpWSpEAQnBkek1eaU26XIhWZ82tQDvnJkSJOq9yaElNGpI1yfY8Q9FrRL0avglPZbKZKhyW0VhwIr4AYWYlfkOiHk8SI_9t7j_8_978vgdvY6td8ULoMa",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZpcnN0IGxpbmUgdHJlYXRtZW50IGZvciBCUD8iLCJsayI6IkdpTjNhR0YwSUdseklHWnBjbk4wSUd4cGJtVWdkSEpsWVhSdFpXNTBJR1p2Y2lCaWNBIiwiYnMiOiJjNVhQdlEtQ1FBd0Y4TGplNU15Z05VVGp6S3FHUkJjWlRIUnk1cU53alhBbGR5VTMtYjhMa2Nrb2lmdnZ2YjZxazFvbURqUlZHckthdVlEV29uT2RSYWpRb0ZBZVJ4QXNhSktvaTlxYzJVUEI2RDVKZ3dYbFpCQTgyMGNjaGNGSzkzSUtPZlZVLTZFdVR3MGtfUTBCU3dWdy1YV0NKOUhjeWJzaUZXSVRSNGRncDhjOF9aOVhON1c5NjFTZ2YxbzBRa25XQ2RURFBMR1lTb05Hb0dRTHgyc2NyWVBRal9hbnk5cjU3QVUiLCJpZCI6ImZjX3gtenNhdWFJSjhuYWtQSVB5N2p4bVFJXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWWmQwWjJjVWw1YWtkMFpWRkxjM00yTlhkb2FtcHVkekpXUW1sYVYzVmpNMXBWTVZKNE5rbzNWVlZ4VmtsS1ZHTTVXR3BZUm01aGVWOXJWWGgxU0UxTGNHOTNjekpKWVc0MFlubERTV1E1VDBOeE9WRkhTM010Vms5SFp4SVhlQzE2YzJGMVlVbEtPRzVoYTFCSlVIazNhbmh0VVVrYUlrRklUakJGTjBkeWRXaG1SVEJhUlU1c2IzVndOV3hFZDNOSk1VbEhYMk15TjBFIiwiZmN2IjoiMyIsImVpIjoieC16c2F1YUlKOG5ha1BJUHk3anhtUUkiLCJxYyI6IkNpVm9hV2RvSUdKc2IyOWtJSEJ5WlhOemRYSmxJSFJ5WldGMGJXVnVkQ0J2Y0hScGIyNXpFQUFZQVgzYW9Gc18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGZpcnN0IGxpbmUgdHJlYXRtZW50IGZvciBCUD8iLCJsayI6IkdpTjNhR0YwSUdseklHWnBjbk4wSUd4cGJtVWdkSEpsWVhSdFpXNTBJR1p2Y2lCaWNBIiwiYnMiOiJjNVhQdlEtQ1FBd0Y4TGplNU15Z05VVGp6S3FHUkJjWlRIUnk1cU53alhBbGR5VTMtYjhMa2Nrb2lmdnZ2YjZxazFvbURqUlZHckthdVlEV29uT2RSYWpRb0ZBZVJ4QXNhSktvaTlxYzJVUEI2RDVKZ3dYbFpCQTgyMGNjaGNGSzkzSUtPZlZVLTZFdVR3MGtfUTBCU3dWdy1YV0NKOUhjeWJzaUZXSVRSNGRncDhjOF9aOVhON1c5NjFTZ2YxbzBRa25XQ2RURFBMR1lTb05Hb0dRTHgyc2NyWVBRal9hbnk5cjU3QVUiLCJpZCI6ImZjX3gtenNhdWFJSjhuYWtQSVB5N2p4bVFJXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Hypertension (high blood pressure) is typically managed through a combination of heart-healthy lifestyle changes and, when necessary, prescription medications.",
+        "snippet_highlighted_words": [
+          "heart-healthy lifestyle changes and, when necessary, prescription medications"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Lifestyle Modifications"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Adopting healthy habits is the first step in lowering blood pressure and can sometimes reduce the need for or amount of medication:",
+        "reference_indexes": [
+          2,
+          3
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Dietary Approaches (DASH): Follow the DASH Eating Plan, which emphasizes vegetables, fruits, whole grains, and low-fat dairy while cutting back on sodium (salt).",
+            "snippet_links": [
+              {
+                "text": "DASH Eating Plan",
+                "link": "https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment"
+              }
+            ],
+            "reference_indexes": [
+              2,
+              4
+            ]
+          },
+          {
+            "snippet": "Physical Activity: Engage in regular aerobic exercise, such as brisk walking, swimming, or cycling.",
+            "reference_indexes": [
+              5,
+              6
+            ]
+          },
+          {
+            "snippet": "Weight Management: Lose excess weight if you are overweight or obese to reduce strain on your heart and blood vessels.",
+            "reference_indexes": [
+              7,
+              8
+            ]
+          },
+          {
+            "snippet": "Limit Alcohol and Quit Smoking: Reduce alcohol consumption and stop smoking or using tobacco, which immediately constricts blood vessels and raises heart rate.",
+            "reference_indexes": [
+              5,
+              8
+            ]
+          },
+          {
+            "snippet": "Stress and Sleep: Practice stress-reduction techniques and aim for at least 7 hours of quality sleep per night.",
+            "reference_indexes": [
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "First-Line Medications"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "When lifestyle modifications alone do not lower blood pressure sufficiently\u2014or if you have a high 10-year risk of cardiovascular disease, diabetes, or chronic kidney disease\u2014doctors typically prescribe one or more classes of blood pressure drugs:",
+        "reference_indexes": [
+          0,
+          2,
+          10
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Angiotensin-Converting Enzyme (ACE) Inhibitors: Relax blood vessels to keep them from narrowing (e.g., lisinopril, benazepril).",
+            "reference_indexes": [
+              2,
+              10
+            ]
+          },
+          {
+            "snippet": "Angiotensin II Receptor Blockers (ARBs): Block the action of chemicals that tighten blood vessels (e.g., losartan, valsartan).",
+            "reference_indexes": [
+              1,
+              2
+            ]
+          },
+          {
+            "snippet": "Calcium Channel Blockers (CCBs): Prevent calcium from entering heart and blood vessel muscle cells, allowing vessels to relax (e.g., amlodipine, diltiazem).",
+            "reference_indexes": [
+              1,
+              2
+            ]
+          },
+          {
+            "snippet": "Diuretics (\"Water Pills\"): Help your body get rid of excess sodium and water, reducing fluid volume in the blood; thiazide diuretics are most common (e.g., hydrochlorothiazide).",
+            "reference_indexes": [
+              2,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Treatment Approaches"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Single vs. Multi-Drug Therapy: Stage 1 hypertension is often managed with a single medication, while Stage 2 hypertension or higher risk profiles frequently require two or more medications combined\u2014sometimes in a single pill for convenience."
+          },
+          {
+            "snippet": "Target Goals: For most adults, the general treatment goal is a blood pressure reading of less than 130/80 mm Hg."
+          },
+          {
+            "snippet": "Resistant Hypertension: If blood pressure remains high despite taking three or more medications (including a diuretic), a healthcare provider will investigate underlying causes and adjust the regimen or consider specialized interventions.",
+            "reference_indexes": [
+              0,
+              1,
+              10,
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Review official resources from the American Heart Association or the CDC High Blood Pressure Guide for detailed insights on managing your care plan.",
+        "snippet_links": [
+          {
+            "text": "American Heart Association",
+            "link": "https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/types-of-blood-pressure-medications"
+          },
+          {
+            "text": "CDC High Blood Pressure Guide",
+            "link": "https://www.cdc.gov/high-blood-pressure/living-with/index.html"
+          }
+        ],
+        "reference_indexes": [
+          7,
+          12
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help tailor this information, could you share:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Whose blood pressure is being managed (age or general health status)?"
+          },
+          {
+            "snippet": "Are there other medical conditions present (such as diabetes, kidney disease, or heart issues)?"
+          },
+          {
+            "snippet": "What specific numbers or symptoms prompted your question?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "High blood pressure (hypertension) - Diagnosis and treatment - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/diseases-conditions/high-blood-pressure/diagnosis-treatment/drc-20373417",
+        "snippet": "Medications The type of medicine used to treat hypertension depends on your overall health and how high your blood pressure is. Two or more blood pressure drugs of...",
+        "source": "Mayo Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpqzYTDQboj7PjuDN5qIXSNRcIV35TEeG9_CEOZjoGX4r4M23bXlCb0rR1yxOz21lvGVDEKPlmOe3z2LPfScBvmWcXLGtQnv2-4CA4dJRwvy4OUM4MEzHxHd6dBlyxbTPw0zliuL1Aq7kOn5V62lXHtkU"
+      },
+      {
+        "index": 1,
+        "title": "High Blood Pressure Treatment | Mount Sinai - New York",
+        "link": "https://www.mountsinai.org/care/heart/services/hypertension/treatment",
+        "snippet": "High Blood Pressure Treatment | Mount Sinai * Heart - Cardiology & Cardiovascular Surgery * Our Services * High Blood Pressure (Hypertension) High Blood Pressure T...",
+        "source": "Mount Sinai",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mountsinai.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwXfO7Mh-foQ0n8hvdWAAXOA3bLvnernpduekdwjVX2V6Kd2tUlx-5sPb0K5ZdHr9-7ItN_1JXxXBm2X9bEtFlVQxVWePYzZGHoqzTN3zsaInZnsov5RmaF0JBvwc5EUPfuWu9BThW9yZKqxXN5euGKuY"
+      },
+      {
+        "index": 2,
+        "title": "High Blood Pressure - Treatment | NHLBI, NIH",
+        "link": "https://www.nhlbi.nih.gov/health/high-blood-pressure/treatment",
+        "snippet": "If you have high blood pressure, your provider may recommend that you adopt a heart-healthy lifestyle to help lower and control high blood pressure. * Choose heart...",
+        "source": "nhlbi, nih (.gov)",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.nhlbi.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDv6dy-yjJWQvOAi9ORh3N0k74CvS2kZzw0P46ntJc0wVH0RL6ooYFN7bia4fr6k5YBNirh-5DUjZ0SIoQT1i3UzBPtEkOHWLx2z7TJRzKAp22JcWFZQHyrBp6WPJZeOrNoT8wVEW8i1rk37GfM_iTQJU"
+      },
+      {
+        "index": 3,
+        "title": "Taming high blood pressure: How doctors find the right drug mix - Harvard Health",
+        "link": "https://www.health.harvard.edu/heart-health/taming-high-blood-pressure-how-doctors-find-the-right-drug-mix",
+        "snippet": "Hypertension treatment usually involves taking at least two drugs. Your other health conditions and lifestyle may influence which combination works best for you. B...",
+        "source": "Harvard Health",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.health.harvard.edu&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRjC5uBl3ZFPTi9L444HLvi-UTbVJJwuU6ZiEZNbouOEmxaSzsTSE6xXT9BIqKGv1WSRcDODbC7OGqVQ_rJHHCNQrE6kc08QgxBm-fY_EDBsQao4aOYYVFBhJJANyTUkdUAjwowMAg80pYQR9ugcYyb-I"
+      },
+      {
+        "index": 4,
+        "title": "Treatment of hypertension (video)",
+        "link": "https://www.khanacademy.org/science/health-and-medicine/circulatory-system-diseases/hypertension/v/treatment-of-hypertension",
+        "snippet": "so the ETH joint national committee or JNC8. has recently proposed some useful guidelines for when to treat patients with high blood pressure and what blood pressu",
+        "source": "Khan Academy",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.khanacademy.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtp_KQRZMtzIoeaH1J7mqkg9-p-3IW9S3iyKhMHD43niIZiyMmal8xrZ5E1PMzVu3bsHHuTpMCdB1KOw9bxYRMHpTl3ycuV69kgI_d5_zlJnWF10b5PHaRAE-ud0okYnPvx1pi4rKCtDce6C7gMgfxTGY"
+      },
+      {
+        "index": 5,
+        "title": "Best Ways to Treat High Blood Pressure",
+        "link": "https://www.youtube.com/watch?v=n2OArU9k-AU&t=714",
+        "snippet": "Best Ways to Treat High Blood Pressure so occasionally we do find a secondary cause of hypertension. or we would want to reduce or stop any medications that are ag",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS7gALaRo9LJZyMbv65zrG_lZub-2xmaQG9WEDnzIj9MJWZhEhUMWKfrtb2N_7uMMIvgfBMV63PTuTIZUvn-f6KremnzjRfAAxFzx47qpRpgjwc-nmv2T5tEsGRHo9cRHVBHk55DQCihBsZ2OwH_wGa9I4"
+      },
+      {
+        "index": 6,
+        "title": "Hypertension: What It Is and How to Manage It",
+        "link": "https://www.youtube.com/watch?v=Kg0bn23S_vw&t=1",
+        "snippet": "Hypertension: What It Is and How to Manage It you feel good you don't have any concerning symptoms. but could you be living with the medical condition known as the",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTH40vn_1EhBwI8AiLf-SD1BdKrpJyPj1ONpZQibalBJyRB3GLogt6t13G1VMVQ2HrY7qmIFgmN4aw7KhKEVWznWzau5zyuik79tvX4u4wpucNCkG6xm1gKalLoBp_NOphfEW2fQN8OuZ6VFR15X9XF3Tk"
+      },
+      {
+        "index": 7,
+        "title": "Managing High Blood Pressure - CDC",
+        "link": "https://www.cdc.gov/high-blood-pressure/living-with/index.html",
+        "snippet": "Managing your lifestyle and other health conditions can also help support your heart health. * Healthy lifestyle habits Healthy lifestyle habits can help manage hi...",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cdc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHMxffTZzy8giPe16r_DsumDpv8RUgTRFWPldvxAGx8LAVC6LFFKqV67VSP7IL94234-mro4aAev3smf1A4wXxEwW_hW4yhUCh6G-HEPIHm0_xBtrxNPrxthHIAVZhfS00YTIpPL6gVmT0yfMRM0YNjpo"
+      },
+      {
+        "index": 8,
+        "title": "How To Lower Blood Pressure | University of Utah Health",
+        "link": "https://healthcare.utah.edu/cardiovascular/conditions/hypertension/how-to-lower-high-blood-pressure",
+        "snippet": "These natural ways to lower blood pressure can keep you healthy. 2: Lose Weight and Maintain a Healthy Weight Extra body weight can increase your risk of hypertens...",
+        "source": "University of Utah Health",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://healthcare.utah.edu&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNA2K43SjcD9hHtgkEJmBUNi5aco2nGnLqz9iV-Or6fFCBWXGQ9DkL_W5Zn4LxcLg4JdQNU87dhLbAsMZBSUYHXQDJuY09skWVup0UdwLtl9UfGgHSwTjLHOzHheVJUqIH5MsBXGIeWn4Zu2LVAglwh0g"
+      },
+      {
+        "index": 9,
+        "title": "Managing blood pressure: Non-medication and OTC options | Providence",
+        "link": "https://blog.providence.org/regional-blog-news/ask-an-expert-lowering-blood-pressure-without-pills",
+        "snippet": "In this article: * If you have high blood pressure, it's important that you lower it to decrease your risk for heart disease and stroke. * While prescription medic...",
+        "source": "Providence",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blog.providence.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90K0nBWSUC2x3cio58IfWeBfiKAl0yNp46d8SbLinC0SPx1aO9rpqNjMrvnH-KSQXNZE3HGpnIkTQDpE5qybinVLX6H7B6Me6L1FTNlIUq1t_gROwwQtGVh7SwUTlgBueKJ68UJb79ke0b98vmmBgd4Q"
+      },
+      {
+        "index": 10,
+        "title": "Hypertension Treatment & Management: Approach Considerations, Nonpharmacologic Therapy, Pharmacologic Therapy",
+        "link": "https://emedicine.medscape.com/article/241381-treatment",
+        "snippet": "Hypertension Treatment & Management Approach Considerations Effective management of hypertension requires clinicians and patients to work together to balance pharm...",
+        "source": "Medscape",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://emedicine.medscape.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 11,
+        "title": "Initial Treatment of Hypertension",
+        "link": "https://www.youtube.com/watch?v=23NSzQLa5Ug&t=304",
+        "snippet": "Initial Treatment of Hypertension what medication should you start many different anti-hypertensive medications are available to clinicians. the guidelines endorse",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4-zrQpoN1GzKbMCPSPrMt8fOoHD4sMYyQshMa7O-cX57FPB_HghIgbtKx7gwNqwul57H8WpkWkdx29gLVlRSMNfh6O62lyiJmVnQmtP-pKQV0g3PDVHbyUVFAMeDy8c6iJqaVXs_G8Mb0VIKMroG_duQ"
+      },
+      {
+        "index": 12,
+        "title": "Types of Blood Pressure Medications | American Heart Association",
+        "link": "https://www.heart.org/en/health-topics/high-blood-pressure/changes-you-can-make-to-manage-high-blood-pressure/types-of-blood-pressure-medications",
+        "snippet": "Types of Blood Pressure Medications | American Heart Association * Healthy Living Healthy Living Food Systems Forum Nutrition Security * Health Topics Health Topic...",
+        "source": "www.heart.org",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.heart.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6TOF6l_XLn8k8sCoF6oU_2fEPJ9EV2XzunCS90eB6qjLzxzhHjf0Y6rQZuiowS0G23zmkrWdWIgsarmp0VjXUYEnlF_cZvET7jBZIjYMZrtf9ao6XZpWxt6sNIm47M5wfFTq8tL4ukhFAEWWkp9EL1Sk"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "High blood pressure: Learn More \u2013 What medications ... - NCBI",
+      "link": "https://www.ncbi.nlm.nih.gov/books/NBK279230/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHEIkXXh_ulDoVJsMakbFfOKdTNyLsGoHXaMuN5-EYN9CJzrHVFdfHPcowg8gJ7DcA20gCRqr-nJ_p5RwwnGd4MyPV4_YAIwJohdF9z_BI2Gd_9ogGhboicZ7i7OuZIdgFOOUF-g9EewA&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a books \u203a NBK279230",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZElEQVR4AWMYBUxMTCy2do5NsfHJLxKS0v6Tgj08fZbADeKVkGIImvyJIWjKfzD273_CYJY0iYFbRAivA4CWt4AMIxcrKavYwQ3TDysCWY6Cnco34XUA0OfPKHFAaHjUJVZWVhawYSwcbAze7VcwHKFk64PTASBDKMWmZhYFcAMVLB0wHODbfYeBjYeDZg4AhuIHAQFBCbih9kXLMBxhFFVDGwcgEuQimJmMAjJSjLAEicBfGPhl5GjjAESCtIE7wiC0BCMU7ItX0MYBiAR5ATlBMmJJkKA0QhsHIBJkHtxweUsnDAd4NF8COo6FZg7ATJDFKzAcoRuUQxsHIBLkArgF_DIyQEtRE6R__ztgCSlCKwcgEiSihCzDCAXrrBkYDqBlgmTybruG5og_DJI6RmAH0AobGZvC45pJwcIFIxTc6g_R1AFa2rph8HJBzTUKS7mwimYOCAgM3cMEBGDbOQX4QNUzmgO-MQgpKNDKAb8kpGR14InQJK4DS91QR7NE6Ojs3ge3XERVA2jhD7Ta8R6wduSiVUH0gouLWwAc70zMTAwu1TswfK_iGESzgkjPwCQBbriSbQCG5S7VuxiYWJho4oDgsOhjsIQHCmJQUKM54BcwSrRoVRn9kZWVN4Hne6PIOnTfM5ol9dCsOnZ185wBz_PA7AXKZmjl_zNQdqRVk-wNLy-fCNxQp7J1GHGv5hpHsyaZsZllFlIbwA1LkXsEmvAwQXR88gMKK51zzKxsyM1y7JUOLgBqwVCx2i3BSHiWaX2EumZMwCDMiY5LeUBh1wylJczo3_8I7CAmFhZ89o8CANLzo8kQBHupAAAAAElFTkSuQmCC.png",
+      "date": "Jul 2, 2024",
+      "snippet": "Diuretics (also called \u201cwater pills\u201d) are drugs that get rid of excess water in the body. They increase urine production in the kidneys, which ...",
+      "snippet_highlighted_words": [
+        "Diuretics"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Diuretics (also called \u201cwater pills\u201d) are drugs that get rid of excess water in the body. They increase urine production in the kidneys, which ...",
+          "source_info_link": "https://www.ncbi.nlm.nih.gov/books/NBK279230/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZElEQVR4AWMYBUxMTCy2do5NsfHJLxKS0v6Tgj08fZbADeKVkGIImvyJIWjKfzD273_CYJY0iYFbRAivA4CWt4AMIxcrKavYwQ3TDysCWY6Cnco34XUA0OfPKHFAaHjUJVZWVhawYSwcbAze7VcwHKFk64PTASBDKMWmZhYFcAMVLB0wHODbfYeBjYeDZg4AhuIHAQFBCbih9kXLMBxhFFVDGwcgEuQimJmMAjJSjLAEicBfGPhl5GjjAESCtIE7wiC0BCMU7ItX0MYBiAR5ATlBMmJJkKA0QhsHIBJkHtxweUsnDAd4NF8COo6FZg7ATJDFKzAcoRuUQxsHIBLkArgF_DIyQEtRE6R__ztgCSlCKwcgEiSihCzDCAXrrBkYDqBlgmTybruG5og_DJI6RmAH0AobGZvC45pJwcIFIxTc6g_R1AFa2rph8HJBzTUKS7mwimYOCAgM3cMEBGDbOQX4QNUzmgO-MQgpKNDKAb8kpGR14InQJK4DS91QR7NE6Ojs3ge3XERVA2jhD7Ta8R6wduSiVUH0gouLWwAc70zMTAwu1TswfK_iGESzgkjPwCQBbriSbQCG5S7VuxiYWJho4oDgsOhjsIQHCmJQUKM54BcwSrRoVRn9kZWVN4Hne6PIOnTfM5ol9dCsOnZ185wBz_PA7AXKZmjl_zNQdqRVk-wNLy-fCNxQp7J1GHGv5hpHsyaZsZllFlIbwA1LkXsEmvAwQXR88gMKK51zzKxsyM1y7JUOLgBqwVCx2i3BSHiWaX2EumZMwCDMiY5LeUBh1wylJczo3_8I7CAmFhZ89o8CANLzo8kQBHupAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWGJCQVNTeTVjRnJzZ2R2cnVaelNjUzZDMTRnUzZYb2E4TFpRdUVrRk9pSWtDOUJTTy0xZjZyUHhIVGJKeVV4YmhDZ3pSNEk1cjFkOTR5NDlybkp4Z1EyMEdYSlBPTDFodDlUZlZUamFzRWV0NHJESk1WVER6ZjZLM04ydzBsQ0JKSmloSjNREgQaAggAGrEHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACpvCgRoaWdoFVgMmkAaCGVsZXZhdGVkGgVoaWdocxoMaHlwZXJ0ZW5zaW9uGglpbmNyZWFzZWQaCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50KmMKBWJsb29kFd-esUAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqXwoIcHJlc3N1cmUV0PSvQBoCYnAaDGh5cGVydGVuc2lvbhoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKm0KCXRyZWF0bWVudBWR_Is_GgptZWRpY2F0aW9uGgttZWRpY2F0aW9ucxoLdGhlcmFwZXV0aWMaB3RoZXJhcHkaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50GhB0cmVhdG1lbnRvcHRpb25zKkgKB29wdGlvbnMVUmNDPhoMYWx0ZXJuYXRpdmVzGgdjaG9pY2VzGgdtZXRob2RzGgZvcHRpb24aEHRyZWF0bWVudG9wdGlvbnMynAEvZ290bz91cmw9Q0FFU2FRSEVJa1hYYkJBU1N5NWNGcnNnZHZydVp6U2NTNkMxNGdTNlhvYThMWlF1RWtGT2lJa0M5QlNPLTFmNnJQeEhUYkp5VXhiaENnelI0STVyMWQ5NHk0OXJuSnhnUTIwR1hKUE9MMWh0OVRmVlRqYXNFZXQ0ckRKTVZURHpmNkszTjJ3MGxDQkpKaWhKM1E6TTxiPkhpZ2ggYmxvb2QgcHJlc3N1cmU8L2I-OiBMZWFybiBNb3JlIOKAkyBXaGF0IDxiPm1lZGljYXRpb25zPC9iPiAuLi4gLSBOQ0JJQqIBPGI-RGl1cmV0aWNzPC9iPiAoYWxzbyBjYWxsZWQg4oCcd2F0ZXIgcGlsbHPigJ0pIGFyZSBkcnVncyB0aGF0IGdldCByaWQgb2YgZXhjZXNzIHdhdGVyIGluIHRoZSBib2R5LiBUaGV5IGluY3JlYXNlIHVyaW5lIHByb2R1Y3Rpb24gaW4gdGhlIGtpZG5leXMsIHdoaWNoJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhFSWtYWGJCQVNTeTVjRnJzZ2R2cnVaelNjUzZDMTRnUzZYb2E4TFpRdUVrRk9pSWtDOUJTTy0xZjZyUHhIVGJKeVV4YmhDZ3pSNEk1cjFkOTR5NDlybkp4Z1EyMEdYSlBPTDFodDlUZlZUamFzRWV0NHJESk1WVER6ZjZLM04ydzBsQ0JKSmloSjNREgQaAggAGrEHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACpvCgRoaWdoFVgMmkAaCGVsZXZhdGVkGgVoaWdocxoMaHlwZXJ0ZW5zaW9uGglpbmNyZWFzZWQaCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50KmMKBWJsb29kFd-esUAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqXwoIcHJlc3N1cmUV0PSvQBoCYnAaDGh5cGVydGVuc2lvbhoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKm0KCXRyZWF0bWVudBWR_Is_GgptZWRpY2F0aW9uGgttZWRpY2F0aW9ucxoLdGhlcmFwZXV0aWMaB3RoZXJhcHkaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50GhB0cmVhdG1lbnRvcHRpb25zKkgKB29wdGlvbnMVUmNDPhoMYWx0ZXJuYXRpdmVzGgdjaG9pY2VzGgdtZXRob2RzGgZvcHRpb24aEHRyZWF0bWVudG9wdGlvbnMynAEvZ290bz91cmw9Q0FFU2FRSEVJa1hYYkJBU1N5NWNGcnNnZHZydVp6U2NTNkMxNGdTNlhvYThMWlF1RWtGT2lJa0M5QlNPLTFmNnJQeEhUYkp5VXhiaENnelI0STVyMWQ5NHk0OXJuSnhnUTIwR1hKUE9MMWh0OVRmVlRqYXNFZXQ0ckRKTVZURHpmNkszTjJ3MGxDQkpKaWhKM1E6TTxiPkhpZ2ggYmxvb2QgcHJlc3N1cmU8L2I-OiBMZWFybiBNb3JlIOKAkyBXaGF0IDxiPm1lZGljYXRpb25zPC9iPiAuLi4gLSBOQ0JJQqIBPGI-RGl1cmV0aWNzPC9iPiAoYWxzbyBjYWxsZWQg4oCcd2F0ZXIgcGlsbHPigJ0pIGFyZSBkcnVncyB0aGF0IGdldCByaWQgb2YgZXhjZXNzIHdhdGVyIGluIHRoZSBib2R5LiBUaGV5IGluY3JlYXNlIHVyaW5lIHByb2R1Y3Rpb24gaW4gdGhlIGtpZG5leXMsIHdoaWNoJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://www.ncbi.nlm.nih.gov/books/NBK279230/#:~:text=Diuretics%20(also%20called%20%E2%80%9Cwater%20pills%E2%80%9D),pressure%20in%20the%20blood%20vessels."
+    },
+    {
+      "position": 2,
+      "title": "How is High Blood Pressure Treated?",
+      "link": "https://www.kidney.org/kidney-topics/how-high-blood-pressure-treated",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEBxCJF10U8LB3vGkIFGm4WoTqHwF60lelPukeQiRKNhuoLuT6BBSi5kHqShRN-fgV04NtSi2jAlzi8Rki2hpOdqh_nyJr51Desf108K0x5lxuZmIi1RiJ9jaWbhT5oR-kXM4sK8Zr8f8saUzj6KbbHDijbYFXR9tF4YVucyFWz9g&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.kidney.org \u203a kidney-topics \u203a how-high-bloo...",
+      "favicon": "https://serpapi.com/searches/6aececc774268e3f416d943b/images/NnP6aBUHTN-KbZtUvScfrt-zukanTbhmDPQEQ6cDtBg.png",
+      "snippet": "High blood pressure is managed with lifestyle changes and medications. Follow your healthcare provider's plan to keep it under control and prevent ...",
+      "snippet_highlighted_words": [
+        "lifestyle changes and medications"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "High blood pressure is managed with lifestyle changes and medications. Follow your healthcare provider's plan to keep it under control and prevent ...",
+          "source_info_link": "https://www.kidney.org/kidney-topics/how-high-blood-pressure-treated",
+          "icon": "https://serpapi.com/searches/6aececc774268e3f416d943b/images/NnP6aBUHTN-KbZtUvScfruDpvnoFPTYlVc0jb93G8F-M_tAGUkMErQHWymYtEA92.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE0Y0k1cmZhVFBramlOSjY4ZDktRmpnSFpETXlXZFY1ZTNESmh0NkxBbkpqeWVYWHl4S1lCeFFRS09SWElwSFdaelpHd1BKMURoME5SYVB0aF9iOTQtSjVpWUNJTXRSZ005MWVLNUZkNlAtM2JXSkxHSG5oYVEwOTJDVWNQMVRCcUhOM25DeGFRRjduOUNweVlRa3BtRmJrQko0RlVFRUJfR2thZ2cSBBoCCAAasgcSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBwgAEAAYACAAKm8KBGhpZ2gVHGSHQBoIZWxldmF0ZWQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWluY3JlYXNlZBoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQqYwoFYmxvb2QVYPiMQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSpfCghwcmVzc3VyZRWw7otAGgJicBoMaHlwZXJ0ZW5zaW9uGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqbQoJdHJlYXRtZW50FfpBAEAaCm1lZGljYXRpb24aC21lZGljYXRpb25zGgt0aGVyYXBldXRpYxoHdGhlcmFweRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaEHRyZWF0bWVudG9wdGlvbnMqSAoHb3B0aW9ucxXiE_A9GgxhbHRlcm5hdGl2ZXMaB2Nob2ljZXMaB21ldGhvZHMaBm9wdGlvbhoQdHJlYXRtZW50b3B0aW9uczK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxNGNJNXJmYVRQa2ppTko2OGQ5LUZqZ0haRE15V2RWNWUzREpodDZMQW5KanllWFh5eEtZQnhRUUtPUlhJcEhXWnpaR3dQSjFEaDBOUmFQdGhfYjk0LUo1aVlDSU10UmdNOTFlSzVGZDZQLTNiV0pMR0huaGFRMDkyQ1VjUDFUQnFITjNuQ3hhUUY3bjlDcHlZUWtwbUZia0JKNEZVRUVCX0drYWdnOipIb3cgaXMgPGI-SGlnaCBCbG9vZCBQcmVzc3VyZTwvYj4gVHJlYXRlZD9CpgFIaWdoIGJsb29kIHByZXNzdXJlIGlzIG1hbmFnZWQgd2l0aCA8Yj5saWZlc3R5bGUgY2hhbmdlcyBhbmQgbWVkaWNhdGlvbnM8L2I-LiBGb2xsb3cgeW91ciBoZWFsdGhjYXJlIHByb3ZpZGVyJiMzOTtzIHBsYW4gdG8ga2VlcCBpdCB1bmRlciBjb250cm9sIGFuZCBwcmV2ZW50Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE0Y0k1cmZhVFBramlOSjY4ZDktRmpnSFpETXlXZFY1ZTNESmh0NkxBbkpqeWVYWHl4S1lCeFFRS09SWElwSFdaelpHd1BKMURoME5SYVB0aF9iOTQtSjVpWUNJTXRSZ005MWVLNUZkNlAtM2JXSkxHSG5oYVEwOTJDVWNQMVRCcUhOM25DeGFRRjduOUNweVlRa3BtRmJrQko0RlVFRUJfR2thZ2cSBBoCCAAasgcSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCMBwgAEAAYACAAKm8KBGhpZ2gVHGSHQBoIZWxldmF0ZWQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWluY3JlYXNlZBoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQqYwoFYmxvb2QVYPiMQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSpfCghwcmVzc3VyZRWw7otAGgJicBoMaHlwZXJ0ZW5zaW9uGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqbQoJdHJlYXRtZW50FfpBAEAaCm1lZGljYXRpb24aC21lZGljYXRpb25zGgt0aGVyYXBldXRpYxoHdGhlcmFweRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaEHRyZWF0bWVudG9wdGlvbnMqSAoHb3B0aW9ucxXiE_A9GgxhbHRlcm5hdGl2ZXMaB2Nob2ljZXMaB21ldGhvZHMaBm9wdGlvbhoQdHJlYXRtZW50b3B0aW9uczK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxNGNJNXJmYVRQa2ppTko2OGQ5LUZqZ0haRE15V2RWNWUzREpodDZMQW5KanllWFh5eEtZQnhRUUtPUlhJcEhXWnpaR3dQSjFEaDBOUmFQdGhfYjk0LUo1aVlDSU10UmdNOTFlSzVGZDZQLTNiV0pMR0huaGFRMDkyQ1VjUDFUQnFITjNuQ3hhUUY3bjlDcHlZUWtwbUZia0JKNEZVRUVCX0drYWdnOipIb3cgaXMgPGI-SGlnaCBCbG9vZCBQcmVzc3VyZTwvYj4gVHJlYXRlZD9CpgFIaWdoIGJsb29kIHByZXNzdXJlIGlzIG1hbmFnZWQgd2l0aCA8Yj5saWZlc3R5bGUgY2hhbmdlcyBhbmQgbWVkaWNhdGlvbnM8L2I-LiBGb2xsb3cgeW91ciBoZWFsdGhjYXJlIHByb3ZpZGVyJiMzOTtzIHBsYW4gdG8ga2VlcCBpdCB1bmRlciBjb250cm9sIGFuZCBwcmV2ZW50Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "National Kidney Foundation"
+    },
+    {
+      "position": 3,
+      "title": "High Blood Pressure: Should I Take Medicine?",
+      "link": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=zx1768",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEBxCJF1wC3AeSo6rQ3EmQexIJvSISrFqYmMzdPVc_98p_aIGuwQSH-DsIHFcxt_m7_6-3E-s4m8wHN-AawiYOZTkicV_OzFInJLBF2YrlFDNufWJ15IHno-jOmGm7f1QljQlJlY31bHKvHdUuU7ty3NsNkCekGMaRqcjQdxBSn9g&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://myhealth.alberta.ca \u203a Health \u203a pages \u203a conditions",
+      "favicon": "https://serpapi.com/searches/6aececc774268e3f416d943b/images/NnP6aBUHTN-KbZtUvScfrhpF3lhhW5Q_u58EyiCgMfM.png",
+      "snippet": "High blood pressure usually can't be cured. But it can be controlled. The two types of treatment for high blood pressure are: Lifestyle changes. Daily medicines ...",
+      "snippet_highlighted_words": [
+        "Lifestyle changes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "High blood pressure usually can't be cured. But it can be controlled. The two types of treatment for high blood pressure are: Lifestyle changes. Daily medicines ...",
+          "source_info_link": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=zx1768",
+          "icon": "https://serpapi.com/searches/6aececc774268e3f416d943b/images/NnP6aBUHTN-KbZtUvScfrk961obAqsHPEHSX_vO5SAhqJKEYxCH14jMqyetd1XaU.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjEtM0JxbjQ2NkF3UUV5UlNrT3RPd3I3Nkw1aUFuT0tsQVJ5bXEyVE14aFI3Y2ptUEpuS21tMW12dmJYMnNhUHBFUm8yNF9iTlgwdTluVEFpNHhLTjNjeWl3dVdmRWFKN2gtOGxLMi1JNS1fX2pjZ2QxYWhZbnpTdWt1QUI5aE9BZFlDd1czVWV2U0JQY2RuNVpyRkoxLWFqZEhoN3Y2b0Z5Vk1Va2cSBBoCCAAayQcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBwgAEAAYACAAKm8KBGhpZ2gVfw-kQBoIZWxldmF0ZWQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWluY3JlYXNlZBoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQqYwoFYmxvb2QVcMyvQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSpfCghwcmVzc3VyZRV8s69AGgJicBoMaHlwZXJ0ZW5zaW9uGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqbQoJdHJlYXRtZW50FfJJxz4aCm1lZGljYXRpb24aC21lZGljYXRpb25zGgt0aGVyYXBldXRpYxoHdGhlcmFweRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaEHRyZWF0bWVudG9wdGlvbnMqSAoHb3B0aW9ucxXM3UA_GgxhbHRlcm5hdGl2ZXMaB2Nob2ljZXMaB21ldGhvZHMaBm9wdGlvbhoQdHJlYXRtZW50b3B0aW9uczK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxLTNCcW40NjZBd1FFeVJTa090T3dyNzZMNWlBbk9LbEFSeW1xMlRNeGhSN2NqbVBKbkttbTFtdnZiWDJzYVBwRVJvMjRfYk5YMHU5blRBaTR4S04zY3lpd3VXZkVhSjdoLThsSzItSTUtX19qY2dkMWFoWW56U3VrdUFCOWhPQWRZQ3dXM1VldlNCUGNkbjVackZKMS1hamRIaDd2Nm9GeVZNVWtnOjM8Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPjogU2hvdWxkIEkgVGFrZSBNZWRpY2luZT9CtAFIaWdoIGJsb29kIHByZXNzdXJlIHVzdWFsbHkgY2FuJiMzOTt0IGJlIGN1cmVkLiBCdXQgaXQgY2FuIGJlIGNvbnRyb2xsZWQuIFRoZSB0d28gdHlwZXMgb2YgdHJlYXRtZW50IGZvciBoaWdoIGJsb29kIHByZXNzdXJlIGFyZTogPGI-TGlmZXN0eWxlIGNoYW5nZXM8L2I-LiBEYWlseSBtZWRpY2luZXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjEtM0JxbjQ2NkF3UUV5UlNrT3RPd3I3Nkw1aUFuT0tsQVJ5bXEyVE14aFI3Y2ptUEpuS21tMW12dmJYMnNhUHBFUm8yNF9iTlgwdTluVEFpNHhLTjNjeWl3dVdmRWFKN2gtOGxLMi1JNS1fX2pjZ2QxYWhZbnpTdWt1QUI5aE9BZFlDd1czVWV2U0JQY2RuNVpyRkoxLWFqZEhoN3Y2b0Z5Vk1Va2cSBBoCCAAayQcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBwgAEAAYACAAKm8KBGhpZ2gVfw-kQBoIZWxldmF0ZWQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWluY3JlYXNlZBoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQqYwoFYmxvb2QVcMyvQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSpfCghwcmVzc3VyZRV8s69AGgJicBoMaHlwZXJ0ZW5zaW9uGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqbQoJdHJlYXRtZW50FfJJxz4aCm1lZGljYXRpb24aC21lZGljYXRpb25zGgt0aGVyYXBldXRpYxoHdGhlcmFweRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaEHRyZWF0bWVudG9wdGlvbnMqSAoHb3B0aW9ucxXM3UA_GgxhbHRlcm5hdGl2ZXMaB2Nob2ljZXMaB21ldGhvZHMaBm9wdGlvbhoQdHJlYXRtZW50b3B0aW9uczK8AS9nb3RvP3VybD1DQUVTZ0FFQnhDSkYxLTNCcW40NjZBd1FFeVJTa090T3dyNzZMNWlBbk9LbEFSeW1xMlRNeGhSN2NqbVBKbkttbTFtdnZiWDJzYVBwRVJvMjRfYk5YMHU5blRBaTR4S04zY3lpd3VXZkVhSjdoLThsSzItSTUtX19qY2dkMWFoWW56U3VrdUFCOWhPQWRZQ3dXM1VldlNCUGNkbjVackZKMS1hamRIaDd2Nm9GeVZNVWtnOjM8Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPjogU2hvdWxkIEkgVGFrZSBNZWRpY2luZT9CtAFIaWdoIGJsb29kIHByZXNzdXJlIHVzdWFsbHkgY2FuJiMzOTt0IGJlIGN1cmVkLiBCdXQgaXQgY2FuIGJlIGNvbnRyb2xsZWQuIFRoZSB0d28gdHlwZXMgb2YgdHJlYXRtZW50IGZvciBoaWdoIGJsb29kIHByZXNzdXJlIGFyZTogPGI-TGlmZXN0eWxlIGNoYW5nZXM8L2I-LiBEYWlseSBtZWRpY2luZXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "MyHealth Alberta",
+      "read_more_link": "https://myhealth.alberta.ca/Health/pages/conditions.aspx?hwid=zx1768#:~:text=High%20blood%20pressure%20usually%20can't,Daily%20medicines."
+    },
+    {
+      "position": 4,
+      "title": "Managing Hypertension Using Combination Therapy | AFP",
+      "link": "https://www.aafp.org/afp/2020/0315/p341",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHEIkXXtxwJcSZiTxqzgrY45ZcEj0TQOY5OF0HFjDwXWOKPy8h0PKWwE_Se0u0p73RzlDaI9hD3maOrbJ22PXKCKYiYJnA4HF2bU8FZNTF7je7ywvUMPjoGfOu_iMA3aBg2hw&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.aafp.org \u203a 2020 \u203a Mar 15, 2020",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEVHcEz___________________________________________8ON1n___8ANFoAKVEAIEz1ah8AMFVOYnrlZiYAFUZgcoaQnKnAx85UQk_v8fOLl6X6_PzIXjFmRkzJz9WPT0I3PFPc4OQAAzx5iJidp7OEkaCqs73m6ewqSGb6OVLfAAAADHRSTlMAYMPF34Qz6j4XXjHxCDeQAAABaklEQVQokWWTh3KDMAyGzYqTFuEFhjDDynj_F6yMbaCt7uCAD0m_hgnx9p2EFICGyYX8tS8KQ6OV0s0A9OsXusVtyTmTaIzzpo1vB7tCxViKlplbyngF14OVxfY16y1Ni8bTGzTcfsvyzlHegI0cV4VjoxAP71vFm86WpQ52eS5GR1kbIKSlg9lDdP3uykqKtYNnvRB3hHdP4UKSYVeDXp3oc69pSEjoomZ3kaMizOpcWRkRquUB-xOUmhJQcg874iV8qVLBCY5djv5ezwb3sJIxbLoxtocNG2aFH2b1s2dEkmp7zHS9M5uIVwm5tLZOmXr4sq0uWlwJutikOMTN3vA0ieSC7SNBbf9kTwtnqE2sog62ka02q7KO8wT4ztfYDVubONnHsEkpmHjKtBs2ronafGFYis8LQEuuz0vUFBL3Sr2wnlrzojyYWc1JzctW6TrPajqvptFMXRPK9U2Dfzt_SSJzHKLTcfgB2lIn3IzE1uoAAAAASUVORK5CYII.png",
+      "author": "by DK Smith",
+      "snippet": "Four main classes of medications are used in combination therapy for the treatment of hypertension: thiazide diuretics, calcium channel blockers ...",
+      "snippet_highlighted_words": [
+        "thiazide diuretics, calcium channel blockers"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Four main classes of medications are used in combination therapy for the treatment of hypertension: thiazide diuretics, calcium channel blockers ...",
+          "source_info_link": "https://www.aafp.org/afp/2020/0315/p341",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAflBMVEVHcEz___________________________________________8ON1n___8ANFoAKVEAIEz1ah8AMFVOYnrlZiYAFUZgcoaQnKnAx85UQk_v8fOLl6X6_PzIXjFmRkzJz9WPT0I3PFPc4OQAAzx5iJidp7OEkaCqs73m6ewqSGb6OVLfAAAADHRSTlMAYMPF34Qz6j4XXjHxCDeQAAABaklEQVQokWWTh3KDMAyGzYqTFuEFhjDDynj_F6yMbaCt7uCAD0m_hgnx9p2EFICGyYX8tS8KQ6OV0s0A9OsXusVtyTmTaIzzpo1vB7tCxViKlplbyngF14OVxfY16y1Ni8bTGzTcfsvyzlHegI0cV4VjoxAP71vFm86WpQ52eS5GR1kbIKSlg9lDdP3uykqKtYNnvRB3hHdP4UKSYVeDXp3oc69pSEjoomZ3kaMizOpcWRkRquUB-xOUmhJQcg874iV8qVLBCY5djv5ezwb3sJIxbLoxtocNG2aFH2b1s2dEkmp7zHS9M5uIVwm5tLZOmXr4sq0uWlwJutikOMTN3vA0ieSC7SNBbf9kTwtnqE2sog62ka02q7KO8wT4ztfYDVubONnHsEkpmHjKtBs2ronafGFYis8LQEuuz0vUFBL3Sr2wnlrzojyYWc1JzctW6TrPajqvptFMXRPK9U2Dfzt_SSJzHKLTcfgB2lIn3IzE1uoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWFRvSFpSZzYtSTRaNVFjdzN1R0lyb3FmU1V3S2xZam1Dc3lENXhsa2pCOWNja1lZNFdsd3VlRGdtMmhjMFJKbDN4RmNmcEVselVuMjFGMFltSmRXMmhTdVVjNkdnSWUwYkkyOXpRTjFfZDIxQWRlaG1KSGppM0V6WktnSDZHURIEGgIIABqdBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPcGCAAQABgAIAAqbwoEaGlnaBVWnSg_GghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBVgy8E_GgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFWDLwT8aAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQVlvOsPxoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFQAAAAAaDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWFRvSFpSZzYtSTRaNVFjdzN1R0lyb3FmU1V3S2xZam1Dc3lENXhsa2pCOWNja1lZNFdsd3VlRGdtMmhjMFJKbDN4RmNmcEVselVuMjFGMFltSmRXMmhTdVVjNkdnSWUwYkkyOXpRTjFfZDIxQWRlaG1KSGppM0V6WktnSDZHUTpDTWFuYWdpbmcgPGI-SHlwZXJ0ZW5zaW9uPC9iPiBVc2luZyBDb21iaW5hdGlvbiA8Yj5UaGVyYXB5PC9iPiB8IEFGUEKgAUZvdXIgbWFpbiBjbGFzc2VzIG9mIG1lZGljYXRpb25zIGFyZSB1c2VkIGluIGNvbWJpbmF0aW9uIHRoZXJhcHkgZm9yIHRoZSB0cmVhdG1lbnQgb2YgaHlwZXJ0ZW5zaW9uOiA8Yj50aGlhemlkZSBkaXVyZXRpY3MsIGNhbGNpdW0gY2hhbm5lbCBibG9ja2VyczwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWFRvSFpSZzYtSTRaNVFjdzN1R0lyb3FmU1V3S2xZam1Dc3lENXhsa2pCOWNja1lZNFdsd3VlRGdtMmhjMFJKbDN4RmNmcEVselVuMjFGMFltSmRXMmhTdVVjNkdnSWUwYkkyOXpRTjFfZDIxQWRlaG1KSGppM0V6WktnSDZHURIEGgIIABqdBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPcGCAAQABgAIAAqbwoEaGlnaBVWnSg_GghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBVgy8E_GgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFWDLwT8aAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQVlvOsPxoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFQAAAAAaDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMpQBL2dvdG8_dXJsPUNBRVNZd0hFSWtYWFRvSFpSZzYtSTRaNVFjdzN1R0lyb3FmU1V3S2xZam1Dc3lENXhsa2pCOWNja1lZNFdsd3VlRGdtMmhjMFJKbDN4RmNmcEVselVuMjFGMFltSmRXMmhTdVVjNkdnSWUwYkkyOXpRTjFfZDIxQWRlaG1KSGppM0V6WktnSDZHUTpDTWFuYWdpbmcgPGI-SHlwZXJ0ZW5zaW9uPC9iPiBVc2luZyBDb21iaW5hdGlvbiA8Yj5UaGVyYXB5PC9iPiB8IEFGUEKgAUZvdXIgbWFpbiBjbGFzc2VzIG9mIG1lZGljYXRpb25zIGFyZSB1c2VkIGluIGNvbWJpbmF0aW9uIHRoZXJhcHkgZm9yIHRoZSB0cmVhdG1lbnQgb2YgaHlwZXJ0ZW5zaW9uOiA8Yj50aGlhemlkZSBkaXVyZXRpY3MsIGNhbGNpdW0gY2hhbm5lbCBibG9ja2VyczwvYj4mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "American Academy Of Family Physicians | AAFP",
+      "read_more_link": "https://www.aafp.org/afp/2020/0315/p341#:~:text=Four%20main%20classes%20of%20medications,and%20angiotensin%20receptor%20blockers%20(ARBs)."
+    },
+    {
+      "position": 5,
+      "title": "High Blood Pressure: Prevention, Treatment and Research",
+      "link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension/high-blood-pressure-prevention-treatment-and-research",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0gEBxCJF199vrjqsCGP0d02McUvQVjm9PiHtPMsbcSvGUV3ryfDvgh4p6dspqcd454CSiJ7sTVfdy5wTXMpe7G6RIV9Nb8PsrMXLznyVRDhvH3amFeWG7G0kQOeZm5w4rBTPu9pClCbvZ1sf2VwK_u4kF2WQWkHUn59G-2tyxn8-NTlGKocCmXcdmzkkz_4YRwUrPeMdh3xlTgKUS0hgw_fwbE2D62a8aJyj0mQvXRthT1B3MACSU8Jh30F2iVg9Ahy3YpKhImK6SyHAEHz_aCNAVas&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECFMQAQ&uoh=1",
+      "displayed_link": "https://www.hopkinsmedicine.org \u203a health \u203a high-blood-...",
+      "favicon": "https://serpapi.com/searches/6aececc774268e3f416d943b/images/NnP6aBUHTN-KbZtUvScfrrVdPxigygQTHqYNgV57kP4.png",
+      "snippet": "Quit smoking. Talk to your doctor about support programs that can help. Take medications as prescribed. Because drugs for high blood pressure work in different ...",
+      "snippet_highlighted_words": [
+        "Qui"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Quit smoking. Talk to your doctor about support programs that can help. Take medications as prescribed. Because drugs for high blood pressure work in different ...",
+          "source_info_link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension/high-blood-pressure-prevention-treatment-and-research",
+          "icon": "https://serpapi.com/searches/6aececc774268e3f416d943b/images/NnP6aBUHTN-KbZtUvScfrjSi-iXhQZvzUEVnoa19a1WZdx7tu_UGfiSeQYpmoXzG.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCeENKRjE5X1o0V0tPZmhuTkRvREplalVGREhkLWtFUVFxY0c5ek1zVDZNd2JmZXVMNjllaHJCQ096R1U2LVd5WU1VYldIcjNYdko2dkRoNldsMkxtR1FtMkxIRk5vbWtJNEh4XzFEanh3WEZCTHJZTkRQdHFvN0hEZXJINUlfbzMzMFpHdkxVTWdjcWxITTAwU014Qk8tMlVHdHU0US1qZWM5MnYyM2FkM3V1djZQMEl1SjhQNllpelk0RmdoUklrSVA5dHdFdUNya3RYQVZRSXFWbjVXVDlfeEczWkJwaHNoMnZ0WHJIamFYMENoUnFLOXN4U1ZRWFZZSDBlaVJaRUtHRTVUTUtUXzlWd3llVVJMQ1NFNHJBEgQaAggAGsMIEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQgIABAAGAAgACpvCgRoaWdoFQNu1kAaCGVsZXZhdGVkGgVoaWdocxoMaHlwZXJ0ZW5zaW9uGglpbmNyZWFzZWQaCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50KmMKBWJsb29kFcNp9kAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqXwoIcHJlc3N1cmUVQuvzQBoCYnAaDGh5cGVydGVuc2lvbhoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKm0KCXRyZWF0bWVudBWI95VAGgptZWRpY2F0aW9uGgttZWRpY2F0aW9ucxoLdGhlcmFwZXV0aWMaB3RoZXJhcHkaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50GhB0cmVhdG1lbnRvcHRpb25zKkgKB29wdGlvbnMVAAAAABoMYWx0ZXJuYXRpdmVzGgdjaG9pY2VzGgdtZXRob2RzGgZvcHRpb24aEHRyZWF0bWVudG9wdGlvbnMyqQIvZ290bz91cmw9Q0FFUzBnRUJ4Q0pGMTlfWjRXS09maG5ORG9ESmVqVUZESGQta0VRUXFjRzl6TXNUNk13YmZldUw2OWVockJDT3pHVTYtV3lZTVViV0hyM1h2SjZ2RGg2V2wyTG1HUW0yTEhGTm9ta0k0SHhfMURqeHdYRkJMcllORFB0cW83SERlckg1SV9vMzMwWkd2TFVNZ2NxbEhNMDBTTXhCTy0yVUd0dTRRLWplYzkydjIzYWQzdXV2NlAwSXVKOFA2WWl6WTRGZ2hSSWtJUDl0d0V1Q3JrdFhBVlFJcVZuNVdUOV94RzNaQnBoc2gydnRYckhqYVgwQ2hScUs5c3hTVlFYVllIMGVpUlpFS0dFNVRNS1RfOVZ3eWVVUkxDU0U0ckE6RTxiPkhpZ2ggQmxvb2QgUHJlc3N1cmU8L2I-OiBQcmV2ZW50aW9uLCA8Yj5UcmVhdG1lbnQ8L2I-IGFuZCBSZXNlYXJjaEKvATxiPlF1aTwvYj50IHNtb2tpbmcuIFRhbGsgdG8geW91ciBkb2N0b3IgYWJvdXQgc3VwcG9ydCBwcm9ncmFtcyB0aGF0IGNhbiBoZWxwLiBUYWtlIG1lZGljYXRpb25zIGFzIHByZXNjcmliZWQuIEJlY2F1c2UgZHJ1Z3MgZm9yIGhpZ2ggYmxvb2QgcHJlc3N1cmUgd29yayBpbiBkaWZmZXJlbnQmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkCL2dvdG8_dXJsPUNBRVMwZ0VCeENKRjE5X1o0V0tPZmhuTkRvREplalVGREhkLWtFUVFxY0c5ek1zVDZNd2JmZXVMNjllaHJCQ096R1U2LVd5WU1VYldIcjNYdko2dkRoNldsMkxtR1FtMkxIRk5vbWtJNEh4XzFEanh3WEZCTHJZTkRQdHFvN0hEZXJINUlfbzMzMFpHdkxVTWdjcWxITTAwU014Qk8tMlVHdHU0US1qZWM5MnYyM2FkM3V1djZQMEl1SjhQNllpelk0RmdoUklrSVA5dHdFdUNya3RYQVZRSXFWbjVXVDlfeEczWkJwaHNoMnZ0WHJIamFYMENoUnFLOXN4U1ZRWFZZSDBlaVJaRUtHRTVUTUtUXzlWd3llVVJMQ1NFNHJBEgQaAggAGsMIEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQgIABAAGAAgACpvCgRoaWdoFQNu1kAaCGVsZXZhdGVkGgVoaWdocxoMaHlwZXJ0ZW5zaW9uGglpbmNyZWFzZWQaCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50KmMKBWJsb29kFcNp9kAaDGh5cGVydGVuc2lvbhoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqXwoIcHJlc3N1cmUVQuvzQBoCYnAaDGh5cGVydGVuc2lvbhoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKm0KCXRyZWF0bWVudBWI95VAGgptZWRpY2F0aW9uGgttZWRpY2F0aW9ucxoLdGhlcmFwZXV0aWMaB3RoZXJhcHkaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50GhB0cmVhdG1lbnRvcHRpb25zKkgKB29wdGlvbnMVAAAAABoMYWx0ZXJuYXRpdmVzGgdjaG9pY2VzGgdtZXRob2RzGgZvcHRpb24aEHRyZWF0bWVudG9wdGlvbnMyqQIvZ290bz91cmw9Q0FFUzBnRUJ4Q0pGMTlfWjRXS09maG5ORG9ESmVqVUZESGQta0VRUXFjRzl6TXNUNk13YmZldUw2OWVockJDT3pHVTYtV3lZTVViV0hyM1h2SjZ2RGg2V2wyTG1HUW0yTEhGTm9ta0k0SHhfMURqeHdYRkJMcllORFB0cW83SERlckg1SV9vMzMwWkd2TFVNZ2NxbEhNMDBTTXhCTy0yVUd0dTRRLWplYzkydjIzYWQzdXV2NlAwSXVKOFA2WWl6WTRGZ2hSSWtJUDl0d0V1Q3JrdFhBVlFJcVZuNVdUOV94RzNaQnBoc2gydnRYckhqYVgwQ2hScUs5c3hTVlFYVllIMGVpUlpFS0dFNVRNS1RfOVZ3eWVVUkxDU0U0ckE6RTxiPkhpZ2ggQmxvb2QgUHJlc3N1cmU8L2I-OiBQcmV2ZW50aW9uLCA8Yj5UcmVhdG1lbnQ8L2I-IGFuZCBSZXNlYXJjaEKvATxiPlF1aTwvYj50IHNtb2tpbmcuIFRhbGsgdG8geW91ciBkb2N0b3IgYWJvdXQgc3VwcG9ydCBwcm9ncmFtcyB0aGF0IGNhbiBoZWxwLiBUYWtlIG1lZGljYXRpb25zIGFzIHByZXNjcmliZWQuIEJlY2F1c2UgZHJ1Z3MgZm9yIGhpZ2ggYmxvb2QgcHJlc3N1cmUgd29yayBpbiBkaWZmZXJlbnQmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Johns Hopkins Medicine",
+      "read_more_link": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/high-blood-pressure-hypertension/high-blood-pressure-prevention-treatment-and-research#:~:text=Quit%20smoking.%20Talk%20to%20your,be%20prescribed%20more%20than%20one."
+    },
+    {
+      "position": 6,
+      "title": "Managing High Blood Pressure: Lifestyle Changes and ...",
+      "link": "https://www.truhealthnow.com/posts/managing-high-blood-pressure-lifestyle-changes-and-treatment-options",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEBxCJF11umXZrYHjw00mJNMBsD-5MfebAS2bRT2rxn6TmPg2VzFzjY6xlwaJNqQtrM36i15eYpbL42QddGp3LUbNMJNI93meOUNSdTAPMu8strn_60gQq0YMZ9D_J0Dy2K9BC2XChVxaXTCp_Yv-PaoS8NlokKR92jyOgkyHxVaQ0ZgElFj17GID_WAVlBZ03Z38WO9TU5G8VHaaoqu5cO_Fej&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECFAQAQ&uoh=1",
+      "displayed_link": "https://www.truhealthnow.com \u203a posts \u203a managing-high...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEwOresVpt8VpN4Vpt_lbBribSXsaBrlax0VotwlAHI9frMUpt8fXasfW6ofX6wVpt8Vpt8Vpt8Vpt8fXasfXasVpt8Vpt8Vpt8Vpt8eXqsfX6wfX6wfX6wfX6wfX6wfX6wfX6wfX6weX6wfX6w-naPeAAAAJXRSTlMAE1w__yP_Dz32EAYnPv9kcNdM6EYei6S3sxF5mzVPW4hwuynBIZkitgAAAMRJREFUeAHFkIVhxDAQBNfMbD-dWOm_xhjCecYRa4SHh-G4OIznnyODMAijQzIO4zD4K5M0A3IvczJEY_lFUZYVar9pOwCJ-0cm_eD4deY2ALr277FAPYqDcrW-u8z9Rc7_9XP8xt84k4S_zrf-__i5o5xaf9x4iMzDRfQ7VHOHhrHLwAd8I0YpCUprpqmiivdKZj34spMRU8JAEy-slFXBQOKtGD53krYEokLupIZhqBg3mLE78PlYS1XGC3CrbI8er-EdyH4ONIZbZnIAAAAASUVORK5CYII.png",
+      "snippet": "Quitting smoking, exercising regul\u200barly, limiting salt and alcohol intake, managing stress, taking your medications as directed \u2013 all the\u200bse steps will help get ...",
+      "snippet_highlighted_words": [
+        "medications"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Quitting smoking, exercising regul\u200barly, limiting salt and alcohol intake, managing stress, taking your medications as directed \u2013 all the\u200bse steps will help get ...",
+          "source_info_link": "https://www.truhealthnow.com/posts/managing-high-blood-pressure-lifestyle-changes-and-treatment-options",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEVHcEwOresVpt8VpN4Vpt_lbBribSXsaBrlax0VotwlAHI9frMUpt8fXasfW6ofX6wVpt8Vpt8Vpt8Vpt8fXasfXasVpt8Vpt8Vpt8Vpt8eXqsfX6wfX6wfX6wfX6wfX6wfX6wfX6wfX6weX6wfX6w-naPeAAAAJXRSTlMAE1w__yP_Dz32EAYnPv9kcNdM6EYei6S3sxF5mzVPW4hwuynBIZkitgAAAMRJREFUeAHFkIVhxDAQBNfMbD-dWOm_xhjCecYRa4SHh-G4OIznnyODMAijQzIO4zD4K5M0A3IvczJEY_lFUZYVar9pOwCJ-0cm_eD4deY2ALr277FAPYqDcrW-u8z9Rc7_9XP8xt84k4S_zrf-__i5o5xaf9x4iMzDRfQ7VHOHhrHLwAd8I0YpCUprpqmiivdKZj34spMRU8JAEy-slFXBQOKtGD53krYEokLupIZhqBg3mLE78PlYS1XGC3CrbI8er-EdyH4ONIZbZnIAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuoBL2dvdG8_dXJsPUNBRVNvd0VCeENKRjE3VG9LTmdleDNGOENmSFlqVEQ5SEozaXVNQlZuQ3ZPclJpYjVFMkEzYVdkRlRwSEs0ajBReXBXY2tkcjdLZHdBSVQ2RU0wUlVZenp5Yk1tZzcwYkZZejRlRW5VRlVxVXNiMmRFUlBWckg5cmdrRnM3ZENYLVpqY3RVVzlrWkdsaFhjX2lFeTU4cUwwYjM1NHZJNkcxVG85eTFfTkE3NDV4S1lTSFY3dUtoQV95UklHTGZ1ZXc2N2M4cjEwM1BneVhmbXNDNkstaHlSLWI3b1BmbHRsEgQaAggAGoIIEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN4HCAAQABgAIAAqbwoEaGlnaBXUp-JAGghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBVRCA1BGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFd6EB0EaAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQV7c2rQBoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFV1PpkAaDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMuoBL2dvdG8_dXJsPUNBRVNvd0VCeENKRjE3VG9LTmdleDNGOENmSFlqVEQ5SEozaXVNQlZuQ3ZPclJpYjVFMkEzYVdkRlRwSEs0ajBReXBXY2tkcjdLZHdBSVQ2RU0wUlVZenp5Yk1tZzcwYkZZejRlRW5VRlVxVXNiMmRFUlBWckg5cmdrRnM3ZENYLVpqY3RVVzlrWkdsaFhjX2lFeTU4cUwwYjM1NHZJNkcxVG85eTFfTkE3NDV4S1lTSFY3dUtoQV95UklHTGZ1ZXc2N2M4cjEwM1BneVhmbXNDNkstaHlSLWI3b1BmbHRsOj5NYW5hZ2luZyA8Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPjogTGlmZXN0eWxlIENoYW5nZXMgYW5kIC4uLkK2AVF1aXR0aW5nIHNtb2tpbmcsIGV4ZXJjaXNpbmcgcmVndWzigIthcmx5LCBsaW1pdGluZyBzYWx0IGFuZCBhbGNvaG9sIGludGFrZSwgbWFuYWdpbmcgc3RyZXNzLCB0YWtpbmcgeW91ciA8Yj5tZWRpY2F0aW9uczwvYj4gYXMgZGlyZWN0ZWQg4oCTIGFsbCB0aGXigItzZSBzdGVwcyB3aWxsIGhlbHAgZ2V0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuoBL2dvdG8_dXJsPUNBRVNvd0VCeENKRjE3VG9LTmdleDNGOENmSFlqVEQ5SEozaXVNQlZuQ3ZPclJpYjVFMkEzYVdkRlRwSEs0ajBReXBXY2tkcjdLZHdBSVQ2RU0wUlVZenp5Yk1tZzcwYkZZejRlRW5VRlVxVXNiMmRFUlBWckg5cmdrRnM3ZENYLVpqY3RVVzlrWkdsaFhjX2lFeTU4cUwwYjM1NHZJNkcxVG85eTFfTkE3NDV4S1lTSFY3dUtoQV95UklHTGZ1ZXc2N2M4cjEwM1BneVhmbXNDNkstaHlSLWI3b1BmbHRsEgQaAggAGoIIEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN4HCAAQABgAIAAqbwoEaGlnaBXUp-JAGghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBVRCA1BGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFd6EB0EaAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQV7c2rQBoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFV1PpkAaDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMuoBL2dvdG8_dXJsPUNBRVNvd0VCeENKRjE3VG9LTmdleDNGOENmSFlqVEQ5SEozaXVNQlZuQ3ZPclJpYjVFMkEzYVdkRlRwSEs0ajBReXBXY2tkcjdLZHdBSVQ2RU0wUlVZenp5Yk1tZzcwYkZZejRlRW5VRlVxVXNiMmRFUlBWckg5cmdrRnM3ZENYLVpqY3RVVzlrWkdsaFhjX2lFeTU4cUwwYjM1NHZJNkcxVG85eTFfTkE3NDV4S1lTSFY3dUtoQV95UklHTGZ1ZXc2N2M4cjEwM1BneVhmbXNDNkstaHlSLWI3b1BmbHRsOj5NYW5hZ2luZyA8Yj5IaWdoIEJsb29kIFByZXNzdXJlPC9iPjogTGlmZXN0eWxlIENoYW5nZXMgYW5kIC4uLkK2AVF1aXR0aW5nIHNtb2tpbmcsIGV4ZXJjaXNpbmcgcmVndWzigIthcmx5LCBsaW1pdGluZyBzYWx0IGFuZCBhbGNvaG9sIGludGFrZSwgbWFuYWdpbmcgc3RyZXNzLCB0YWtpbmcgeW91ciA8Yj5tZWRpY2F0aW9uczwvYj4gYXMgZGlyZWN0ZWQg4oCTIGFsbCB0aGXigItzZSBzdGVwcyB3aWxsIGhlbHAgZ2V0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "truHealthNow",
+      "read_more_link": "https://www.truhealthnow.com/posts/managing-high-blood-pressure-lifestyle-changes-and-treatment-options#:~:text=Quitting%20smoking%2C%20exercising%20regul%E2%80%8Barly%2C%20limiting,heart%20disea%E2%80%8Bse%20and%20kidney%20failure."
+    },
+    {
+      "position": 7,
+      "title": "Hypertension Treatment Services",
+      "link": "https://cameronhealth.com/services/cardiology/hypertension-treatment/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF13rqTbQanJUOqS65sYNB7gUU6X06A6sIEEXdpMBhdWceV66JbxDGJHXer6biBVdFLTrrODzYpy6BEEvQIUMp9HgRUqhWRYBnnE6ctJrZ59drYOQQ2E-CjNA-iOiB-brKEO_RyBRtgHvApXc--e4pDQXUekWHAiZ9jyDjt1w&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECE0QAQ&uoh=1",
+      "displayed_link": "https://cameronhealth.com \u203a Cardiology",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwvuOwvt-suvO8vt-suuu4tvvAtqNU4Wpo4XZ04Xp04XZw4VJY4Xp04Xp0vt-s5VZYuvO84Xp0vt-uMIOknAAAAFHRSTlMAr_8vn0MfCIr4_-h2o6m6kpTS955u_R8AAACCSURBVHgB7dKFAYNAAATB4921_1px1wbYBB8c7GoIIbSfsn7Ksese_ED0SWwpbcbUCMwpwJo5dw-8-QCmT9uhCdhTA7Dni-ScSyz1ILzd5h7EJ2AlxgQVVN6BNW2GUh7AcvdQe3EHUL4AXNH7FqCnsEtQSvH2Npfb_L_qOoLcT1fQAUMuDIJSjPRnAAAAAElFTkSuQmCC.png",
+      "snippet": "Medications such as diuretics, beta-blockers, and ACE inhibitors can effectively lower blood pressure, but lifestyle changes like maintaining a healthy weight, ...",
+      "snippet_highlighted_words": [
+        "Medications such as diuretics, beta-blockers, and ACE inhibitors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Medications such as diuretics, beta-blockers, and ACE inhibitors can effectively lower blood pressure, but lifestyle changes like maintaining a healthy weight, ...",
+          "source_info_link": "https://cameronhealth.com/services/cardiology/hypertension-treatment/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwvuOwvt-suvO8vt-suuu4tvvAtqNU4Wpo4XZ04Xp04XZw4VJY4Xp04Xp0vt-s5VZYuvO84Xp0vt-uMIOknAAAAFHRSTlMAr_8vn0MfCIr4_-h2o6m6kpTS955u_R8AAACCSURBVHgB7dKFAYNAAATB4921_1px1wbYBB8c7GoIIbSfsn7Ksese_ED0SWwpbcbUCMwpwJo5dw-8-QCmT9uhCdhTA7Dni-ScSyz1ILzd5h7EJ2AlxgQVVN6BNW2GUh7AcvdQe3EHUL4AXNH7FqCnsEtQSvH2Npfb_L_qOoLcT1fQAUMuDIJSjPRnAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEyd2s3UUZnSlM5SnlIS2J2SzBYQkZMMFhSNnZTRF9HSkNZdnVCbmN5VnF2WHlXWGdMMUU2NWIydFBrQ2R2VXBORG5vZ2g0Rjg0amVKRnU3TktNaTRjWWZyWkN1OUR4RFJZN0Ezblc2VU5uSXEySHlEMklBRDFKd1BZSHB1aTg0ellpTzdPZlJKbGI0andHOWxFYlZ1WFgtOHUyVV9KbWdPYlh0bDBFEgQaAggAGscHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKMHCAAQABgAIAAqbwoEaGlnaBWuPMw_GghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBVv2BtAGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFaDfEEAaAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQVYKebQBoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFeOmoj8aDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEyd2s3UUZnSlM5SnlIS2J2SzBYQkZMMFhSNnZTRF9HSkNZdnVCbmN5VnF2WHlXWGdMMUU2NWIydFBrQ2R2VXBORG5vZ2g0Rjg0amVKRnU3TktNaTRjWWZyWkN1OUR4RFJZN0Ezblc2VU5uSXEySHlEMklBRDFKd1BZSHB1aTg0ellpTzdPZlJKbGI0andHOWxFYlZ1WFgtOHUyVV9KbWdPYlh0bDBFOjc8Yj5IeXBlcnRlbnNpb24gVHJlYXRtZW50PC9iPiBTZXJ2aWNlcyB8IENhbWVyb24gSGVhbHRoQq8BPGI-TWVkaWNhdGlvbnMgc3VjaCBhcyBkaXVyZXRpY3MsIGJldGEtYmxvY2tlcnMsIGFuZCBBQ0UgaW5oaWJpdG9yczwvYj4gY2FuIGVmZmVjdGl2ZWx5IGxvd2VyIGJsb29kIHByZXNzdXJlLCBidXQgbGlmZXN0eWxlIGNoYW5nZXMgbGlrZSBtYWludGFpbmluZyBhIGhlYWx0aHkgd2VpZ2h0LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEyd2s3UUZnSlM5SnlIS2J2SzBYQkZMMFhSNnZTRF9HSkNZdnVCbmN5VnF2WHlXWGdMMUU2NWIydFBrQ2R2VXBORG5vZ2g0Rjg0amVKRnU3TktNaTRjWWZyWkN1OUR4RFJZN0Ezblc2VU5uSXEySHlEMklBRDFKd1BZSHB1aTg0ellpTzdPZlJKbGI0andHOWxFYlZ1WFgtOHUyVV9KbWdPYlh0bDBFEgQaAggAGscHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKMHCAAQABgAIAAqbwoEaGlnaBWuPMw_GghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBVv2BtAGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFaDfEEAaAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQVYKebQBoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFeOmoj8aDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjEyd2s3UUZnSlM5SnlIS2J2SzBYQkZMMFhSNnZTRF9HSkNZdnVCbmN5VnF2WHlXWGdMMUU2NWIydFBrQ2R2VXBORG5vZ2g0Rjg0amVKRnU3TktNaTRjWWZyWkN1OUR4RFJZN0Ezblc2VU5uSXEySHlEMklBRDFKd1BZSHB1aTg0ellpTzdPZlJKbGI0andHOWxFYlZ1WFgtOHUyVV9KbWdPYlh0bDBFOjc8Yj5IeXBlcnRlbnNpb24gVHJlYXRtZW50PC9iPiBTZXJ2aWNlcyB8IENhbWVyb24gSGVhbHRoQq8BPGI-TWVkaWNhdGlvbnMgc3VjaCBhcyBkaXVyZXRpY3MsIGJldGEtYmxvY2tlcnMsIGFuZCBBQ0UgaW5oaWJpdG9yczwvYj4gY2FuIGVmZmVjdGl2ZWx5IGxvd2VyIGJsb29kIHByZXNzdXJlLCBidXQgbGlmZXN0eWxlIGNoYW5nZXMgbGlrZSBtYWludGFpbmluZyBhIGhlYWx0aHkgd2VpZ2h0LCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Cameron Health | Angola, IN",
+      "read_more_link": "https://cameronhealth.com/services/cardiology/hypertension-treatment/#:~:text=Medications%20such%20as%20diuretics%2C%20beta%2Dblockers%2C,exercising%20regularly%20are%20equally%20important."
+    },
+    {
+      "position": 8,
+      "title": "Effective Treatment Options for High Blood Pressure",
+      "link": "https://theheartdoctors.com.sg/hypertension-effective-treatment-options-for-high-blood-pressure/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEBxCJF1_xxBSdP5XvrS4aloB3CkqhGjnzQPkCEvC2ZbTK4NTeBFHtU5Z6hgA3UNdRYEj7YrhEaIfbFIiTHGSOvjWbn2WzzyMDmCJ1c4ZHYh_LP5vkdwjXwCVvk7J0KCONFnE5yvtJBPRdom0rkfG8BZOpS4jlHS0CLt3-6fYhZogDn_bD6y1WQn-a7CiLNwHEcdpbgw7cJug1orBg&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECE4QAQ&uoh=1",
+      "displayed_link": "https://theheartdoctors.com.sg \u203a Cardiac Problem",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAR2LVAAAAEnRSTlMAI8uNWb19UxdsP57i_6Yu9wKit6MQAAAAlElEQVR4Ae3NRxLEIAwAwZHJMjLw_8duznnvngupC_FrazI5H2IKLpcQM-KCzxpCirMcga-ozWjFWwQWa2Cd0xGcHADLI9jtFKBwBP4JNKsA4wTGE8AsA5wAz6CaPoBZVcMVTJY-_rAD-m1E_giGVT6CZOkz6AunkgWAYg4Ipgwz0VA4JU2kDXKTlpHdfrfbb9f-aQv1Lgkd6GMuCQAAAABJRU5ErkJggg.png",
+      "snippet": "ACE Inhibitors and ARBs \u2013 These relax your blood vessels, making it easier for blood to flow. Beta-Blockers \u2013 These reduce the workload on your heart ...",
+      "snippet_highlighted_words": [
+        "ACE Inhibitors and ARBs"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ACE Inhibitors and ARBs \u2013 These relax your blood vessels, making it easier for blood to flow. Beta-Blockers \u2013 These reduce the workload on your heart ...",
+          "source_info_link": "https://theheartdoctors.com.sg/hypertension-effective-treatment-options-for-high-blood-pressure/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAR2LVAAAAEnRSTlMAI8uNWb19UxdsP57i_6Yu9wKit6MQAAAAlElEQVR4Ae3NRxLEIAwAwZHJMjLw_8duznnvngupC_FrazI5H2IKLpcQM-KCzxpCirMcga-ozWjFWwQWa2Cd0xGcHADLI9jtFKBwBP4JNKsA4wTGE8AsA5wAz6CaPoBZVcMVTJY-_rAD-m1E_giGVT6CZOkz6AunkgWAYg4Ipgwz0VA4JU2kDXKTlpHdfrfbb9f-aQv1Lgkd6GMuCQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjF5X0RFNEFLVDU4X2dqeVFTdFltVHBTU1BCYnpHQldnR1BfUHFabFRnaEQzdWRNWVl4WEQ4NGtqajIwVlNfQWcxRXlKRk1oeFY3dnJzdlN0V1RqdFBDX0JVWUVhSHFBSkI2dFlSaFdUTFIxSUhQaGhRb3NhbVdlaHp5RVRwdm5uU2hvZFdHRkJ6RVJoMWFTbW9ySzg4Y1gzMDZvTG1RRS1WOUNXcl9pa1VxcTNGcjlfSkk4QU4wNk5YdHExQVJVVnlBZkZBVTBLMWNBEgQaAggAGoIIEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQN4HCAAQABgAIAAqbwoEaGlnaBXearpAGghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBXa5upAGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFX2u40AaAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQVrpHLQBoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFaKZuEAaDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjF5X0RFNEFLVDU4X2dqeVFTdFltVHBTU1BCYnpHQldnR1BfUHFabFRnaEQzdWRNWVl4WEQ4NGtqajIwVlNfQWcxRXlKRk1oeFY3dnJzdlN0V1RqdFBDX0JVWUVhSHFBSkI2dFlSaFdUTFIxSUhQaGhRb3NhbVdlaHp5RVRwdm5uU2hvZFdHRkJ6RVJoMWFTbW9ySzg4Y1gzMDZvTG1RRS1WOUNXcl9pa1VxcTNGcjlfSkk4QU4wNk5YdHExQVJVVnlBZkZBVTBLMWNBOlQ8Yj5IeXBlcnRlbnNpb248L2I-IOKAkyBFZmZlY3RpdmUgPGI-VHJlYXRtZW50IE9wdGlvbnM8L2I-IGZvciA8Yj5IaWdoPC9iPiBCbG9vZCAuLi5CqQE8Yj5BQ0UgSW5oaWJpdG9ycyBhbmQgQVJCczwvYj4g4oCTIFRoZXNlIHJlbGF4IHlvdXIgYmxvb2QgdmVzc2VscywgbWFraW5nIGl0IGVhc2llciBmb3IgYmxvb2QgdG8gZmxvdy4gQmV0YS1CbG9ja2VycyDigJMgVGhlc2UgcmVkdWNlIHRoZSB3b3JrbG9hZCBvbiB5b3VyIGhlYXJ0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjF5X0RFNEFLVDU4X2dqeVFTdFltVHBTU1BCYnpHQldnR1BfUHFabFRnaEQzdWRNWVl4WEQ4NGtqajIwVlNfQWcxRXlKRk1oeFY3dnJzdlN0V1RqdFBDX0JVWUVhSHFBSkI2dFlSaFdUTFIxSUhQaGhRb3NhbVdlaHp5RVRwdm5uU2hvZFdHRkJ6RVJoMWFTbW9ySzg4Y1gzMDZvTG1RRS1WOUNXcl9pa1VxcTNGcjlfSkk4QU4wNk5YdHExQVJVVnlBZkZBVTBLMWNBEgQaAggAGoIIEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQN4HCAAQABgAIAAqbwoEaGlnaBXearpAGghlbGV2YXRlZBoFaGlnaHMaDGh5cGVydGVuc2lvbhoJaW5jcmVhc2VkGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudCpjCgVibG9vZBXa5upAGgxoeXBlcnRlbnNpb24aCWhpZ2hibG9vZBoRaGlnaGJsb29kcHJlc3N1cmUaGmhpZ2hibG9vZHByZXNzdXJldHJlYXRtZW50Gg1ibG9vZHByZXNzdXJlKl8KCHByZXNzdXJlFX2u40AaAmJwGgxoeXBlcnRlbnNpb24aEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSptCgl0cmVhdG1lbnQVrpHLQBoKbWVkaWNhdGlvbhoLbWVkaWNhdGlvbnMaC3RoZXJhcGV1dGljGgd0aGVyYXB5GhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoQdHJlYXRtZW50b3B0aW9ucypICgdvcHRpb25zFaKZuEAaDGFsdGVybmF0aXZlcxoHY2hvaWNlcxoHbWV0aG9kcxoGb3B0aW9uGhB0cmVhdG1lbnRvcHRpb25zMuEBL2dvdG8_dXJsPUNBRVNuQUVCeENKRjF5X0RFNEFLVDU4X2dqeVFTdFltVHBTU1BCYnpHQldnR1BfUHFabFRnaEQzdWRNWVl4WEQ4NGtqajIwVlNfQWcxRXlKRk1oeFY3dnJzdlN0V1RqdFBDX0JVWUVhSHFBSkI2dFlSaFdUTFIxSUhQaGhRb3NhbVdlaHp5RVRwdm5uU2hvZFdHRkJ6RVJoMWFTbW9ySzg4Y1gzMDZvTG1RRS1WOUNXcl9pa1VxcTNGcjlfSkk4QU4wNk5YdHExQVJVVnlBZkZBVTBLMWNBOlQ8Yj5IeXBlcnRlbnNpb248L2I-IOKAkyBFZmZlY3RpdmUgPGI-VHJlYXRtZW50IE9wdGlvbnM8L2I-IGZvciA8Yj5IaWdoPC9iPiBCbG9vZCAuLi5CqQE8Yj5BQ0UgSW5oaWJpdG9ycyBhbmQgQVJCczwvYj4g4oCTIFRoZXNlIHJlbGF4IHlvdXIgYmxvb2QgdmVzc2VscywgbWFraW5nIGl0IGVhc2llciBmb3IgYmxvb2QgdG8gZmxvdy4gQmV0YS1CbG9ja2VycyDigJMgVGhlc2UgcmVkdWNlIHRoZSB3b3JrbG9hZCBvbiB5b3VyIGhlYXJ0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "The Heart Doctors Clinic",
+      "read_more_link": "https://theheartdoctors.com.sg/hypertension-effective-treatment-options-for-high-blood-pressure/#:~:text=ACE%20Inhibitors%20and%20ARBs%20%E2%80%93,heart%20by%20slowing%20it%20down."
+    },
+    {
+      "position": 9,
+      "title": "New high blood pressure guideline emphasizes prevention ...",
+      "link": "https://newsroom.heart.org/news/new-high-blood-pressure-guideline-emphasizes-prevention-early-treatment-to-reduce-cvd-risk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEBxCJF154uieBVyiwLNm-HKL4mHtBhP_tHTJWq3u_GNCXKta67cEIhsGJ3M99Vo-ja-8xxdR2pSGlxAH6ARnpilBU1n-c91pf5_r3zR8JpxnBxliVC-LQGOeeI1JpGUtOi3fJIRgZg48WkU5TacCV-KDZcRhtn8B54o7gOxVrBzSigDhWRBnP4t1mKmzxrGUbWHaN3PAmAzsGVm1L2BwGo1rPR9lKfEUAB_uQ7M5_i1TLNw0L5Ww&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQFnoECFIQAQ&uoh=1",
+      "displayed_link": "https://newsroom.heart.org \u203a news \u203a new-high-blood-pr...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAz1BMVEVHcEzOJSvPJCrPJCrLJSrPIijPHyX89_fEIifPJSrPJCrPJCrPJCrPJCrPJCrPJCrQJSvPJCrPJCrPJCrqrK3EIifGIijMJCrPJCrgf4HPJCquHyPPJCry3Nzok5X--_uWGRzZw8ODAAD___8kAAD64eB8AADrpabOHybPJCr____PICejGh6XFxyEAACuHSLOGiG-jIy5HyXzyMjWRUnMAAvMEBndZmnfcnT55eXQJCrJpqXBl5fUNTnSMTbqn6CZFxu8EhipGyCmAADSLjJad0p8AAAAKXRSTlMA3KE3D8po_hgrwCC0gkWP6fP7Wv7T_ngG-k7Alm_-7qzz-gMOPI5s_YJzFMgAAAE6SURBVCiRddHlYoMwEADgEEoIrnWbb5dU6Mqqq0ze_5mGdmVk9wv4yFkQEoQm-lgEVf6BhiEHJghJa2NdAhBiT4EsLNG5wkyrUUfLB7Od_mAKTmIIEAHfwx0BWhh1BjigtQlsQnqBjZBh9AixKzVl7AH4CkGIKC8AHr7akaanTfKV-zzsbmKePOu_OkgtisPtWFXVbTdK3pzKfDxeMrY8jcLt4mMHoBgF2unG-CE8Rcf1-rj6nLR2IMllO1JW8jvaMMbCr_Nk3oJmiVTP1xZtVKa-z6aT-Svol2mdHDlPcJFh69IQkt1c35YlSleDWkXebont6xXlVfmhwH51uVKeV80aav7ZPFWKovvZtF-7a2r6AKsR29_d1O4sUceDaM1unwSW3ClxeTwePogMNTTblR7vhYao1qHVlD-d-Cx0KPwY8AAAAABJRU5ErkJggg.png",
+      "date": "Aug 14, 2025",
+      "snippet": "following a heart healthy eating pattern, for example the DASH eating plan, which emphasizes reduced sodium intake and a diet high in vegetables ...",
+      "snippet_highlighted_words": [
+        "a heart healthy eating pattern"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "following a heart healthy eating pattern, for example the DASH eating plan, which emphasizes reduced sodium intake and a diet high in vegetables ...",
+          "source_info_link": "https://newsroom.heart.org/news/new-high-blood-pressure-guideline-emphasizes-prevention-early-treatment-to-reduce-cvd-risk",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAz1BMVEVHcEzOJSvPJCrPJCrLJSrPIijPHyX89_fEIifPJSrPJCrPJCrPJCrPJCrPJCrPJCrQJSvPJCrPJCrPJCrqrK3EIifGIijMJCrPJCrgf4HPJCquHyPPJCry3Nzok5X--_uWGRzZw8ODAAD___8kAAD64eB8AADrpabOHybPJCr____PICejGh6XFxyEAACuHSLOGiG-jIy5HyXzyMjWRUnMAAvMEBndZmnfcnT55eXQJCrJpqXBl5fUNTnSMTbqn6CZFxu8EhipGyCmAADSLjJad0p8AAAAKXRSTlMA3KE3D8po_hgrwCC0gkWP6fP7Wv7T_ngG-k7Alm_-7qzz-gMOPI5s_YJzFMgAAAE6SURBVCiRddHlYoMwEADgEEoIrnWbb5dU6Mqqq0ze_5mGdmVk9wv4yFkQEoQm-lgEVf6BhiEHJghJa2NdAhBiT4EsLNG5wkyrUUfLB7Od_mAKTmIIEAHfwx0BWhh1BjigtQlsQnqBjZBh9AixKzVl7AH4CkGIKC8AHr7akaanTfKV-zzsbmKePOu_OkgtisPtWFXVbTdK3pzKfDxeMrY8jcLt4mMHoBgF2unG-CE8Rcf1-rj6nLR2IMllO1JW8jvaMMbCr_Nk3oJmiVTP1xZtVKa-z6aT-Svol2mdHDlPcJFh69IQkt1c35YlSleDWkXebont6xXlVfmhwH51uVKeV80aav7ZPFWKovvZtF-7a2r6AKsR29_d1O4sUceDaM1unwSW3ClxeTwePogMNTTblR7vhYao1qHVlD-d-Cx0KPwY8AAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCeENKRjE5YTlhMlFiQmUyNG9HSWFvZi1zYlJkenJtZ3BaQ3NncnhFdDh4TjdyNzNmMG4yZFNoSkctVkk1VnhwVWRLU2RxdUhXMEZkOHNSTW1Yam5tSDFublp6ZnNDMHd6U2IyWTlEMW5CVTZhUGlQTGFHTXpaM2FHSUxxU3FzZ29wbTNlN0xJY2t3cW9GT2I2OHVzMHVTMm9qbkJfYU0wR1poLS1EQWJERnB0eXY0amJWZVpwQ0RQZk9rclVCOUtiaks1VHJ6Y0xZZ0JrS0wzVmdGbTN6MVVReFUweGo0anhJOE93SEVkeUV6R21yNEZfeVESBBoCCAAajAgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDmBwgAEAAYACAAKm8KBGhpZ2gVhrrHQBoIZWxldmF0ZWQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWluY3JlYXNlZBoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQqYwoFYmxvb2QVkt7QQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSpfCghwcmVzc3VyZRU41tBAGgJicBoMaHlwZXJ0ZW5zaW9uGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqbQoJdHJlYXRtZW50FfhwtEAaCm1lZGljYXRpb24aC21lZGljYXRpb25zGgt0aGVyYXBldXRpYxoHdGhlcmFweRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaEHRyZWF0bWVudG9wdGlvbnMqSAoHb3B0aW9ucxVJpZs-GgxhbHRlcm5hdGl2ZXMaB2Nob2ljZXMaB21ldGhvZHMaBm9wdGlvbhoQdHJlYXRtZW50b3B0aW9uczKEAi9nb3RvP3VybD1DQUVTdGdFQnhDSkYxOWE5YTJRYkJlMjRvR0lhb2Ytc2JSZHpybWdwWkNzZ3J4RXQ4eE43cjczZjBuMmRTaEpHLVZJNVZ4cFVkS1NkcXVIVzBGZDhzUk1tWGpubUgxbm5aemZzQzB3elNiMlk5RDFuQlU2YVBpUExhR016WjNhR0lMcVNxc2dvcG0zZTdMSWNrd3FvRk9iNjh1czB1UzJvam5CX2FNMEdaaC0tREFiREZwdHl2NGpiVmVacENEUGZPa3JVQjlLYmpLNVRyemNMWWdCa0tMM1ZnRm0zejFVUXhVMHhqNGp4SThPd0hFZHlFekdtcjRGX3lROkJOZXcgPGI-aGlnaCBibG9vZCBwcmVzc3VyZTwvYj4gZ3VpZGVsaW5lIGVtcGhhc2l6ZXMgcHJldmVudGlvbiAuLi5CoAFmb2xsb3dpbmcgPGI-YSBoZWFydCBoZWFsdGh5IGVhdGluZyBwYXR0ZXJuPC9iPiwgZm9yIGV4YW1wbGUgdGhlIERBU0ggZWF0aW5nIHBsYW4sIHdoaWNoIGVtcGhhc2l6ZXMgcmVkdWNlZCBzb2RpdW0gaW50YWtlIGFuZCBhIGRpZXQgaGlnaCBpbiB2ZWdldGFibGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCeENKRjE5YTlhMlFiQmUyNG9HSWFvZi1zYlJkenJtZ3BaQ3NncnhFdDh4TjdyNzNmMG4yZFNoSkctVkk1VnhwVWRLU2RxdUhXMEZkOHNSTW1Yam5tSDFublp6ZnNDMHd6U2IyWTlEMW5CVTZhUGlQTGFHTXpaM2FHSUxxU3FzZ29wbTNlN0xJY2t3cW9GT2I2OHVzMHVTMm9qbkJfYU0wR1poLS1EQWJERnB0eXY0amJWZVpwQ0RQZk9rclVCOUtiaks1VHJ6Y0xZZ0JrS0wzVmdGbTN6MVVReFUweGo0anhJOE93SEVkeUV6R21yNEZfeVESBBoCCAAajAgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDmBwgAEAAYACAAKm8KBGhpZ2gVhrrHQBoIZWxldmF0ZWQaBWhpZ2hzGgxoeXBlcnRlbnNpb24aCWluY3JlYXNlZBoJaGlnaGJsb29kGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQqYwoFYmxvb2QVkt7QQBoMaHlwZXJ0ZW5zaW9uGgloaWdoYmxvb2QaEWhpZ2hibG9vZHByZXNzdXJlGhpoaWdoYmxvb2RwcmVzc3VyZXRyZWF0bWVudBoNYmxvb2RwcmVzc3VyZSpfCghwcmVzc3VyZRU41tBAGgJicBoMaHlwZXJ0ZW5zaW9uGhFoaWdoYmxvb2RwcmVzc3VyZRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaDWJsb29kcHJlc3N1cmUqbQoJdHJlYXRtZW50FfhwtEAaCm1lZGljYXRpb24aC21lZGljYXRpb25zGgt0aGVyYXBldXRpYxoHdGhlcmFweRoaaGlnaGJsb29kcHJlc3N1cmV0cmVhdG1lbnQaEHRyZWF0bWVudG9wdGlvbnMqSAoHb3B0aW9ucxVJpZs-GgxhbHRlcm5hdGl2ZXMaB2Nob2ljZXMaB21ldGhvZHMaBm9wdGlvbhoQdHJlYXRtZW50b3B0aW9uczKEAi9nb3RvP3VybD1DQUVTdGdFQnhDSkYxOWE5YTJRYkJlMjRvR0lhb2Ytc2JSZHpybWdwWkNzZ3J4RXQ4eE43cjczZjBuMmRTaEpHLVZJNVZ4cFVkS1NkcXVIVzBGZDhzUk1tWGpubUgxbm5aemZzQzB3elNiMlk5RDFuQlU2YVBpUExhR016WjNhR0lMcVNxc2dvcG0zZTdMSWNrd3FvRk9iNjh1czB1UzJvam5CX2FNMEdaaC0tREFiREZwdHl2NGpiVmVacENEUGZPa3JVQjlLYmpLNVRyemNMWWdCa0tMM1ZnRm0zejFVUXhVMHhqNGp4SThPd0hFZHlFekdtcjRGX3lROkJOZXcgPGI-aGlnaCBibG9vZCBwcmVzc3VyZTwvYj4gZ3VpZGVsaW5lIGVtcGhhc2l6ZXMgcHJldmVudGlvbiAuLi5CoAFmb2xsb3dpbmcgPGI-YSBoZWFydCBoZWFsdGh5IGVhdGluZyBwYXR0ZXJuPC9iPiwgZm9yIGV4YW1wbGUgdGhlIERBU0ggZWF0aW5nIHBsYW4sIHdoaWNoIGVtcGhhc2l6ZXMgcmVkdWNlZCBzb2RpdW0gaW50YWtlIGFuZCBhIGRpZXQgaGlnaCBpbiB2ZWdldGFibGVzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "www.heart.org",
+      "read_more_link": "https://newsroom.heart.org/news/new-high-blood-pressure-guideline-emphasizes-prevention-early-treatment-to-reduce-cvd-risk#:~:text=following%20a%20heart%20healthy%20eating,a%20diet%20high%20in%20vegetables"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Immediate treatment for high blood pressure at home",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=Immediate+treatment+for+high+blood+pressure+at+home&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Immediate+treatment+for+high+blood+pressure+at+home"
+    },
+    {
+      "block_position": 1,
+      "query": "How to cure high blood pressure permanently",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=How+to+cure+high+blood+pressure+permanently&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=How+to+cure+high+blood+pressure+permanently"
+    },
+    {
+      "block_position": 1,
+      "query": "Why is high blood pressure not curable",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=Why+is+high+blood+pressure+not+curable&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Why+is+high+blood+pressure+not+curable"
+    },
+    {
+      "block_position": 1,
+      "query": "Can high blood pressure be cured by exercise",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=Can+high+blood+pressure+be+cured+by+exercise&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Can+high+blood+pressure+be+cured+by+exercise"
+    },
+    {
+      "block_position": 1,
+      "query": "Can high blood pressure be cured with medication",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=Can+high+blood+pressure+be+cured+with+medication&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Can+high+blood+pressure+be+cured+with+medication"
+    },
+    {
+      "block_position": 1,
+      "query": "Which is the best medicine for high blood pressure",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=Which+is+the+best+medicine+for+high+blood+pressure&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Which+is+the+best+medicine+for+high+blood+pressure"
+    },
+    {
+      "block_position": 1,
+      "query": "How is high blood pressure treated in hospital",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=How+is+high+blood+pressure+treated+in+hospital&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=How+is+high+blood+pressure+treated+in+hospital"
+    },
+    {
+      "block_position": 1,
+      "query": "Is high blood pressure curable without medication",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&q=Is+high+blood+pressure+curable+without+medication&sa=X&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Is+high+blood+pressure+curable+without+medication"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=10&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8NMDegQIQxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=10&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAE",
+      "3": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=20&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAG",
+      "4": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=30&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAI",
+      "5": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=40&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAK",
+      "6": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=50&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAM",
+      "7": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=60&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAO",
+      "8": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=70&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAQ",
+      "9": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=80&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAS",
+      "10": "https://www.google.com/search?q=high+blood+pressure+treatment+options&sca_esv=514e63bafcc8d03f&hl=en&gl=us&sxsrf=AKL5yDhPLjLUtDma7gGl-eKRHhNf1OGurw:1793912007646&ei=x-zsauaIJ8nakPIPy7jxmQI&start=90&sa=N&sstk=AYl2yk9BWQjgAOay7svc4E17XusjxWigKWn1elKuSIzi4E1tF8cYpl7bO7YEz1mj8I5hM9xY5sdVbN49Q-Ha370j3X8u0SOQKojAng&ved=2ahUKEwimiOX_2vGXAxVJLUQIHUtcPCMQ8tMDegQIQxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=high+blood+pressure+treatment+options&start=90"
+    }
+  }
+}

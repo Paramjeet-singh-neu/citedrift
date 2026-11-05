@@ -1,0 +1,689 @@
+{
+  "search_metadata": {
+    "id": "6aececafeb46ef50dd16ad11",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Id83jabhKr4KnsTdeTv_ukpMIamJQRL2_p3k66AHxoU/6aececafeb46ef50dd16ad11.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Id83jabhKr4KnsTdeTv_ukpMIamJQRL2_p3k66AHxoU/6aececafeb46ef50dd16ad11.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Id83jabhKr4KnsTdeTv_ukpMIamJQRL2_p3k66AHxoU/6aececafeb46ef50dd16ad11.json_with_pixel_position",
+    "created_at": "2026-11-05 20:53:03 UTC",
+    "processed_at": "2026-11-05 20:53:03 UTC",
+    "google_url": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&oq=early+signs+of+type+2+diabetes&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Id83jabhKr4KnsTdeTv_ukpMIamJQRL2_p3k66AHxoU/6aececafeb46ef50dd16ad11.html",
+    "total_time_taken": 1.39
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "early signs of type 2 diabetes",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "early signs of type 2 diabetes",
+    "total_results": 173,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the symptoms and causes of type 1 diabetes in children?",
+      "type": "ai_overview",
+      "page_token": "dn6ht3icHdBfToMwAIDxeJk9jn9mZksWE7SFIdTR0gJ9MaUdY9LC3Ih1e_MunsrTuHiB75d83z_6MPS_d1U3TcfzynGstfP9OO71bi5H44jzZZCOFFo3QvarxcPCe2zlGpxt-DTaMKcY1FrpmmJTah1lLooqDxqlO1_GoaHUuqRffpS02zQuTPMKvfO-D7Joc2EQ-OgWooHqJM0uDdSwZGrLAPXLSL9kxuu4q5-5n1lW4BhfUUBgwvIhaXGMILnCVF1VSqLRU0V4qgPuUh9ngjFyswtqJoEAXuQG0lqzuClCXsQIUJYYEQMCA7TdDahTA0xxlfui7CfuhV-oSlDjwSE6JCEB9xYXKkIAHUmgBuzjA_UVEzFHtbscVKFeCVATBzqYtfJzHcz-j63fWjOtjqdx_we9bHcv",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dn6ht3icHdBfToMwAIDxeJk9jn9mZksWE7SFIdTR0gJ9MaUdY9LC3Ih1e_MunsrTuHiB75d83z_6MPS_d1U3TcfzynGstfP9OO71bi5H44jzZZCOFFo3QvarxcPCe2zlGpxt-DTaMKcY1FrpmmJTah1lLooqDxqlO1_GoaHUuqRffpS02zQuTPMKvfO-D7Joc2EQ-OgWooHqJM0uDdSwZGrLAPXLSL9kxuu4q5-5n1lW4BhfUUBgwvIhaXGMILnCVF1VSqLRU0V4qgPuUh9ngjFyswtqJoEAXuQG0lqzuClCXsQIUJYYEQMCA7TdDahTA0xxlfui7CfuhV-oSlDjwSE6JCEB9xYXKkIAHUmgBuzjA_UVEzFHtbscVKFeCVATBzqYtfJzHcz-j63fWjOtjqdx_we9bHcv",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBzeW1wdG9tcyBhbmQgY2F1c2VzIG9mIHR5cGUgMSBkaWFiZXRlcyBpbiBjaGlsZHJlbj8iLCJsayI6IkdoVmphR2xzWkNCMGVYQmxJREVnWkdsaFltVjBaWE0iLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBzeW1wdG9tcyBhbmQgY2F1c2VzIG9mIHR5cGUgMSBkaWFiZXRlcyBpbiBjaGlsZHJlbj8iLCJsayI6IkdoVmphR2xzWkNCMGVYQmxJREVnWkdsaFltVjBaWE0iLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9"
+    },
+    {
+      "question": "Can diabetes cause dry mouth?",
+      "type": "ai_overview",
+      "page_token": "5tcjxXicHdDBToMwAADQ-DM7Djq2mS1ZjAgda6SRUqD0YqBlMCkFt8bO3fwXv8qv0Xh_p_f1rU66_7ljnTHTZes41tp5O46tauZiHJzq8qmFIyql6kr02_X9GjwcxS68WP9ptH6SkbBUUpWaL-MoNyQ4uFWOYl7Ad6oeb4XmAAMCxcAZDq-u9DpMilXGXOOJRbvigzpgd1PkEVRUoaTeZ7ZhIUgzNEmIptIjFY8wkVT2aZDYXMWGR-pcvZGJDq2RAB3EDSMSdWPpbhCh-M9Bv3YNzcD0QSIB0gCtGejOMZt8opTmuVzmizKFHn5pNO6khs-EJYuq6A0H_hUzhGsA9f6E_DRcWkJllLnQigD5dIH3-IYHGkjEKeRNrjqRXUMBN3p2FB87b_Y_tns9DmY7ncf2F-hEd-Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5tcjxXicHdDBToMwAADQ-DM7Djq2mS1ZjAgda6SRUqD0YqBlMCkFt8bO3fwXv8qv0Xh_p_f1rU66_7ljnTHTZes41tp5O46tauZiHJzq8qmFIyql6kr02_X9GjwcxS68WP9ptH6SkbBUUpWaL-MoNyQ4uFWOYl7Ad6oeb4XmAAMCxcAZDq-u9DpMilXGXOOJRbvigzpgd1PkEVRUoaTeZ7ZhIUgzNEmIptIjFY8wkVT2aZDYXMWGR-pcvZGJDq2RAB3EDSMSdWPpbhCh-M9Bv3YNzcD0QSIB0gCtGejOMZt8opTmuVzmizKFHn5pNO6khs-EJYuq6A0H_hUzhGsA9f6E_DRcWkJllLnQigD5dIH3-IYHGkjEKeRNrjqRXUMBN3p2FB87b_Y_tns9DmY7ncf2F-hEd-Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IkNhbiBkaWFiZXRlcyBjYXVzZSBkcnkgbW91dGg/IiwibGsiOiJHaEprYVdGaVpYUmxjeUJrY25rZ2JXOTFkR2ciLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IkNhbiBkaWFiZXRlcyBjYXVzZSBkcnkgbW91dGg%2FIiwibGsiOiJHaEprYVdGaVpYUmxjeUJrY25rZ2JXOTFkR2ciLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9"
+    },
+    {
+      "question": "What happens if type 2 diabetes is untreated?",
+      "type": "ai_overview",
+      "page_token": "gsWLfHicHdBRToMwGADgeBkfHQwzsyWLCa6MJdKlXfsX-mKglXW2BXQ4GG_exVN5Go0n-JLv69udGvtzczF9351Xs9kwDHfHtj261zvV-ll5vjZqpkrnqlLZ1eJhET7Wao0-d_HT-y4mnKLCaSdEUrMNTlhCx_1TKATSp4oPkfBJRjxlWeowzfGGTMd5Ps-m140hOi3u8xCf2dy9sdR4vHGBAOgVLI1C9wMF4yo0BKRx4aGBurQOge0MTHwsbdLykH4CoBEmKgu-5DQprmSOCfPLLQRBWIl-Qbcmq7yaZIrjspEHbv9spAuS41TmkgCTiEb6Al7iyuMhD8xeMxwhoycWdVORy_EQQIC9656FJorBlYkllWN7ItzsM8SjQ-oosSbGTfJcWL2nVjPw45-gY3iLu6yhnR5ua3VZR7f_n-uX2ver7qM9_gL0LIUN",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gsWLfHicHdBRToMwGADgeBkfHQwzsyWLCa6MJdKlXfsX-mKglXW2BXQ4GG_exVN5Go0n-JLv69udGvtzczF9351Xs9kwDHfHtj261zvV-ll5vjZqpkrnqlLZ1eJhET7Wao0-d_HT-y4mnKLCaSdEUrMNTlhCx_1TKATSp4oPkfBJRjxlWeowzfGGTMd5Ps-m140hOi3u8xCf2dy9sdR4vHGBAOgVLI1C9wMF4yo0BKRx4aGBurQOge0MTHwsbdLykH4CoBEmKgu-5DQprmSOCfPLLQRBWIl-Qbcmq7yaZIrjspEHbv9spAuS41TmkgCTiEb6Al7iyuMhD8xeMxwhoycWdVORy_EQQIC9656FJorBlYkllWN7ItzsM8SjQ-oosSbGTfJcWL2nVjPw45-gY3iLu6yhnR5ua3VZR7f_n-uX2ver7qM9_gL0LIUN",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVucyBpZiB0eXBlIDIgZGlhYmV0ZXMgaXMgdW50cmVhdGVkPyIsImxrIjoiR2l4M2FHRjBJR2hoY0hCbGJuTWdhV1lnZEhsd1pTQXlJR1JwWVdKbGRHVnpJR2x6SUhWdWRISmxZWFJsWkEiLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IldoYXQgaGFwcGVucyBpZiB0eXBlIDIgZGlhYmV0ZXMgaXMgdW50cmVhdGVkPyIsImxrIjoiR2l4M2FHRjBJR2hoY0hCbGJuTWdhV1lnZEhsd1pTQXlJR1JwWVdKbGRHVnpJR2x6SUhWdWRISmxZWFJsWkEiLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9"
+    },
+    {
+      "question": "How is diabetes diagnosed?",
+      "type": "ai_overview",
+      "page_token": "9aAGXnicHdBfToMwHADgeJk9jnXITJYsJmz8GZFOCm2BFwMtoxs_SuNQcG_exVN5GhO_I3zfP3DR3e9DrsbR3LaWNU3Tsh2GFpqlGHqrun1pYYkKoK5Et908bdDzWey82-Tuh8lNKPEKkMC1Z584dLQzd3FgTqIjRVeRX3sQ1gHrG4bnQpsAr82mpnAp7zKMD1F8CkyacdNzepxkrpRg0f1ER57apZutcdJotpfcAAHFSc5YjFhPvDERlM3SJ4ba2KErgmrujCcmHd6bIGZuRSmasyueCYIPavsjgSOqfRgEgE2vwua6TX0bvzYaK6n9F5In64p3Y4ncGecRrpGvg0vkpt7jRDIZliEuikwG9YGkMWcD6wCJgFSpVlNBsRJckcVZfO7sxf_Y7u3cj1vzPrR_smt6bQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9aAGXnicHdBfToMwHADgeJk9jnXITJYsJmz8GZFOCm2BFwMtoxs_SuNQcG_exVN5GhO_I3zfP3DR3e9DrsbR3LaWNU3Tsh2GFpqlGHqrun1pYYkKoK5Et908bdDzWey82-Tuh8lNKPEKkMC1Z584dLQzd3FgTqIjRVeRX3sQ1gHrG4bnQpsAr82mpnAp7zKMD1F8CkyacdNzepxkrpRg0f1ER57apZutcdJotpfcAAHFSc5YjFhPvDERlM3SJ4ba2KErgmrujCcmHd6bIGZuRSmasyueCYIPavsjgSOqfRgEgE2vwua6TX0bvzYaK6n9F5In64p3Y4ncGecRrpGvg0vkpt7jRDIZliEuikwG9YGkMWcD6wCJgFSpVlNBsRJckcVZfO7sxf_Y7u3cj1vzPrR_smt6bQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IkhvdyBpcyBkaWFiZXRlcyBkaWFnbm9zZWQ/IiwibGsiOiJHaEprYVdGaVpYUmxjeUJrYVdGbmJtOXphWE0iLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYWFUVXlZbEIyTFhsR04xTnhVRmRWYmt0TmJIVkJTRlpGVkRCRmVrRlBlRGMzZW1wM1lXSkplRlZYWkVoU09HZEphMEZaTVZGclpVcHBSMDVRY25KUk9WZzVPSFU1V2pnMWRVTkdaSFZNVlRkdk1YcG9kMlZrWjB4bVFSSVhjMDk2YzJGMmNVdEZkRFpwYVMxblVIRTFjazF2VVdjYUlrRklUakJGTjBoVldUSmxOMFl3ZWxobFlqVk1ZMGRNZEZoclVFeE1MVGxNZUhjIiwiZmN2IjoiMyIsImVpIjoic096c2F2cUtFdDZpaS1nUHE1ck1vUWciLCJxYyI6IkNoNWxZWEpzZVNCemFXZHVjeUJ2WmlCMGVYQmxJRElnWkdsaFltVjBaWE1RQUJnQmZZYU9TVDgiLCJxdWVzdGlvbiI6IkhvdyBpcyBkaWFiZXRlcyBkaWFnbm9zZWQ%2FIiwibGsiOiJHaEprYVdGaVpYUmxjeUJrYVdGbmJtOXphWE0iLCJicyI6ImM1V093UXJDTUF5RzhacVRpQ0lVaER5QUNoWThUX0RpRzNqd0lORkdXM0R0YURQRzN0NXR5cWJlUE9aTF9ud19uR0IzdENSSWtWRXNZNnJ6UWtLZWtMekJLNVdKRTRZYlNsMHdidEE0dXJBMHlIbThXdmN3a1gybTUycldEYjlYc0lYRm52eVE2djZoaVRYbW9SU2I2YW1hOU1zZXd4bFdYU2RMUmNHLWtiMzktc09mc1BRU21ZUk5wdGRxV2YwUkFBM3FFS3FXRFhaSGR4OVMtLTJyMUF1N05CNDlBUSIsImlkIjoiZmNfc096c2F2cUtFdDZpaS1nUHE1ck1vUWdfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Type 2 diabetes often develops slowly over several years, and many people experience very mild or no early symptoms.",
+        "snippet_highlighted_words": [
+          "very mild or no early symptoms"
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Early Warning Signs"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Frequent urination: Needing to go to the bathroom more often, especially at night, as your kidneys try to flush out excess sugar."
+          },
+          {
+            "snippet": "Increased thirst: Feeling unusually thirsty or dry-mouthed because fluid loss from frequent urination leaves you dehydrated."
+          },
+          {
+            "snippet": "Persistent fatigue: Feeling overly tired or weak because your body's cells cannot properly use glucose for energy."
+          },
+          {
+            "snippet": "Blurred vision: High blood sugar causing fluid to shift and swell the lenses of your eyes."
+          },
+          {
+            "snippet": "Slow-healing cuts or sores: Poor circulation and a weakened immune response slowing down your body's ability to repair skin damage."
+          },
+          {
+            "snippet": "Tingling or numbness: Early nerve irritation or damage (neuropathy) causing pins and needles or loss of feeling in the hands or feet."
+          },
+          {
+            "snippet": "Unexplained weight loss: Losing weight without trying as your body burns muscle and fat for fuel."
+          },
+          {
+            "snippet": "Darkened skin patches: Velvety, dark patches of skin (acanthosis nigricans) in body folds like the neck, armpits, or groin, which can signal insulin resistance."
+          },
+          {
+            "snippet": "Frequent infections: Recurring urinary tract infections, yeast infections, or skin sores.",
+            "reference_indexes": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "How It Is Diagnosed"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Because early signs can be subtle or easy to miss, doctors confirm type 2 diabetes using simple blood tests through the Cleveland Clinic or your primary care provider:",
+        "snippet_links": [
+          {
+            "text": "Cleveland Clinic",
+            "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes"
+          }
+        ],
+        "reference_indexes": [
+          1,
+          8,
+          11
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "A1C test: Measures your average blood sugar over the past 2 to 3 months (6.5% or higher indicates diabetes)."
+          },
+          {
+            "snippet": "Fasting plasma glucose test: Checks your blood sugar after an 8-hour fast (126 mg/dL or higher indicates diabetes)."
+          },
+          {
+            "snippet": "Random plasma glucose test: Checks your blood sugar at any time of day (200 mg/dL or higher indicates diabetes).",
+            "reference_indexes": [
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow this down, please tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you experiencing any of these symptoms yourself or asking for someone else?"
+          },
+          {
+            "snippet": "What risk factors (like age, family history, or weight changes) apply?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Symptoms of Diabetes | Diabetes | CDC",
+        "link": "https://www.cdc.gov/diabetes/signs-symptoms/index.html",
+        "snippet": "Related Topics: Diabetes Basics Symptoms Testing Risk Factors Preventing Treatment Providing Care Living with Diabetes View Menu Key points * Type 1 and type 2 dia...",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cdc.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJi8PJyOPUSJCUbYN3y1ev5W0Ya8-PPl78DDBN_2MscMh0ksnaK-9BwtN01h02DCLemEcB7Y_XyhgmD8Ixfg1YDHBY8ZeHgKb8vZNy3XQynnZc1_lhy81TR57NExZic-pIx9jnsj1aa2_5Cfkxnizuvm4"
+      },
+      {
+        "index": 1,
+        "title": "Diabetes symptoms: Early warning signs and what they mean | UT MD Anderson",
+        "link": "https://www.mdanderson.org/cancerwise/diabetes-101--causes--symptoms-and-treatment.h00-159857712.html",
+        "snippet": "Key takeaways: * Diabetes can develop gradually, and symptoms are often subtle in the early stages. * Frequent urination, excessive thirst, fatigue and unexplained...",
+        "source": "UT MD Anderson",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mdanderson.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYNb9Y6kACRUAhDJz_DfjtkTaBJnhPYn1fUWJSEuR9ip2sxET915RVuzBSFuK2S3yPozFVDMGH4zykzmX2W7vrfhupMcY6NM4QtMdSO7htV7oc28WAZ_0yBPF1rPDzQFUzEv7lljQsDFwMluU22nKvjrM"
+      },
+      {
+        "index": 2,
+        "title": "Type 2 diabetes - Symptoms and causes - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/symptoms-causes/syc-20351193",
+        "snippet": "Overview: Chronic condition where cells resist insulin and pancreas fails producing enough insulin, causing blood glucose buildup; incurable. Symptoms: Increased t...",
+        "source": "Mayo Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4lo_mU0QF7uW-baJ8Kjneto77awSMLr-7Jqoky-wwAFqqpJ_zRJs43M9Vmz_KbJiXn96o9zaDS6JixBWWQpFQdmJ2GG8WX9odmrdMGjTpNL5FchF20gjz-159-r1o0vGueMf1kshLSUyNhTBf6u7KegE"
+      },
+      {
+        "index": 3,
+        "title": "7 Early Type 2 Diabetes Signs You Need To Know",
+        "link": "https://www.youtube.com/shorts/nwTsFyCO3ik",
+        "snippet": "7 Early Type 2 Diabetes Signs You Need To Know what are seven early signs of type 2 diabetes. and symptoms can appear long before you realize you have diabetes. nu",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9QWAvazsxRAYEBDMT1QN94U98aMEVGm07AiI49PGv9jQscpjL_kfs_F2OqhKqPLa-MiMSeoXLHog9wXZ-9pdpWWqIhOhjldNFImPBKcrzOe9T8Mxf_XwvRRY0KPFc9q7RQI47qfhP6XuLD9nW1nXSG8Q"
+      },
+      {
+        "index": 4,
+        "title": "When left untreated, type 2 diabetes can lead to vision loss, heart disease ...",
+        "link": "https://www.facebook.com/AARP/videos/early-signs-of-type-2-diabetes/496705605481603/",
+        "snippet": "When left untreated, type 2 diabetes can lead to vision loss, heart disease and more. Here are five early signs that someone may have this disease. | AARP | Facebo",
+        "source": "Facebook",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGRWELEGWzO_ePo9kvzHjUXOn3l1gM92JHA9NsA5EVWAeffHdZIQVdSvF0QGy1N6-KireipP_77DqV4RYc-R1aQPJ8ktQ1LpN_kGMQhO1SipX2vYx1PhrYfCQ5S7dIBQkFgLBiTOn_jwi3s4h-TgVeEw4"
+      },
+      {
+        "index": 5,
+        "title": "Type 2 Diabetes - What is it, signs and symptoms, and reducing your risk",
+        "link": "https://www.youtube.com/watch?v=PTAVuDwSQvE",
+        "snippet": "and research has shown that in some people dietary changes increases in physical activity. and sustained weight loss can reduce the risk of type 2 diabetes by up t",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWJ6Ol4-HlRkmjFNEubLUQY4muzOAB3pgsAgEHoI4_g--QkJiKvt6NoTLMzUzQBX_xqgemKxOgGqDJmX7f4B7sUIXrH6usNHmAi_Hw5EIbnq3NKBOwE22pLOm21LBVXcVlnfIuNPFzeIrCGcQjQMy-Kb8"
+      },
+      {
+        "index": 6,
+        "title": "9 early warning signs of Type 2 diabetes",
+        "link": "https://www.bswhealth.com/blog/9-early-warning-signs-of-type-2-diabetes",
+        "snippet": "Type 2 diabetes arises from insulin resistance or insufficient insulin production, causing high blood sugar. Early warning signs include: Excessive thirst and hung...",
+        "source": "Baylor Scott & White Health",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bswhealth.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9OZbn_kGyRQ0dLJL9TpnYHfl0LmAa2eRSMsVVzp53_SQISgQ7FQfhlJBqqMecRtDtytseh1bUMAma0Aof_dlB5Y3f7KpCpebGGmX88w_g2yqmL1BeCBnaBFX-B3HIUp8TBGKBbd_eS78mrQewQYbC43w"
+      },
+      {
+        "index": 7,
+        "title": "10 Early Signs of Diabetes You Shouldn't Ignore - Jackson Hospital | Marianna, Florida",
+        "link": "https://www.jackson-hospital.com/10-early-signs-of-diabetes-you-shouldnt-ignore/",
+        "snippet": "10 Early Signs of Diabetes * Blurred Vision High blood sugar levels can cause swelling in the lens of the eye, leading to temporary vision changes. * Slow-Healing ...",
+        "source": "Jackson Hospital | Marianna, Florida",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.jackson-hospital.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTy5RzynpL4h72AeDDFGvSr45OlLCku5pMm6VkZ9A6kkD5YFLi4D506otA09Lc87nMeDGszzcRoGCq-Xgpb6MRJxcON_z0lVwR98Tqqzh8BBGOD3p834fwTt6S0n2owvw3w6aerJvUbBMzJMuUkHeD2TYk"
+      },
+      {
+        "index": 8,
+        "title": "10 Early Signs of Diabetes",
+        "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0",
+        "snippet": "10 Early Signs of Diabetes diabetes can be sneaky. it damages your body from the inside leaving scarcely a clue and by the time symptoms do appear diabetes may hav",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ406TpjnhHuii4CTt7Blk5xb44aJIh5D5J5-DjmPN_O13WZ0E-zChfu89L2FdttX4twDkzbPlNx8o5gv-hy1LkrL94ug16fv_Pdhw4Q8CmIBIRGqRWo0cECyRj5H1iwOvE_qEt6RB7rZ6YGd9FG9FOJpY"
+      },
+      {
+        "index": 9,
+        "title": "Don't Let Diabetes Sneak Up on You: Know These 6 Early Signs | Family & Primary Care Practices located in Wynantskill, NY | Wynantskill Family Medicine",
+        "link": "https://www.wynantskillfamilymed.com/post/dont-let-diabetes-sneak-up-on-you-know-these-6-early-signs",
+        "snippet": "Here's how to watch for early signs of diabetes. * It's estimated that more than 38 million adults in the United States have diabetes, with nearly 9 million still ...",
+        "source": "Wynantskill Family Medicine",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wynantskillfamilymed.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTUiBGDEXiz9iEQXjHSDudmLFkFsm6CBUzWSJziKxBD_qLUZAIR6J-PvC_7kolyWv4d-zqGRjbC9mqq4-AggHE8WSBsfEC34lVNCGfcaaH21uA6y86iD35Ak-OTc4HtK-Gl369WZQKu1450DZVu_UEKU"
+      },
+      {
+        "index": 10,
+        "title": "Type 2 Diabetes - signs and symptoms",
+        "link": "https://www.youtube.com/shorts/uhHoLNf2vv8",
+        "snippet": "Type 2 Diabetes - signs and symptoms spot the signs of type 2 diabetes. hi I'm Penny a diabetes specialist nurse being diagnosed with type 2 diabetes. earlier in l",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzGBdozwNpeBtUCyyzDdwVOhHb1HC7F6DlxEN9rzryptCJULy9iSkadQKiFBir5-3QMxLxHl2NAa6LRklx-3iwThjqKiJTjNDvPbAlnAouyEnaJfeUg094CE0ZBHjOW8IA2a6uziPLPEg-nJnwRfLDS8g"
+      },
+      {
+        "index": 11,
+        "title": "Type 2 Diabetes: What It Is, Causes, Symptoms & Treatment",
+        "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+        "snippet": "What Is Type 2 Diabetes? Type 2 diabetes (T2D) happens when your body can't use insulin properly and/or doesn't make enough of it. This leads to high blood sugar (",
+        "source": "Cleveland Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://my.clevelandclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThgwJNTWQHf6VPlQLQGBr-Upxo52ovVZ2WK2ZEh1cQjPGokBHDCxMtCzjw5vs_MyOnCOv0LSjHzsg3oUdnNSu9FRszlakZOOd8Umqb_7kDVWNNe-j9NrIYVHWa8quwxNfAM_5l1W7Dksdy2kyhBUv10KI"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Type 2 Diabetes",
+      "link": "https://www.chop.edu/conditions-diseases/type-2-diabetes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXE7i0CJljLt4Atz_E0TVSrgv89je-C90VIxYUxe1q4vVPypVDXAyH2MC2aGdWrcT0EvI1Fe5zPtX-tyQNgmbL6tZtrSsSqf46Ew7i8R8VV0_n16QzEbfXlZgWoUniK5QeJlG7mobudLAn4wrSDKFFXg&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.chop.edu \u203a conditions-diseases \u203a type-2-di...",
+      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc4Nzc3Nzc3NTc3NzI3ODc3NzczMjc3Nzc3Nzc3Ny01NTU1NS83Nf_AABEIABwAHAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAAFAAECBAYD_8QAJxAAAgEEAAUEAwEAAAAAAAAAAQIEAAMFEQYSIVFhE0GBoTEycSL_xAAaAQACAwEBAAAAAAAAAAAAAAAABAECBQYD_8QAIxEAAgICAgEEAwAAAAAAAAAAAQIAAwQREiExIjJRYQVBcf_aAAwDAQACEQMRAD8ANRot6VfWxGtm5db8KK6JmVByY9Tj0RrG4qNmXsngpuMirIk-lyswXSMSQdfzxXjVk12txWMXYdtC8n1qDKYisaiTuaTh4vawuWvw13MVQAR-wXx9n4pLIAa5Ff2zRw9rj2tX7p1x8LEzMtGs2mMoNGa5fJdj_vp138motsuSpieu-v5L0049lyqvq62e_wByOK4XlJk7bT7FtooLcw5976HX3qotzENZ4HuFH41xaDYPTM5MCpLvoo0q3GAHYbp5DtQTM2wBXYD5MsY7IyMbJ9eKwB1plYbVh2NUsqW1eLS9F70NySaPC8QR7s1keLDx6uhNy8pALH266Hf33SN-M4TyW-pp42dW1hBULvyYK4dnPZzqPKmt6J5w73bp0eh1vfnVe-RWGp0q9xTDvK5G3frvyYJm6eZfZSCrXWII9xs0yg0gH1FLSDYxHyZEDpUyhi1RCKiRGA3RuWAn_9k.jpg",
+      "snippet": "Signs and symptoms \u00b7 Frequent urination \u00b7 Extreme hunger but loss of weight \u00b7 Unusual thirst \u00b7 Blurred vision \u00b7 Extreme weakness and fatigue \u00b7 Irritability and mood ...",
+      "snippet_highlighted_words": [
+        "Frequent urination"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Signs and symptoms \u00b7 Frequent urination \u00b7 Extreme hunger but loss of weight \u00b7 Unusual thirst \u00b7 Blurred vision \u00b7 Extreme weakness and fatigue \u00b7 Irritability and mood ...",
+          "source_info_link": "https://www.chop.edu/conditions-diseases/type-2-diabetes",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc4Nzc3Nzc3NTc3NzI3ODc3NzczMjc3Nzc3Nzc3Ny01NTU1NS83Nf_AABEIABwAHAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAAFAAECBAYD_8QAJxAAAgEEAAUEAwEAAAAAAAAAAQIEAAMFEQYSIVFhE0GBoTEycSL_xAAaAQACAwEBAAAAAAAAAAAAAAAABAECBQYD_8QAIxEAAgICAgEEAwAAAAAAAAAAAQIAAwQREiExIjJRYQVBcf_aAAwDAQACEQMRAD8ANRot6VfWxGtm5db8KK6JmVByY9Tj0RrG4qNmXsngpuMirIk-lyswXSMSQdfzxXjVk12txWMXYdtC8n1qDKYisaiTuaTh4vawuWvw13MVQAR-wXx9n4pLIAa5Ff2zRw9rj2tX7p1x8LEzMtGs2mMoNGa5fJdj_vp138motsuSpieu-v5L0049lyqvq62e_wByOK4XlJk7bT7FtooLcw5976HX3qotzENZ4HuFH41xaDYPTM5MCpLvoo0q3GAHYbp5DtQTM2wBXYD5MsY7IyMbJ9eKwB1plYbVh2NUsqW1eLS9F70NySaPC8QR7s1keLDx6uhNy8pALH266Hf33SN-M4TyW-pp42dW1hBULvyYK4dnPZzqPKmt6J5w73bp0eh1vfnVe-RWGp0q9xTDvK5G3frvyYJm6eZfZSCrXWII9xs0yg0gH1FLSDYxHyZEDpUyhi1RCKiRGA3RuWAn_9k.jpg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWF9TenFZaHM0RWZNYzVNXzlocTRpUmlLc2pPQ1dmcWdWSXdnbzc2N1J2TmRuRmg3NnliM1IyZUxYdmJiUm5ublNPVndielBtQWp5ZTRLVTNkalIzTDhESzl0OF9ucmY0a2lTN1VmZnA3MmNBcjVBcFhyNlZQalFheTJGMGU3b25MQlFNSF9adUtkUDJKVlNUa0pmTDU5URIEGgIIABqSBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOwGCAAQABgAIAAqdQoFZWFybHkVAAAAABoJYmVnaW5uaW5nGg9jYXVzZXMgc3ltcHRvbXMaBWZpcnN0GgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHaW5pdGlhbBoNc2lnbiBzeW1wdG9tcxoEc29vbhoKZWFybHlzaWducypvCgVzaWducxXv0y4_Gg9jYXVzZXMgc3ltcHRvbXMaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdzaWduIG9mGg1zaWduIHN5bXB0b21zGgZzdGFnZXMaCHN5bXB0b21zGgplYXJseXNpZ25zKgkKAm9mFQAAAAAqKAoEdHlwZRUxG9ZAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqLgoBMhXFBdNAGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMV-XXuQBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWF9TenFZaHM0RWZNYzVNXzlocTRpUmlLc2pPQ1dmcWdWSXdnbzc2N1J2TmRuRmg3NnliM1IyZUxYdmJiUm5ublNPVndielBtQWp5ZTRLVTNkalIzTDhESzl0OF9ucmY0a2lTN1VmZnA3MmNBcjVBcFhyNlZQalFheTJGMGU3b25MQlFNSF9adUtkUDJKVlNUa0pmTDU5UTpAPGI-VHlwZSAyIERpYWJldGVzPC9iPiB8IENoaWxkcmVuJiMzOTtzIEhvc3BpdGFsIG9mIFBoaWxhZGVscGhpYULeAVNpZ25zIGFuZCBzeW1wdG9tcyAmbWlkZG90OyA8Yj5GcmVxdWVudCB1cmluYXRpb248L2I-ICZtaWRkb3Q7IEV4dHJlbWUgaHVuZ2VyIGJ1dCBsb3NzIG9mIHdlaWdodCAmbWlkZG90OyBVbnVzdWFsIHRoaXJzdCAmbWlkZG90OyBCbHVycmVkIHZpc2lvbiAmbWlkZG90OyBFeHRyZW1lIHdlYWtuZXNzIGFuZCBmYXRpZ3VlICZtaWRkb3Q7IElycml0YWJpbGl0eSBhbmQgbW9vZCZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWF9TenFZaHM0RWZNYzVNXzlocTRpUmlLc2pPQ1dmcWdWSXdnbzc2N1J2TmRuRmg3NnliM1IyZUxYdmJiUm5ublNPVndielBtQWp5ZTRLVTNkalIzTDhESzl0OF9ucmY0a2lTN1VmZnA3MmNBcjVBcFhyNlZQalFheTJGMGU3b25MQlFNSF9adUtkUDJKVlNUa0pmTDU5URIEGgIIABqSBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOwGCAAQABgAIAAqdQoFZWFybHkVAAAAABoJYmVnaW5uaW5nGg9jYXVzZXMgc3ltcHRvbXMaBWZpcnN0GgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHaW5pdGlhbBoNc2lnbiBzeW1wdG9tcxoEc29vbhoKZWFybHlzaWducypvCgVzaWducxXv0y4_Gg9jYXVzZXMgc3ltcHRvbXMaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdzaWduIG9mGg1zaWduIHN5bXB0b21zGgZzdGFnZXMaCHN5bXB0b21zGgplYXJseXNpZ25zKgkKAm9mFQAAAAAqKAoEdHlwZRUxG9ZAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqLgoBMhXFBdNAGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMV-XXuQBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzMqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWF9TenFZaHM0RWZNYzVNXzlocTRpUmlLc2pPQ1dmcWdWSXdnbzc2N1J2TmRuRmg3NnliM1IyZUxYdmJiUm5ublNPVndielBtQWp5ZTRLVTNkalIzTDhESzl0OF9ucmY0a2lTN1VmZnA3MmNBcjVBcFhyNlZQalFheTJGMGU3b25MQlFNSF9adUtkUDJKVlNUa0pmTDU5UTpAPGI-VHlwZSAyIERpYWJldGVzPC9iPiB8IENoaWxkcmVuJiMzOTtzIEhvc3BpdGFsIG9mIFBoaWxhZGVscGhpYULeAVNpZ25zIGFuZCBzeW1wdG9tcyAmbWlkZG90OyA8Yj5GcmVxdWVudCB1cmluYXRpb248L2I-ICZtaWRkb3Q7IEV4dHJlbWUgaHVuZ2VyIGJ1dCBsb3NzIG9mIHdlaWdodCAmbWlkZG90OyBVbnVzdWFsIHRoaXJzdCAmbWlkZG90OyBCbHVycmVkIHZpc2lvbiAmbWlkZG90OyBFeHRyZW1lIHdlYWtuZXNzIGFuZCBmYXRpZ3VlICZtaWRkb3Q7IElycml0YWJpbGl0eSBhbmQgbW9vZCZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "source": "Children's Hospital of Philadelphia",
+      "read_more_link": "https://www.chop.edu/conditions-diseases/type-2-diabetes#:~:text=Signs%20and%20symptoms&text=Frequent%20urination&text=Extreme%20hunger%20but%20loss%20of,weight&text=Unusual%20thirst&text=Blurred%20vision&text=Extreme%20weakness%20and%20fatigue&text=Irritability%20and%20mood%20changes"
+    },
+    {
+      "position": 2,
+      "title": "Good to Know: Diabetes Symptoms and Tests - PMC",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6969655/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHEIkXXvF3z0WiORQQW_Y6s_C2pOofONvFrzcMArt3FGIRQiw1P4HMdNVud8qH24NE0p0NLSB8QPqPAYz11zs3LmXUfwNLCjyMp7zBrflpVICMUUY8j9Q4cz12jXxIyPAkWQY_paLNFTMhy1Wj_&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov \u203a articles \u203a PMC6969655",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____x8fHZ2dro6OnI1OLm7PLIycpLTlNUV1tPUVaYrckANIcAQ40AOIjF0eBgYmZXWV2am54nYZwAT5MATZLU3egAPosAUpQASI-Ko8Jxc3Zqi7QAS5G_wMH2-ftKdaekt88AQYy7ydulpqgYWZiEhYiur7HtRrZhAAAAr0lEQVR4AbXOtQHDABAEwRMzM7P679D8Fn2qTSdZ3JcgUhIgy7KyM1XTKQMwLdtxN_S2_AAIoyjeUN-pISFJs7xg0SuBqs5ShUW9QWtnccei57fo7WwYOaSn6ITsEyH7RLh_iunpjP4EzFEUsugBRZ6lCTskQkmzugKHC9DFmd1yaAgYh8zuwaC_AhHdELI3hOcbyt_Mf99E7xtq1XxKe91YudNjS2woEej7Xsa9PQHRihsm1AtvDQAAAABJRU5ErkJggg.png",
+      "author": "by FPGFPG Test",
+      "snippet": "Common signs and symptoms of diabetes include: \u00b7 Urinating more than usual \u00b7 Feeling very thirsty \u00b7 Feeling hungry even after eating \u00b7 Feeling tired \u00b7 Having blurred ...",
+      "snippet_highlighted_words": [
+        "Urinating more than usual"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common signs and symptoms of diabetes include: \u00b7 Urinating more than usual \u00b7 Feeling very thirsty \u00b7 Feeling hungry even after eating \u00b7 Feeling tired \u00b7 Having blurred ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6969655/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAdVBMVEX____x8fHZ2dro6OnI1OLm7PLIycpLTlNUV1tPUVaYrckANIcAQ40AOIjF0eBgYmZXWV2am54nYZwAT5MATZLU3egAPosAUpQASI-Ko8Jxc3Zqi7QAS5G_wMH2-ftKdaekt88AQYy7ydulpqgYWZiEhYiur7HtRrZhAAAAr0lEQVR4AbXOtQHDABAEwRMzM7P679D8Fn2qTSdZ3JcgUhIgy7KyM1XTKQMwLdtxN_S2_AAIoyjeUN-pISFJs7xg0SuBqs5ShUW9QWtnccei57fo7WwYOaSn6ITsEyH7RLh_iunpjP4EzFEUsugBRZ6lCTskQkmzugKHC9DFmd1yaAgYh8zuwaC_AhHdELI3hOcbyt_Mf99E7xtq1XxKe91YudNjS2woEej7Xsa9PQHRihsm1AtvDQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFY2aWFXcUNDaUsyTHRNQlVVYXVwUWJTSVRQeEl0Z1pqVzRERS1rQmsyenZCaHo3WHdzVkNja0J2ZnJIYkNWN0dja01KWV9pY3hONWRacUp2ZzhLRk5nRWlzMldVYjhUTGlkMHRHR0JfSkd3OHFOWi0yMldSR3lfTG5xU1ptWjJaSWdxdkQycUJzNmhKEgQaAggAGvgGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0gYIABAAGAAgACp1CgVlYXJseRVkKqo-GgliZWdpbm5pbmcaD2NhdXNlcyBzeW1wdG9tcxoFZmlyc3QaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdpbml0aWFsGg1zaWduIHN5bXB0b21zGgRzb29uGgplYXJseXNpZ25zKm8KBXNpZ25zFVNcpz4aD2NhdXNlcyBzeW1wdG9tcxoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB3NpZ24gb2YaDXNpZ24gc3ltcHRvbXMaBnN0YWdlcxoIc3ltcHRvbXMaCmVhcmx5c2lnbnMqCQoCb2YVAAAAACooCgR0eXBlFZC4pj8aBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyouCgEyFUWdqz8aA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxXL96tAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMyogEvZ290bz91cmw9Q0FFU2JnSEVJa1hYVjZpYVdxQ0NpSzJMdE1CVVVhdXBRYlNJVFB4SXRnWmpXNERFLWtCazJ6dkJoejdYd3NWQ2NrQnZmckhiQ1Y3R2NrTUpZX2ljeE41ZFpxSnZnOEtGTmdFaXMyV1ViOFRMaWQwdEdHQl9KR3c4cU5aLTIyV1JHeV9MbnFTWm1aMlpJZ3F2RDJxQnM2aEo6Nkdvb2QgdG8gS25vdzogPGI-RGlhYmV0ZXMgU3ltcHRvbXM8L2I-IGFuZCBUZXN0cyAtIFBNQ0LYAUNvbW1vbiBzaWducyBhbmQgc3ltcHRvbXMgb2YgZGlhYmV0ZXMgaW5jbHVkZTogJm1pZGRvdDsgPGI-VXJpbmF0aW5nIG1vcmUgdGhhbiB1c3VhbDwvYj4gJm1pZGRvdDsgRmVlbGluZyB2ZXJ5IHRoaXJzdHkgJm1pZGRvdDsgRmVlbGluZyBodW5ncnkgZXZlbiBhZnRlciBlYXRpbmcgJm1pZGRvdDsgRmVlbGluZyB0aXJlZCAmbWlkZG90OyBIYXZpbmcgYmx1cnJlZCZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWFY2aWFXcUNDaUsyTHRNQlVVYXVwUWJTSVRQeEl0Z1pqVzRERS1rQmsyenZCaHo3WHdzVkNja0J2ZnJIYkNWN0dja01KWV9pY3hONWRacUp2ZzhLRk5nRWlzMldVYjhUTGlkMHRHR0JfSkd3OHFOWi0yMldSR3lfTG5xU1ptWjJaSWdxdkQycUJzNmhKEgQaAggAGvgGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0gYIABAAGAAgACp1CgVlYXJseRVkKqo-GgliZWdpbm5pbmcaD2NhdXNlcyBzeW1wdG9tcxoFZmlyc3QaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdpbml0aWFsGg1zaWduIHN5bXB0b21zGgRzb29uGgplYXJseXNpZ25zKm8KBXNpZ25zFVNcpz4aD2NhdXNlcyBzeW1wdG9tcxoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB3NpZ24gb2YaDXNpZ24gc3ltcHRvbXMaBnN0YWdlcxoIc3ltcHRvbXMaCmVhcmx5c2lnbnMqCQoCb2YVAAAAACooCgR0eXBlFZC4pj8aBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyouCgEyFUWdqz8aA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxXL96tAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMyogEvZ290bz91cmw9Q0FFU2JnSEVJa1hYVjZpYVdxQ0NpSzJMdE1CVVVhdXBRYlNJVFB4SXRnWmpXNERFLWtCazJ6dkJoejdYd3NWQ2NrQnZmckhiQ1Y3R2NrTUpZX2ljeE41ZFpxSnZnOEtGTmdFaXMyV1ViOFRMaWQwdEdHQl9KR3c4cU5aLTIyV1JHeV9MbnFTWm1aMlpJZ3F2RDJxQnM2aEo6Nkdvb2QgdG8gS25vdzogPGI-RGlhYmV0ZXMgU3ltcHRvbXM8L2I-IGFuZCBUZXN0cyAtIFBNQ0LYAUNvbW1vbiBzaWducyBhbmQgc3ltcHRvbXMgb2YgZGlhYmV0ZXMgaW5jbHVkZTogJm1pZGRvdDsgPGI-VXJpbmF0aW5nIG1vcmUgdGhhbiB1c3VhbDwvYj4gJm1pZGRvdDsgRmVlbGluZyB2ZXJ5IHRoaXJzdHkgJm1pZGRvdDsgRmVlbGluZyBodW5ncnkgZXZlbiBhZnRlciBlYXRpbmcgJm1pZGRvdDsgRmVlbGluZyB0aXJlZCAmbWlkZG90OyBIYXZpbmcgYmx1cnJlZCZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6969655/#:~:text=Common%20signs%20and%20symptoms%20of,diabetes%20include%3A&text=Urinating%20more%20than%20usual&text=Feeling%20very%20thirsty&text=Feeling%20hungry%20even%20after%20eating&text=Feeling%20tired&text=Having%20blurred%20vision"
+    },
+    {
+      "position": 3,
+      "title": "10 Early Signs of Diabetes",
+      "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0",
+      "displayed_link": "464K+ views",
+      "date": "2 years ago",
+      "thumbnail": "https://serpapi.com/searches/6aececafeb46ef50dd16ad11/images/9rIqFrF_VjmCr1-dNFf63rx2SrqmArmY2B7P9G9SlmQ.png",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+      "snippet": "This video shares 10 early warning signs of the condition. 0:00 Introduction 0:30 Feeling extra thirsty 0:48 Frequent bathroom breaks 0:59 ...",
+      "duration": "3:45",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=0"
+        },
+        {
+          "time": "00:30",
+          "title": "Feeling extra thirsty",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=30"
+        },
+        {
+          "time": "00:48",
+          "title": "Frequent bathroom breaks",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=48"
+        },
+        {
+          "time": "00:59",
+          "title": "Frequent urinary tract infections",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=59"
+        },
+        {
+          "time": "01:21",
+          "title": "Weight changes",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=81"
+        },
+        {
+          "time": "01:42",
+          "title": "Blurry vision",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=102"
+        },
+        {
+          "time": "01:56",
+          "title": "Fatigue",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=116"
+        },
+        {
+          "time": "02:16",
+          "title": "Skin changes",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=136"
+        },
+        {
+          "time": "02:32",
+          "title": "Numbness or tingling in your feet",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=152"
+        },
+        {
+          "time": "02:48",
+          "title": "Lower sex drive",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=168"
+        },
+        {
+          "time": "02:57",
+          "title": "Changes to your periods",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=177"
+        },
+        {
+          "time": "03:15",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=wcQCmX8fHW0&t=195"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This video shares 10 early warning signs of the condition. 0:00 Introduction 0:30 Feeling extra thirsty 0:48 Frequent bathroom breaks 0:59 ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGpoZm9VMjRnbE51ZzJMbTJ3Y0FfSjBKQUhJME9kZV9SWFB1SExKSlpvZFdZZlBsTkVrQXhuQXZobWo3Tm8ySllQS09jbmdzZWZQRnBwbDJONEJucVZ1SWVwZFl0a3kxb3dSWkRXZlVTRnRLdjYyVWZ1aUZrMUpCUm1UR2JyX2NfZFdtUxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWGpoZm9VMjRnbE51ZzJMbTJ3Y0FfSjBKQUhJME9kZV9SWFB1SExKSlpvZFdZZlBsTkVrQXhuQXZobWo3Tm8ySllQS09jbmdzZWZQRnBwbDJONEJucVZ1SWVwZFl0a3kxb3dSWkRXZlVTRnRLdjYyVWZ1aUZrMUpCUm1UR2JyX2NfZFdtUxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "YouTube \u00b7 Cleveland Clinic"
+    },
+    {
+      "position": 4,
+      "title": "Don't Let Diabetes Sneak Up on You: Know These 6 Early ...",
+      "link": "https://www.wynantskillfamilymed.com/post/dont-let-diabetes-sneak-up-on-you-know-these-6-early-signs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEBxCJF10MxYpJywf1hq3ceN1-BE1tHZVJQe24WVJn3PxWzxjSUUvdMw8bz7TCB_fzo5ddjEAMcWvuXaw7mLzABm0RaCqSa375pTfk4JxNt-JA3crokOgRqakLiYfxY2t7rC_I25gz3Cpck3w3okmLBvknYXuXAN936nef5-Q5okcoqvXolSLvEgw6GIKdF4OhFL_o7wQoTLYlrWkGZ1RfGng&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.wynantskillfamilymed.com \u203a post \u203a dont-let...",
+      "date": "Nov 1, 2024",
+      "snippet": "1. Tingling or numbness in hands or feet \u00b7 2. Blurry vision \u00b7 3. Frequent urination \u00b7 4. Constant thirst \u00b7 5. Weight changes \u00b7 6. Slow-healing wounds.",
+      "snippet_highlighted_words": [
+        "1. Tingling or numbness in hands or feet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Tingling or numbness in hands or feet \u00b7 2. Blurry vision \u00b7 3. Frequent urination \u00b7 4. Constant thirst \u00b7 5. Weight changes \u00b7 6. Slow-healing wounds.",
+          "source_info_link": "https://www.wynantskillfamilymed.com/post/dont-let-diabetes-sneak-up-on-you-know-these-6-early-signs"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjF5RUJOZEtpNmwxeF90TldsRm1lY0c0UjFCX0xJTE81ZERkTjFISF9lVzd3X00yMldDNnNKUXBnWEVSM0lKSGVhWkVCVnU5eUtoTHB2LU1COVJGNFpkUmZqTEtKVHA5VXpEZVFwMDVTNklIZ3FNb0VEVVp2aFd2d0Y0bTlmU1VRMGRtRFpSbDZWUld0cW9Sa2J0VFAzQ05vSmU3SzI4eHlrYmFOX0hSWC00QWt3RFFhQm51UmU1VkhieWhrNTVpUW5UbFdFalZiQzhfV1daNXhEQRIEGgIIABq8BxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCYBwgAEAAYACAAKnUKBWVhcmx5FVMXjEAaCWJlZ2lubmluZxoPY2F1c2VzIHN5bXB0b21zGgVmaXJzdBoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB2luaXRpYWwaDXNpZ24gc3ltcHRvbXMaBHNvb24aCmVhcmx5c2lnbnMqbwoFc2lnbnMVyxc2QBoPY2F1c2VzIHN5bXB0b21zGgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHc2lnbiBvZhoNc2lnbiBzeW1wdG9tcxoGc3RhZ2VzGghzeW1wdG9tcxoKZWFybHlzaWducyoJCgJvZhUAAAAAKigKBHR5cGUVCbEJQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKi4KATIVeojuPxoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFXwLtEAaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlczLoAS9nb3RvP3VybD1DQUVTb1FFQnhDSkYxeUVCTmRLaTZsMXhfdE5XbEZtZWNHNFIxQl9MSUxPNWREZE4xSEhfZVc3d19NMjJXQzZzSlFwZ1hFUjNJSkhlYVpFQlZ1OXlLaExwdi1NQjlSRjRaZFJmakxLSlRwOVV6RGVRcDA1UzZJSGdxTW9FRFVadmhXdndGNG05ZlNVUTBkbURaUmw2VlJXdHFvUmtidFRQM0NOb0plN0syOHh5a2JhTl9IUlgtNEFrd0RRYUJudVJlNVZIYnloazU1aVFuVGxXRWpWYkM4X1dXWjV4REE6TkRvbiYjMzk7dCBMZXQgPGI-RGlhYmV0ZXM8L2I-IFNuZWFrIFVwIG9uIFlvdTogS25vdyBUaGVzZSA2IDxiPkVhcmx5IFNpZ25zPC9iPkLAATxiPjEuIFRpbmdsaW5nIG9yIG51bWJuZXNzIGluIGhhbmRzIG9yIGZlZXQ8L2I-ICZtaWRkb3Q7IDIuIEJsdXJyeSB2aXNpb24gJm1pZGRvdDsgMy4gRnJlcXVlbnQgdXJpbmF0aW9uICZtaWRkb3Q7IDQuIENvbnN0YW50IHRoaXJzdCAmbWlkZG90OyA1LiBXZWlnaHQgY2hhbmdlcyAmbWlkZG90OyA2LiBTbG93LWhlYWxpbmcgd291bmRzLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCeENKRjF5RUJOZEtpNmwxeF90TldsRm1lY0c0UjFCX0xJTE81ZERkTjFISF9lVzd3X00yMldDNnNKUXBnWEVSM0lKSGVhWkVCVnU5eUtoTHB2LU1COVJGNFpkUmZqTEtKVHA5VXpEZVFwMDVTNklIZ3FNb0VEVVp2aFd2d0Y0bTlmU1VRMGRtRFpSbDZWUld0cW9Sa2J0VFAzQ05vSmU3SzI4eHlrYmFOX0hSWC00QWt3RFFhQm51UmU1VkhieWhrNTVpUW5UbFdFalZiQzhfV1daNXhEQRIEGgIIABq8BxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCYBwgAEAAYACAAKnUKBWVhcmx5FVMXjEAaCWJlZ2lubmluZxoPY2F1c2VzIHN5bXB0b21zGgVmaXJzdBoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB2luaXRpYWwaDXNpZ24gc3ltcHRvbXMaBHNvb24aCmVhcmx5c2lnbnMqbwoFc2lnbnMVyxc2QBoPY2F1c2VzIHN5bXB0b21zGgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHc2lnbiBvZhoNc2lnbiBzeW1wdG9tcxoGc3RhZ2VzGghzeW1wdG9tcxoKZWFybHlzaWducyoJCgJvZhUAAAAAKigKBHR5cGUVCbEJQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKi4KATIVeojuPxoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFXwLtEAaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlczLoAS9nb3RvP3VybD1DQUVTb1FFQnhDSkYxeUVCTmRLaTZsMXhfdE5XbEZtZWNHNFIxQl9MSUxPNWREZE4xSEhfZVc3d19NMjJXQzZzSlFwZ1hFUjNJSkhlYVpFQlZ1OXlLaExwdi1NQjlSRjRaZFJmakxLSlRwOVV6RGVRcDA1UzZJSGdxTW9FRFVadmhXdndGNG05ZlNVUTBkbURaUmw2VlJXdHFvUmtidFRQM0NOb0plN0syOHh5a2JhTl9IUlgtNEFrd0RRYUJudVJlNVZIYnloazU1aVFuVGxXRWpWYkM4X1dXWjV4REE6TkRvbiYjMzk7dCBMZXQgPGI-RGlhYmV0ZXM8L2I-IFNuZWFrIFVwIG9uIFlvdTogS25vdyBUaGVzZSA2IDxiPkVhcmx5IFNpZ25zPC9iPkLAATxiPjEuIFRpbmdsaW5nIG9yIG51bWJuZXNzIGluIGhhbmRzIG9yIGZlZXQ8L2I-ICZtaWRkb3Q7IDIuIEJsdXJyeSB2aXNpb24gJm1pZGRvdDsgMy4gRnJlcXVlbnQgdXJpbmF0aW9uICZtaWRkb3Q7IDQuIENvbnN0YW50IHRoaXJzdCAmbWlkZG90OyA1LiBXZWlnaHQgY2hhbmdlcyAmbWlkZG90OyA2LiBTbG93LWhlYWxpbmcgd291bmRzLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "source": "Wynantskill Family Medicine",
+      "read_more_link": "https://www.wynantskillfamilymed.com/post/dont-let-diabetes-sneak-up-on-you-know-these-6-early-signs#:~:text=1.%20Tingling%20or%20numbness%20in,hands%20or%20feet&text=2.%20Blurry%20vision&text=3.%20Frequent%20urination&text=4.%20Constant%20thirst&text=5.%20Weight%20changes&text=6.%20Slow%2Dhealing%20wounds"
+    },
+    {
+      "position": 5,
+      "title": "Type 2 Diabetes: Symptoms and Treatments | Fact Sheets",
+      "link": "https://www.yalemedicine.org/conditions/type-2-diabetes-symptoms-treatments",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF1zk4eZs44P7NhmE-TPX15jrLu43B9Nt4FUjnTD2dSm6kkF4NI1Qjq0NxaQjhRsLfMw096UhT6lviVk77VNKn5RMF-SiH3945b36gUA0h7U9OBOZg_g4er2YR2efq--pPm3rk4MSDx1buolxBULO6Jcn-mYSPJPfM3HdiXFQRkeLGJLaF&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://www.yalemedicine.org \u203a conditions \u203a type-2-dia...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEU2iso2i8o1isoxiMkkhMgfgscrhshUmNDB1uzb5_TQ4fCVveBDkM2wzeebv-Hk7fdbnNHu9PoAe8S70-r6_f5KlM6mxuRqpNX___-80-pvptZjoNN9rtmuyubF2e2Gs9sJX-DXAAAAu0lEQVR4AdSOhQHDQAhFW_gQd5de9t-yXOo2QHF4JxxMjqZm78kL_ZQ_hAyBEquAFPuYha-QgzCKE02zKAzyUDxLi5Jvz0pR1X4i0rSd9ejb4Q65GxNIFDCmfII_3Mw3aF02Ym5ACJcCpOspfIKMMYuUDA55ohKRe4Kk27jtcNZCuqh-hv7XkncocZCt8gqDG9TFFYIXiGCcYcmGUvV4gZo45xIlzRfWLWXNy-eFAKjP_HA6bzglE7zZAQDcUw1NLDsoWgAAAABJRU5ErkJggg.png",
+      "snippet": "Increased urination \u00b7 Waking at night to urinate \u00b7 Increased thirst \u00b7 Feeling tired \u00b7 Weakness \u00b7 Increased appetite and hunger \u00b7 Recent unintentional weight loss ...",
+      "snippet_highlighted_words": [
+        "Increased urination"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Increased urination \u00b7 Waking at night to urinate \u00b7 Increased thirst \u00b7 Feeling tired \u00b7 Weakness \u00b7 Increased appetite and hunger \u00b7 Recent unintentional weight loss ...",
+          "source_info_link": "https://www.yalemedicine.org/conditions/type-2-diabetes-symptoms-treatments",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEU2iso2i8o1isoxiMkkhMgfgscrhshUmNDB1uzb5_TQ4fCVveBDkM2wzeebv-Hk7fdbnNHu9PoAe8S70-r6_f5KlM6mxuRqpNX___-80-pvptZjoNN9rtmuyubF2e2Gs9sJX-DXAAAAu0lEQVR4AdSOhQHDQAhFW_gQd5de9t-yXOo2QHF4JxxMjqZm78kL_ZQ_hAyBEquAFPuYha-QgzCKE02zKAzyUDxLi5Jvz0pR1X4i0rSd9ejb4Q65GxNIFDCmfII_3Mw3aF02Ym5ACJcCpOspfIKMMYuUDA55ohKRe4Kk27jtcNZCuqh-hv7XkncocZCt8gqDG9TFFYIXiGCcYcmGUvV4gZo45xIlzRfWLWXNy-eFAKjP_HA6bzglE7zZAQDcUw1NLDsoWgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjF3WF9CRFpYNm1EX0dhd2EtY3YtV0lHdnFrRkh1a1Y3SEpKMXVRZUFadW04LVA2a24tZXQxTlp4eFZOVDJpUjdESVBMZGZ2MEIwckw2MmJvWjRIbTJzWDFwcjdxd2czMXZvQ1R5MXpmVlBPd3Zjdll0aFFQMThxcWNZSk5ZbC1hWmZQU3F0RzN3OEtwNzQzTTNJdVk1bVZuMXlZbU93V3FhODRqcGhoclBxLS11NG5oEgQaAggAGq8HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQcIABAAGAAgACp1CgVlYXJseRUAAAAAGgliZWdpbm5pbmcaD2NhdXNlcyBzeW1wdG9tcxoFZmlyc3QaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdpbml0aWFsGg1zaWduIHN5bXB0b21zGgRzb29uGgplYXJseXNpZ25zKm8KBXNpZ25zFQAAAAAaD2NhdXNlcyBzeW1wdG9tcxoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB3NpZ24gb2YaDXNpZ24gc3ltcHRvbXMaBnN0YWdlcxoIc3ltcHRvbXMaCmVhcmx5c2lnbnMqCQoCb2YVAAAAACooCgR0eXBlFZJe30AaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyouCgEyFZzH3EAaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxXQYPJAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMyxgEvZ290bz91cmw9Q0FFU2lBRUJ4Q0pGMXdYX0JEWlg2bURfR2F3YS1jdi1XSUd2cWtGSHVrVjdISkoxdVFlQVp1bTgtUDZrbi1ldDFOWnh4Vk5UMmlSN0RJUExkZnYwQjByTDYyYm9aNEhtMnNYMXByN3F3ZzMxdm9DVHkxemZWUE93dmN2WXRoUVAxOHFxY1lKTllsLWFaZlBTcXRHM3c4S3A3NDNNM0l1WTVtVm4xeVltT3dXcWE4NGpwaGhyUHEtLXU0bmg6RjxiPlR5cGUgMiBEaWFiZXRlczwvYj46IDxiPlN5bXB0b21zPC9iPiBhbmQgVHJlYXRtZW50cyAtIFlhbGUgTWVkaWNpbmVC2wE8Yj5JbmNyZWFzZWQgdXJpbmF0aW9uPC9iPiAmbWlkZG90OyBXYWtpbmcgYXQgbmlnaHQgdG8gdXJpbmF0ZSAmbWlkZG90OyBJbmNyZWFzZWQgdGhpcnN0ICZtaWRkb3Q7IEZlZWxpbmcgdGlyZWQgJm1pZGRvdDsgV2Vha25lc3MgJm1pZGRvdDsgSW5jcmVhc2VkIGFwcGV0aXRlIGFuZCBodW5nZXIgJm1pZGRvdDsgUmVjZW50IHVuaW50ZW50aW9uYWwgd2VpZ2h0IGxvc3MmbmJzcDsuLi5KAm9mUgVmaXJzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjF3WF9CRFpYNm1EX0dhd2EtY3YtV0lHdnFrRkh1a1Y3SEpKMXVRZUFadW04LVA2a24tZXQxTlp4eFZOVDJpUjdESVBMZGZ2MEIwckw2MmJvWjRIbTJzWDFwcjdxd2czMXZvQ1R5MXpmVlBPd3Zjdll0aFFQMThxcWNZSk5ZbC1hWmZQU3F0RzN3OEtwNzQzTTNJdVk1bVZuMXlZbU93V3FhODRqcGhoclBxLS11NG5oEgQaAggAGq8HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQcIABAAGAAgACp1CgVlYXJseRUAAAAAGgliZWdpbm5pbmcaD2NhdXNlcyBzeW1wdG9tcxoFZmlyc3QaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdpbml0aWFsGg1zaWduIHN5bXB0b21zGgRzb29uGgplYXJseXNpZ25zKm8KBXNpZ25zFQAAAAAaD2NhdXNlcyBzeW1wdG9tcxoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB3NpZ24gb2YaDXNpZ24gc3ltcHRvbXMaBnN0YWdlcxoIc3ltcHRvbXMaCmVhcmx5c2lnbnMqCQoCb2YVAAAAACooCgR0eXBlFZJe30AaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyouCgEyFZzH3EAaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxXQYPJAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMyxgEvZ290bz91cmw9Q0FFU2lBRUJ4Q0pGMXdYX0JEWlg2bURfR2F3YS1jdi1XSUd2cWtGSHVrVjdISkoxdVFlQVp1bTgtUDZrbi1ldDFOWnh4Vk5UMmlSN0RJUExkZnYwQjByTDYyYm9aNEhtMnNYMXByN3F3ZzMxdm9DVHkxemZWUE93dmN2WXRoUVAxOHFxY1lKTllsLWFaZlBTcXRHM3c4S3A3NDNNM0l1WTVtVm4xeVltT3dXcWE4NGpwaGhyUHEtLXU0bmg6RjxiPlR5cGUgMiBEaWFiZXRlczwvYj46IDxiPlN5bXB0b21zPC9iPiBhbmQgVHJlYXRtZW50cyAtIFlhbGUgTWVkaWNpbmVC2wE8Yj5JbmNyZWFzZWQgdXJpbmF0aW9uPC9iPiAmbWlkZG90OyBXYWtpbmcgYXQgbmlnaHQgdG8gdXJpbmF0ZSAmbWlkZG90OyBJbmNyZWFzZWQgdGhpcnN0ICZtaWRkb3Q7IEZlZWxpbmcgdGlyZWQgJm1pZGRvdDsgV2Vha25lc3MgJm1pZGRvdDsgSW5jcmVhc2VkIGFwcGV0aXRlIGFuZCBodW5nZXIgJm1pZGRvdDsgUmVjZW50IHVuaW50ZW50aW9uYWwgd2VpZ2h0IGxvc3MmbmJzcDsuLi5KAm9mUgVmaXJzdCICEAFIAFgAaAA",
+      "source": "Yale Medicine",
+      "read_more_link": "https://www.yalemedicine.org/conditions/type-2-diabetes-symptoms-treatments#:~:text=What%20are%20some%20potential%20complications&text=What%20are%20some%20potential%20complications&text=What%20are%20some%20potential%20complications&text=What%20are%20some%20potential%20complications&text=What%20are%20some%20potential%20complications&text=What%20are%20some%20potential%20complications&text=What%20are%20some%20potential%20complications"
+    },
+    {
+      "position": 6,
+      "title": "Prediabetes \u2013 Your Chance to Prevent Type 2 Diabetes",
+      "link": "https://www.cdc.gov/diabetes/prevention-type-2/prediabetes-prevent-type-2.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEBxCJF123X3U_PmC0-xnlutZ5_8Ybz0MzLG14PzbEiEicU59gys4URxy6W7CJ1GyFgtuKxHgNM_QUi50A7BW7VvNkOcGK86PWgM5_hxoZirCSngQkCz3JjCjQqhUJiJhlOxQNkLyRqA4rY8LC0I1YHLmY9yTj-QeWEar9uUyHTANTJEvR36O35PmSp&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.cdc.gov \u203a diabetes \u203a prediabetes-prevent-ty...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwGWbgAV7cAWLcCV7cAV7cAV7cAT7UASLMfYLsCV7eNptb________g5_Tx9Pq2xuSlud7O2OwAPrBvkM1Oe8QAV7d3XXwyAAAAF3RSTlMAZZkbv_84__78-fn7__f49_X2__j17LsicwUAAACsSURBVHgB3Y8FcgMwDAQdUE-GMyr9_1OrMjNnjTdrDL_DZvsMuxD28hwnIcgLcicONCYVdXCTrqXmQtZYCluH6PA0cSWRWXMfwtor6xqs1vO11NIUQORYq_NQ2vIkVzKxq89dAsbhgzg3O-sSgUtVY-ZcAtzIybwO5jJZKVppnnDzlUqyRDrFEBt9vJVqI0fJORtwmZLcSAHgnXOTbuQzfFyGsEunT7PfhSPiDJ1fD1WvIDgAAAAAAElFTkSuQmCC.png",
+      "snippet": "Signs and symptoms \u00b7 Being overweight \u00b7 Being 45 years or older \u00b7 Having a parent, brother, or sister with type 2 diabetes \u00b7 Being physically active less than 3 ...",
+      "snippet_highlighted_words": [
+        "Being overweight"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Signs and symptoms \u00b7 Being overweight \u00b7 Being 45 years or older \u00b7 Having a parent, brother, or sister with type 2 diabetes \u00b7 Being physically active less than 3 ...",
+          "source_info_link": "https://www.cdc.gov/diabetes/prevention-type-2/prediabetes-prevent-type-2.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEwGWbgAV7cAWLcCV7cAV7cAV7cAT7UASLMfYLsCV7eNptb________g5_Tx9Pq2xuSlud7O2OwAPrBvkM1Oe8QAV7d3XXwyAAAAF3RSTlMAZZkbv_84__78-fn7__f49_X2__j17LsicwUAAACsSURBVHgB3Y8FcgMwDAQdUE-GMyr9_1OrMjNnjTdrDL_DZvsMuxD28hwnIcgLcicONCYVdXCTrqXmQtZYCluH6PA0cSWRWXMfwtor6xqs1vO11NIUQORYq_NQ2vIkVzKxq89dAsbhgzg3O-sSgUtVY-ZcAtzIybwO5jJZKVppnnDzlUqyRDrFEBt9vJVqI0fJORtwmZLcSAHgnXOTbuQzfFyGsEunT7PfhSPiDJ1fD1WvIDgAAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjF6LWg0NnAwMUZUaFNmNjRUZ0lzbmdaeGlVcmR2Zkg1aEN0eFBhcjVDNUJTUUxNTS10alJDeVFjQ09iR3hYUlZiOFNOaDU0bzYwTnRzLWJSOGx5NFQxRU92TWY2TUVnTnloNUdlcVVLSTBad042eS1xZDNqVVo2RmZhNUlGdDhOdy16WWJiZFh3bEN2WWlQcnJndVpqdE5QRk8yNDZSckItNU9vNk9wNGstU2FDZW1pbTlvWBIEGgIIABqhBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPsGCAAQABgAIAAqdQoFZWFybHkVAAAAABoJYmVnaW5uaW5nGg9jYXVzZXMgc3ltcHRvbXMaBWZpcnN0GgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHaW5pdGlhbBoNc2lnbiBzeW1wdG9tcxoEc29vbhoKZWFybHlzaWducypvCgVzaWducxVZvAQ_Gg9jYXVzZXMgc3ltcHRvbXMaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdzaWduIG9mGg1zaWduIHN5bXB0b21zGgZzdGFnZXMaCHN5bXB0b21zGgplYXJseXNpZ25zKgkKAm9mFQAAAAAqKAoEdHlwZRXymMtAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqLgoBMhWlDdBAGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMVE6nvQBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzMsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjF6LWg0NnAwMUZUaFNmNjRUZ0lzbmdaeGlVcmR2Zkg1aEN0eFBhcjVDNUJTUUxNTS10alJDeVFjQ09iR3hYUlZiOFNOaDU0bzYwTnRzLWJSOGx5NFQxRU92TWY2TUVnTnloNUdlcVVLSTBad042eS1xZDNqVVo2RmZhNUlGdDhOdy16WWJiZFh3bEN2WWlQcnJndVpqdE5QRk8yNDZSckItNU9vNk9wNGstU2FDZW1pbTlvWDpDUHJlZGlhYmV0ZXMg4oCTIFlvdXIgQ2hhbmNlIHRvIFByZXZlbnQgPGI-VHlwZSAyIERpYWJldGVzPC9iPiAtIENEQ0LMAVNpZ25zIGFuZCBzeW1wdG9tcyAmbWlkZG90OyA8Yj5CZWluZyBvdmVyd2VpZ2h0PC9iPiAmbWlkZG90OyBCZWluZyA0NSB5ZWFycyBvciBvbGRlciAmbWlkZG90OyBIYXZpbmcgYSBwYXJlbnQsIGJyb3RoZXIsIG9yIHNpc3RlciB3aXRoIHR5cGUgMiBkaWFiZXRlcyAmbWlkZG90OyBCZWluZyBwaHlzaWNhbGx5IGFjdGl2ZSBsZXNzIHRoYW4gMyZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjF6LWg0NnAwMUZUaFNmNjRUZ0lzbmdaeGlVcmR2Zkg1aEN0eFBhcjVDNUJTUUxNTS10alJDeVFjQ09iR3hYUlZiOFNOaDU0bzYwTnRzLWJSOGx5NFQxRU92TWY2TUVnTnloNUdlcVVLSTBad042eS1xZDNqVVo2RmZhNUlGdDhOdy16WWJiZFh3bEN2WWlQcnJndVpqdE5QRk8yNDZSckItNU9vNk9wNGstU2FDZW1pbTlvWBIEGgIIABqhBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPsGCAAQABgAIAAqdQoFZWFybHkVAAAAABoJYmVnaW5uaW5nGg9jYXVzZXMgc3ltcHRvbXMaBWZpcnN0GgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHaW5pdGlhbBoNc2lnbiBzeW1wdG9tcxoEc29vbhoKZWFybHlzaWducypvCgVzaWducxVZvAQ_Gg9jYXVzZXMgc3ltcHRvbXMaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdzaWduIG9mGg1zaWduIHN5bXB0b21zGgZzdGFnZXMaCHN5bXB0b21zGgplYXJseXNpZ25zKgkKAm9mFQAAAAAqKAoEdHlwZRXymMtAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMqLgoBMhWlDdBAGgN0d28aBXR5cGUyGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMqOAoIZGlhYmV0ZXMVE6nvQBoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzGg1pdjtwO2RpYWJldGVzMsoBL2dvdG8_dXJsPUNBRVNpd0VCeENKRjF6LWg0NnAwMUZUaFNmNjRUZ0lzbmdaeGlVcmR2Zkg1aEN0eFBhcjVDNUJTUUxNTS10alJDeVFjQ09iR3hYUlZiOFNOaDU0bzYwTnRzLWJSOGx5NFQxRU92TWY2TUVnTnloNUdlcVVLSTBad042eS1xZDNqVVo2RmZhNUlGdDhOdy16WWJiZFh3bEN2WWlQcnJndVpqdE5QRk8yNDZSckItNU9vNk9wNGstU2FDZW1pbTlvWDpDUHJlZGlhYmV0ZXMg4oCTIFlvdXIgQ2hhbmNlIHRvIFByZXZlbnQgPGI-VHlwZSAyIERpYWJldGVzPC9iPiAtIENEQ0LMAVNpZ25zIGFuZCBzeW1wdG9tcyAmbWlkZG90OyA8Yj5CZWluZyBvdmVyd2VpZ2h0PC9iPiAmbWlkZG90OyBCZWluZyA0NSB5ZWFycyBvciBvbGRlciAmbWlkZG90OyBIYXZpbmcgYSBwYXJlbnQsIGJyb3RoZXIsIG9yIHNpc3RlciB3aXRoIHR5cGUgMiBkaWFiZXRlcyAmbWlkZG90OyBCZWluZyBwaHlzaWNhbGx5IGFjdGl2ZSBsZXNzIHRoYW4gMyZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+      "read_more_link": "https://www.cdc.gov/diabetes/prevention-type-2/prediabetes-prevent-type-2.html#:~:text=Signs%20and%20symptoms&text=Being%20overweight&text=Being%2045%20years%20or%20older&text=Having%20a%20parent%2C%20brother%2C%20or,sister%20with%20type%202%20diabetes&text=Being%20physically%20active%20less%20than,3%20times%20a%20week"
+    },
+    {
+      "position": 7,
+      "title": "5 Warning Signs of Type 2 Diabetes",
+      "link": "https://johnsonmemorial.org/blog/5-warning-signs-of-type-2-diabetes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEBxCJF197q8117DxjLNdnButYuJQgn6MtmHLcLXBefoYGekm1mpKO3HD3IHEIYz-8hUgXB-RVCTCyDEspLoJqI4N1O2se563xuSBlcW2Y3dtzKZJH8gNu9pdSGKYUtlEIphOkQ9gsrI3V5-vwvsY2dCR5UfPguH9AU_Pd3hxnS4Q&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://johnsonmemorial.org \u203a blog \u203a 5-warning-signs-of...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACL0lEQVR4AY2TA4wdURSGvztce7c2otq27TasG5uNkwY1YtWKatsNanNtc_bNGza3dvsPLs9_LM6dvxgKVWDGxhCGIf8DIQTNTRYpSSk5muO5ZGlpFD8pRtVUEMA_eAI_oFX31thOFC0hKYF3N95wbOtRYhJjEYDv-7ieh0CgKAqapuE4DiEhmqrhRl0WrV1CpzFd0aTZiqZixpuYcSZOxGHgvCGMXjCGiB3h3YO33Nh_neXrVpGWlcrd03e5vusKiqogZTV-gu_6tOzYkgGj-uMEDqkZqTy5-oRx88aiCpWC1wXIO1-g_Bohvl6wGppJSU-hc9_OSGEAz_VA8AvBbxEEAUkpSfQc0xs5_wX_IrBtG-lr_xH9KCsrxw1cGdQ_E0TtKPL7gpryGmoqa0hOSqIwpwhpvqyB76EBhH6IkWCybMNKGmsbaaxrBMCqsagrq6N9p3bkv8yj14Cev3fhYyp1hREzhjN08tCvQQpcn9znOQCUvCsmNiYGzdSlwI8WAAgEnuPhOi5GjAFAbEIsDy48QAiFvEe5HN5xmOzH2egxxo8EQhFYdRavHrym3_C-zF8zH4B3T95T9qqYM69LZZFxYtMxdENDN78jkEGRpRupi7Bt5RZ6j-9DWss0it4W8ermCxRFBQWcqINsOs_3sZtsWStIWXH-8uXQqBE8OHcfTddwbIcgCFFVRboireNnuLbLgJmDUFsZOZrVYKFlJjFk9UhC_rOdEVhWM3oEPgCT4fRqsijdxAAAAABJRU5ErkJggg.png",
+      "date": "Apr 2, 2017",
+      "snippet": "They include foot pain or numbness, frequent infections, fatigue or areas of darkened skin. If you noticed these symptoms or have questions, ...",
+      "snippet_highlighted_words": [
+        "foot pain or numbness, frequent infections, fatigue or areas of darkened skin"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "They include foot pain or numbness, frequent infections, fatigue or areas of darkened skin. If you noticed these symptoms or have questions, ...",
+          "source_info_link": "https://johnsonmemorial.org/blog/5-warning-signs-of-type-2-diabetes",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACL0lEQVR4AY2TA4wdURSGvztce7c2otq27TasG5uNkwY1YtWKatsNanNtc_bNGza3dvsPLs9_LM6dvxgKVWDGxhCGIf8DIQTNTRYpSSk5muO5ZGlpFD8pRtVUEMA_eAI_oFX31thOFC0hKYF3N95wbOtRYhJjEYDv-7ieh0CgKAqapuE4DiEhmqrhRl0WrV1CpzFd0aTZiqZixpuYcSZOxGHgvCGMXjCGiB3h3YO33Nh_neXrVpGWlcrd03e5vusKiqogZTV-gu_6tOzYkgGj-uMEDqkZqTy5-oRx88aiCpWC1wXIO1-g_Bohvl6wGppJSU-hc9_OSGEAz_VA8AvBbxEEAUkpSfQc0xs5_wX_IrBtG-lr_xH9KCsrxw1cGdQ_E0TtKPL7gpryGmoqa0hOSqIwpwhpvqyB76EBhH6IkWCybMNKGmsbaaxrBMCqsagrq6N9p3bkv8yj14Cev3fhYyp1hREzhjN08tCvQQpcn9znOQCUvCsmNiYGzdSlwI8WAAgEnuPhOi5GjAFAbEIsDy48QAiFvEe5HN5xmOzH2egxxo8EQhFYdRavHrym3_C-zF8zH4B3T95T9qqYM69LZZFxYtMxdENDN78jkEGRpRupi7Bt5RZ6j-9DWss0it4W8ermCxRFBQWcqINsOs_3sZtsWStIWXH-8uXQqBE8OHcfTddwbIcgCFFVRboireNnuLbLgJmDUFsZOZrVYKFlJjFk9UhC_rOdEVhWM3oEPgCT4fRqsijdxAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE4Vm9jMngwbVpoY3BISnBjcFJmUFI3bXFOd1BlcEFLS2ZzODh5LUNFbHI0a0I3bjFpR05rTDNkT2NfY3VvNnp2Q281eHYzUzRlLUxEcm5PWTV4MEJQYURiVnY3eW9UT2ZJSW5QbjRRVjNqaVhrSUdRZHdGODBPZ3RnUHJfX21KU1AzV2swVGVqdXVSZEh0RVY1dnRzSFNCdjFQZ2J0bllVaE5rMHcSBBoCCAAa4QYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAvQYIABAAGAAgACp1CgVlYXJseRW7hic_GgliZWdpbm5pbmcaD2NhdXNlcyBzeW1wdG9tcxoFZmlyc3QaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdpbml0aWFsGg1zaWduIHN5bXB0b21zGgRzb29uGgplYXJseXNpZ25zKm8KBXNpZ25zFUTyqkAaD2NhdXNlcyBzeW1wdG9tcxoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB3NpZ24gb2YaDXNpZ24gc3ltcHRvbXMaBnN0YWdlcxoIc3ltcHRvbXMaCmVhcmx5c2lnbnMqCQoCb2YVAAAAACooCgR0eXBlFc2jw0AaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyouCgEyFUXDxEAaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxXsY-lAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMyvAEvZ290bz91cmw9Q0FFU2dBRUJ4Q0pGMThWb2MyeDBtWmhjcEhKcGNwUmZQUjdtcU53UGVwQUtLZnM4OHktQ0VscjRrQjduMWlHTmtMM2RPY19jdW82enZDbzV4djNTNGUtTERybk9ZNXgwQlBhRGJWdjd5b1RPZklJblBuNFFWM2ppWGtJR1Fkd0Y4ME9ndGdQcl9fbUpTUDNXazBUZWp1dVJkSHRFVjV2dHNIU0J2MVBnYnRuWVVoTmswdzpDNSBXYXJuaW5nIDxiPlNpZ25zIG9mIFR5cGUgMiBEaWFiZXRlczwvYj4gLSBKb2huc29uIE1lbW9yaWFsIEhlYWx0aEKcAVRoZXkgaW5jbHVkZSA8Yj5mb290IHBhaW4gb3IgbnVtYm5lc3MsIGZyZXF1ZW50IGluZmVjdGlvbnMsIGZhdGlndWUgb3IgYXJlYXMgb2YgZGFya2VuZWQgc2tpbjwvYj4uIElmIHlvdSBub3RpY2VkIHRoZXNlIHN5bXB0b21zIG9yIGhhdmUgcXVlc3Rpb25zLCZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCeENKRjE4Vm9jMngwbVpoY3BISnBjcFJmUFI3bXFOd1BlcEFLS2ZzODh5LUNFbHI0a0I3bjFpR05rTDNkT2NfY3VvNnp2Q281eHYzUzRlLUxEcm5PWTV4MEJQYURiVnY3eW9UT2ZJSW5QbjRRVjNqaVhrSUdRZHdGODBPZ3RnUHJfX21KU1AzV2swVGVqdXVSZEh0RVY1dnRzSFNCdjFQZ2J0bllVaE5rMHcSBBoCCAAa4QYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAvQYIABAAGAAgACp1CgVlYXJseRW7hic_GgliZWdpbm5pbmcaD2NhdXNlcyBzeW1wdG9tcxoFZmlyc3QaCmZpcnN0IHNpZ24aDmZpcnN0IHN5bXB0b21zGgdpbml0aWFsGg1zaWduIHN5bXB0b21zGgRzb29uGgplYXJseXNpZ25zKm8KBXNpZ25zFUTyqkAaD2NhdXNlcyBzeW1wdG9tcxoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB3NpZ24gb2YaDXNpZ24gc3ltcHRvbXMaBnN0YWdlcxoIc3ltcHRvbXMaCmVhcmx5c2lnbnMqCQoCb2YVAAAAACooCgR0eXBlFc2jw0AaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlcyouCgEyFUXDxEAaA3R3bxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcyo4CghkaWFiZXRlcxXsY-lAGg10eXBlMmRpYWJldGVzGgkyZGlhYmV0ZXMaDWl2O3A7ZGlhYmV0ZXMyvAEvZ290bz91cmw9Q0FFU2dBRUJ4Q0pGMThWb2MyeDBtWmhjcEhKcGNwUmZQUjdtcU53UGVwQUtLZnM4OHktQ0VscjRrQjduMWlHTmtMM2RPY19jdW82enZDbzV4djNTNGUtTERybk9ZNXgwQlBhRGJWdjd5b1RPZklJblBuNFFWM2ppWGtJR1Fkd0Y4ME9ndGdQcl9fbUpTUDNXazBUZWp1dVJkSHRFVjV2dHNIU0J2MVBnYnRuWVVoTmswdzpDNSBXYXJuaW5nIDxiPlNpZ25zIG9mIFR5cGUgMiBEaWFiZXRlczwvYj4gLSBKb2huc29uIE1lbW9yaWFsIEhlYWx0aEKcAVRoZXkgaW5jbHVkZSA8Yj5mb290IHBhaW4gb3IgbnVtYm5lc3MsIGZyZXF1ZW50IGluZmVjdGlvbnMsIGZhdGlndWUgb3IgYXJlYXMgb2YgZGFya2VuZWQgc2tpbjwvYj4uIElmIHlvdSBub3RpY2VkIHRoZXNlIHN5bXB0b21zIG9yIGhhdmUgcXVlc3Rpb25zLCZuYnNwOy4uLkoCb2ZSBWZpcnN0IgIQAUgAWABoAA",
+      "source": "Johnson Memorial Health",
+      "read_more_link": "https://johnsonmemorial.org/blog/5-warning-signs-of-type-2-diabetes#:~:text=There%20are%20other%20symptoms%20that,Diabetes%20Care%20Center%20at%20317.346.3846."
+    },
+    {
+      "position": 8,
+      "title": "The 10 Warning Signs of Diabetes in Older Adults",
+      "link": "https://www.ncoa.org/article/what-are-10-warning-signs-of-diabetes-in-older-adults/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEBxCJF14gePXvfp_8qjCRdKXgIF-Uy0kTF-Ax0l5_ohWBSgK95CIpjwAL7BcjJYDQ1NawSUbU4hqcGAo1l9JqeRIz5J-pXYroPcUaUTTZUyk8V7tMeqvxlKItDWYPapu0R1vbypcdx2zyQywz-TZx7hXtK8v1JG-HjOnFhxGuPZrVOv7CxRpFTYa2KNJfp-7c&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.ncoa.org \u203a article \u203a what-are-10-warning-si...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAM1BMVEVHcEwEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkCvqrIAAAAEXRSTlMAHliWveTWfDBD_2oJpvImEqjVcMMAAADGSURBVHgBdZJRFsMgCASRIMZVifc_bdsYX2lS59N5sIiSI_AmUdNOT7IA0FLrU9UGwIozrmPEm4P-cdja1bOOadAz815p0j5O61DNcMbPQJxI-DjDRXGFV2PBREeiYdIYE2tnTMYvUVrK4ZqoOGHCRyfH9lUpkMdLuRsnN7-WPbPP1DrPS9NoUD9tHi6pC5n3tHqbLvnVjs1iYt3tVm6S_avoT9vINOkRwNWmiKqUfvsJiVaECDuWtgtioCVZjetah5R4J8cLCbANAvKFEIYAAAAASUVORK5CYII.png",
+      "date": "Apr 26, 2022",
+      "snippet": "They include excessive thirst and urination, blurry vision, and fatigue. If you have any of these diabetes warning signs, talk to your doctor.",
+      "snippet_highlighted_words": [
+        "excessive thirst and urination, blurry vision, and fatigue"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "They include excessive thirst and urination, blurry vision, and fatigue. If you have any of these diabetes warning signs, talk to your doctor.",
+          "source_info_link": "https://www.ncoa.org/article/what-are-10-warning-signs-of-diabetes-in-older-adults/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAM1BMVEVHcEwEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkEopkCvqrIAAAAEXRSTlMAHliWveTWfDBD_2oJpvImEqjVcMMAAADGSURBVHgBdZJRFsMgCASRIMZVifc_bdsYX2lS59N5sIiSI_AmUdNOT7IA0FLrU9UGwIozrmPEm4P-cdja1bOOadAz815p0j5O61DNcMbPQJxI-DjDRXGFV2PBREeiYdIYE2tnTMYvUVrK4ZqoOGHCRyfH9lUpkMdLuRsnN7-WPbPP1DrPS9NoUD9tHi6pC5n3tHqbLvnVjs1iYt3tVm6S_avoT9vINOkRwNWmiKqUfvsJiVaECDuWtgtioCVZjetah5R4J8cLCbANAvKFEIYAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCeENKRjE1TTF1TVF4Qllkc2lVRk1ONDk0V0wxVkpwanNzb3NHVmZ0QWhkUVVCcWozWUo3dWhUemtpdmhjYTg2MTFmR0xHbXF0ajBqa0E4QnNpZDdwQmZCMnM2MUF5b2VGZU9pc29obFpqRVgzRTNXQW55c3RnY3NOdkZGWXJOUHRNZ241U01WQ01qaTdHZTk0emFfTjl1eTNmb1NvaWNQUUdteTYyMmtRelVTY08tVGQxcW9rYnJsM3BxVWpDYzASBBoCCAAa7AYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGBggAEAAYACAAKnUKBWVhcmx5FbU3Cz8aCWJlZ2lubmluZxoPY2F1c2VzIHN5bXB0b21zGgVmaXJzdBoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB2luaXRpYWwaDXNpZ24gc3ltcHRvbXMaBHNvb24aCmVhcmx5c2lnbnMqbwoFc2lnbnMVkDM7QBoPY2F1c2VzIHN5bXB0b21zGgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHc2lnbiBvZhoNc2lnbiBzeW1wdG9tcxoGc3RhZ2VzGghzeW1wdG9tcxoKZWFybHlzaWducyoJCgJvZhUAAAAAKigKBHR5cGUV55NfPxoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKi4KATIVXViOPxoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFTkmk0AaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlczLRAS9nb3RvP3VybD1DQUVTa0FFQnhDSkYxNU0xdU1ReEJZZHNpVUZNTjQ5NFdMMVZKcGpzc29zR1ZmdEFoZFFVQnFqM1lKN3VoVHpraXZoY2E4NjExZkdMR21xdGowamtBOEJzaWQ3cEJmQjJzNjFBeW9lRmVPaXNvaGxaakVYM0UzV0FueXN0Z2NzTnZGRllyTlB0TWduNVNNVkNNamk3R2U5NHphX045dXkzZm9Tb2ljUFFHbXk2MjJrUXpVU2NPLVRkMXFva2JybDNwcVVqQ2MwOj5UaGUgMTAgV2FybmluZyA8Yj5TaWduczwvYj4gb2YgPGI-RGlhYmV0ZXM8L2I-IGluIE9sZGVyIEFkdWx0c0KVAVRoZXkgaW5jbHVkZSA8Yj5leGNlc3NpdmUgdGhpcnN0IGFuZCB1cmluYXRpb24sIGJsdXJyeSB2aXNpb24sIGFuZCBmYXRpZ3VlPC9iPi4gSWYgeW91IGhhdmUgYW55IG9mIHRoZXNlIGRpYWJldGVzIHdhcm5pbmcgc2lnbnMsIHRhbGsgdG8geW91ciBkb2N0b3IuSgJvZlIFZmlyc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCeENKRjE1TTF1TVF4Qllkc2lVRk1ONDk0V0wxVkpwanNzb3NHVmZ0QWhkUVVCcWozWUo3dWhUemtpdmhjYTg2MTFmR0xHbXF0ajBqa0E4QnNpZDdwQmZCMnM2MUF5b2VGZU9pc29obFpqRVgzRTNXQW55c3RnY3NOdkZGWXJOUHRNZ241U01WQ01qaTdHZTk0emFfTjl1eTNmb1NvaWNQUUdteTYyMmtRelVTY08tVGQxcW9rYnJsM3BxVWpDYzASBBoCCAAa7AYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGBggAEAAYACAAKnUKBWVhcmx5FbU3Cz8aCWJlZ2lubmluZxoPY2F1c2VzIHN5bXB0b21zGgVmaXJzdBoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB2luaXRpYWwaDXNpZ24gc3ltcHRvbXMaBHNvb24aCmVhcmx5c2lnbnMqbwoFc2lnbnMVkDM7QBoPY2F1c2VzIHN5bXB0b21zGgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHc2lnbiBvZhoNc2lnbiBzeW1wdG9tcxoGc3RhZ2VzGghzeW1wdG9tcxoKZWFybHlzaWducyoJCgJvZhUAAAAAKigKBHR5cGUV55NfPxoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKi4KATIVXViOPxoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFTkmk0AaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlczLRAS9nb3RvP3VybD1DQUVTa0FFQnhDSkYxNU0xdU1ReEJZZHNpVUZNTjQ5NFdMMVZKcGpzc29zR1ZmdEFoZFFVQnFqM1lKN3VoVHpraXZoY2E4NjExZkdMR21xdGowamtBOEJzaWQ3cEJmQjJzNjFBeW9lRmVPaXNvaGxaakVYM0UzV0FueXN0Z2NzTnZGRllyTlB0TWduNVNNVkNNamk3R2U5NHphX045dXkzZm9Tb2ljUFFHbXk2MjJrUXpVU2NPLVRkMXFva2JybDNwcVVqQ2MwOj5UaGUgMTAgV2FybmluZyA8Yj5TaWduczwvYj4gb2YgPGI-RGlhYmV0ZXM8L2I-IGluIE9sZGVyIEFkdWx0c0KVAVRoZXkgaW5jbHVkZSA8Yj5leGNlc3NpdmUgdGhpcnN0IGFuZCB1cmluYXRpb24sIGJsdXJyeSB2aXNpb24sIGFuZCBmYXRpZ3VlPC9iPi4gSWYgeW91IGhhdmUgYW55IG9mIHRoZXNlIGRpYWJldGVzIHdhcm5pbmcgc2lnbnMsIHRhbGsgdG8geW91ciBkb2N0b3IuSgJvZlIFZmlyc3QiAhABSABYAGgA",
+      "source": "The National Council on Aging (NCOA)",
+      "read_more_link": "https://www.ncoa.org/article/what-are-10-warning-signs-of-diabetes-in-older-adults/#:~:text=They%20include%20excessive%20thirst%20and,signs%2C%20talk%20to%20your%20doctor."
+    },
+    {
+      "position": 9,
+      "title": "Early Signs of Diabetes in Women",
+      "link": "https://www.hackensackmeridianhealth.org/en/healthier-you/2023/02/21/early-signs-of-diabetes-in-women",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEBxCJF18qy5MppJsemk92BHNUbMgr5k0t9hr6SIB72jc84VkEzKqkSK84xKyGQ-zNaCRtdJSFRtxpOcUISwLdS-JIxs_U4-DRqkB7eLTZUwVlwVty1JsUxrIE9R-gb72-vzc2ZX1FoFAeNX1sm528vNQnpEpMBQss-E1VXcq08UFzdeCqtHZAFdYqTjYB8VGWmOFYnlglJAzfloJBEV-h2HbE&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://www.hackensackmeridianhealth.org \u203a 2023/02/21",
+      "favicon": "https://serpapi.com/searches/6aececafeb46ef50dd16ad11/images/9rIqFrF_VjmCr1-dNFf63rdhN7yDYHffVe3YoUMOIkU.png",
+      "date": "Feb 21, 2023",
+      "snippet": "Increased thirst. Are you thirstier than usual throughout the day? \u00b7 More trips to the bathroom. \u00b7 Chronic yeast infections. \u00b7 Recurrent urinary ...",
+      "snippet_highlighted_words": [
+        "Increased thirst"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Increased thirst. Are you thirstier than usual throughout the day? \u00b7 More trips to the bathroom. \u00b7 Chronic yeast infections. \u00b7 Recurrent urinary ...",
+          "source_info_link": "https://www.hackensackmeridianhealth.org/en/healthier-you/2023/02/21/early-signs-of-diabetes-in-women",
+          "icon": "https://serpapi.com/searches/6aececafeb46ef50dd16ad11/images/9rIqFrF_VjmCr1-dNFf63q2GuYhwnlUEjD9CaTJDUA4F64cN9KPW0UQxeBWC2St2.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjEtWWlGWTVCR1NoNURNQ2E0UHo4dm41Qkd5X293cmhCYnhvcUJYazFZdURvajZJTGs3QjlBQUFxSGpXc1Ruc0d2ckdKNkdtR3M5LUR1cDZRaWpZOTUxMmRBRVdRdUtqczdxaC1jUmo5ZGszTjdkT0ZNTmJQb21Za1BZS0JLMEh2aFNPNGFlNWViTndQM3Z5UmgyYzVfdTM3Rk1DR29TM3JRVDVXaF9lQTNwVk9YUHlLVi05bEJ6NGc5QzJrZi1ROEIzaHk5RzBDSW9rUFlQcTYyelUSBBoCCAAargcSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCIBwgAEAAYACAAKnUKBWVhcmx5FSzTmUAaCWJlZ2lubmluZxoPY2F1c2VzIHN5bXB0b21zGgVmaXJzdBoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB2luaXRpYWwaDXNpZ24gc3ltcHRvbXMaBHNvb24aCmVhcmx5c2lnbnMqbwoFc2lnbnMVglSoQBoPY2F1c2VzIHN5bXB0b21zGgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHc2lnbiBvZhoNc2lnbiBzeW1wdG9tcxoGc3RhZ2VzGghzeW1wdG9tcxoKZWFybHlzaWducyoJCgJvZhUAAAAAKigKBHR5cGUV3bKmPxoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKi4KATIVgnanPxoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFSTu1EAaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlczLpAS9nb3RvP3VybD1DQUVTb2dFQnhDSkYxLVlpRlk1QkdTaDVETUNhNFB6OHZuNUJHeV9vd3JoQmJ4b3FCWGsxWXVEb2o2SUxrN0I5QUFBcUhqV3NUbnNHdnJHSjZHbUdzOS1EdXA2UWlqWTk1MTJkQUVXUXVLanM3cWgtY1JqOWRrM043ZE9GTU5iUG9tWWtQWUtCSzBIdmhTTzRhZTVlYk53UDN2eVJoMmM1X3UzN0ZNQ0dvUzNyUVQ1V2hfZUEzcFZPWFB5S1YtOWxCejRnOUMya2YtUThCM2h5OUcwQ0lva1BZUHE2MnpVOkg8Yj5FYXJseSBTaWduczwvYj4gb2YgPGI-RGlhYmV0ZXM8L2I-IGluIFdvbWVuIHwgSGFja2Vuc2FjayBNZXJpZGlhbiAuLi5CtQE8Yj5JbmNyZWFzZWQgdGhpcnN0PC9iPi4gQXJlIHlvdSB0aGlyc3RpZXIgdGhhbiB1c3VhbCB0aHJvdWdob3V0IHRoZSBkYXk_ICZtaWRkb3Q7IE1vcmUgdHJpcHMgdG8gdGhlIGJhdGhyb29tLiAmbWlkZG90OyBDaHJvbmljIHllYXN0IGluZmVjdGlvbnMuICZtaWRkb3Q7IFJlY3VycmVudCB1cmluYXJ5Jm5ic3A7Li4uSgJvZlIFZmlyc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCeENKRjEtWWlGWTVCR1NoNURNQ2E0UHo4dm41Qkd5X293cmhCYnhvcUJYazFZdURvajZJTGs3QjlBQUFxSGpXc1Ruc0d2ckdKNkdtR3M5LUR1cDZRaWpZOTUxMmRBRVdRdUtqczdxaC1jUmo5ZGszTjdkT0ZNTmJQb21Za1BZS0JLMEh2aFNPNGFlNWViTndQM3Z5UmgyYzVfdTM3Rk1DR29TM3JRVDVXaF9lQTNwVk9YUHlLVi05bEJ6NGc5QzJrZi1ROEIzaHk5RzBDSW9rUFlQcTYyelUSBBoCCAAargcSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCIBwgAEAAYACAAKnUKBWVhcmx5FSzTmUAaCWJlZ2lubmluZxoPY2F1c2VzIHN5bXB0b21zGgVmaXJzdBoKZmlyc3Qgc2lnbhoOZmlyc3Qgc3ltcHRvbXMaB2luaXRpYWwaDXNpZ24gc3ltcHRvbXMaBHNvb24aCmVhcmx5c2lnbnMqbwoFc2lnbnMVglSoQBoPY2F1c2VzIHN5bXB0b21zGgpmaXJzdCBzaWduGg5maXJzdCBzeW1wdG9tcxoHc2lnbiBvZhoNc2lnbiBzeW1wdG9tcxoGc3RhZ2VzGghzeW1wdG9tcxoKZWFybHlzaWducyoJCgJvZhUAAAAAKigKBHR5cGUV3bKmPxoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzKi4KATIVgnanPxoDdHdvGgV0eXBlMhoNdHlwZTJkaWFiZXRlcxoJMmRpYWJldGVzKjgKCGRpYWJldGVzFSTu1EAaDXR5cGUyZGlhYmV0ZXMaCTJkaWFiZXRlcxoNaXY7cDtkaWFiZXRlczLpAS9nb3RvP3VybD1DQUVTb2dFQnhDSkYxLVlpRlk1QkdTaDVETUNhNFB6OHZuNUJHeV9vd3JoQmJ4b3FCWGsxWXVEb2o2SUxrN0I5QUFBcUhqV3NUbnNHdnJHSjZHbUdzOS1EdXA2UWlqWTk1MTJkQUVXUXVLanM3cWgtY1JqOWRrM043ZE9GTU5iUG9tWWtQWUtCSzBIdmhTTzRhZTVlYk53UDN2eVJoMmM1X3UzN0ZNQ0dvUzNyUVQ1V2hfZUEzcFZPWFB5S1YtOWxCejRnOUMya2YtUThCM2h5OUcwQ0lva1BZUHE2MnpVOkg8Yj5FYXJseSBTaWduczwvYj4gb2YgPGI-RGlhYmV0ZXM8L2I-IGluIFdvbWVuIHwgSGFja2Vuc2FjayBNZXJpZGlhbiAuLi5CtQE8Yj5JbmNyZWFzZWQgdGhpcnN0PC9iPi4gQXJlIHlvdSB0aGlyc3RpZXIgdGhhbiB1c3VhbCB0aHJvdWdob3V0IHRoZSBkYXk_ICZtaWRkb3Q7IE1vcmUgdHJpcHMgdG8gdGhlIGJhdGhyb29tLiAmbWlkZG90OyBDaHJvbmljIHllYXN0IGluZmVjdGlvbnMuICZtaWRkb3Q7IFJlY3VycmVudCB1cmluYXJ5Jm5ic3A7Li4uSgJvZlIFZmlyc3QiAhABSABYAGgA",
+      "source": "Hackensack Meridian Health",
+      "read_more_link": "https://www.hackensackmeridianhealth.org/en/healthier-you/2023/02/21/early-signs-of-diabetes-in-women#:~:text=Increased%20thirst.%20Are%20you%20thirstier,than%20usual%20throughout%20the%20day%3F&text=More%20trips%20to%20the%20bathroom.&text=Chronic%20yeast%20infections.%20Many%20women&text=Recurrent%20urinary%20tract%20infections.%20High%2Dblood"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Early signs of diabetes in women",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Early+signs+of+diabetes+in+women&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Early+signs+of+diabetes+in+women"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes symptoms",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Type+2+diabetes+symptoms&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+symptoms"
+    },
+    {
+      "block_position": 1,
+      "query": "What are 10 warning signs of diabetes",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=What+are+10+warning+signs+of+diabetes&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=What+are+10+warning+signs+of+diabetes"
+    },
+    {
+      "block_position": 1,
+      "query": "Early signs of diabetes in men",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Early+signs+of+diabetes+in+men&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Early+signs+of+diabetes+in+men"
+    },
+    {
+      "block_position": 1,
+      "query": "Signs of type 2 diabetes in men over 50",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Signs+of+type+2+diabetes+in+men+over+50&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Signs+of+type+2+diabetes+in+men+over+50"
+    },
+    {
+      "block_position": 1,
+      "query": "Symptoms of diabetes type 2 in men",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Symptoms+of+diabetes+type+2+in+men&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Symptoms+of+diabetes+type+2+in+men"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 2 diabetes symptoms in toddlers",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Type+2+diabetes+symptoms+in+toddlers&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+2+diabetes+symptoms+in+toddlers"
+    },
+    {
+      "block_position": 1,
+      "query": "Type 1 diabetes symptoms",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&q=Type+1+diabetes+symptoms&sa=X&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ1QJ6BAgwEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Type+1+diabetes+symptoms"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=10&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8NMDegQILRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=10&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAE",
+      "3": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=20&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAG",
+      "4": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=30&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAI",
+      "5": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=40&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAK",
+      "6": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=50&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAM",
+      "7": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=60&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAO",
+      "8": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=70&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAQ",
+      "9": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=80&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAS",
+      "10": "https://www.google.com/search?q=early+signs+of+type+2+diabetes&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDilQKFR4LgPTLJIpDWephGOJbxiFQ:1793911984304&ei=sOzsavqKEt6ii-gPq5rMoQg&start=90&sa=N&sstk=AYl2yk9tiK8v6dj4WhtcVFiKnairw4kucrTkAZ1xxsV6cZ-YN0Pq-VzwovTZxDU9rxLTxPvPxY8a9UCbalHxjx7_xleaaOPTMbqVKw&ved=2ahUKEwj6otT02vGXAxVe0QIHHSsNM4QQ8tMDegQILRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=early+signs+of+type+2+diabetes&start=90"
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "search_metadata": {
+    "id": "6aececd37b5cc00662e178c4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8PEmMvEQrh6Yk8QCvKsvE8S4NvLl6c319LC6z9AfOkc/6aececd37b5cc00662e178c4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8PEmMvEQrh6Yk8QCvKsvE8S4NvLl6c319LC6z9AfOkc/6aececd37b5cc00662e178c4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8PEmMvEQrh6Yk8QCvKsvE8S4NvLl6c319LC6z9AfOkc/6aececd37b5cc00662e178c4.json_with_pixel_position",
+    "created_at": "2026-11-05 20:53:39 UTC",
+    "processed_at": "2026-11-05 20:53:39 UTC",
+    "google_url": "https://www.google.com/search?q=opsumit+side+effects&oq=opsumit+side+effects&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8PEmMvEQrh6Yk8QCvKsvE8S4NvLl6c319LC6z9AfOkc/6aececd37b5cc00662e178c4.html",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "opsumit side effects",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "opsumit side effects",
+    "total_results": 146,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is idiopathic pulmonary arterial hypertension?",
+      "type": "ai_overview",
+      "page_token": "lv-xAHicHdBNbqMwAEBh9TJdNoBDRo0UVfXE0GmDI-M_8GZkTIJbTEwTFCi7XmHOMKfqaaaa7Vt9ep9_3eup_br5Y4ehv6wXi3Ec7xrvG3e4M75b6MvHySyMdq7Spl2vfqzCh6PZoKuBP88GEp6j0tVOFvh6eHNSczIqVCe0u-8Nj2O2hbIUjyEJBM5bNLEtngzwy7IVOIu-q1AvurAJRtax0I5lh4O6M0uZDoi6ctg_kRB3SYkDHtcncWXSpkXUhJWzvWjvu6xIsOJNxJAPsshEKnRzJievRRYQBglp-5WQfaql8PsE7uiTVZSr9MCU0kBMHFmYpepM57qtUsx3Ag37bfZtfH5naXwxLn_ncw2owL5CudUoVsiaiYF-Lgu8FTw5ktkNLElIlv6a6Qwhzf0r4XafIQ5y6U64UKtdYScCHCUSAyXqDwXwS9UugxzAZzXeHs11A27_v978PnbDuj_75h8Vu4xL",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lv-xAHicHdBNbqMwAEBh9TJdNoBDRo0UVfXE0GmDI-M_8GZkTIJbTEwTFCi7XmHOMKfqaaaa7Vt9ep9_3eup_br5Y4ehv6wXi3Ec7xrvG3e4M75b6MvHySyMdq7Spl2vfqzCh6PZoKuBP88GEp6j0tVOFvh6eHNSczIqVCe0u-8Nj2O2hbIUjyEJBM5bNLEtngzwy7IVOIu-q1AvurAJRtax0I5lh4O6M0uZDoi6ctg_kRB3SYkDHtcncWXSpkXUhJWzvWjvu6xIsOJNxJAPsshEKnRzJievRRYQBglp-5WQfaql8PsE7uiTVZSr9MCU0kBMHFmYpepM57qtUsx3Ag37bfZtfH5naXwxLn_ncw2owL5CudUoVsiaiYF-Lgu8FTw5ktkNLElIlv6a6Qwhzf0r4XafIQ5y6U64UKtdYScCHCUSAyXqDwXwS9UugxzAZzXeHs11A27_v978PnbDuj_75h8Vu4xL",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBpZGlvcGF0aGljIHB1bG1vbmFyeSBhcnRlcmlhbCBoeXBlcnRlbnNpb24/IiwibGsiOiJHakozYUdGMElHbHpJR2xrYVc5d1lYUm9hV01nY0hWc2JXOXVZWEo1SUdGeWRHVnlhV0ZzSUdoNWNHVnlkR1Z1YzJsdmJnIiwiYnMiOiJjNVdRT3dfQ0lCU0Y0OHJrekhRblkySjhCTjA3dVBnUG5CRnU1VVlLQkc3VDlOLUxMcmFEUTdlVG5NZVhIUEVTNTd2VERGU0FMTVdrMlpHQjFQc3VCcDFIMEpreGtfYmd4b1JWaDBJeE5Pb2kxYkM0SmxoY3Z6Q2RFZGdocEZnZF9zUUtXUVJzV3pSY0lMYkEta1hoQ1Yzdm1aSkg2TkNTMFZ4SFNxUDJjcmNnWDZtM1pkU0hqOUZDeWxoS242ZGJqZHJLelY5M05pZU1PTTZvRTh6dnB2bXBKM2tZRmxYV3F6YyIsImlkIjoiZmNfMU96c2FzQ1VBX0M5bUxRUDBiM0swQUlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBpZGlvcGF0aGljIHB1bG1vbmFyeSBhcnRlcmlhbCBoeXBlcnRlbnNpb24%2FIiwibGsiOiJHakozYUdGMElHbHpJR2xrYVc5d1lYUm9hV01nY0hWc2JXOXVZWEo1SUdGeWRHVnlhV0ZzSUdoNWNHVnlkR1Z1YzJsdmJnIiwiYnMiOiJjNVdRT3dfQ0lCU0Y0OHJrekhRblkySjhCTjA3dVBnUG5CRnU1VVlLQkc3VDlOLUxMcmFEUTdlVG5NZVhIUEVTNTd2VERGU0FMTVdrMlpHQjFQc3VCcDFIMEpreGtfYmd4b1JWaDBJeE5Pb2kxYkM0SmxoY3Z6Q2RFZGdocEZnZF9zUUtXUVJzV3pSY0lMYkEta1hoQ1Yzdm1aSkg2TkNTMFZ4SFNxUDJjcmNnWDZtM1pkU0hqOUZDeWxoS242ZGJqZHJLelY5M05pZU1PTTZvRTh6dnB2bXBKM2tZRmxYV3F6YyIsImlkIjoiZmNfMU96c2FzQ1VBX0M5bUxRUDBiM0swQUlfNCJ9"
+    },
+    {
+      "question": "What are the potential side effects of taking multiple medications?",
+      "type": "ai_overview",
+      "page_token": "y4Kt8nicHdBLboJAGADg9DIuFRy11cQ0oTAKFsg8_hlh0wCDogyPVqrIrnfpqXqaNl1_u-_rW5_q8ufhWnRde1lNJrfbbXxsmqPOx1lTTZLLvc4mWaJ1mmTlavG4MJ8P2dr5dK2Xd9ciQJ1IKy1LZbHKTIjG82gI4sDx78EmKCPuNcrpBWjMAIEJKG4o980YqynUxUyUiv-ZUAA93XSnZN-GhGNbVljmPNgxJ-7p1rIVL8IQt8yvcJPaRxRDNM-rWESoqFTtCZCukZbYIgaVvtBnJsUltxXJN8qgtlcqWLqq6mWqC8LOWEtoPxmKBgXtVRhPZoKXRKF2T5H1SmqBnCLrOWqHaB_YAvCBDLrjGBN_4w5ssCxGmxOBIvQdQMzWPN8Gp5h7QsneJTX26BbvmFBzX86mMO0IkNEhu67R6P9z_XaoulX70Rx_AVtngsM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=y4Kt8nicHdBLboJAGADg9DIuFRy11cQ0oTAKFsg8_hlh0wCDogyPVqrIrnfpqXqaNl1_u-_rW5_q8ufhWnRde1lNJrfbbXxsmqPOx1lTTZLLvc4mWaJ1mmTlavG4MJ8P2dr5dK2Xd9ciQJ1IKy1LZbHKTIjG82gI4sDx78EmKCPuNcrpBWjMAIEJKG4o980YqynUxUyUiv-ZUAA93XSnZN-GhGNbVljmPNgxJ-7p1rIVL8IQt8yvcJPaRxRDNM-rWESoqFTtCZCukZbYIgaVvtBnJsUltxXJN8qgtlcqWLqq6mWqC8LOWEtoPxmKBgXtVRhPZoKXRKF2T5H1SmqBnCLrOWqHaB_YAvCBDLrjGBN_4w5ssCxGmxOBIvQdQMzWPN8Gp5h7QsneJTX26BbvmFBzX86mMO0IkNEhu67R6P9z_XaoulX70Rx_AVtngsM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHBvdGVudGlhbCBzaWRlIGVmZmVjdHMgb2YgdGFraW5nIG11bHRpcGxlIG1lZGljYXRpb25zPyIsImxrIjoiR2l0emFXUmxJR1ZtWm1WamRITWdiMllnZEdGcmFXNW5JRzExYkhScGNHeGxJRzFsWkdsallYUnBiMjV6IiwiYnMiOiJjNVdRT3dfQ0lCU0Y0OHJrekhRblkySjhCTjA3dVBnUG5CRnU1VVlLQkc3VDlOLUxMcmFEUTdlVG5NZVhIUEVTNTd2VERGU0FMTVdrMlpHQjFQc3VCcDFIMEpreGtfYmd4b1JWaDBJeE5Pb2kxYkM0SmxoY3Z6Q2RFZGdocEZnZF9zUUtXUVJzV3pSY0lMYkEta1hoQ1Yzdm1aSkg2TkNTMFZ4SFNxUDJjcmNnWDZtM1pkU0hqOUZDeWxoS242ZGJqZHJLelY5M05pZU1PTTZvRTh6dnB2bXBKM2tZRmxYV3F6YyIsImlkIjoiZmNfMU96c2FzQ1VBX0M5bUxRUDBiM0swQUlfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHBvdGVudGlhbCBzaWRlIGVmZmVjdHMgb2YgdGFraW5nIG11bHRpcGxlIG1lZGljYXRpb25zPyIsImxrIjoiR2l0emFXUmxJR1ZtWm1WamRITWdiMllnZEdGcmFXNW5JRzExYkhScGNHeGxJRzFsWkdsallYUnBiMjV6IiwiYnMiOiJjNVdRT3dfQ0lCU0Y0OHJrekhRblkySjhCTjA3dVBnUG5CRnU1VVlLQkc3VDlOLUxMcmFEUTdlVG5NZVhIUEVTNTd2VERGU0FMTVdrMlpHQjFQc3VCcDFIMEpreGtfYmd4b1JWaDBJeE5Pb2kxYkM0SmxoY3Z6Q2RFZGdocEZnZF9zUUtXUVJzV3pSY0lMYkEta1hoQ1Yzdm1aSkg2TkNTMFZ4SFNxUDJjcmNnWDZtM1pkU0hqOUZDeWxoS242ZGJqZHJLelY5M05pZU1PTTZvRTh6dnB2bXBKM2tZRmxYV3F6YyIsImlkIjoiZmNfMU96c2FzQ1VBX0M5bUxRUDBiM0swQUlfNCJ9"
+    },
+    {
+      "question": "What are the potential side effects of taking blood pressure medication?",
+      "type": "ai_overview",
+      "page_token": "JGrJa3icHdDdbpswGABQ7WV62fSLl0yNFE2jsVOy2pHBn8HcTK7DT4QBN2El5W7vsqfa02zaGxydX7_9uW__fHpvxjFcN4vFNE339TDUvrx3Q7ew14_eLZz1_tW6drP-soavldvSn3H09BZHEhNq_MmbjB04HMiRhZn34WJBUEtrODIDQuklb-OV2gPgXnPx7AGfi3NJgxTZquP7E3eZNqINR05vF6fExOl4lbnITZ80ZTaAIacCz7A2mLxJ_XhRefsZldi94tiVSB8si4ijjGpcVUfUrYNvkORNrJkkBTvcuNcPYucTTOG7Q720FIC3QfIPUGqp8UV5IzKvS7rqBXtMaONuioTZ5GKnkVVy9qNiTPJ9PKdzFKXJcJbY_PMiSUg96e70kkIoikwoO-snsQwmzRmxSu9ERkeUd5V735K7_5_bH1U3bsJlqP8CKW2AZA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JGrJa3icHdDdbpswGABQ7WV62fSLl0yNFE2jsVOy2pHBn8HcTK7DT4QBN2El5W7vsqfa02zaGxydX7_9uW__fHpvxjFcN4vFNE339TDUvrx3Q7ew14_eLZz1_tW6drP-soavldvSn3H09BZHEhNq_MmbjB04HMiRhZn34WJBUEtrODIDQuklb-OV2gPgXnPx7AGfi3NJgxTZquP7E3eZNqINR05vF6fExOl4lbnITZ80ZTaAIacCz7A2mLxJ_XhRefsZldi94tiVSB8si4ijjGpcVUfUrYNvkORNrJkkBTvcuNcPYucTTOG7Q720FIC3QfIPUGqp8UV5IzKvS7rqBXtMaONuioTZ5GKnkVVy9qNiTPJ9PKdzFKXJcJbY_PMiSUg96e70kkIoikwoO-snsQwmzRmxSu9ERkeUd5V735K7_5_bH1U3bsJlqP8CKW2AZA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHBvdGVudGlhbCBzaWRlIGVmZmVjdHMgb2YgdGFraW5nIGJsb29kIHByZXNzdXJlIG1lZGljYXRpb24/IiwibGsiOiJHaVppYkc5dlpDQndjbVZ6YzNWeVpTQnRaV1JwWTJGMGFXOXVJSE5wWkdVZ1pXWm1aV04wY3ciLCJicyI6ImM1V1FPd19DSUJTRjQ4cmt6SFFuWTJKOEJOMDd1UGdQbkJGdTVVWUtCRzdUOU4tTExyYURRN2VUbk1lWEhQRVM1N3ZUREZTQUxNV2syWkdCMVBzdUJwMUgwSmt4a19iZ3hvUlZoMEl4Tk9vaTFiQzRKbGhjdnpDZEVkZ2hwRmdkX3NRS1dRUnNXelJjSUxiQS1rWGhDVjN2bVpKSDZOQ1MwVnhIU3FQMmNyY2dYNm0zWmRTSGo5RkN5bGhLbjZkYmpkckt6VjkzTmllTU9NNm9FOHp2cHZtcEoza1lGbFhXcXpjIiwiaWQiOiJmY18xT3pzYXNDVUFfQzltTFFQMGIzSzBBSV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHBvdGVudGlhbCBzaWRlIGVmZmVjdHMgb2YgdGFraW5nIGJsb29kIHByZXNzdXJlIG1lZGljYXRpb24%2FIiwibGsiOiJHaVppYkc5dlpDQndjbVZ6YzNWeVpTQnRaV1JwWTJGMGFXOXVJSE5wWkdVZ1pXWm1aV04wY3ciLCJicyI6ImM1V1FPd19DSUJTRjQ4cmt6SFFuWTJKOEJOMDd1UGdQbkJGdTVVWUtCRzdUOU4tTExyYURRN2VUbk1lWEhQRVM1N3ZUREZTQUxNV2syWkdCMVBzdUJwMUgwSmt4a19iZ3hvUlZoMEl4Tk9vaTFiQzRKbGhjdnpDZEVkZ2hwRmdkX3NRS1dRUnNXelJjSUxiQS1rWGhDVjN2bVpKSDZOQ1MwVnhIU3FQMmNyY2dYNm0zWmRTSGo5RkN5bGhLbjZkYmpkckt6VjkzTmllTU9NNm9FOHp2cHZtcEoza1lGbFhXcXpjIiwiaWQiOiJmY18xT3pzYXNDVUFfQzltTFFQMGIzSzBBSV80In0%3D"
+    },
+    {
+      "question": "What are the effects of pulmonary hypertension?",
+      "type": "ai_overview",
+      "page_token": "H2OcU3icHdBLjpswAABQ9TKznGBo0hIpqsKACTQQ2WCD2VSOHUKC-ZS4A-Ndr9AzzKnmNK16gLd5v9_VrW8_Pv1ptB4f29Vqnufn6zBc1eVZDN2KP956sRJcqTMX7XbzZQO-1WIXvArvZRIeIjhgSqqCLD9P0E0vvsf4IT6yjkaXAEy0fayPdG8lTrNJgkbJ1qXImtfEITMtPfjP3SugaEHS4UJVlPU0ElCs8zsB1WH_huxUY1jl3K6sFEDN6d6cSTpJP-6zTh5Le1gQiZzEjv0sdMOqe2je6fX5To1swS9Gvc-s_bqUhs4UpHlBVX3KcSyCq4VJU6JW31Iq_cSHqDSxXRTxhG0NKtMMeYlL1sMDCVyGDRzPtli42ltBI5bcGQ0rU58SWCOjdA4hSsLIZMbzMjzcEGlOSUAcbC3fC-i-ZPeUJyG2ZYeXzBon2VHNw8hBgBk5P9Xidec8_b_e_ag7vR2n4foX_AaMuQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=H2OcU3icHdBLjpswAABQ9TKznGBo0hIpqsKACTQQ2WCD2VSOHUKC-ZS4A-Ndr9AzzKnmNK16gLd5v9_VrW8_Pv1ptB4f29Vqnufn6zBc1eVZDN2KP956sRJcqTMX7XbzZQO-1WIXvArvZRIeIjhgSqqCLD9P0E0vvsf4IT6yjkaXAEy0fayPdG8lTrNJgkbJ1qXImtfEITMtPfjP3SugaEHS4UJVlPU0ElCs8zsB1WH_huxUY1jl3K6sFEDN6d6cSTpJP-6zTh5Le1gQiZzEjv0sdMOqe2je6fX5To1swS9Gvc-s_bqUhs4UpHlBVX3KcSyCq4VJU6JW31Iq_cSHqDSxXRTxhG0NKtMMeYlL1sMDCVyGDRzPtli42ltBI5bcGQ0rU58SWCOjdA4hSsLIZMbzMjzcEGlOSUAcbC3fC-i-ZPeUJyG2ZYeXzBon2VHNw8hBgBk5P9Xidec8_b_e_ag7vR2n4foX_AaMuQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGVmZmVjdHMgb2YgcHVsbW9uYXJ5IGh5cGVydGVuc2lvbj8iLCJsayI6IkdpNTNhR0YwSUdGeVpTQjBhR1VnWldabVpXTjBjeUJ2WmlCd2RXeHRiMjVoY25rZ2FIbHdaWEowWlc1emFXOXUiLCJicyI6ImM1V1FPd19DSUJTRjQ4cmt6SFFuWTJKOEJOMDd1UGdQbkJGdTVVWUtCRzdUOU4tTExyYURRN2VUbk1lWEhQRVM1N3ZUREZTQUxNV2syWkdCMVBzdUJwMUgwSmt4a19iZ3hvUlZoMEl4Tk9vaTFiQzRKbGhjdnpDZEVkZ2hwRmdkX3NRS1dRUnNXelJjSUxiQS1rWGhDVjN2bVpKSDZOQ1MwVnhIU3FQMmNyY2dYNm0zWmRTSGo5RkN5bGhLbjZkYmpkckt6VjkzTmllTU9NNm9FOHp2cHZtcEoza1lGbFhXcXpjIiwiaWQiOiJmY18xT3pzYXNDVUFfQzltTFFQMGIzSzBBSV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWYVRtbHFZak00TmtSR2NrMDVkV0ZuVlhNNFpWUnhWVkZsWHpWZmIzQkRUM1JuWm1VNGFVOVlVMkpOVlZWWVdVSk1OVGs1VERsdVRHZGpOVlJ5YVMxRE5FTjNXRFZXWkhWSmMyaHVNVUZHWnkxYU1VSTBVVGhoVFhveWR4SVhNVTk2YzJGelExVkJYME01YlV4UlVEQmlNMHN3UVVrYUlrRklUakJGTjBZMVZYcHpUMDluUkZGNmFVYzBUbnBRU0VscFdXazRiM0k1U1djIiwiZmN2IjoiMyIsImVpIjoiMU96c2FzQ1VBX0M5bUxRUDBiM0swQUkiLCJxYyI6IkNoUnZjSE4xYldsMElITnBaR1VnWldabVpXTjBjeEFBR0FGOXlJSkdQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGVmZmVjdHMgb2YgcHVsbW9uYXJ5IGh5cGVydGVuc2lvbj8iLCJsayI6IkdpNTNhR0YwSUdGeVpTQjBhR1VnWldabVpXTjBjeUJ2WmlCd2RXeHRiMjVoY25rZ2FIbHdaWEowWlc1emFXOXUiLCJicyI6ImM1V1FPd19DSUJTRjQ4cmt6SFFuWTJKOEJOMDd1UGdQbkJGdTVVWUtCRzdUOU4tTExyYURRN2VUbk1lWEhQRVM1N3ZUREZTQUxNV2syWkdCMVBzdUJwMUgwSmt4a19iZ3hvUlZoMEl4Tk9vaTFiQzRKbGhjdnpDZEVkZ2hwRmdkX3NRS1dRUnNXelJjSUxiQS1rWGhDVjN2bVpKSDZOQ1MwVnhIU3FQMmNyY2dYNm0zWmRTSGo5RkN5bGhLbjZkYmpkckt6VjkzTmllTU9NNm9FOHp2cHZtcEoza1lGbFhXcXpjIiwiaWQiOiJmY18xT3pzYXNDVUFfQzltTFFQMGIzSzBBSV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Opsumit (macitentan) can cause several common and serious side effects. It is prescribed to treat pulmonary arterial hypertension (PAH).",
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Common Side Effects"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Headache (reported in about 14% of patients)"
+          },
+          {
+            "snippet": "Nasopharyngitis or common cold / stuffy nose (up to 20%)"
+          },
+          {
+            "snippet": "Bronchitis or upper respiratory tract infections (11% to 15%)"
+          },
+          {
+            "snippet": "Anemia (low red blood cell count, around 13%)"
+          },
+          {
+            "snippet": "Urinary tract infection (UTI)"
+          },
+          {
+            "snippet": "Influenza-like symptoms",
+            "reference_indexes": [
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Serious Side Effects & Warnings"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Serious Birth Defects / Embryo-Fetal Toxicity: Opsumit can cause severe harm or death to an unborn fetus. Women who can become pregnant must have a negative pregnancy test before starting treatment and use reliable, dual contraception during therapy and for one month after stopping.",
+            "reference_indexes": [
+              0,
+              5
+            ]
+          },
+          {
+            "snippet": "Liver Damage / Hepatotoxicity: Opsumit can affect liver function. Doctors check liver enzymes before starting treatment. Seek immediate medical care for signs of liver problems such as yellowing of the skin or eyes (jaundice), dark urine, severe upper right stomach pain, nausea, or vomiting.",
+            "reference_indexes": [
+              4,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "snippet": "Fluid Retention and Swelling: Peripheral edema (swelling of the hands, legs, or feet) or fluid buildup can occur, usually during the first few weeks of treatment.",
+            "reference_indexes": [
+              0,
+              4
+            ]
+          },
+          {
+            "snippet": "Decreased Red Blood Cells (Anemia): Significant drops in hemoglobin can happen early in treatment and may occasionally require a blood transfusion.",
+            "reference_indexes": [
+              0,
+              7
+            ]
+          },
+          {
+            "snippet": "Decreased Sperm Count: Opsumit may reduce sperm counts and impact male fertility.",
+            "reference_indexes": [
+              0,
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can read more detailed safety guidelines through the Official Opsumit Website or check the full medication outline via GoodRx Opsumit Side Effects Guide. Side effects can also be reported to the FDA MedWatch Program.",
+        "snippet_links": [
+          {
+            "text": "Official Opsumit Website",
+            "link": "https://opsumit.com/"
+          },
+          {
+            "text": "GoodRx Opsumit Side Effects Guide",
+            "link": "https://www.goodrx.com/opsumit/opsumit-side-effects"
+          },
+          {
+            "text": "FDA MedWatch Program",
+            "link": "https://www.fda.gov/medwatch"
+          }
+        ],
+        "reference_indexes": [
+          0,
+          1
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you or someone you care for is taking Opsumit, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you experiencing a specific side effect (such as swelling, fatigue, or headaches)?"
+          },
+          {
+            "snippet": "How long have you been on the medication?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can provide more targeted information or guidance on when to contact your prescribing doctor."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "OPSUMIT\u00ae (macitentan) Pulmonary Arterial Hypertension (PAH ...",
+        "link": "https://opsumit.com/",
+        "snippet": "For Healthcare Professionals * Benefits of OPSUMIT \u00ae Important Safety Information * Getting Started on OPSUMIT \u00ae Taking OPSUMIT \u00ae * PAH: A Closer Look PAH Symptoms...",
+        "source": "Opsumit",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://opsumit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhlA4mXlAGPDnz12__MhETUprITng7MN1g9YHc64PsN9XjVWQcRqiA4q---UQqsmqw7dr2JdDevVBVXsHrHCzvXFwISC053uFCiBH-Mff7QgL1Bo-5zTruVG9XHEieP1GnLXMqxG4vt7CDPKM-iTyZssw"
+      },
+      {
+        "index": 1,
+        "title": "8 Opsumit Side Effects You Should Know About - GoodRx",
+        "link": "https://www.goodrx.com/opsumit/opsumit-side-effects",
+        "snippet": "Key takeaways: * Opsumit (macitentan) is a once-daily oral medication used to manage pulmonary arterial hypertension in adults. It's often taken in combination wit...",
+        "source": "GoodRx",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.goodrx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBpQoO6uSgYAmr0PWbqZXoBxDPgkFYiXn5JXU1y7SbiwGu0qM2Y30chb-LFIlBm77ycx7fl3x_jLLEyWmxg5ym-hmu0d7scdfb-_c9KHAf3H_K-HmOyLQxAq5f2JLJ7oIfZMOvWQEUe5X17GFdAnd10rw"
+      },
+      {
+        "index": 2,
+        "title": "Opsumit (macitentan): Uses, Side Effects, Interactions, Pictures, Warnings & Dosing - WebMD",
+        "link": "https://www.webmd.com/drugs/opsumit-macitentan",
+        "snippet": "Uses: Pulmonary arterial hypertension via blocking endothelin-1 to relax blood vessels and lower lung blood pressure (10 mg oral tablets). Common Side Effects: Ane...",
+        "source": "WebMD",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.webmd.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTynXO_ITFgtlqm1HKItVaILH6Nk_7wPKGR0wUBx7zZiSBCLRSA9qMQdxq20QvKcxrxjgjEiY55IMYyuFThifzVlGe_i7JvfOGWkC3gt7szm9QCPkjDuvSKVNFzlnr82rJgqZacsHURhteIpnTni0f5yQQ"
+      },
+      {
+        "index": 3,
+        "title": "Safety and Tolerability | OPSUMIT\u00ae (macitentan) HCP",
+        "link": "https://www.opsumithcp.com/safety/safety-and-tolerability/",
+        "snippet": "Indication: Treatment of pulmonary arterial hypertension (PAH) in adults to reduce disease progression and hospitalization. Contraindications: Pregnancy (embryo-fe...",
+        "source": "www.opsumithcp.com",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.opsumithcp.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQbu8c95-2WejVR3uNdSeTOu1QuzA9Sm3cEOV8ptrH9cb6cELaKKP8UNCirg2UjxnZjQ7E7i_RIau7plY-WPQEc4ypqgO6R4beUr6hclah_2-W-J_NhTha_1QjjZ_uGoEG4Y-QhJ65OzshGLYcO_PGXS8"
+      },
+      {
+        "index": 4,
+        "title": "Opsumit Side Effects: Common, Severe, Long Term",
+        "link": "https://www.drugs.com/sfx/opsumit-side-effects.html",
+        "snippet": "Warnings: Contraindicated in pregnancy; requires baseline/monthly negative pregnancy tests, dual contraception, and REMS enrollment. Adverse Reactions (Very Common...",
+        "source": "Drugs.com",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.drugs.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNJnoNtb8llnvnmRIdu7-LPyR1quX2sRBzj2zZXpNR-Dwslk9scD_dfwBuclYSnsBPbjYftGVEj-OWWVggDpo1fDreN6dxAjyhZclhypxOXDznGtfr7BSmgQYS3oCJR1w9oYCfg08CAc9AUqoWKvywuZQ"
+      },
+      {
+        "index": 5,
+        "title": "DailyMed - OPSUMIT- macitentan tablet, film coated",
+        "link": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1e484a50-55db-4b85-8c57-6cd1b0353abd",
+        "snippet": "Drug Label Information These highlights do not include all the information needed to use OPSUMIT safely and effectively. See full prescribing information for OPSUM...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailymed.nlm.nih.gov&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 6,
+        "title": "OPSUMIT\u00ae (macitentan) Important Safety Information for Patients",
+        "link": "https://www.opsumit.com/about-opsumit/important-safety-information/",
+        "snippet": "OPSUMIT\u00ae can cause serious side effects, including: * Serious birth defects. * Some medicines that are like OPSUMIT\u00ae can cause liver problems. * Fluid retention co...",
+        "source": "Opsumit",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.opsumit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp5A-_RK_3EwhHkDGP50s1VhRuKtBbxJImFemfo0yxja79PLE3AN8qBXjNxgAB7sWjEtmSG9K7MD06AlmdzopWBjXVGvGACpJ7oVDD9nHu8wwkxY7oDtJuB35D4L0CnSLO96rhZgKbKf8hQc7yrMOoynE"
+      },
+      {
+        "index": 7,
+        "title": "Macitentan (Opsumit) - Pulmonary Hypertension Association",
+        "link": "https://phassociation.org/pulmonary-hypertension/treatments/targeted-therapies/macitentan/",
+        "snippet": "Flu-like illness. * More serious side effects include: * Birth defects: Macitentan can cause serious birth defects if taken during pregnancy. Because of the potent...",
+        "source": "PH Association",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://phassociation.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ83TYirv2Q3mL23aNHZ_pN1yTUh4pobLYhD5d5yZfK2qT1A4fhqVjmLkVCbSeoLlR8eaOxqZug1LliN0KvuRRCGK2-hfguadhWdQQxy_r18jcTPJ_lVWnvodB2oJuuku1jzwyInwr0Ng"
+      },
+      {
+        "index": 8,
+        "title": "Macitentan (oral route) - Side effects & dosage - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/drugs-supplements/macitentan-oral-route/description/drg-20061394",
+        "snippet": "Breastfeeding Drug Interactions Although certain medicines should not be used together at all, in other cases two different medicines may be used together even if ...",
+        "source": "Mayo Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxoyoU1uPvZqxmCkb4ujwhIdFiVvlKH8up5pwccFG6aXSZ13VkxDwAqIgiA-9baVgBPIUcexmBvMLPqHf3i8qAxD0z5qALjpNeeLxk4UPo_UM2-kjRfveVcD1OO2oMF4Bs_7D923FZJXssDztUBNbTfo0"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "This label may not be the latest approved by FDA. For current ...",
+      "link": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/204410s011lbl.pdf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEBxCJF16ugjra66A4a0YTkXaZHZ8ea5dAxWi_V3Y7c8w84C23pRc-EbADNjPkEeWVtOZ8c57FRftl7IkUpSWumgfUP_OFBXU77n7n5e2v8yuEoQCHIYPblJLOWjNalfudmi08F8P7xp8WFtcQgPHiPpNNGtmMXc9m28MqpbUabGJLSlJJemgkq&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://www.accessdata.fda.gov \u203a drugsatfda_docs",
+      "snippet": "Decreased Sperm Counts. Opsumit can cause serious birth defects. Opsumit can cause serious side effects, including: \u2022 Serious birth defects. \u2022 Sperm count ...",
+      "snippet_highlighted_words": [
+        "Opsumit",
+        "Opsumit",
+        "side effects"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Decreased Sperm Counts. Opsumit can cause serious birth defects. Opsumit can cause serious side effects, including: \u2022 Serious birth defects. \u2022 Sperm count ...",
+          "source_info_link": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/204410s011lbl.pdf"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE2eG9GTWJrUlZwR05HVFB4MFY0NWxEOU8yQnl6aWlTb1VPaHJXRW9DZEQxb0dQQThRcHlkZ01jbWxIRWJETjFWNm16dWxrU2FmWHNWMFpyYXhMWHFGLWNvMzRka19hTEhBLUNHWWxJTkhkVG9YTjNPcE1GMHV0S0MtWk5QSVJJNmhzUGhwMW5veFZZRjdkdzFCWG9zcVVuOHBKbmZqbWdhOFBoNGJ1cVRUYWU3Q1Z1EgQaAggAGvMEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzQQIABAAGAAgAComCgdvcHN1bWl0FUu6AkAaCG9wIHN1bWl0GgxpdjtwO29wc3VtaXQqKwoEc2lkZRUiDjs_GgdhZHZlcnNlGghuZWdhdGl2ZRoLc2lkZWVmZmVjdHMqIwoHZWZmZWN0cxWTZVQ_GgZlZmZlY3QaC3NpZGVlZmZlY3RzMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE2eG9GTWJrUlZwR05HVFB4MFY0NWxEOU8yQnl6aWlTb1VPaHJXRW9DZEQxb0dQQThRcHlkZ01jbWxIRWJETjFWNm16dWxrU2FmWHNWMFpyYXhMWHFGLWNvMzRka19hTEhBLUNHWWxJTkhkVG9YTjNPcE1GMHV0S0MtWk5QSVJJNmhzUGhwMW5veFZZRjdkdzFCWG9zcVVuOHBKbmZqbWdhOFBoNGJ1cVRUYWU3Q1Z1OkFUaGlzIGxhYmVsIG1heSBub3QgYmUgdGhlIGxhdGVzdCBhcHByb3ZlZCBieSBGREEuIEZvciBjdXJyZW50IC4uLkK8AURlY3JlYXNlZCBTcGVybSBDb3VudHMuIDxiPk9wc3VtaXQ8L2I-IGNhbiBjYXVzZSBzZXJpb3VzIGJpcnRoIGRlZmVjdHMuIDxiPk9wc3VtaXQ8L2I-IGNhbiBjYXVzZSBzZXJpb3VzIDxiPnNpZGUgZWZmZWN0czwvYj4sIGluY2x1ZGluZzog4oCiIFNlcmlvdXMgYmlydGggZGVmZWN0cy4g4oCiIFNwZXJtIGNvdW50Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE2eG9GTWJrUlZwR05HVFB4MFY0NWxEOU8yQnl6aWlTb1VPaHJXRW9DZEQxb0dQQThRcHlkZ01jbWxIRWJETjFWNm16dWxrU2FmWHNWMFpyYXhMWHFGLWNvMzRka19hTEhBLUNHWWxJTkhkVG9YTjNPcE1GMHV0S0MtWk5QSVJJNmhzUGhwMW5veFZZRjdkdzFCWG9zcVVuOHBKbmZqbWdhOFBoNGJ1cVRUYWU3Q1Z1EgQaAggAGvMEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzQQIABAAGAAgAComCgdvcHN1bWl0FUu6AkAaCG9wIHN1bWl0GgxpdjtwO29wc3VtaXQqKwoEc2lkZRUiDjs_GgdhZHZlcnNlGghuZWdhdGl2ZRoLc2lkZWVmZmVjdHMqIwoHZWZmZWN0cxWTZVQ_GgZlZmZlY3QaC3NpZGVlZmZlY3RzMsYBL2dvdG8_dXJsPUNBRVNpQUVCeENKRjE2eG9GTWJrUlZwR05HVFB4MFY0NWxEOU8yQnl6aWlTb1VPaHJXRW9DZEQxb0dQQThRcHlkZ01jbWxIRWJETjFWNm16dWxrU2FmWHNWMFpyYXhMWHFGLWNvMzRka19hTEhBLUNHWWxJTkhkVG9YTjNPcE1GMHV0S0MtWk5QSVJJNmhzUGhwMW5veFZZRjdkdzFCWG9zcVVuOHBKbmZqbWdhOFBoNGJ1cVRUYWU3Q1Z1OkFUaGlzIGxhYmVsIG1heSBub3QgYmUgdGhlIGxhdGVzdCBhcHByb3ZlZCBieSBGREEuIEZvciBjdXJyZW50IC4uLkK8AURlY3JlYXNlZCBTcGVybSBDb3VudHMuIDxiPk9wc3VtaXQ8L2I-IGNhbiBjYXVzZSBzZXJpb3VzIGJpcnRoIGRlZmVjdHMuIDxiPk9wc3VtaXQ8L2I-IGNhbiBjYXVzZSBzZXJpb3VzIDxiPnNpZGUgZWZmZWN0czwvYj4sIGluY2x1ZGluZzog4oCiIFNlcmlvdXMgYmlydGggZGVmZWN0cy4g4oCiIFNwZXJtIGNvdW50Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+      "position": 2,
+      "title": "PATIENT INPUT SUMMARY - Macitentan (Opsumit) - NCBI - NIH",
+      "link": "https://www.ncbi.nlm.nih.gov/books/NBK349239/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHEIkXXKA0hGf2zeShve31pQAcgAMet6lcmS_a7nFFAYlkQ9eJKRbOFGh1KKiS4n5fEpHq_YNdUSP8sYrIfBVVP8zi9WGGryUtDhqUqQuY4MGKrlBnKk9bgeqNeXaZioCGHUOJanQVR4W4&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECC8QAQ&uoh=1",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a books \u203a NBK349239",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZElEQVR4AWMYBUxMTCy2do5NsfHJLxKS0v6Tgj08fZbADeKVkGIImvyJIWjKfzD273_CYJY0iYFbRAivA4CWt4AMIxcrKavYwQ3TDysCWY6Cnco34XUA0OfPKHFAaHjUJVZWVhawYSwcbAze7VcwHKFk64PTASBDKMWmZhYFcAMVLB0wHODbfYeBjYeDZg4AhuIHAQFBCbih9kXLMBxhFFVDGwcgEuQimJmMAjJSjLAEicBfGPhl5GjjAESCtIE7wiC0BCMU7ItX0MYBiAR5ATlBMmJJkKA0QhsHIBJkHtxweUsnDAd4NF8COo6FZg7ATJDFKzAcoRuUQxsHIBLkArgF_DIyQEtRE6R__ztgCSlCKwcgEiSihCzDCAXrrBkYDqBlgmTybruG5og_DJI6RmAH0AobGZvC45pJwcIFIxTc6g_R1AFa2rph8HJBzTUKS7mwimYOCAgM3cMEBGDbOQX4QNUzmgO-MQgpKNDKAb8kpGR14InQJK4DS91QR7NE6Ojs3ge3XERVA2jhD7Ta8R6wduSiVUH0gouLWwAc70zMTAwu1TswfK_iGESzgkjPwCQBbriSbQCG5S7VuxiYWJho4oDgsOhjsIQHCmJQUKM54BcwSrRoVRn9kZWVN4Hne6PIOnTfM5ol9dCsOnZ185wBz_PA7AXKZmjl_zNQdqRVk-wNLy-fCNxQp7J1GHGv5hpHsyaZsZllFlIbwA1LkXsEmvAwQXR88gMKK51zzKxsyM1y7JUOLgBqwVCx2i3BSHiWaX2EumZMwCDMiY5LeUBh1wylJczo3_8I7CAmFhZ89o8CANLzo8kQBHupAAAAAElFTkSuQmCC.png",
+      "snippet": "Nausea, gastrointestinal discomfort and pain, diarrhea, fatigue, insomnia, bruising, headaches, skin flushing, redness, and spots on the skin",
+      "about_this_result": {
+        "source": {
+          "description": "Nausea, gastrointestinal discomfort and pain, diarrhea, fatigue, insomnia, bruising, headaches, skin flushing, redness, and spots on the skin",
+          "source_info_link": "https://www.ncbi.nlm.nih.gov/books/NBK349239/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACZElEQVR4AWMYBUxMTCy2do5NsfHJLxKS0v6Tgj08fZbADeKVkGIImvyJIWjKfzD273_CYJY0iYFbRAivA4CWt4AMIxcrKavYwQ3TDysCWY6Cnco34XUA0OfPKHFAaHjUJVZWVhawYSwcbAze7VcwHKFk64PTASBDKMWmZhYFcAMVLB0wHODbfYeBjYeDZg4AhuIHAQFBCbih9kXLMBxhFFVDGwcgEuQimJmMAjJSjLAEicBfGPhl5GjjAESCtIE7wiC0BCMU7ItX0MYBiAR5ATlBMmJJkKA0QhsHIBJkHtxweUsnDAd4NF8COo6FZg7ATJDFKzAcoRuUQxsHIBLkArgF_DIyQEtRE6R__ztgCSlCKwcgEiSihCzDCAXrrBkYDqBlgmTybruG5og_DJI6RmAH0AobGZvC45pJwcIFIxTc6g_R1AFa2rph8HJBzTUKS7mwimYOCAgM3cMEBGDbOQX4QNUzmgO-MQgpKNDKAb8kpGR14InQJK4DS91QR7NE6Ojs3ge3XERVA2jhD7Ta8R6wduSiVUH0gouLWwAc70zMTAwu1TswfK_iGESzgkjPwCQBbriSbQCG5S7VuxiYWJho4oDgsOhjsIQHCmJQUKM54BcwSrRoVRn9kZWVN4Hne6PIOnTfM5ol9dCsOnZ185wBz_PA7AXKZmjl_zNQdqRVk-wNLy-fCNxQp7J1GHGv5hpHsyaZsZllFlIbwA1LkXsEmvAwQXR88gMKK51zzKxsyM1y7JUOLgBqwVCx2i3BSHiWaX2EumZMwCDMiY5LeUBh1wylJczo3_8I7CAmFhZ89o8CANLzo8kQBHupAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEdVM1lnNnlrTF81Zy1femJuZ3hLOG9kNWxRNFpQcnVENDhfUFJUREpLZ1d5NmRoQ0FuMGZMVGFZYm5zNWhLU1hodGRRSm8yVjctUkZpTjVfTGplbDBPOEJlUFFFeXBpLTdUMXpOYy1zSWUzOWtMd2R4djZjQWthLWk1TW1NQmJjeUNYOEdMWRIEGgIIABqYBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD0AwgAEAAYACAAKiYKB29wc3VtaXQVtIHtPxoIb3Agc3VtaXQaDGl2O3A7b3BzdW1pdCorCgRzaWRlFQAAAAAaB2FkdmVyc2UaCG5lZ2F0aXZlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFf-EBj8aBmVmZmVjdBoLc2lkZWVmZmVjdHMynQEvZ290bz91cmw9Q0FFU2FnSEVJa1hYR1UzWWc2eWtMXzVnLV96Ym5neEs4b2Q1bFE0WlBydUQ0OF9QUlRESktnV3k2ZGhDQW4wZkxUYVlibnM1aEtTWGh0ZFFKbzJWNy1SRmlONV9MamVsME84QmVQUUV5cGktN1Qxek5jLXNJZTM5a0x3ZHh2NmNBa2EtaTVNbU1CYmN5Q1g4R0xZOkBQQVRJRU5UIElOUFVUIFNVTU1BUlkgLSBNYWNpdGVudGFuICg8Yj5PcHN1bWl0PC9iPikgLSBOQ0JJIC0gTklIQo0BTmF1c2VhLCBnYXN0cm9pbnRlc3RpbmFsIGRpc2NvbWZvcnQgYW5kIHBhaW4sIGRpYXJyaGVhLCBmYXRpZ3VlLCBpbnNvbW5pYSwgYnJ1aXNpbmcsIGhlYWRhY2hlcywgc2tpbiBmbHVzaGluZywgcmVkbmVzcywgYW5kIHNwb3RzIG9uIHRoZSBza2luIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hFSWtYWEdVM1lnNnlrTF81Zy1femJuZ3hLOG9kNWxRNFpQcnVENDhfUFJUREpLZ1d5NmRoQ0FuMGZMVGFZYm5zNWhLU1hodGRRSm8yVjctUkZpTjVfTGplbDBPOEJlUFFFeXBpLTdUMXpOYy1zSWUzOWtMd2R4djZjQWthLWk1TW1NQmJjeUNYOEdMWRIEGgIIABqYBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD0AwgAEAAYACAAKiYKB29wc3VtaXQVtIHtPxoIb3Agc3VtaXQaDGl2O3A7b3BzdW1pdCorCgRzaWRlFQAAAAAaB2FkdmVyc2UaCG5lZ2F0aXZlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFf-EBj8aBmVmZmVjdBoLc2lkZWVmZmVjdHMynQEvZ290bz91cmw9Q0FFU2FnSEVJa1hYR1UzWWc2eWtMXzVnLV96Ym5neEs4b2Q1bFE0WlBydUQ0OF9QUlRESktnV3k2ZGhDQW4wZkxUYVlibnM1aEtTWGh0ZFFKbzJWNy1SRmlONV9MamVsME84QmVQUUV5cGktN1Qxek5jLXNJZTM5a0x3ZHh2NmNBa2EtaTVNbU1CYmN5Q1g4R0xZOkBQQVRJRU5UIElOUFVUIFNVTU1BUlkgLSBNYWNpdGVudGFuICg8Yj5PcHN1bWl0PC9iPikgLSBOQ0JJIC0gTklIQo0BTmF1c2VhLCBnYXN0cm9pbnRlc3RpbmFsIGRpc2NvbWZvcnQgYW5kIHBhaW4sIGRpYXJyaGVhLCBmYXRpZ3VlLCBpbnNvbW5pYSwgYnJ1aXNpbmcsIGhlYWRhY2hlcywgc2tpbiBmbHVzaGluZywgcmVkbmVzcywgYW5kIHNwb3RzIG9uIHRoZSBza2luIgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 3,
+      "title": "History of OPSUMIT",
+      "link": "https://www.opsumithcp.com/about-opsumit/history-of-opsumit/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHEIkXX63OEzMWUTnkf4kdgiTm_QR6iEtQJvZDjqARvbd8DqbbNctnQf1dRHh8gA1LNStojrdKvwWsxT0n8obKkB--I3KAOdOkTOG3V2hQNqAgBPBvkCtC2-epKWj0ERohJdLv0TKZT1ZYB0a_PfNBUrNGJDG9buHg&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.opsumithcp.com \u203a about-opsumit \u203a history...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA7VBMVEX____y-fvX6vLZ7fTo-fv4__7G2uqFs9R6t9SZ1eO87PHZ9fj0_f37-v3W3OyCnco9gbtAocdZwdV_2OKq5u3t4e2cea5FYqw_eLUvl8Aqt81Jyde07PH82OH2kqrzU3fwJ1atOXhaXahNYK0pr8NmuMvBzdr88PT6r7_tBkvfFVHSJF--MGx_TpNkWqC0MnDhAErtJ1794ef2pbjmPW7XEVjDKmeqRH-QWZV8aqdzeLV0hb-GkcSTlsXPfJ_zZ4XZWYbERnyubJqljrenp82yvNzBy-be4_H6y9fsuMvbjK7Ojq_Lr8nSzuLqy9qNh4MSAAAAhElEQVR4Ae3JQwICAAAEwN1s2-atW1_vA_WEXNds2-4FNdfBH0Bc8Wj1LcU8GX9KqHk2m3xIwHzeubw_fk33uSZUgmThIaOcKXC8KaAkF7KOqTQ6pTrMG4AAibpvPCag1lnU58ilkVHhyAFlK9kkUlaSXGZUI7xiNIrsfL7CJ1RjhF-3BxluHmXr5tk5AAAAAElFTkSuQmCC.png",
+      "snippet": "Most common adverse reactions (more frequent than placebo by \u22653%) were anemia (13% vs 3%), nasopharyngitis/pharyngitis (20% vs 13%), bronchitis (12% vs 6%),",
+      "snippet_highlighted_words": [
+        "anemia (13% vs 3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Most common adverse reactions (more frequent than placebo by \u22653%) were anemia (13% vs 3%), nasopharyngitis/pharyngitis (20% vs 13%), bronchitis (12% vs 6%)",
+          "source_info_link": "https://www.opsumithcp.com/about-opsumit/history-of-opsumit/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA7VBMVEX____y-fvX6vLZ7fTo-fv4__7G2uqFs9R6t9SZ1eO87PHZ9fj0_f37-v3W3OyCnco9gbtAocdZwdV_2OKq5u3t4e2cea5FYqw_eLUvl8Aqt81Jyde07PH82OH2kqrzU3fwJ1atOXhaXahNYK0pr8NmuMvBzdr88PT6r7_tBkvfFVHSJF--MGx_TpNkWqC0MnDhAErtJ1794ef2pbjmPW7XEVjDKmeqRH-QWZV8aqdzeLV0hb-GkcSTlsXPfJ_zZ4XZWYbERnyubJqljrenp82yvNzBy-be4_H6y9fsuMvbjK7Ojq_Lr8nSzuLqy9qNh4MSAAAAhElEQVR4Ae3JQwICAAAEwN1s2-atW1_vA_WEXNds2-4FNdfBH0Bc8Wj1LcU8GX9KqHk2m3xIwHzeubw_fk33uSZUgmThIaOcKXC8KaAkF7KOqTQ6pTrMG4AAibpvPCag1lnU58ilkVHhyAFlK9kkUlaSXGZUI7xiNIrsfL7CJ1RjhF-3BxluHmXr5tk5AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE12ZTJCUGRjaXVITWFOdS1rNUEyRjJ3VnVuMXd4dE14NTRYTHI2d0hJTG4yeHFRLUVWQTFkR2VBai14bmdNLXo4cEdIRDZLcHk1VENKVDdlT2xjb1N5YlY4aEg3OHZYMHAyc3lVM3QybzloajVPWE8xcUF0VzloQzBBY2w0cnR1TjZuVWxQc3VzQlJvajNabk9JZlFqRDVvNnRvEgQaAggAGp0EEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPkDCAAQABgAIAAqJgoHb3BzdW1pdBWt1J5AGghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVAAAAABoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVKglnPhoGZWZmZWN0GgtzaWRlZWZmZWN0czKxAS9nb3RvP3VybD1DQUVTZVFIRUlrWFhNdmUyQlBkY2l1SE1hTnUtazVBMkYyd1Z1bjF3eHRNeDU0WExyNndISUxuMnhxUS1FVkExZEdlQWoteG5nTS16OHBHSEQ2S3B5NVRDSlQ3ZU9sY29TeWJWOGhINzh2WDBwMnN5VTN0Mm85aGo1T1hPMXFBdFc5aEMwQWNsNHJ0dU42blVsUHN1c0JSb2ozWm5PSWZRakQ1bzZ0bzoZSGlzdG9yeSBvZiA8Yj5PUFNVTUlUPC9iPkKlAU1vc3QgY29tbW9uIGFkdmVyc2UgcmVhY3Rpb25zIChtb3JlIGZyZXF1ZW50IHRoYW4gcGxhY2VibyBieSDiiaUzJSkgd2VyZSA8Yj5hbmVtaWEgKDEzJSB2cyAzPC9iPiUpLCBuYXNvcGhhcnluZ2l0aXMvcGhhcnluZ2l0aXMgKDIwJSB2cyAxMyUpLCBicm9uY2hpdGlzICgxMiUgdnMgNiUpLCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhFSWtYWE12ZTJCUGRjaXVITWFOdS1rNUEyRjJ3VnVuMXd4dE14NTRYTHI2d0hJTG4yeHFRLUVWQTFkR2VBai14bmdNLXo4cEdIRDZLcHk1VENKVDdlT2xjb1N5YlY4aEg3OHZYMHAyc3lVM3QybzloajVPWE8xcUF0VzloQzBBY2w0cnR1TjZuVWxQc3VzQlJvajNabk9JZlFqRDVvNnRvEgQaAggAGp0EEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPkDCAAQABgAIAAqJgoHb3BzdW1pdBWt1J5AGghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVAAAAABoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVKglnPhoGZWZmZWN0GgtzaWRlZWZmZWN0czKxAS9nb3RvP3VybD1DQUVTZVFIRUlrWFhNdmUyQlBkY2l1SE1hTnUtazVBMkYyd1Z1bjF3eHRNeDU0WExyNndISUxuMnhxUS1FVkExZEdlQWoteG5nTS16OHBHSEQ2S3B5NVRDSlQ3ZU9sY29TeWJWOGhINzh2WDBwMnN5VTN0Mm85aGo1T1hPMXFBdFc5aEMwQWNsNHJ0dU42blVsUHN1c0JSb2ozWm5PSWZRakQ1bzZ0bzoZSGlzdG9yeSBvZiA8Yj5PUFNVTUlUPC9iPkKlAU1vc3QgY29tbW9uIGFkdmVyc2UgcmVhY3Rpb25zIChtb3JlIGZyZXF1ZW50IHRoYW4gcGxhY2VibyBieSDiiaUzJSkgd2VyZSA8Yj5hbmVtaWEgKDEzJSB2cyAzPC9iPiUpLCBuYXNvcGhhcnluZ2l0aXMvcGhhcnluZ2l0aXMgKDIwJSB2cyAxMyUpLCBicm9uY2hpdGlzICgxMiUgdnMgNiUpLCICEAFIAFgAaAA",
+      "source": "opsumithcp.com"
+    },
+    {
+      "position": 4,
+      "title": "New OPSUMIT\u00ae (macitentan) Data Show Initial ...",
+      "link": "https://www.prnewswire.com/news-releases/new-opsumit-macitentan-data-show-initial-combination-therapy-with-tadalafil-improved-hemodynamic-clinical-and-functional-parameters-in-patients-with-pulmonary-arterial-hypertension-300941648.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgIBxCJF1ymlpAhp9h-J0Q1XEDIuZtbh2k4cPXgRJpIoCW7_X6_NwkhlF5mupYSBR_i3opxG69npbSuk9HB06ztEFF7-g_EkQB73ZrbwWSUriGEyTwLpxc0S8cQDA262pqyqLBF5EdrLQ8kfDrFzjsFk5Jtg9ghClimkwP9RWSby8DHPpaDV-_dLyvYgzL-G-IV-c7JK2dYW_sMqggR2JyYlSYUT6WEJKmfT7byLTIcgfPBKS9Cr78xzcjrOBZQ1X6WXT6bY9YolQRvKAX4C4zwEUtQl30x9DnqdGqQTSR4aCfbXMvN295mSH7Q6Y0TfdbptRciWP0ar0YvdmwDYvC-dZmS3OqZhSAhVcmy5MtOnOKNE7kQQ5DG6ILzYOUwcpzLSFO0uLmekrCZ2&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECEsQAQ&uoh=1",
+      "displayed_link": "https://www.prnewswire.com \u203a news-releases \u203a new-opsu...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUeNmfHzdmPm7M6T3pzgqC5wdCdqL3____y8_ZIXISrtMbW2uNWaI2BjqpldZfk5-0sQ3FM32Y-AAAAw0lEQVR4AeXShRXDQAwDUNlhONh_2p7shmGAVkHd--HgVyKMVkDNnaYG0IrU1lnQWfoB6nsjIF03gV0NeMQAMxN01RFwZAGNgbAH2pZVXQZEp3I1A9MeAE0pNlCxip9xD3QBWEE4gGkBwwqmHdCxrKLdQ-q65KAbn55iJODNvr6HwL09SNUCAgjmtAeqdQaB8GYdtHsAhkBDQQ6GezCXlg0g3QK26KC9B2KPSTDcAq6SAyQHEBEH9gcNpeZWZAAC-5_kAwk4CsI5h7OJAAAAAElFTkSuQmCC.png",
+      "date": "Oct 21, 2019",
+      "snippet": "Nausea or vomiting \u00b7 Pain in the upper right stomach \u00b7 Feeling tired \u00b7 Loss of appetite \u00b7 Your skin or the whites of your eyes turn yellow \u00b7 Dark ...",
+      "snippet_highlighted_words": [
+        "Nausea or vomiting"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Nausea or vomiting \u00b7 Pain in the upper right stomach \u00b7 Feeling tired \u00b7 Loss of appetite \u00b7 Your skin or the whites of your eyes turn yellow \u00b7 Dark ...",
+          "source_info_link": "https://www.prnewswire.com/news-releases/new-opsumit-macitentan-data-show-initial-combination-therapy-with-tadalafil-improved-hemodynamic-clinical-and-functional-parameters-in-patients-with-pulmonary-arterial-hypertension-300941648.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEUeNmfHzdmPm7M6T3pzgqC5wdCdqL3____y8_ZIXISrtMbW2uNWaI2BjqpldZfk5-0sQ3FM32Y-AAAAw0lEQVR4AeXShRXDQAwDUNlhONh_2p7shmGAVkHd--HgVyKMVkDNnaYG0IrU1lnQWfoB6nsjIF03gV0NeMQAMxN01RFwZAGNgbAH2pZVXQZEp3I1A9MeAE0pNlCxip9xD3QBWEE4gGkBwwqmHdCxrKLdQ-q65KAbn55iJODNvr6HwL09SNUCAgjmtAeqdQaB8GYdtHsAhkBDQQ6GezCXlg0g3QK26KC9B2KPSTDcAq6SAyQHEBEH9gcNpeZWZAAC-5_kAwk4CsI5h7OJAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4DL2dvdG8_dXJsPUNBRVNxZ0lCeENKRjF5VXEtelZvMjMtdHJPZEIzOG1Vd0JZNlpxM3ZNUGlIM2JSLVZOWUJJSkE0UE5BTmU3VzJQb2NVWG9wc0RNVzFJS25EY1R2RG9jSjNwN1ByZ1RyWnpoVi1PdVNhODNMRGtub2N0SUIzdTd2X0hwLUhOVXVBTV80YTJ5Ul8tLUxhTml6YW1OTVI3dldQS1ZLWkFIY3RObUhmM1c2eW04bzEyVEFCUWlDLTg5R0M3TWRVMFYzbVpPa250Wl9QWkNJd0YyNlMtY1JUVkplR2NsN1AzSjVadG5QZkJQY1MwRjJBc3pFNzBkQWIyOUJ3dF9yUnlhNm5nS3ZWY0xaVkJJaElyNV9jRWJuZ2pDNGMyU0NNeHpKbjhwbEg3TDhleFVtYUFxSmgzS3BKaVBKbjZXNmtLTDVLcDhhMzhha2tIRW9qbkZ2TFB2S0htZHFJYlk0cDJyMkpvcjluUlhPQU5wOFpGMXJSUkhUalkxZXV1bWVPNXZPdmdnZi1qRDc4azFUQ09OMzd1dXhZEgQaAggAGtUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArwYIABAAGAAgAComCgdvcHN1bWl0FSSeU0AaCG9wIHN1bWl0GgxpdjtwO29wc3VtaXQqKwoEc2lkZRUbp2c_GgdhZHZlcnNlGghuZWdhdGl2ZRoLc2lkZWVmZmVjdHMqIwoHZWZmZWN0cxWGtkg_GgZlZmZlY3QaC3NpZGVlZmZlY3RzMp4DL2dvdG8_dXJsPUNBRVNxZ0lCeENKRjF5VXEtelZvMjMtdHJPZEIzOG1Vd0JZNlpxM3ZNUGlIM2JSLVZOWUJJSkE0UE5BTmU3VzJQb2NVWG9wc0RNVzFJS25EY1R2RG9jSjNwN1ByZ1RyWnpoVi1PdVNhODNMRGtub2N0SUIzdTd2X0hwLUhOVXVBTV80YTJ5Ul8tLUxhTml6YW1OTVI3dldQS1ZLWkFIY3RObUhmM1c2eW04bzEyVEFCUWlDLTg5R0M3TWRVMFYzbVpPa250Wl9QWkNJd0YyNlMtY1JUVkplR2NsN1AzSjVadG5QZkJQY1MwRjJBc3pFNzBkQWIyOUJ3dF9yUnlhNm5nS3ZWY0xaVkJJaElyNV9jRWJuZ2pDNGMyU0NNeHpKbjhwbEg3TDhleFVtYUFxSmgzS3BKaVBKbjZXNmtLTDVLcDhhMzhha2tIRW9qbkZ2TFB2S0htZHFJYlk0cDJyMkpvcjluUlhPQU5wOFpGMXJSUkhUalkxZXV1bWVPNXZPdmdnZi1qRDc4azFUQ09OMzd1dXhZOkNOZXcgPGI-T1BTVU1JVDwvYj7CriAobWFjaXRlbnRhbikgRGF0YSBTaG93IEluaXRpYWwgQ29tYmluYXRpb24gLi4uQsQBPGI-TmF1c2VhIG9yIHZvbWl0aW5nPC9iPiAmbWlkZG90OyBQYWluIGluIHRoZSB1cHBlciByaWdodCBzdG9tYWNoICZtaWRkb3Q7IEZlZWxpbmcgdGlyZWQgJm1pZGRvdDsgTG9zcyBvZiBhcHBldGl0ZSAmbWlkZG90OyBZb3VyIHNraW4gb3IgdGhlIHdoaXRlcyBvZiB5b3VyIGV5ZXMgdHVybiB5ZWxsb3cgJm1pZGRvdDsgRGFyayZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4DL2dvdG8_dXJsPUNBRVNxZ0lCeENKRjF5VXEtelZvMjMtdHJPZEIzOG1Vd0JZNlpxM3ZNUGlIM2JSLVZOWUJJSkE0UE5BTmU3VzJQb2NVWG9wc0RNVzFJS25EY1R2RG9jSjNwN1ByZ1RyWnpoVi1PdVNhODNMRGtub2N0SUIzdTd2X0hwLUhOVXVBTV80YTJ5Ul8tLUxhTml6YW1OTVI3dldQS1ZLWkFIY3RObUhmM1c2eW04bzEyVEFCUWlDLTg5R0M3TWRVMFYzbVpPa250Wl9QWkNJd0YyNlMtY1JUVkplR2NsN1AzSjVadG5QZkJQY1MwRjJBc3pFNzBkQWIyOUJ3dF9yUnlhNm5nS3ZWY0xaVkJJaElyNV9jRWJuZ2pDNGMyU0NNeHpKbjhwbEg3TDhleFVtYUFxSmgzS3BKaVBKbjZXNmtLTDVLcDhhMzhha2tIRW9qbkZ2TFB2S0htZHFJYlk0cDJyMkpvcjluUlhPQU5wOFpGMXJSUkhUalkxZXV1bWVPNXZPdmdnZi1qRDc4azFUQ09OMzd1dXhZEgQaAggAGtUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArwYIABAAGAAgAComCgdvcHN1bWl0FSSeU0AaCG9wIHN1bWl0GgxpdjtwO29wc3VtaXQqKwoEc2lkZRUbp2c_GgdhZHZlcnNlGghuZWdhdGl2ZRoLc2lkZWVmZmVjdHMqIwoHZWZmZWN0cxWGtkg_GgZlZmZlY3QaC3NpZGVlZmZlY3RzMp4DL2dvdG8_dXJsPUNBRVNxZ0lCeENKRjF5VXEtelZvMjMtdHJPZEIzOG1Vd0JZNlpxM3ZNUGlIM2JSLVZOWUJJSkE0UE5BTmU3VzJQb2NVWG9wc0RNVzFJS25EY1R2RG9jSjNwN1ByZ1RyWnpoVi1PdVNhODNMRGtub2N0SUIzdTd2X0hwLUhOVXVBTV80YTJ5Ul8tLUxhTml6YW1OTVI3dldQS1ZLWkFIY3RObUhmM1c2eW04bzEyVEFCUWlDLTg5R0M3TWRVMFYzbVpPa250Wl9QWkNJd0YyNlMtY1JUVkplR2NsN1AzSjVadG5QZkJQY1MwRjJBc3pFNzBkQWIyOUJ3dF9yUnlhNm5nS3ZWY0xaVkJJaElyNV9jRWJuZ2pDNGMyU0NNeHpKbjhwbEg3TDhleFVtYUFxSmgzS3BKaVBKbjZXNmtLTDVLcDhhMzhha2tIRW9qbkZ2TFB2S0htZHFJYlk0cDJyMkpvcjluUlhPQU5wOFpGMXJSUkhUalkxZXV1bWVPNXZPdmdnZi1qRDc4azFUQ09OMzd1dXhZOkNOZXcgPGI-T1BTVU1JVDwvYj7CriAobWFjaXRlbnRhbikgRGF0YSBTaG93IEluaXRpYWwgQ29tYmluYXRpb24gLi4uQsQBPGI-TmF1c2VhIG9yIHZvbWl0aW5nPC9iPiAmbWlkZG90OyBQYWluIGluIHRoZSB1cHBlciByaWdodCBzdG9tYWNoICZtaWRkb3Q7IEZlZWxpbmcgdGlyZWQgJm1pZGRvdDsgTG9zcyBvZiBhcHBldGl0ZSAmbWlkZG90OyBZb3VyIHNraW4gb3IgdGhlIHdoaXRlcyBvZiB5b3VyIGV5ZXMgdHVybiB5ZWxsb3cgJm1pZGRvdDsgRGFyayZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "PR Newswire",
+      "read_more_link": "https://www.prnewswire.com/news-releases/new-opsumit-macitentan-data-show-initial-combination-therapy-with-tadalafil-improved-hemodynamic-clinical-and-functional-parameters-in-patients-with-pulmonary-arterial-hypertension-300941648.html#:~:text=Nausea%20or%20vomiting&text=Pain%20in%20the%20upper%20right,stomach&text=Feeling%20tired&text=Loss%20of%20appetite&text=Your%20skin%20or%20the%20whites,of%20your%20eyes%20turn%20yellow&text=Dark%20urine"
+    },
+    {
+      "position": 5,
+      "title": "OPSUMIT\u00ae (macitentan) HCP: Official HCP Website for ...",
+      "link": "https://www.opsumithcp.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHEIkXXLeT5F8B1xAlVQHKrxmduIYniy--BKYDkC1VjK-cRFwPxL8TS8xZLNl15_XLsH2WykFLFV21NYoTFOPZqGKmkqsgexX8XWs5D7-Kdn8ihP9lOqoc&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://www.opsumithcp.com",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA7VBMVEX____y-fvX6vLZ7fTo-fv4__7G2uqFs9R6t9SZ1eO87PHZ9fj0_f37-v3W3OyCnco9gbtAocdZwdV_2OKq5u3t4e2cea5FYqw_eLUvl8Aqt81Jyde07PH82OH2kqrzU3fwJ1atOXhaXahNYK0pr8NmuMvBzdr88PT6r7_tBkvfFVHSJF--MGx_TpNkWqC0MnDhAErtJ1794ef2pbjmPW7XEVjDKmeqRH-QWZV8aqdzeLV0hb-GkcSTlsXPfJ_zZ4XZWYbERnyubJqljrenp82yvNzBy-be4_H6y9fsuMvbjK7Ojq_Lr8nSzuLqy9qNh4MSAAAAhElEQVR4Ae3JQwICAAAEwN1s2-atW1_vA_WEXNds2-4FNdfBH0Bc8Wj1LcU8GX9KqHk2m3xIwHzeubw_fk33uSZUgmThIaOcKXC8KaAkF7KOqTQ6pTrMG4AAibpvPCag1lnU58ilkVHhyAFlK9kkUlaSXGZUI7xiNIrsfL7CJ1RjhF-3BxluHmXr5tk5AAAAAElFTkSuQmCC.png",
+      "snippet": "Most common adverse reactions (more frequent than placebo by \u22653%) were anemia (13% vs 3%), nasopharyngitis/pharyngitis (20% vs 13%), bronchitis (12% vs 6%),",
+      "snippet_highlighted_words": [
+        "anemia (13% vs 3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Most common adverse reactions (more frequent than placebo by \u22653%) were anemia (13% vs 3%), nasopharyngitis/pharyngitis (20% vs 13%), bronchitis (12% vs 6%)",
+          "source_info_link": "https://www.opsumithcp.com/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA7VBMVEX____y-fvX6vLZ7fTo-fv4__7G2uqFs9R6t9SZ1eO87PHZ9fj0_f37-v3W3OyCnco9gbtAocdZwdV_2OKq5u3t4e2cea5FYqw_eLUvl8Aqt81Jyde07PH82OH2kqrzU3fwJ1atOXhaXahNYK0pr8NmuMvBzdr88PT6r7_tBkvfFVHSJF--MGx_TpNkWqC0MnDhAErtJ1794ef2pbjmPW7XEVjDKmeqRH-QWZV8aqdzeLV0hb-GkcSTlsXPfJ_zZ4XZWYbERnyubJqljrenp82yvNzBy-be4_H6y9fsuMvbjK7Ojq_Lr8nSzuLqy9qNh4MSAAAAhElEQVR4Ae3JQwICAAAEwN1s2-atW1_vA_WEXNds2-4FNdfBH0Bc8Wj1LcU8GX9KqHk2m3xIwHzeubw_fk33uSZUgmThIaOcKXC8KaAkF7KOqTQ6pTrMG4AAibpvPCag1lnU58ilkVHhyAFlK9kkUlaSXGZUI7xiNIrsfL7CJ1RjhF-3BxluHmXr5tk5AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhFSWtYWHViMDk0YmJsWWowSDZGdkZQc3B4TW5TajJ2VXc1NWlZZ2cyWTJMcTlLNHJWOFl6aWdHYTE2NG5GY0ZMV1JIdFlZY3c1RTJxNkNtTTBwcGxWYkFMX21nYkxac1UtbXpUaE9kRG1MZmFxRVpmZW9FSRIEGgIIABqZBBICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPMDCAAQABgAIAAqJgoHb3BzdW1pdBUFsJdAGghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVAAAAABoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVbF1vPhoGZWZmZWN0GgtzaWRlZWZmZWN0czKFAS9nb3RvP3VybD1DQUVTV0FIRUlrWFh1YjA5NGJibFlqMEg2RnZGUHNweE1uU2oydlV3NTVpWWdnMlkyTHE5SzRyVjhZemlnR2ExNjRuRmNGTFdSSHRZWWN3NUUycTZDbU0wcHBsVmJBTF9tZ2JMWnNVLW16VGhPZERtTGZhcUVaZmVvRUk6PzxiPk9QU1VNSVQ8L2I-wq4gKG1hY2l0ZW50YW4pIEhDUDogT2ZmaWNpYWwgSENQIFdlYnNpdGUgZm9yIC4uLkKlAU1vc3QgY29tbW9uIGFkdmVyc2UgcmVhY3Rpb25zIChtb3JlIGZyZXF1ZW50IHRoYW4gcGxhY2VibyBieSDiiaUzJSkgd2VyZSA8Yj5hbmVtaWEgKDEzJSB2cyAzPC9iPiUpLCBuYXNvcGhhcnluZ2l0aXMvcGhhcnluZ2l0aXMgKDIwJSB2cyAxMyUpLCBicm9uY2hpdGlzICgxMiUgdnMgNiUpLCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhFSWtYWHViMDk0YmJsWWowSDZGdkZQc3B4TW5TajJ2VXc1NWlZZ2cyWTJMcTlLNHJWOFl6aWdHYTE2NG5GY0ZMV1JIdFlZY3c1RTJxNkNtTTBwcGxWYkFMX21nYkxac1UtbXpUaE9kRG1MZmFxRVpmZW9FSRIEGgIIABqZBBICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPMDCAAQABgAIAAqJgoHb3BzdW1pdBUFsJdAGghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVAAAAABoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVbF1vPhoGZWZmZWN0GgtzaWRlZWZmZWN0czKFAS9nb3RvP3VybD1DQUVTV0FIRUlrWFh1YjA5NGJibFlqMEg2RnZGUHNweE1uU2oydlV3NTVpWWdnMlkyTHE5SzRyVjhZemlnR2ExNjRuRmNGTFdSSHRZWWN3NUUycTZDbU0wcHBsVmJBTF9tZ2JMWnNVLW16VGhPZERtTGZhcUVaZmVvRUk6PzxiPk9QU1VNSVQ8L2I-wq4gKG1hY2l0ZW50YW4pIEhDUDogT2ZmaWNpYWwgSENQIFdlYnNpdGUgZm9yIC4uLkKlAU1vc3QgY29tbW9uIGFkdmVyc2UgcmVhY3Rpb25zIChtb3JlIGZyZXF1ZW50IHRoYW4gcGxhY2VibyBieSDiiaUzJSkgd2VyZSA8Yj5hbmVtaWEgKDEzJSB2cyAzPC9iPiUpLCBuYXNvcGhhcnluZ2l0aXMvcGhhcnluZ2l0aXMgKDIwJSB2cyAxMyUpLCBicm9uY2hpdGlzICgxMiUgdnMgNiUpLCICEAFIAFgAaAA",
+      "source": "opsumithcp.com"
+    },
+    {
+      "position": 6,
+      "title": "Opsumit (macitentan): uses & side-effects",
+      "link": "https://www.patientslikeme.com/treatment/opsumit?brand=t",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHEIkXXYaxdr06zodSJ5leIBN1Sx-TJqQbjmrE49mJfwFtBDsBRlKILya-0gVo_v0N1mNyN-fVk6SJRgroG-L8oaXth-ejO0UydOyI78TpWbc0oXqFsKpuQC7AbxTkCKr4PAnPRq2VFkjGU-DkBC0Sr4SECJg&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://www.patientslikeme.com \u203a treatment \u203a opsumit",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX11QD11AD00gD331310wD22CT89M3____67KX88b3443b__vr--ub33U7220D9-N755YP77rD33Ef66ZWnj4H0AAAAc0lEQVR4Ac2SRQLEUAhDJ3x5db3_Wcdd2E1bdjgk2S1h0u-UhWA_0jFlyCl-a4sFlCUUUR8Tq5qmNWsb6up1troehlNMNkDfPWcTjIrX1RohPXKamO3h2sykl2R8JONmk_4rPgg-fD7wPmU-2b5MHgJbwA5yegaVZG5n7QAAAABJRU5ErkJggg.png",
+      "snippet": "Common side effects Side effect Patients Percentage Flushing 1 100% Heart palpitations 1 100% Pressure headaches 1 100%",
+      "snippet_highlighted_words": [
+        "Flushing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common side effects Side effect Patients Percentage Flushing 1 100% Heart palpitations 1 100% Pressure headaches 1 100%",
+          "source_info_link": "https://www.patientslikeme.com/treatment/opsumit?brand=t",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAPFBMVEX11QD11AD00gD331310wD22CT89M3____67KX88b3443b__vr--ub33U7220D9-N755YP77rD33Ef66ZWnj4H0AAAAc0lEQVR4Ac2SRQLEUAhDJ3x5db3_Wcdd2E1bdjgk2S1h0u-UhWA_0jFlyCl-a4sFlCUUUR8Tq5qmNWsb6up1troehlNMNkDfPWcTjIrX1RohPXKamO3h2sykl2R8JONmk_4rPgg-fD7wPmU-2b5MHgJbwA5yegaVZG5n7QAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWFlxQ1FIMzFxVUhqWUtlcXM4Vkl1RFFCNXpyUmt6Z0ZpOEgzdThsemRUY1dZOF9ZX2lIOG14X254MGpTTWstTWFtc3dOcGNpQk4yZU5EUjI3Y3g2Q21wZjcyamZ3RmViVlJncndEbENETVBpQjNLWjlzRjhNeW1uVDhzbG15dmQzdTMzZzZHVXJWS2kwS1VENzcyZmx2ZxIEGgIIABqqBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCGBAgAEAAYACAAKiYKB29wc3VtaXQVxoGlQBoIb3Agc3VtaXQaDGl2O3A7b3BzdW1pdCorCgRzaWRlFSb_jUAaB2FkdmVyc2UaCG5lZ2F0aXZlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFQBHdUAaBmVmZmVjdBoLc2lkZWVmZmVjdHMyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYWXFDUUgzMXFVSGpZS2VxczhWSXVEUUI1enJSa3pnRmk4SDN1OGx6ZFRjV1k4X1lfaUg4bXhfbngwalNNay1NYW1zd05wY2lCTjJlTkRSMjdjeDZDbXBmNzJqZndGZWJWUmdyd0RsQ0RNUGlCM0taOXNGOE15bW5UOHNsbXl2ZDN1MzNnNkdVclZLaTBLVUQ3NzJmbHZnOlM8Yj5PcHN1bWl0PC9iPiAobWFjaXRlbnRhbik6IHVzZXMgJmFtcDsgPGI-c2lkZTwvYj4tPGI-ZWZmZWN0czwvYj4gfCBQYXRpZW50c0xpa2VNZUJ-Q29tbW9uIHNpZGUgZWZmZWN0cyBTaWRlIGVmZmVjdCBQYXRpZW50cyBQZXJjZW50YWdlIDxiPkZsdXNoaW5nPC9iPiAxIDEwMCUgSGVhcnQgcGFscGl0YXRpb25zIDEgMTAwJSBQcmVzc3VyZSBoZWFkYWNoZXMgMSAxMDAlIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhFSWtYWFlxQ1FIMzFxVUhqWUtlcXM4Vkl1RFFCNXpyUmt6Z0ZpOEgzdThsemRUY1dZOF9ZX2lIOG14X254MGpTTWstTWFtc3dOcGNpQk4yZU5EUjI3Y3g2Q21wZjcyamZ3RmViVlJncndEbENETVBpQjNLWjlzRjhNeW1uVDhzbG15dmQzdTMzZzZHVXJWS2kwS1VENzcyZmx2ZxIEGgIIABqqBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCGBAgAEAAYACAAKiYKB29wc3VtaXQVxoGlQBoIb3Agc3VtaXQaDGl2O3A7b3BzdW1pdCorCgRzaWRlFSb_jUAaB2FkdmVyc2UaCG5lZ2F0aXZlGgtzaWRlZWZmZWN0cyojCgdlZmZlY3RzFQBHdUAaBmVmZmVjdBoLc2lkZWVmZmVjdHMyrAEvZ290bz91cmw9Q0FFU2RRSEVJa1hYWXFDUUgzMXFVSGpZS2VxczhWSXVEUUI1enJSa3pnRmk4SDN1OGx6ZFRjV1k4X1lfaUg4bXhfbngwalNNay1NYW1zd05wY2lCTjJlTkRSMjdjeDZDbXBmNzJqZndGZWJWUmdyd0RsQ0RNUGlCM0taOXNGOE15bW5UOHNsbXl2ZDN1MzNnNkdVclZLaTBLVUQ3NzJmbHZnOlM8Yj5PcHN1bWl0PC9iPiAobWFjaXRlbnRhbik6IHVzZXMgJmFtcDsgPGI-c2lkZTwvYj4tPGI-ZWZmZWN0czwvYj4gfCBQYXRpZW50c0xpa2VNZUJ-Q29tbW9uIHNpZGUgZWZmZWN0cyBTaWRlIGVmZmVjdCBQYXRpZW50cyBQZXJjZW50YWdlIDxiPkZsdXNoaW5nPC9iPiAxIDEwMCUgSGVhcnQgcGFscGl0YXRpb25zIDEgMTAwJSBQcmVzc3VyZSBoZWFkYWNoZXMgMSAxMDAlIgIQAUgAWABoAA",
+      "source": "PatientsLikeMe"
+    },
+    {
+      "position": 7,
+      "title": "Opsumit (macitentan) dosing, indications, interactions, ...",
+      "link": "https://reference.medscape.com/drug/opsumit-macitentan-999880",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHEIkXX7GG7JicVMCrz7EB4p_M3iII__utvQmkWwsdNnIwctbyGlQnYJOX1zTK5kw3AwYKiHRmZmNzzlT3La4ODibYpIKNOuivcht-GRgsyf_xoem9IES5XmCRkuYXMrgCef0DD3xwLBIlzwVuunE0jp61IKXrhaC2r&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://reference.medscape.com \u203a drug \u203a opsumit-macit...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____29_vY3-7W3e0NTagANKAAOaEAKZ2sutqGm8sALp6Oos0GSqcAR6YuXa8AO6IASKYAQaUAQqQAN6HL1OgAPqNGbLUbU6vCzeR8k8YARaVXeLpAaLMAMp9lg79Pcrfl6vRbfLyUptC1wt7s8PerJwSyAAABIUlEQVR4AWLACwBc0AWChDAMBdDgsh9rB9eR-59xU4IHTV7dsk08q1yy-OO4nu8H4d2i2I__1j8fSNI7ZjkKQZUD-nW1sASKaP0tGJPqijVX1InwnNMaH4ztiV1_4tB1V-RkPLq-dNF3UNOalHk3KXTD0VHNlka3Y0Z1At2INdpzFsb3hj5XkNSCqZrJYC-I0iwCWbh1tA0m83YcHZHjAcpkNXdce1Ybgt-8wPJD9PVHW3DYsCbOR-S-Ra7qacUkFZSlTApJNSnPFsxlfb40-nlA18kiDbpXpLYAwDMKIrmhpXPZnfRUgvv2o0I6CmaCMrzpGve0I_z1T-eatljogU2GrKF7fEtGhyeKta_j9mZtoH1fBx9abBPLDaXGxf-RDQAwtxYvp91bYgAAAABJRU5ErkJggg.png",
+      "snippet": "Adverse Effects >10% Nasopharyngitis (20%) Headache (14%) Anemia (13%) Bronchitis (12%) 1-10% Urinary tract infection (9%) Hemoglobin <10 g/dL",
+      "snippet_highlighted_words": [
+        "Nasopharyngitis (20%) Headache (14"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Adverse Effects >10% Nasopharyngitis (20%) Headache (14%) Anemia (13%) Bronchitis (12%) 1-10% Urinary tract infection (9%) Hemoglobin <10 g/dL",
+          "source_info_link": "https://reference.medscape.com/drug/opsumit-macitentan-999880",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX____29_vY3-7W3e0NTagANKAAOaEAKZ2sutqGm8sALp6Oos0GSqcAR6YuXa8AO6IASKYAQaUAQqQAN6HL1OgAPqNGbLUbU6vCzeR8k8YARaVXeLpAaLMAMp9lg79Pcrfl6vRbfLyUptC1wt7s8PerJwSyAAABIUlEQVR4AWLACwBc0AWChDAMBdDgsh9rB9eR-59xU4IHTV7dsk08q1yy-OO4nu8H4d2i2I__1j8fSNI7ZjkKQZUD-nW1sASKaP0tGJPqijVX1InwnNMaH4ztiV1_4tB1V-RkPLq-dNF3UNOalHk3KXTD0VHNlka3Y0Z1At2INdpzFsb3hj5XkNSCqZrJYC-I0iwCWbh1tA0m83YcHZHjAcpkNXdce1Ybgt-8wPJD9PVHW3DYsCbOR-S-Ra7qacUkFZSlTApJNSnPFsxlfb40-nlA18kiDbpXpLYAwDMKIrmhpXPZnfRUgvv2o0I6CmaCMrzpGve0I_z1T-eatljogU2GrKF7fEtGhyeKta_j9mZtoH1fBx9abBPLDaXGxf-RDQAwtxYvp91bYgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWEhKdU81X0JkUG9ST1dlaDU1QWw1ZEY1YW9pektTVDZFUGdZOXJ5T1lwTWJteHpaN2ZzY3FhWUFFUjl3SFpBSnIzNk1mRlJzRUppZE9oR0NteDZRQVlPNmhzSURVaS1CcmlyUmpfQzN0WEx5VmJ0T1lnTnZsN0JIWVJRWTk1LWZkRnU0dkM3WGZBUVk3UFNWQnNXVDBQTTU0bDBmYhIEGgIIABq-BBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJgECAAQABgAIAAqJgoHb3BzdW1pdBVqjlpAGghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVAAAAABoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMV6JRdQBoGZWZmZWN0GgtzaWRlZWZmZWN0czKyAS9nb3RvP3VybD1DQUVTZWdIRUlrWFhISnVPNV9CZFBvUk9XZWg1NUFsNWRGNWFvaXpLU1Q2RVBnWTlyeU9ZcE1ibXh6Wjdmc2NxYVlBRVI5d0haQUpyMzZNZkZSc0VKaWRPaEdDbXg2UUFZTzZoc0lEVWktQnJpclJqX0MzdFhMeVZidE9ZZ052bDdCSFlSUVk5NS1mZEZ1NHZDN1hmQVFZN1BTVkJzV1QwUE01NGwwZmI6QTxiPk9wc3VtaXQ8L2I-IChtYWNpdGVudGFuKSBkb3NpbmcsIGluZGljYXRpb25zLCBpbnRlcmFjdGlvbnMgLi4uQpsBQWR2ZXJzZSBFZmZlY3RzICZndDsxMCUgPGI-TmFzb3BoYXJ5bmdpdGlzICgyMCUpIEhlYWRhY2hlICgxNDwvYj4lKSBBbmVtaWEgKDEzJSkgQnJvbmNoaXRpcyAoMTIlKSAxLTEwJSBVcmluYXJ5IHRyYWN0IGluZmVjdGlvbiAoOSUpIEhlbW9nbG9iaW4gJmx0OzEwIGcvZEwiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hFSWtYWEhKdU81X0JkUG9ST1dlaDU1QWw1ZEY1YW9pektTVDZFUGdZOXJ5T1lwTWJteHpaN2ZzY3FhWUFFUjl3SFpBSnIzNk1mRlJzRUppZE9oR0NteDZRQVlPNmhzSURVaS1CcmlyUmpfQzN0WEx5VmJ0T1lnTnZsN0JIWVJRWTk1LWZkRnU0dkM3WGZBUVk3UFNWQnNXVDBQTTU0bDBmYhIEGgIIABq-BBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJgECAAQABgAIAAqJgoHb3BzdW1pdBVqjlpAGghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVAAAAABoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMV6JRdQBoGZWZmZWN0GgtzaWRlZWZmZWN0czKyAS9nb3RvP3VybD1DQUVTZWdIRUlrWFhISnVPNV9CZFBvUk9XZWg1NUFsNWRGNWFvaXpLU1Q2RVBnWTlyeU9ZcE1ibXh6Wjdmc2NxYVlBRVI5d0haQUpyMzZNZkZSc0VKaWRPaEdDbXg2UUFZTzZoc0lEVWktQnJpclJqX0MzdFhMeVZidE9ZZ052bDdCSFlSUVk5NS1mZEZ1NHZDN1hmQVFZN1BTVkJzV1QwUE01NGwwZmI6QTxiPk9wc3VtaXQ8L2I-IChtYWNpdGVudGFuKSBkb3NpbmcsIGluZGljYXRpb25zLCBpbnRlcmFjdGlvbnMgLi4uQpsBQWR2ZXJzZSBFZmZlY3RzICZndDsxMCUgPGI-TmFzb3BoYXJ5bmdpdGlzICgyMCUpIEhlYWRhY2hlICgxNDwvYj4lKSBBbmVtaWEgKDEzJSkgQnJvbmNoaXRpcyAoMTIlKSAxLTEwJSBVcmluYXJ5IHRyYWN0IGluZmVjdGlvbiAoOSUpIEhlbW9nbG9iaW4gJmx0OzEwIGcvZEwiAhABSABYAGgA",
+      "source": "Medscape"
+    },
+    {
+      "position": 8,
+      "title": "Macitentan tablets",
+      "link": "https://my.clevelandclinic.org/health/drugs/18496-macitentan-tablets",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEBxCJF10p-hG9-t5F3DLhy5kvb5Pyb7Cbn4BObNpFT0EhsF6v2PjFT8a2-5NnKz_9hTSCj5w7dCAQLSh3QxK8jb4xB3d-3F_APymrE5p6lCMnSiR94C-kDFcK6_RzEgIxCgVm7LeHaT9x4uuzHq56Pulm2fyhiaPvFgZXoMZOAVug&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://my.clevelandclinic.org \u203a health \u203a drugs \u203a 18496...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEX___9HcEz_______________8JhEEGeb8AfTEAcbzB1uvD2smkx8NTlctUnW_nYckkAAAABnRSTlP_AOoNmTnE_icJAAAAnUlEQVQoka2T2RLDIAhFL2qsW_L_n1tc0qAZbWba8yJ4HkAGQaSNwg1lNBFou5vKRtAzB1YGCL6xA_sZB7Diev7V8CFcMVBamUk8k7VQLT9Kn64ukx-lfMN_ZHl4J-tAKoGRsssjI6XMD8dImfPjjK21vRQXP0o5vlHa3ISLsRx2lOWC5Sf-KtVcqrxgyTWONpBMygu2XM3lUq--wxuJ4QrRHTCrwAAAAABJRU5ErkJggg.png",
+      "snippet": "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat Liver injury\u2014right upper belly pain, loss of appetite, nausea,",
+      "snippet_highlighted_words": [
+        "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Allergic reactions\u2014skin rash, itching, hives, swelling of the face, lips, tongue, or throat Liver injury\u2014right upper belly pain, loss of appetite, nausea",
+          "source_info_link": "https://my.clevelandclinic.org/health/drugs/18496-macitentan-tablets",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAALVBMVEX___9HcEz_______________8JhEEGeb8AfTEAcbzB1uvD2smkx8NTlctUnW_nYckkAAAABnRSTlP_AOoNmTnE_icJAAAAnUlEQVQoka2T2RLDIAhFL2qsW_L_n1tc0qAZbWba8yJ4HkAGQaSNwg1lNBFou5vKRtAzB1YGCL6xA_sZB7Diev7V8CFcMVBamUk8k7VQLT9Kn64ukx-lfMN_ZHl4J-tAKoGRsssjI6XMD8dImfPjjK21vRQXP0o5vlHa3ISLsRx2lOWC5Sf-KtVcqrxgyTWONpBMygu2XM3lUq--wxuJ4QrRHTCrwAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2VS1UR0RBVFZIcDY4MGdUMVdKV3lnU3FWa2RrdlZLOEx1VFJmdFFZMzNQQTRpWlR3ZDlMSW1oR0ozdThkbzlDdjNBNi1nczl4NEI0aHFyQVZ2SHJ0bkl2MnNFNEwwaks2SDJRbmZSWE1lUlVIWGtPZGhlZlRUZTFTVFE3bDR0NGRTeTBoTmpNeDFNVjVkeU9OY0hxRnprYlNDbHBFeEwyRzN0SUZVEgQaAggAGrUEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEECAAQABgAIAAqJgoHb3BzdW1pdBXaC3c-GghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVfotMPxoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVfotMPxoGZWZmZWN0GgtzaWRlZWZmZWN0czK9AS9nb3RvP3VybD1DQUVTZ1FFQnhDSkYxNlUtVEdEQVRWSHA2ODBnVDFXSld5Z1NxVmtka3ZWSzhMdVRSZnRRWTMzUEE0aVpUd2Q5TEltaEdKM3U4ZG85Q3YzQTYtZ3M5eDRCNGhxckFWdkhydG5JdjJzRTRMMGpLNkgyUW5mUlhNZVJVSFhrT2RoZWZUVGUxU1RRN2w0dDRkU3kwaE5qTXgxTVY1ZHlPTmNIcUZ6a2JTQ2xwRXhMMkczdElGVTolTWFjaXRlbnRhbiB0YWJsZXRzIC0gQ2xldmVsYW5kIENsaW5pY0KlATxiPkFsbGVyZ2ljIHJlYWN0aW9uc-KAlHNraW4gcmFzaCwgaXRjaGluZywgaGl2ZXMsIHN3ZWxsaW5nIG9mIHRoZSBmYWNlLCBsaXBzLCB0b25ndWUsIG9yIHRocm9hdDwvYj4gTGl2ZXIgaW5qdXJ54oCUcmlnaHQgdXBwZXIgYmVsbHkgcGFpbiwgbG9zcyBvZiBhcHBldGl0ZSwgbmF1c2VhLCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCeENKRjE2VS1UR0RBVFZIcDY4MGdUMVdKV3lnU3FWa2RrdlZLOEx1VFJmdFFZMzNQQTRpWlR3ZDlMSW1oR0ozdThkbzlDdjNBNi1nczl4NEI0aHFyQVZ2SHJ0bkl2MnNFNEwwaks2SDJRbmZSWE1lUlVIWGtPZGhlZlRUZTFTVFE3bDR0NGRTeTBoTmpNeDFNVjVkeU9OY0hxRnprYlNDbHBFeEwyRzN0SUZVEgQaAggAGrUEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEECAAQABgAIAAqJgoHb3BzdW1pdBXaC3c-GghvcCBzdW1pdBoMaXY7cDtvcHN1bWl0KisKBHNpZGUVfotMPxoHYWR2ZXJzZRoIbmVnYXRpdmUaC3NpZGVlZmZlY3RzKiMKB2VmZmVjdHMVfotMPxoGZWZmZWN0GgtzaWRlZWZmZWN0czK9AS9nb3RvP3VybD1DQUVTZ1FFQnhDSkYxNlUtVEdEQVRWSHA2ODBnVDFXSld5Z1NxVmtka3ZWSzhMdVRSZnRRWTMzUEE0aVpUd2Q5TEltaEdKM3U4ZG85Q3YzQTYtZ3M5eDRCNGhxckFWdkhydG5JdjJzRTRMMGpLNkgyUW5mUlhNZVJVSFhrT2RoZWZUVGUxU1RRN2w0dDRkU3kwaE5qTXgxTVY1ZHlPTmNIcUZ6a2JTQ2xwRXhMMkczdElGVTolTWFjaXRlbnRhbiB0YWJsZXRzIC0gQ2xldmVsYW5kIENsaW5pY0KlATxiPkFsbGVyZ2ljIHJlYWN0aW9uc-KAlHNraW4gcmFzaCwgaXRjaGluZywgaGl2ZXMsIHN3ZWxsaW5nIG9mIHRoZSBmYWNlLCBsaXBzLCB0b25ndWUsIG9yIHRocm9hdDwvYj4gTGl2ZXIgaW5qdXJ54oCUcmlnaHQgdXBwZXIgYmVsbHkgcGFpbiwgbG9zcyBvZiBhcHBldGl0ZSwgbmF1c2VhLCICEAFIAFgAaAA",
+      "source": "Cleveland Clinic"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Opsumit price",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Opsumit+price&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Opsumit+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Macitentan",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Macitentan&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Macitentan"
+    },
+    {
+      "block_position": 1,
+      "query": "OPSUMIT manufacturer",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=OPSUMIT+manufacturer&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=OPSUMIT+manufacturer"
+    },
+    {
+      "block_position": 1,
+      "query": "Uptravi",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Uptravi&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Uptravi"
+    },
+    {
+      "block_position": 1,
+      "query": "Macitentan dose",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Macitentan+dose&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Macitentan+dose"
+    },
+    {
+      "block_position": 1,
+      "query": "Adempas",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Adempas&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Adempas"
+    },
+    {
+      "block_position": 1,
+      "query": "Macitentan 10 mg price",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Macitentan+10+mg+price&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Macitentan+10+mg+price"
+    },
+    {
+      "block_position": 1,
+      "query": "Bosentan",
+      "link": "https://www.google.com/search?sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&q=Bosentan&sa=X&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Bosentan"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Opsumit Side effects - Pulmonary Hypertension News Forums",
+      "link": "https://pulmonaryhypertensionnews.com/forums/forums/topic/opsumit-side-effects/",
+      "date": "2 years ago",
+      "source": "Pulmonary Hypertension News",
+      "answers": [
+        {
+          "link": "https://pulmonaryhypertensionnews.com/forums/forums/topic/opsumit-side-effects/"
+        }
+      ]
+    },
+    {
+      "title": "Do You Have Experience Taking Opsumit ( Macitentan)?",
+      "link": "https://pulmonaryhypertensionnews.com/forums/forums/topic/do-you-have-experience-taking-opsumit-macitentan/",
+      "date": "5 years ago",
+      "source": "Pulmonary Hypertension News",
+      "answers": [
+        {
+          "link": "https://pulmonaryhypertensionnews.com/forums/forums/topic/do-you-have-experience-taking-opsumit-macitentan/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=10&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8NMDegQIOBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=10&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=20&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=30&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAI",
+      "5": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=40&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAK",
+      "6": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=50&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAM",
+      "7": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=60&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAO",
+      "8": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=70&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAQ",
+      "9": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=80&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAS",
+      "10": "https://www.google.com/search?q=opsumit+side+effects&sca_esv=514e63bafcc8d03f&gl=us&hl=en&sxsrf=AKL5yDjVlWjD3-zv40jdlFO_6YVDnlmyeg:1793912020060&ei=1OzsasCUA_C9mLQP0b3K0AI&start=90&sa=N&sstk=AYl2yk9AKuWihJrQbKlBCAtQmUeRbQSpfSKVqq2S8daBOfnHxiXqT_pBEl-XW3GimwC_RR8otsHk4QymL1L5oYd9Qk385pDVoJxXHw&ved=2ahUKEwjAztqF2_GXAxXwHoYAHdGeEioQ8tMDegQIOBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=opsumit+side+effects&start=90"
+    }
+  }
+}
