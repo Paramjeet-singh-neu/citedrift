@@ -1,0 +1,599 @@
+{
+  "search_metadata": {
+    "id": "6af7764134262a47bed5929d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/P-4H5RIPdB5yJ5UaKH3XwaOatYqNo1N9vrPUAup1_ZY/6af7764134262a47bed5929d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/P-4H5RIPdB5yJ5UaKH3XwaOatYqNo1N9vrPUAup1_ZY/6af7764134262a47bed5929d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/P-4H5RIPdB5yJ5UaKH3XwaOatYqNo1N9vrPUAup1_ZY/6af7764134262a47bed5929d.json_with_pixel_position",
+    "created_at": "2026-11-13 20:42:41 UTC",
+    "processed_at": "2026-11-13 20:42:41 UTC",
+    "google_url": "https://www.google.com/search?q=type+2+diabetes+treatment+options&oq=type+2+diabetes+treatment+options&hl=en&gl=us&sourceid=chrome&ie=UTF-8&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM",
+    "raw_html_file": "https://serpapi.com/searches/P-4H5RIPdB5yJ5UaKH3XwaOatYqNo1N9vrPUAup1_ZY/6af7764134262a47bed5929d.html",
+    "total_time_taken": 0.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "type 2 diabetes treatment options",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "type 2 diabetes treatment options",
+    "total_results": 9220000000,
+    "time_taken_displayed": 0.22,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is a type in C#?",
+      "type": "ai_overview",
+      "page_token": "5BKu7nicHdBdboIwAADg7DI-TqrgMhOzDG1VErtZ2oK8mLYUEcqPWkV93Fn2tMPsALvIXpfsO8L38Wn2dfnzEOfWtqdxv9913eOuaXZGP6qm6ovTrVZ9JYyRQpXj0dMIvGRqAk-dP206f80I3JjURJxcdOnhkLVUVwFYlUG24u2N892AMe-mp46bIP8qh6VLIi_RzAMMBTcB7Tmk_BTVbUhhepWwua9pjhggM1b4QgFMScnj1EGxjBI3ifNZ7GArjRkJ4y8Uem7Dyi5ojPfCwZQWaSZZPlAL7EYVH2jI5zoKoAJrF1cgJNX1IEx-ZI4TIoA2mwLn8r4cEpqsohl_k8A_hI4likF3vg_8ELodoelcVeiMjfKSefC-LshS0uSMawUoTRoyaJFeBHUvU5fJsPc_NtlmlR23x2b3pY5aWJ1uhf0ufi-vf1UZgBo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5BKu7nicHdBdboIwAADg7DI-TqrgMhOzDG1VErtZ2oK8mLYUEcqPWkV93Fn2tMPsALvIXpfsO8L38Wn2dfnzEOfWtqdxv9913eOuaXZGP6qm6ovTrVZ9JYyRQpXj0dMIvGRqAk-dP206f80I3JjURJxcdOnhkLVUVwFYlUG24u2N892AMe-mp46bIP8qh6VLIi_RzAMMBTcB7Tmk_BTVbUhhepWwua9pjhggM1b4QgFMScnj1EGxjBI3ifNZ7GArjRkJ4y8Uem7Dyi5ojPfCwZQWaSZZPlAL7EYVH2jI5zoKoAJrF1cgJNX1IEx-ZI4TIoA2mwLn8r4cEpqsohl_k8A_hI4likF3vg_8ELodoelcVeiMjfKSefC-LshS0uSMawUoTRoyaJFeBHUvU5fJsPc_NtlmlR23x2b3pY5aWJ1uhf0ufi-vf1UZgBo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU1WbGpiRWhWYW5wTVN6TnZhR1kxU21kaGNFNUhhblZYYTFBNGRXUk1OVjlZVmxSRFdUVjZRbUZ1WnpKck5VOXZkRGt0U0dZeVp6Y3hNbWMxVVdKemNIYzFRM0J4YVMxaFNscFhja3hOWDNReE0yd3dUVVl4TmxsaVFSSVhVVmhpTTJGdk1qZEZOa3hZTlU1dlVHcExTMUZ4UVRnYUlrRklUakJGTjBWWlVIQkRURnBGZERsNmRFdzRhbGRNZGpBd056QnNkbUpKVlZFIiwiZmN2IjoiMyIsImVpIjoiUVhiM2FvMjdFNkxYNU5vUGpLS1FxQTgiLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmUjFZTGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgdHlwZSBpbiBDIz8iLCJsayI6IkdoUjNhR0YwSUdseklHRWdkSGx3WlNCcGJpQmpJdyIsImJzIjoiYy1QUzV4SU56MGdzVWNnc1ZraFVLS2tzU0ZYSXpGTndWclkzRXBNU0tjZVFTRllXWUFRQSIsImlkIjoiZmNfUVhiM2FvMjdFNkxYNU5vUGpLS1FxQThfMiJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJSRVJpVjJWaU1WbGpiRWhWYW5wTVN6TnZhR1kxU21kaGNFNUhhblZYYTFBNGRXUk1OVjlZVmxSRFdUVjZRbUZ1WnpKck5VOXZkRGt0U0dZeVp6Y3hNbWMxVVdKemNIYzFRM0J4YVMxaFNscFhja3hOWDNReE0yd3dUVVl4TmxsaVFSSVhVVmhpTTJGdk1qZEZOa3hZTlU1dlVHcExTMUZ4UVRnYUlrRklUakJGTjBWWlVIQkRURnBGZERsNmRFdzRhbGRNZGpBd056QnNkbUpKVlZFIiwiZmN2IjoiMyIsImVpIjoiUVhiM2FvMjdFNkxYNU5vUGpLS1FxQTgiLCJxYyI6IkNpRjBlWEJsSURJZ1pHbGhZbVYwWlhNZ2RISmxZWFJ0Wlc1MElHOXdkR2x2Ym5NUUFCZ0JmUjFZTGo4IiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgdHlwZSBpbiBDIz8iLCJsayI6IkdoUjNhR0YwSUdseklHRWdkSGx3WlNCcGJpQmpJdyIsImJzIjoiYy1QUzV4SU56MGdzVWNnc1ZraFVLS2tzU0ZYSXpGTndWclkzRXBNU0tjZVFTRllXWUFRQSIsImlkIjoiZmNfUVhiM2FvMjdFNkxYNU5vUGpLS1FxQThfMiJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Treatment options for type 2 diabetes include lifestyle changes, oral and injectable medications, insulin therapy, and surgical options to help manage blood sugar levels and prevent complications.",
+        "snippet_highlighted_words": [
+          "lifestyle changes, oral and injectable medications, insulin therapy, and surgical options"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Lifestyle Modifications"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Healthy Diet: Focus on whole foods, lean proteins, non-starchy vegetables, complex carbohydrates, and healthy fats while managing portion sizes."
+          },
+          {
+            "snippet": "Physical Activity: Incorporate regular cardiovascular exercise combined with strength training."
+          },
+          {
+            "snippet": "Weight Management: Working toward achieving a healthy body weight can significantly improve insulin sensitivity.",
+            "reference_indexes": [
+              1,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Oral Medications"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Metformin: Often the first-line medication prescribed; it works by reducing glucose production in the liver and helping the body use insulin more effectively."
+          },
+          {
+            "snippet": "Sulfonylureas: Medications like glipizide or glimepiride help the pancreas release more insulin."
+          },
+          {
+            "snippet": "Thiazolidinediones (TZDs): Drugs like pioglitazone help improve insulin sensitivity in muscle and fat cells."
+          },
+          {
+            "snippet": "DPP-4 Inhibitors (Gliptins): Help block enzymes that break down gut hormones, leading to increased insulin production after meals."
+          },
+          {
+            "snippet": "SGLT2 Inhibitors: Help the kidneys remove excess glucose from the body through urine.",
+            "reference_indexes": [
+              0,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Injectable Medications"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "GLP-1 Receptor Agonists & Dual GLP-1/GIP Agonists: Injectable treatments that stimulate insulin release, slow digestion, and frequently assist with weight management and heart or kidney health.",
+            "reference_indexes": [
+              1,
+              6,
+              7
+            ]
+          },
+          {
+            "snippet": "Insulin Therapy: Long-acting, short-acting, or mixed insulins can be prescribed via pens, syringes, or pumps if oral and injectable medications no longer keep blood sugar in a healthy range.",
+            "reference_indexes": [
+              1,
+              8,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Surgical Interventions"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Bariatric Surgery: Can be considered to significantly reduce stomach capacity and improve or reverse type 2 diabetes symptoms.",
+            "reference_indexes": [
+              2,
+              9
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can read more about detailed drug classes and management plans through the Mayo Clinic Type 2 Diabetes Guide, the Cleveland Clinic Diabetes Overview, or the American Diabetes Association Medication Resource.",
+        "snippet_links": [
+          {
+            "text": "Mayo Clinic Type 2 Diabetes Guide",
+            "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199"
+          },
+          {
+            "text": "Cleveland Clinic Diabetes Overview",
+            "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes"
+          },
+          {
+            "text": "American Diabetes Association Medication Resource",
+            "link": "https://www.google.com/goto?url=CAESlwEBxCJF1_cswxlo0u5G4vZmPI1QCn55gCrn5YWZaVxFbl9Y8wAw7NG6CpUKBR3Chf2QM4rsJYAee7hO9D_0X-Az0cChi91sYamfxPRGs43cXSuwh_vzHn9bS2DDIxx_F3yuq6FNWrTWRw-RoEC-hFIdKW9-USawxmkyQT0A5ZKVnAkM1UMOMaSCzVD8ZVgNmsfgOQRgnUHh"
+          }
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          3
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help tailor this information, could you share:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you looking for newly diagnosed treatment info or adjusting an existing routine?"
+          },
+          {
+            "snippet": "Do you have specific medication preferences (oral vs. injectable) or concerns about side effects?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "Type 2 diabetes - Diagnosis and treatment - Mayo Clinic",
+        "link": "https://www.mayoclinic.org/diseases-conditions/type-2-diabetes/diagnosis-treatment/drc-20351199",
+        "snippet": "Tracking your blood sugar Diabetes medicines If you can't stay at your target blood sugar level with diet and exercise, your healthcare team may prescribe diabetes...",
+        "source": "Mayo Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.mayoclinic.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFj_5_0dkAWoXVkAYNXDFQLHQVjczkQrJNjtVaB3sFi-pIbKdrWIooqSd8DHflVR5WuSpNHFmu11_EBYW5Vrk2aC-mABtm_v2pfuXdo42nsqWo50yb2i8FITI1G3zq5Sai7q_DND6ODW7xFw5LdcHnTvg"
+      },
+      {
+        "index": 1,
+        "title": "Type 2 Diabetes: What It Is, Causes, Symptoms & Treatment",
+        "link": "https://my.clevelandclinic.org/health/diseases/21501-type-2-diabetes",
+        "snippet": "Loved ones can help carry this mental load. * Can Type 2 diabetes be reversed? Type 2 diabetes is a chronic (long-term) disease. This means you must manage it for ...",
+        "source": "Cleveland Clinic",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://my.clevelandclinic.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThgwJNTWQHf6VPlQLQGBr-Upxo52ovVZ2WK2ZEh1cQjPGokBHDCxMtCzjw5vs_MyOnCOv0LSjHzsg3oUdnNSu9FRszlakZOOd8Umqb_7kDVWNNe-j9NrIYVHWa8quwxNfAM_5l1W7Dksdy2kyhBUv10KI"
+      },
+      {
+        "index": 2,
+        "title": "Diabetes Type 2 Treatment - DRIF",
+        "link": "https://diabetesresearch.org/diabetes-type-2-treatment/",
+        "snippet": "Diagnosis: A1C test, random blood sugar test, fasting blood sugar test, and screening for related complications. Lifestyle: Healthy diet with whole foods and porti...",
+        "source": "diabetesresearch.org",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://diabetesresearch.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKZBg4oF-sjapjoigZN1Bw-UptcilZ0YewXuyG7ZlOw2rQ3rpCqtHMFQC6TVcvmmQTLIl4mCnv865QvwDqlx-HPruc8CzU1ccC8juYBZS7cRxgnSrn8pI8gLC5jNDzQPEz7jdI5eN-dmpPtlzu_cXd5e0"
+      },
+      {
+        "index": 3,
+        "title": "What Are My Options for Type 2 Diabetes Medications? | ADA",
+        "link": "https://www.google.com/goto?url=CAESlwEBxCJF1_cswxlo0u5G4vZmPI1QCn55gCrn5YWZaVxFbl9Y8wAw7NG6CpUKBR3Chf2QM4rsJYAee7hO9D_0X-Az0cChi91sYamfxPRGs43cXSuwh_vzHn9bS2DDIxx_F3yuq6FNWrTWRw-RoEC-hFIdKW9-USawxmkyQT0A5ZKVnAkM1UMOMaSCzVD8ZVgNmsfgOQRgnUHh",
+        "snippet": "Oral & Injectable Medications for Type 2 Diabetes People with type 2 diabetes can use various medications other than insulin to help manage their diabetes effectiv...",
+        "source": "American Diabetes Association",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://diabetes.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 4,
+        "title": "Type 2 Diabetes Therapies: A STEPS Approach | AFP",
+        "link": "https://www.aafp.org/afp/2019/0215/p237",
+        "snippet": "Type 2 Diabetes Therapies: A STEPS Approach Joshua Steinberg, MD Lyndsay Carlson, PharmD, BCACP American Family Physician. 2019;99(4):237-243. Author disclosure: N...",
+        "source": "American Academy Of Family Physicians | AAFP",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.aafp.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTAkckgMCOMpv85bHoepRa0LCvqtclu9YFLurphMQV1aXewTAgkYzYvrBGX4H3U7Wfyx2JocqhJKYypq_gjLWhPI8Pjps3_C_jKcuaTELId_wSCO-dT5w7DaHBck4F3fe_a-ac7aUhabig"
+      },
+      {
+        "index": 5,
+        "title": "Medication for Type 2 Diabetes | NYU Langone Health",
+        "link": "https://nyulangone.org/conditions/type-2-diabetes/treatments/medication-for-type-2-diabetes",
+        "snippet": "Medication for Type 2 Diabetes Oral Medications For people with mild to moderate type 2 diabetes, medications taken by mouth are effective in controlling blood sug...",
+        "source": "NYU Langone Health",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://nyulangone.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 6,
+        "title": "Medication Options For Type 2 Diabetes | Beyond Type 1",
+        "link": "https://beyondtype1.org/medications-type-2-diabetes/",
+        "snippet": "Medication Options For Type 2 Diabetes * If your current diabetes medication doesn't seem to work for you, talk to your healthcare provider about other options. Di...",
+        "source": "Beyond Type 1",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://beyondtype1.org&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS6HqLvaWUeR3SqNBebQOFmvQU0_CbbBwxF3fXb5rCmyGVKBc3FE5aXSnn-gmBRQeEdbitqBPMvrFZ2opui0qGeac6FvxjOvKz_2AVhmK74dYnfNnxeP_8gUZSgoibjC9hEqjR5JutnvMZa8X1Mi0IqbME"
+      },
+      {
+        "index": 7,
+        "title": "Treatment Options for Type 2 Diabetes",
+        "link": "https://www.google.com/goto?url=CAESbQHEIkXXs51CpkYCEoM_XX0bj-PAc__3qQF1s2UbrMeohXPIbcotMsnelEgI7HXXyFl_LMOT7a1AEtH1T-9W1hANH-RiZjLPnBflsXDOGVAU_rdt_3nK8R3KMdzeMjc17dMPIuOunO_-Agw9Haw",
+        "snippet": "Treatment Options for Type 2 Diabetes you may also need to check your blood sugar cholesterol and blood pressure to make sure they are within the target range to h",
+        "source": "YouTube",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuYmcuNDSoad5Qw6aTaI31_pzxfc6sFiuJlCX9r9iOJj6kErtm-glhn8jjv5FkXnuYC39aVtD-evdodO9Me6Is2Bx2IXULN7hOAhPMmuqsF4bmYc0FP_TpvrV-JeTLkjad8FLV3Z2HJgfhnn-mC5DA4-M"
+      },
+      {
+        "index": 8,
+        "title": "Insulin, Medicines, & Other Diabetes Treatments - NIDDK",
+        "link": "https://www.niddk.nih.gov/health-information/diabetes/overview/insulin-medicines-treatments",
+        "snippet": "Type 2 diabetes Gestational diabetes If you have gestational diabetes, you can manage your blood glucose level by following a healthy eating plan and doing a moder...",
+        "source": "National Institutes of Health (NIH) | (.gov)",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.niddk.nih.gov&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNRUxsJqite6AVhqKMb-UQcuVwfIXyfcC_XWB_Fkoxq1ZQBX0I6vviklEberepu_vJ9pKox86ej5uwHBkLiZkZkG-Ri8vGx_a2GWr3vmk3xHbpuGMqAaB5vPv5xaDOKkddVJIqNw4H1eT8fOySiMZXgA"
+      },
+      {
+        "index": 9,
+        "title": "Treatment Options for Type 2 Diabetes",
+        "link": "https://resources.healthgrades.com/video/diabetes-video-center/treatment-options-for-type-2-diabetes",
+        "snippet": "Treatment Options for Type 2 Diabetes when you hear about diabetes. you'll always hear about insulin type ones have to take insulin. there's no choice their body d",
+        "source": "Healthgrades Health Library",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://resources.healthgrades.com&client=AIM&size=32&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX3eyEt2eH4uloC1EaUXAcIIdnonmYNo-NDmh4zP1o0qihSrkgMS5poSfaT9AXxkeKYUKeY_LZRRrkrNB-MVwhpKjlLmDR1Gfu7Oi0MRP_WjZ4Qy6VmXziODEXEP9o0bL9N24yqvs4MZ6dT1DS21NaQC4"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Type Class (System)",
+      "link": "https://learn.microsoft.com/en-us/dotnet/api/system.type?view=net-11.0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEBxCJF1-4MB75sMjBYJN5n5f46McHNexlw3LJAshz91kImh1_a9NAFX5jbP3OF8u4_pXd4i8iHdZOMs9c-c3hU6z0Qok1QnUqrt8RVuBKxhsinp_hvPhdT3Hjs1zncgTYqjyCw1Q4iB-Gyjb5BTNOVPJyUvARoDl3cOHzOEGlFrCVjQw&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://learn.microsoft.com \u203a Learn \u203a .NET \u203a API browser",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABnRSTlMAAAAAAABupgeRAAAAWklEQVR4AWP4FKBEJPrip8wABrV7GOp3EYtGhgWjFoxaMGrBqAXf_OSIRD995CEWVO9hqN1FLBoOYNlnotF3iI7_O4lHQOVL3hONPo9agB2NWjBqwagFoxYAAB2zMZ7bQW2tAAAAAElFTkSuQmCC.png",
+      "snippet": "Use the members of Type to get information about a type declaration, about the members of a type (such as the constructors, methods, fields, properties, and ...",
+      "snippet_highlighted_words": [
+        "Type",
+        "type",
+        "type",
+        "methods"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Use the members of Type to get information about a type declaration, about the members of a type (such as the constructors, methods, fields, properties, and ...",
+          "source_info_link": "https://learn.microsoft.com/en-us/dotnet/api/system.type?view=net-11.0",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABnRSTlMAAAAAAABupgeRAAAAWklEQVR4AWP4FKBEJPrip8wABrV7GOp3EYtGhgWjFoxaMGrBqAXf_OSIRD995CEWVO9hqN1FLBoOYNlnotF3iI7_O4lHQOVL3hONPo9agB2NWjBqwagFoxYAAB2zMZ7bQW2tAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCeENKRjEzbjhxNDhmbzhYanozeXJDaTdSOC1XTUxRSm1ZbTlYSXRDbkpHU1N5RTM3ODFBUWt1dE12YVdib0lZVmozczJDclhNa2lkMzdqbnVDYkF6LWpXZWRlOHV1VGd0NFBPQ1ZmZTVtSWdOLUs0Y2p6cHBLZHV4VjVtd3RaTWk3QWpjNkdMT2VEbXVsRkNLSGpDaWZvbTFpalFYb3luNm9MSnJ0OElSYWhOVGhREgQaAggAGo0EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wMIABAAGAAgACooCgR0eXBlFdG_ikAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlczLAAS9nb3RvP3VybD1DQUVTZ3dFQnhDSkYxM244cTQ4Zm84WGp6M3lyQ2k3UjgtV01MUUptWW05WEl0Q25KR1NTeUUzNzgxQVFrdXRNdmFXYm9JWVZqM3MyQ3JYTWtpZDM3am51Q2JBei1qV2VkZTh1dVRndDRQT0NWZmU1bUlnTi1LNGNqenBwS2R1eFY1bXd0Wk1pN0FqYzZHTE9lRG11bEZDS0hqQ2lmb20xaWpRWG95bjZvTEpydDhJUmFoTlRoUTosPGI-VHlwZTwvYj4gQ2xhc3MgKFN5c3RlbSkgLSBNaWNyb3NvZnQgTGVhcm5CwQFVc2UgdGhlIG1lbWJlcnMgb2YgPGI-VHlwZTwvYj4gdG8gZ2V0IGluZm9ybWF0aW9uIGFib3V0IGEgPGI-dHlwZTwvYj4gZGVjbGFyYXRpb24sIGFib3V0IHRoZSBtZW1iZXJzIG9mIGEgPGI-dHlwZTwvYj4gKHN1Y2ggYXMgdGhlIGNvbnN0cnVjdG9ycywgPGI-bWV0aG9kczwvYj4sIGZpZWxkcywgcHJvcGVydGllcywgYW5kJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCeENKRjEzbjhxNDhmbzhYanozeXJDaTdSOC1XTUxRSm1ZbTlYSXRDbkpHU1N5RTM3ODFBUWt1dE12YVdib0lZVmozczJDclhNa2lkMzdqbnVDYkF6LWpXZWRlOHV1VGd0NFBPQ1ZmZTVtSWdOLUs0Y2p6cHBLZHV4VjVtd3RaTWk3QWpjNkdMT2VEbXVsRkNLSGpDaWZvbTFpalFYb3luNm9MSnJ0OElSYWhOVGhREgQaAggAGo0EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wMIABAAGAAgACooCgR0eXBlFdG_ikAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlczLAAS9nb3RvP3VybD1DQUVTZ3dFQnhDSkYxM244cTQ4Zm84WGp6M3lyQ2k3UjgtV01MUUptWW05WEl0Q25KR1NTeUUzNzgxQVFrdXRNdmFXYm9JWVZqM3MyQ3JYTWtpZDM3am51Q2JBei1qV2VkZTh1dVRndDRQT0NWZmU1bUlnTi1LNGNqenBwS2R1eFY1bXd0Wk1pN0FqYzZHTE9lRG11bEZDS0hqQ2lmb20xaWpRWG95bjZvTEpydDhJUmFoTlRoUTosPGI-VHlwZTwvYj4gQ2xhc3MgKFN5c3RlbSkgLSBNaWNyb3NvZnQgTGVhcm5CwQFVc2UgdGhlIG1lbWJlcnMgb2YgPGI-VHlwZTwvYj4gdG8gZ2V0IGluZm9ybWF0aW9uIGFib3V0IGEgPGI-dHlwZTwvYj4gZGVjbGFyYXRpb24sIGFib3V0IHRoZSBtZW1iZXJzIG9mIGEgPGI-dHlwZTwvYj4gKHN1Y2ggYXMgdGhlIGNvbnN0cnVjdG9ycywgPGI-bWV0aG9kczwvYj4sIGZpZWxkcywgcHJvcGVydGllcywgYW5kJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Microsoft Learn",
+      "read_more_link": "https://learn.microsoft.com/en-us/dotnet/api/system.type?view=net-11.0#:~:text=Use%20the%20members%20of%20Type,which%20the%20class%20is%20deployed."
+    },
+    {
+      "position": 2,
+      "title": "Built-in functions",
+      "link": "https://docs.python.org/3/builtins/functions.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHEIkXXTuxdlWYqa8yTXjn-FTyJXv9czbkEc5H-Xsqyht9BxkPArj9uZqi1yQKoMe9vCCPR8tEbKjL9mmWsM0Vw4c-T86LkOUyRUkVEJj1SHOYx7m09aMvte_TdYVMGua3_Q63jPIuUsV2lsQgg&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://docs.python.org \u203a builtins \u203a functions",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEX____r8viQuNddlcFDgrRBf7FckLqbutN3p86mxd1xocc_fa49eao6dqaJq8hqm8I4c6NWh6-uyuBQgKjy9_tGhrgxapn_76D_6HP_7ZT__fOZvtv_5Gf_8LB-pcT_6YD_4F7_43lolLmVscn_4mL_3VSyx83_3FFpl7z_2Eb_3mT_64b_1D3_6Zr_4HD_5YUzdCwjAAAAo0lEQVR4ATyMAxLAQBAEN7ZtW___XfYu6OIQCAzL8YIowY-sqIKmG-ZvcKyF2nZ-w1UkybBtjwpfDgJe0FGHXhQnKWREazpqNPK8AOvXYVnldQNUey3SFX09DBCgHosEifthmCbgNH2O4jjOMZ6WZQVJN8otzvOa6v0ARp2lCuOqac7zbFIgVFhHfcFHg2_LedS_kZD1edxDqGDQVdDRUdUFMwHaYxIywvjZBgAAAABJRU5ErkJggg.png",
+      "snippet": "The Python interpreter has a number of functions and types built into it that are always available. They are listed here in alphabetical order.,,,, Built-in ...",
+      "snippet_highlighted_words": [
+        "types"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Python interpreter has a number of functions and types built into it that are always available. They are listed here in alphabetical order.,,,, Built-in ...",
+          "source_info_link": "https://docs.python.org/3/builtins/functions.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAkFBMVEX____r8viQuNddlcFDgrRBf7FckLqbutN3p86mxd1xocc_fa49eao6dqaJq8hqm8I4c6NWh6-uyuBQgKjy9_tGhrgxapn_76D_6HP_7ZT__fOZvtv_5Gf_8LB-pcT_6YD_4F7_43lolLmVscn_4mL_3VSyx83_3FFpl7z_2Eb_3mT_64b_1D3_6Zr_4HD_5YUzdCwjAAAAo0lEQVR4ATyMAxLAQBAEN7ZtW___XfYu6OIQCAzL8YIowY-sqIKmG-ZvcKyF2nZ-w1UkybBtjwpfDgJe0FGHXhQnKWREazpqNPK8AOvXYVnldQNUey3SFX09DBCgHosEifthmCbgNH2O4jjOMZ6WZQVJN8otzvOa6v0ARp2lCuOqac7zbFIgVFhHfcFHg2_LedS_kZD1edxDqGDQVdDRUdUFMwHaYxIywvjZBgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWGt5aGlqVV9tOGN5cEZieWtRcjdQT0ZNdktTM240Qzl1am1tU2JsMzJWYU5MbHdkTm1mTWFka1ZVSTlSZEFvN0tZS05vWUpqMkN3Y09RTE5sVGdsVktUS1pESC05ZzVBV2RreExTMXc1alJJbW5LcmNyMGR1cExXMV9mVWJjSE9xOTh0RFFKOEp4bHE2EgQaAggAGucDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwQMIABAAGAAgACooCgR0eXBlFW4L9T4aBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlczKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFhreWhpalVfbThjeXBGYnlrUXI3UE9GTXZLUzNuNEM5dWptbVNibDMyVmFOTGx3ZE5tZk1hZGtWVUk5UmRBbzdLWUtOb1lKajJDd2NPUUxObFRnbFZLVEtaREgtOWc1QVdka3hMUzF3NWpSSW1uS3JjcjBkdXBMVzFfZlViY0hPcTk4dERRSjhKeGxxNjo5QnVpbHQtaW4gZnVuY3Rpb25zIOKAlCBQeXRob24gMy4xNS48Yj4yPC9iPiBkb2N1bWVudGF0aW9uQqwBVGhlIFB5dGhvbiBpbnRlcnByZXRlciBoYXMgYSBudW1iZXIgb2YgZnVuY3Rpb25zIGFuZCA8Yj50eXBlczwvYj4gYnVpbHQgaW50byBpdCB0aGF0IGFyZSBhbHdheXMgYXZhaWxhYmxlLiBUaGV5IGFyZSBsaXN0ZWQgaGVyZSBpbiBhbHBoYWJldGljYWwgb3JkZXIuLCwsLCBCdWlsdC1pbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hFSWtYWGt5aGlqVV9tOGN5cEZieWtRcjdQT0ZNdktTM240Qzl1am1tU2JsMzJWYU5MbHdkTm1mTWFka1ZVSTlSZEFvN0tZS05vWUpqMkN3Y09RTE5sVGdsVktUS1pESC05ZzVBV2RreExTMXc1alJJbW5LcmNyMGR1cExXMV9mVWJjSE9xOTh0RFFKOEp4bHE2EgQaAggAGucDEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwQMIABAAGAAgACooCgR0eXBlFW4L9T4aBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlczKiAS9nb3RvP3VybD1DQUVTYmdIRUlrWFhreWhpalVfbThjeXBGYnlrUXI3UE9GTXZLUzNuNEM5dWptbVNibDMyVmFOTGx3ZE5tZk1hZGtWVUk5UmRBbzdLWUtOb1lKajJDd2NPUUxObFRnbFZLVEtaREgtOWc1QVdka3hMUzF3NWpSSW1uS3JjcjBkdXBMVzFfZlViY0hPcTk4dERRSjhKeGxxNjo5QnVpbHQtaW4gZnVuY3Rpb25zIOKAlCBQeXRob24gMy4xNS48Yj4yPC9iPiBkb2N1bWVudGF0aW9uQqwBVGhlIFB5dGhvbiBpbnRlcnByZXRlciBoYXMgYSBudW1iZXIgb2YgZnVuY3Rpb25zIGFuZCA8Yj50eXBlczwvYj4gYnVpbHQgaW50byBpdCB0aGF0IGFyZSBhbHdheXMgYXZhaWxhYmxlLiBUaGV5IGFyZSBsaXN0ZWQgaGVyZSBpbiBhbHBoYWJldGljYWwgb3JkZXIuLCwsLCBCdWlsdC1pbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Python documentation"
+    },
+    {
+      "position": 3,
+      "title": "Type.ai: Free AI book writer and editor",
+      "link": "https://type.ai/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTQHEIkXXeDebjdSM6vOK5A_zBrNLTvB5jGPFHCCve8Tc3uBv_8irPE13XxgVBk3GwCwcCNgKQUJeQitHiF9jw_LdLvGybK0C7LYK_cN7&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://type.ai",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEX________g4OCurq75-fnu7u4AAAC9vb3R0dFUVFSEhIQ0NDSYmJiIiIiioqJTU1NjY2MPDw9HR0caGhrKysqExjycAAAAAXRSTlP-GuMHfQAAAKZJREFUeAGl0AUCgzAQRNFMQgZ37n_WsuluqOuvIA9d9zo87TP0AakiapdIlrrUwoEVWUNqDGPGqiXZFXIptR6KnloDYGDKGQZa-a4DDFGOlLoI2eAeDKWOJLTWntywIDvDiu3NEBpGWJ03_He2Yar7CGmyVzZ0LUl9xvmMS8bpmCfWG4zU-ge4GdavcHqF4QW2eIBeL-oEeYPw257OdhtS1X-zfdkJW4kKGdHOnl8AAAAASUVORK5CYII.png",
+      "snippet": "Type.ai is the AI editor for storytellers. Join 300k+ writers who use Type to write books, novels, screenplays, fan fiction, and long-form stories.",
+      "snippet_highlighted_words": [
+        "Type.ai"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Type.ai is the AI editor for storytellers. Join 300k+ writers who use Type to write books, novels, screenplays, fan fiction, and long-form stories.",
+          "source_info_link": "https://type.ai/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEX________g4OCurq75-fnu7u4AAAC9vb3R0dFUVFSEhIQ0NDSYmJiIiIiioqJTU1NjY2MPDw9HR0caGhrKysqExjycAAAAAXRSTlP-GuMHfQAAAKZJREFUeAGl0AUCgzAQRNFMQgZ37n_WsuluqOuvIA9d9zo87TP0AakiapdIlrrUwoEVWUNqDGPGqiXZFXIptR6KnloDYGDKGQZa-a4DDFGOlLoI2eAeDKWOJLTWntywIDvDiu3NEBpGWJ03_He2Yar7CGmyVzZ0LUl9xvmMS8bpmCfWG4zU-ge4GdavcHqF4QW2eIBeL-oEeYPw257OdhtS1X-zfdkJW4kKGdHOnl8AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnYvZ290bz91cmw9Q0FFU1RRSEVJa1hYLUFJbGZOYWJaZVZ4ZmxGcTZVd3lyc2VvR0t2dVFVSmJCQWlRUXlCdy1mLWJBd1dJR21XVmpXS0I1cFhlVzhqU0hMN29FMURQR3lHUTREUGpQYTh4bWtpQWVTRG05WFdyEgQaAggAGp0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wIIABAAGAAgACooCgR0eXBlFdSYwkAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlczJ2L2dvdG8_dXJsPUNBRVNUUUhFSWtYWC1BSWxmTmFiWmVWeGZsRnE2VXd5cnNlb0dLdnVRVUpiQkFpUVF5QnctZi1iQXdXSUdtV1ZqV0tCNXBYZVc4alNITDdvRTFEUEd5R1E0RFBqUGE4eG1raUFlU0RtOVhXcjouPGI-VHlwZTwvYj4uYWk6IEZyZWUgQUkgYm9vayB3cml0ZXIgYW5kIGVkaXRvckKaATxiPlR5cGUuYWk8L2I-IGlzIHRoZSBBSSBlZGl0b3IgZm9yIHN0b3J5dGVsbGVycy4gSm9pbiAzMDBrKyB3cml0ZXJzIHdobyB1c2UgVHlwZSB0byB3cml0ZSBib29rcywgbm92ZWxzLCBzY3JlZW5wbGF5cywgZmFuIGZpY3Rpb24sIGFuZCBsb25nLWZvcm0gc3Rvcmllcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnYvZ290bz91cmw9Q0FFU1RRSEVJa1hYLUFJbGZOYWJaZVZ4ZmxGcTZVd3lyc2VvR0t2dVFVSmJCQWlRUXlCdy1mLWJBd1dJR21XVmpXS0I1cFhlVzhqU0hMN29FMURQR3lHUTREUGpQYTh4bWtpQWVTRG05WFdyEgQaAggAGp0DEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9wIIABAAGAAgACooCgR0eXBlFdSYwkAaBXR5cGVzGgV0eXBlMhoNdHlwZTJkaWFiZXRlczJ2L2dvdG8_dXJsPUNBRVNUUUhFSWtYWC1BSWxmTmFiWmVWeGZsRnE2VXd5cnNlb0dLdnVRVUpiQkFpUVF5QnctZi1iQXdXSUdtV1ZqV0tCNXBYZVc4alNITDdvRTFEUEd5R1E0RFBqUGE4eG1raUFlU0RtOVhXcjouPGI-VHlwZTwvYj4uYWk6IEZyZWUgQUkgYm9vayB3cml0ZXIgYW5kIGVkaXRvckKaATxiPlR5cGUuYWk8L2I-IGlzIHRoZSBBSSBlZGl0b3IgZm9yIHN0b3J5dGVsbGVycy4gSm9pbiAzMDBrKyB3cml0ZXJzIHdobyB1c2UgVHlwZSB0byB3cml0ZSBib29rcywgbm92ZWxzLCBzY3JlZW5wbGF5cywgZmFuIGZpY3Rpb24sIGFuZCBsb25nLWZvcm0gc3Rvcmllcy4iAhABSABYAGgA",
+      "source": "Type.ai"
+    },
+    {
+      "position": 4,
+      "title": "FDA Approves First Gene Therapy for Pediatric Patients ...",
+      "link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEBxCJF1x9tAO-_8OkvNfkr3qVBSw_g3pSxI4EkpFXAQsN9LLThjMgsAQfbnJ2K6c-Tu5U0qqH13QnKwuL4lueZCGntX1uoH9N_ymHtUKnL6RPgLf3h7oV2cSkCU4pSN_0Zw4m66_09JbXoabhVn8bCV-yh39nOuHgRUca85fMqmlwVtUFyW84deZhDRVBb91WPr4AfzFTRSkZWD2nJP-NfMtjISCzIuohN9zdpJH8gN9lKPWHaxjresNejaA&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.fda.gov \u203a news-events \u203a press-announcements",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAACVBMVEWtrKAAUJ_____xT7X9AAAASElEQVR4AZXOsRHAIAwEQTf5BHTw6kcJOYG-ShvA43GGLtrwrlTYHcHU5IiFGCAqWNpC_cH0oBb_QAxow9QnSEwoXngHc2OZbsUmRL1mo6oyAAAAAElFTkSuQmCC.png",
+      "date": "Sep 17, 2026",
+      "snippet": "The U.S. Food and Drug Administration today approved Fayuvi (rebisufligene etisparvovec-hopf), the first treatment for pediatric patients ...",
+      "snippet_highlighted_words": [
+        "Fayuvi"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The U.S. Food and Drug Administration today approved Fayuvi (rebisufligene etisparvovec-hopf), the first treatment for pediatric patients ...",
+          "source_info_link": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAACVBMVEWtrKAAUJ_____xT7X9AAAASElEQVR4AZXOsRHAIAwEQTf5BHTw6kcJOYG-ShvA43GGLtrwrlTYHcHU5IiFGCAqWNpC_cH0oBb_QAxow9QnSEwoXngHc2OZbsUmRL1mo6oyAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowCL2dvdG8_dXJsPUNBRVN2QUVCeENKRjEyQ05FdGt6cmtBZEFGaFVkMGdKcGpOaGFtblVWMGUyVUpkVW1XeUg5VzFFaXZkQTV0U1BTTy11WVhzM1lGN1ozQmlWRDItQVdMN2U5ZkpIQ0dfTC1jcldGQ3NHTFl3VDlnZlVPQ21BS2xvVzFydGVlZkxvX0FfWWhLYzNmbXREX01nSFowX3FYd0FhclRRYWFUTnozbmRKb0duR3JtSVdodks3RzdYR28wWU9pQmUwamgtSXk3SVMxMXZVYkhaaVIxOUlIbE9aTHd0a0x5RlViSVFZM256cnE5OFQ4elhId3I0N2VKcEw1UXdVWHEzcGk2VDItURIEGgIIABrLBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKUECAAQABgAIAAqKAoEdHlwZRXKVIBAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMyjAIvZ290bz91cmw9Q0FFU3ZBRUJ4Q0pGMTJDTkV0a3pya0FkQUZoVWQwZ0pwak5oYW1uVVYwZTJVSmRVbVd5SDlXMUVpdmRBNXRTUFNPLXVZWHMzWUY3WjNCaVZEMi1BV0w3ZTlmSkhDR19MLWNyV0ZDc0dMWXdUOWdmVU9DbUFLbG9XMXJ0ZWVmTG9fQV9ZaEtjM2ZtdERfTWdIWjBfcVh3QWFyVFFhYVROejNuZEpvR25Hcm1JV2h2SzdHN1hHbzBZT2lCZTBqaC1JeTdJUzExdlViSFppUjE5SUhsT1pMd3RrTHlGVWJJUVkzbnpycTk4VDh6WEh3cjQ3ZUpwTDVRd1VYcTNwaTZUMi1ROkZGREEgQXBwcm92ZXMgRmlyc3QgR2VuZSA8Yj5UaGVyYXB5PC9iPiBmb3IgUGVkaWF0cmljIFBhdGllbnRzIHdpdGggLi4uQpkBVGhlIFUuUy4gRm9vZCBhbmQgRHJ1ZyBBZG1pbmlzdHJhdGlvbiB0b2RheSBhcHByb3ZlZCA8Yj5GYXl1dmk8L2I-IChyZWJpc3VmbGlnZW5lIGV0aXNwYXJ2b3ZlYy1ob3BmKSwgdGhlIGZpcnN0IHRyZWF0bWVudCBmb3IgcGVkaWF0cmljIHBhdGllbnRzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowCL2dvdG8_dXJsPUNBRVN2QUVCeENKRjEyQ05FdGt6cmtBZEFGaFVkMGdKcGpOaGFtblVWMGUyVUpkVW1XeUg5VzFFaXZkQTV0U1BTTy11WVhzM1lGN1ozQmlWRDItQVdMN2U5ZkpIQ0dfTC1jcldGQ3NHTFl3VDlnZlVPQ21BS2xvVzFydGVlZkxvX0FfWWhLYzNmbXREX01nSFowX3FYd0FhclRRYWFUTnozbmRKb0duR3JtSVdodks3RzdYR28wWU9pQmUwamgtSXk3SVMxMXZVYkhaaVIxOUlIbE9aTHd0a0x5RlViSVFZM256cnE5OFQ4elhId3I0N2VKcEw1UXdVWHEzcGk2VDItURIEGgIIABrLBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKUECAAQABgAIAAqKAoEdHlwZRXKVIBAGgV0eXBlcxoFdHlwZTIaDXR5cGUyZGlhYmV0ZXMyjAIvZ290bz91cmw9Q0FFU3ZBRUJ4Q0pGMTJDTkV0a3pya0FkQUZoVWQwZ0pwak5oYW1uVVYwZTJVSmRVbVd5SDlXMUVpdmRBNXRTUFNPLXVZWHMzWUY3WjNCaVZEMi1BV0w3ZTlmSkhDR19MLWNyV0ZDc0dMWXdUOWdmVU9DbUFLbG9XMXJ0ZWVmTG9fQV9ZaEtjM2ZtdERfTWdIWjBfcVh3QWFyVFFhYVROejNuZEpvR25Hcm1JV2h2SzdHN1hHbzBZT2lCZTBqaC1JeTdJUzExdlViSFppUjE5SUhsT1pMd3RrTHlGVWJJUVkzbnpycTk4VDh6WEh3cjQ3ZUpwTDVRd1VYcTNwaTZUMi1ROkZGREEgQXBwcm92ZXMgRmlyc3QgR2VuZSA8Yj5UaGVyYXB5PC9iPiBmb3IgUGVkaWF0cmljIFBhdGllbnRzIHdpdGggLi4uQpkBVGhlIFUuUy4gRm9vZCBhbmQgRHJ1ZyBBZG1pbmlzdHJhdGlvbiB0b2RheSBhcHByb3ZlZCA8Yj5GYXl1dmk8L2I-IChyZWJpc3VmbGlnZW5lIGV0aXNwYXJ2b3ZlYy1ob3BmKSwgdGhlIGZpcnN0IHRyZWF0bWVudCBmb3IgcGVkaWF0cmljIHBhdGllbnRzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Frontiers in Nutrition",
+      "link": "https://www.frontiersin.org/journals/nutrition",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHEIkXX58FhXqxxP289BFdnYQ79bsOThIEwB2dwqrfSv8xine7s4Z78nJd9AHfCwHvpoWtoUpWM335X1aWd3EWTX41S3n32Yt0XDF8YMTpwo5-UkDkm4R6zSfpHhk2YcX7FsoZ1xtcEcvOh&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://www.frontiersin.org \u203a journals \u203a nutrition",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAACpElEQVR4Ab3WU5QjURSF4Rrbtm3btm3btm3btm3bxsvYRpwztW_WmZkuraC6H_523y9XSaQKPauGaPhgWIZjx-egalv3tk2060LyYAWTnzi5Jv3xE6Qs38FDHyJOaVzEJNAYQ1Gnt3JIo8oMMw3c3qN338FLV7owk1Bnz7lR7NNn_mHjKpE0tspi_nvknBOtgGVusjZy0-UW-wR-i5G45-_QsQl9j5zUdrZCCeuRri0suSbWFRiqPKHsS5qX8Kg8-Gfr3KSk7PDuXAm8Bj8lTVtZjrjv8VIJvGvn4hYGgbvmxVVBHM_SWzAdICXKIGcEIq9BpAUuaVTHzlj2Fq3ow_TsViMQexoQiL0Elq99c-qXup94AM6F8YzAz96CvKxN5eZ8TpT2Mg7P1ZxZ3Iz1ydabuqbrrwlhqRHNDUU4vV6Byvo9LVNl7fH8FxljEKcXA3NY5isLWlg2LhptwdXCM5RXII71tPMl-spdlKOpciuv53NvGVpfQIz2KzdEDFx6-UmLtOKBW1r9kJD4euUd1cHRQ54A4RhcfLGI68XZdNQplgfEbGsMWfYbAAZXd3u2ITjtQvE5DOiBv56GEoeFZ6mLoVY3ogcMfnsQmS7sKeXALGv0XGkA3t6nwPwDP92LR5ilmN3SW569Qh7kOSC5kXgpMw1EB3fXdUw-PJv2n-1A5y7Vmas1uKkgwvKiT_fijDcdnHG5sLgWABjkTAOBzLmaj6acLWlrPq-PPXunORYsJfbQNJCRsccqWxmRSmwiqeI6Eb7G3QPEs317J_EEv8ABOxrPBpKsyRKrVHqDAEJXX62Mf47rgdn6P0Mkld0wUwHohtkOnjDE_xlyYaqvLi730wv0fKjy61viGcVvUAFvUSL4GZBgeyOM2QLBZ7PeeYdofwApeA8ggD9TEAAAAABJRU5ErkJggg.png",
+      "snippet": "Explore open access research in nutrition, covering clinical nutrition, metabolism, food science, policy, sustainability and public health nutrition.",
+      "about_this_result": {
+        "source": {
+          "description": "Explore open access research in nutrition, covering clinical nutrition, metabolism, food science, policy, sustainability and public health nutrition.",
+          "source_info_link": "https://www.frontiersin.org/journals/nutrition",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAACpElEQVR4Ab3WU5QjURSF4Rrbtm3btm3btm3btm3bxsvYRpwztW_WmZkuraC6H_523y9XSaQKPauGaPhgWIZjx-egalv3tk2060LyYAWTnzi5Jv3xE6Qs38FDHyJOaVzEJNAYQ1Gnt3JIo8oMMw3c3qN338FLV7owk1Bnz7lR7NNn_mHjKpE0tspi_nvknBOtgGVusjZy0-UW-wR-i5G45-_QsQl9j5zUdrZCCeuRri0suSbWFRiqPKHsS5qX8Kg8-Gfr3KSk7PDuXAm8Bj8lTVtZjrjv8VIJvGvn4hYGgbvmxVVBHM_SWzAdICXKIGcEIq9BpAUuaVTHzlj2Fq3ow_TsViMQexoQiL0Elq99c-qXup94AM6F8YzAz96CvKxN5eZ8TpT2Mg7P1ZxZ3Iz1ydabuqbrrwlhqRHNDUU4vV6Byvo9LVNl7fH8FxljEKcXA3NY5isLWlg2LhptwdXCM5RXII71tPMl-spdlKOpciuv53NvGVpfQIz2KzdEDFx6-UmLtOKBW1r9kJD4euUd1cHRQ54A4RhcfLGI68XZdNQplgfEbGsMWfYbAAZXd3u2ITjtQvE5DOiBv56GEoeFZ6mLoVY3ogcMfnsQmS7sKeXALGv0XGkA3t6nwPwDP92LR5ilmN3SW569Qh7kOSC5kXgpMw1EB3fXdUw-PJv2n-1A5y7Vmas1uKkgwvKiT_fijDcdnHG5sLgWABjkTAOBzLmaj6acLWlrPq-PPXunORYsJfbQNJCRsccqWxmRSmwiqeI6Eb7G3QPEs317J_EEv8ABOxrPBpKsyRKrVHqDAEJXX62Mf47rgdn6P0Mkld0wUwHohtkOnjDE_xlyYaqvLi730wv0fKjy61viGcVvUAFvUSL4GZBgeyOM2QLBZ7PeeYdofwApeA8ggD9TEAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWDNSQnhMcENIXzkzRHN2cXBOdG9yZVhRVDh2VmpaS01uX19ZazdFejRzNVR5TEJOTkdYQkYyNDhOeTgzdzBuWWdQUlEtVlRRWWIyOWs3NGhrcENycWtNbXQ3SmNzclM0NUNHSXhHWEZaODhPR0xVX2xraTlBVU5ydENEQ0ZoN2piZW1ocHRrbVcSBBoCCAAaqQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCDAwgAEAAYACAAKigKBHR5cGUVAAAAABoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWDNSQnhMcENIXzkzRHN2cXBOdG9yZVhRVDh2VmpaS01uX19ZazdFejRzNVR5TEJOTkdYQkYyNDhOeTgzdzBuWWdQUlEtVlRRWWIyOWs3NGhrcENycWtNbXQ3SmNzclM0NUNHSXhHWEZaODhPR0xVX2xraTlBVU5ydENEQ0ZoN2piZW1ocHRrbVc6FkZyb250aWVycyBpbiBOdXRyaXRpb25ClQFFeHBsb3JlIG9wZW4gYWNjZXNzIHJlc2VhcmNoIGluIG51dHJpdGlvbiwgY292ZXJpbmcgY2xpbmljYWwgbnV0cml0aW9uLCBtZXRhYm9saXNtLCBmb29kIHNjaWVuY2UsIHBvbGljeSwgc3VzdGFpbmFiaWxpdHkgYW5kIHB1YmxpYyBoZWFsdGggbnV0cml0aW9uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWDNSQnhMcENIXzkzRHN2cXBOdG9yZVhRVDh2VmpaS01uX19ZazdFejRzNVR5TEJOTkdYQkYyNDhOeTgzdzBuWWdQUlEtVlRRWWIyOWs3NGhrcENycWtNbXQ3SmNzclM0NUNHSXhHWEZaODhPR0xVX2xraTlBVU5ydENEQ0ZoN2piZW1ocHRrbVcSBBoCCAAaqQMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCDAwgAEAAYACAAKigKBHR5cGUVAAAAABoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMp4BL2dvdG8_dXJsPUNBRVNhd0hFSWtYWDNSQnhMcENIXzkzRHN2cXBOdG9yZVhRVDh2VmpaS01uX19ZazdFejRzNVR5TEJOTkdYQkYyNDhOeTgzdzBuWWdQUlEtVlRRWWIyOWs3NGhrcENycWtNbXQ3SmNzclM0NUNHSXhHWEZaODhPR0xVX2xraTlBVU5ydENEQ0ZoN2piZW1ocHRrbVc6FkZyb250aWVycyBpbiBOdXRyaXRpb25ClQFFeHBsb3JlIG9wZW4gYWNjZXNzIHJlc2VhcmNoIGluIG51dHJpdGlvbiwgY292ZXJpbmcgY2xpbmljYWwgbnV0cml0aW9uLCBtZXRhYm9saXNtLCBmb29kIHNjaWVuY2UsIHBvbGljeSwgc3VzdGFpbmFiaWxpdHkgYW5kIHB1YmxpYyBoZWFsdGggbnV0cml0aW9uLiICEAFIAFgAaAA",
+      "source": "Frontiers"
+    },
+    {
+      "position": 6,
+      "title": "DCMI: Type",
+      "link": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/type/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEBxCJF1yOjNKFHwmPkLvbhqO4l007uihh1nXcGCeDnqrkBc09QJf3i1FOIZis_IQvzAfDUknXY161X4DRlTJrgPOGmqrVPr5c1T0s8bNTqOuvIi7R10pVEMSlcQzFA0vXQ_Rmofc7mf6-0LTLSrSvJ5F2s034r_kTnqnDJmaqIC2wo70PHtw9jwXWsjAf6&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.dublincore.org \u203a ... \u203a DCMI Metadata Terms",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX_ZgD_YgD_XgD7k2P7oXj6xq3_WgD78un____7uZv6sY__YwD_ZAD_WwD62cf8dCr8ezn7-fL7g0f9cCH8eDT7ilP74dP73c38jVn8ZwD7mm37lWX8dCj7qIP8UAD8wqr7nnT60bz7y7X76Nz-RgD79e36rIj6vqL7fz_8hk77bRP-TQAKY4NfAAABN0lEQVR4Aa3RR4KDMAwFUKQEIbCc0MGQRi9z__tNGmHqLp_Oc7f1pgD8B2jBZgsW4h-2tZEcJnS9n6pE7xhk7ysKHBL1zUJfQAiiWGkQiRL4gpodAj-NHMYsR52xkRWhyDEqOc-LA3sGwiOuphG0y_6pPJ8vJ8UVIdLL0hoprk3D1zjGTgjdBhZsqlOVtSnzXds6PZ27BS1CXWU-P7OpU702q0iBT_2Cw2lEIXhawonharug6_IYBwU8cAoS7cXzgtPswoJXJZCoGe2H7a6vStFrQGJw4qK9a_VxfdVmtZltosIRq7iYU3Mk7fGoFlVVCdhzlJVTOvOAKtnN6-Ii4KzJ8HBkn7RBpa-2as-JQsLrKXsevm-3jNUM5RauF0qVK-u7aiGHiTomwdVW3_tyu6w_I_K43pBPsWcXE8_sCQkAAAAASUVORK5CYII.png",
+      "snippet": "Recommended practice is to use a controlled vocabulary such as the DCMI Type Vocabulary [DCMI-TYPE]. To describe the file format, physical medium, or dimensions ...",
+      "snippet_highlighted_words": [
+        "Type",
+        "TYPE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Recommended practice is to use a controlled vocabulary such as the DCMI Type Vocabulary [DCMI-TYPE]. To describe the file format, physical medium, or dimensions ...",
+          "source_info_link": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/type/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEX_ZgD_YgD_XgD7k2P7oXj6xq3_WgD78un____7uZv6sY__YwD_ZAD_WwD62cf8dCr8ezn7-fL7g0f9cCH8eDT7ilP74dP73c38jVn8ZwD7mm37lWX8dCj7qIP8UAD8wqr7nnT60bz7y7X76Nz-RgD79e36rIj6vqL7fz_8hk77bRP-TQAKY4NfAAABN0lEQVR4Aa3RR4KDMAwFUKQEIbCc0MGQRi9z__tNGmHqLp_Oc7f1pgD8B2jBZgsW4h-2tZEcJnS9n6pE7xhk7ysKHBL1zUJfQAiiWGkQiRL4gpodAj-NHMYsR52xkRWhyDEqOc-LA3sGwiOuphG0y_6pPJ8vJ8UVIdLL0hoprk3D1zjGTgjdBhZsqlOVtSnzXds6PZ27BS1CXWU-P7OpU702q0iBT_2Cw2lEIXhawonharug6_IYBwU8cAoS7cXzgtPswoJXJZCoGe2H7a6vStFrQGJw4qK9a_VxfdVmtZltosIRq7iYU3Mk7fGoFlVVCdhzlJVTOvOAKtnN6-Ii4KzJ8HBkn7RBpa-2as-JQsLrKXsevm-3jNUM5RauF0qVK-u7aiGHiTomwdVW3_tyu6w_I_K43pBPsWcXE8_sCQkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCeENKRjEwZGRXRnRpNlhsQVhMS2pqUGtOYTN2bXprWUZmWF9NeGRYTWVfREg1b0JFMjRscG5KdDd4dGVldTZ0ZG1waHRuRlEzbkxyT0JxOGhKU05MekNoZHdoSjRlZ0VIWklYdE0wNlZhV2c0a0VNeWxrbk1hQnVpUlltTWl1ZWpvSFNkZVRPRm5hbW1maFlEUzd1c3hTMUdiZkZwVWVqSVQ2ZENlWDdUVmFUY1JoUUQzTDN0V3ozbzN4YVcSBBoCCAAahAQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeAwgAEAAYACAAKigKBHR5cGUVyOihQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMs4BL2dvdG8_dXJsPUNBRVNqZ0VCeENKRjEwZGRXRnRpNlhsQVhMS2pqUGtOYTN2bXprWUZmWF9NeGRYTWVfREg1b0JFMjRscG5KdDd4dGVldTZ0ZG1waHRuRlEzbkxyT0JxOGhKU05MekNoZHdoSjRlZ0VIWklYdE0wNlZhV2c0a0VNeWxrbk1hQnVpUlltTWl1ZWpvSFNkZVRPRm5hbW1maFlEUzd1c3hTMUdiZkZwVWVqSVQ2ZENlWDdUVmFUY1JoUUQzTDN0V3ozbzN4YVc6H0RDTUk6IDxiPlR5cGU8L2I-IC0gRHVibGluIENvcmVCtwFSZWNvbW1lbmRlZCBwcmFjdGljZSBpcyB0byB1c2UgYSBjb250cm9sbGVkIHZvY2FidWxhcnkgc3VjaCBhcyB0aGUgRENNSSA8Yj5UeXBlPC9iPiBWb2NhYnVsYXJ5IFtEQ01JLTxiPlRZUEU8L2I-XS4gVG8gZGVzY3JpYmUgdGhlIGZpbGUgZm9ybWF0LCBwaHlzaWNhbCBtZWRpdW0sIG9yIGRpbWVuc2lvbnMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCeENKRjEwZGRXRnRpNlhsQVhMS2pqUGtOYTN2bXprWUZmWF9NeGRYTWVfREg1b0JFMjRscG5KdDd4dGVldTZ0ZG1waHRuRlEzbkxyT0JxOGhKU05MekNoZHdoSjRlZ0VIWklYdE0wNlZhV2c0a0VNeWxrbk1hQnVpUlltTWl1ZWpvSFNkZVRPRm5hbW1maFlEUzd1c3hTMUdiZkZwVWVqSVQ2ZENlWDdUVmFUY1JoUUQzTDN0V3ozbzN4YVcSBBoCCAAahAQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeAwgAEAAYACAAKigKBHR5cGUVyOihQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMs4BL2dvdG8_dXJsPUNBRVNqZ0VCeENKRjEwZGRXRnRpNlhsQVhMS2pqUGtOYTN2bXprWUZmWF9NeGRYTWVfREg1b0JFMjRscG5KdDd4dGVldTZ0ZG1waHRuRlEzbkxyT0JxOGhKU05MekNoZHdoSjRlZ0VIWklYdE0wNlZhV2c0a0VNeWxrbk1hQnVpUlltTWl1ZWpvSFNkZVRPRm5hbW1maFlEUzd1c3hTMUdiZkZwVWVqSVQ2ZENlWDdUVmFUY1JoUUQzTDN0V3ozbzN4YVc6H0RDTUk6IDxiPlR5cGU8L2I-IC0gRHVibGluIENvcmVCtwFSZWNvbW1lbmRlZCBwcmFjdGljZSBpcyB0byB1c2UgYSBjb250cm9sbGVkIHZvY2FidWxhcnkgc3VjaCBhcyB0aGUgRENNSSA8Yj5UeXBlPC9iPiBWb2NhYnVsYXJ5IFtEQ01JLTxiPlRZUEU8L2I-XS4gVG8gZGVzY3JpYmUgdGhlIGZpbGUgZm9ybWF0LCBwaHlzaWNhbCBtZWRpdW0sIG9yIGRpbWVuc2lvbnMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Dublin Core Metadata Initiative",
+      "read_more_link": "https://www.dublincore.org/specifications/dublin-core/dcmi-terms/elements11/type/#:~:text=Recommended%20practice%20is%20to%20use,resource%2C%20use%20the%20Format%20element."
+    },
+    {
+      "position": 7,
+      "title": "Event: type property - Web APIs - MDN Web Docs",
+      "link": "https://developer.mozilla.org/en-US/docs/Web/API/Event/type",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHEIkXXDXQygDYzTaAb4ya9vZkOPq_VNg8OaLvrncyjuh65mjtiRXONaDH0qsGCAZzw2IDbT_kSlbErTBYwp0d-B8geGCe0S7MWh5iRGqo6B0ZQ9XMURbKh0bKfkNGmPtq-vtjFWb5PXHMhr_WGv4wGTw5puwyv2Q&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://developer.mozilla.org \u203a Web \u203a Web APIs \u203a Event",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUVFBoAAAAAAAsAAAXGxsfc3Nxramzi4uOEhIUJBxA2NTn____l5eWxsLKbm5yXl5ljY2U8PD_Q0NFbWl3y8vK4uLkaGR9GRUihoaIAAAhxcXO-vr99fX8nJyv7-_uQkJHW1td4h7FUAAAAsElEQVR4Ac3RBQKDMBAEQBZNurg7_P-VzdV7LwDiE4933Q8AJPcBBNrCKIzgLE7CyPyrvTGNCOnEjDn-EAXzJ5IlNUasEod-ybrR6LGFIDKaUiEMuye27GONNWNBOzCBRpAQxMhR4zQzfGLKSiMWroHgxha-xp2TJ3gw0-g3PCGIk42vEBmPJ3KHp7HlZgVjLhrd4VJXQ8qF86RwWqNDcKnDE65v8_dkE_D73BZiV_zuQNAJugNKvQoAAAAASUVORK5CYII.png",
+      "date": "Sep 18, 2025",
+      "snippet": "The type read-only property of the Event interface returns a string containing the event's type. It is set when the event is constructed and ...",
+      "snippet_highlighted_words": [
+        "type",
+        "type"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The type read-only property of the Event interface returns a string containing the event's type. It is set when the event is constructed and ...",
+          "source_info_link": "https://developer.mozilla.org/en-US/docs/Web/API/Event/type",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAY1BMVEUVFBoAAAAAAAsAAAXGxsfc3Nxramzi4uOEhIUJBxA2NTn____l5eWxsLKbm5yXl5ljY2U8PD_Q0NFbWl3y8vK4uLkaGR9GRUihoaIAAAhxcXO-vr99fX8nJyv7-_uQkJHW1td4h7FUAAAAsElEQVR4Ac3RBQKDMBAEQBZNurg7_P-VzdV7LwDiE4933Q8AJPcBBNrCKIzgLE7CyPyrvTGNCOnEjDn-EAXzJ5IlNUasEod-ybrR6LGFIDKaUiEMuye27GONNWNBOzCBRpAQxMhR4zQzfGLKSiMWroHgxha-xp2TJ3gw0-g3PCGIk42vEBmPJ3KHp7HlZgVjLhrd4VJXQ8qF86RwWqNDcKnDE65v8_dkE_D73BZiV_zuQNAJugNKvQoAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGNvTTdReEljYlJOTDdrTVpEcGVfRkg1X0I2WFNiQndwYVJPeHowNi14N2FPN2M2c09nYkNrVFRoaUowcHVMTGg2bW9MajZ3cnQ3YjVtQW51dENPejl2cGdydEtHcm1NSVl3VVdVTkhYSl9RUkpwZm9rY3pWbDQwOU4xTHpqZHBRQVdERERINVYxRlVrX0czUHJlMDh2Y2NPQkESBBoCCAAa7AMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGAwgAEAAYACAAKigKBHR5cGUVfMShQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGNvTTdReEljYlJOTDdrTVpEcGVfRkg1X0I2WFNiQndwYVJPeHowNi14N2FPN2M2c09nYkNrVFRoaUowcHVMTGg2bW9MajZ3cnQ3YjVtQW51dENPejl2cGdydEtHcm1NSVl3VVdVTkhYSl9RUkpwZm9rY3pWbDQwOU4xTHpqZHBRQVdERERINVYxRlVrX0czUHJlMDh2Y2NPQkE6NUV2ZW50OiA8Yj50eXBlPC9iPiBwcm9wZXJ0eSAtIFdlYiBBUElzIC0gTUROIFdlYiBEb2NzQqcBVGhlIDxiPnR5cGU8L2I-IHJlYWQtb25seSBwcm9wZXJ0eSBvZiB0aGUgRXZlbnQgaW50ZXJmYWNlIHJldHVybnMgYSBzdHJpbmcgY29udGFpbmluZyB0aGUgZXZlbnQmIzM5O3MgPGI-dHlwZTwvYj4uIEl0IGlzIHNldCB3aGVuIHRoZSBldmVudCBpcyBjb25zdHJ1Y3RlZCBhbmQmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGNvTTdReEljYlJOTDdrTVpEcGVfRkg1X0I2WFNiQndwYVJPeHowNi14N2FPN2M2c09nYkNrVFRoaUowcHVMTGg2bW9MajZ3cnQ3YjVtQW51dENPejl2cGdydEtHcm1NSVl3VVdVTkhYSl9RUkpwZm9rY3pWbDQwOU4xTHpqZHBRQVdERERINVYxRlVrX0czUHJlMDh2Y2NPQkESBBoCCAAa7AMSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGAwgAEAAYACAAKigKBHR5cGUVfMShQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMrABL2dvdG8_dXJsPUNBRVNlQUhFSWtYWGNvTTdReEljYlJOTDdrTVpEcGVfRkg1X0I2WFNiQndwYVJPeHowNi14N2FPN2M2c09nYkNrVFRoaUowcHVMTGg2bW9MajZ3cnQ3YjVtQW51dENPejl2cGdydEtHcm1NSVl3VVdVTkhYSl9RUkpwZm9rY3pWbDQwOU4xTHpqZHBRQVdERERINVYxRlVrX0czUHJlMDh2Y2NPQkE6NUV2ZW50OiA8Yj50eXBlPC9iPiBwcm9wZXJ0eSAtIFdlYiBBUElzIC0gTUROIFdlYiBEb2NzQqcBVGhlIDxiPnR5cGU8L2I-IHJlYWQtb25seSBwcm9wZXJ0eSBvZiB0aGUgRXZlbnQgaW50ZXJmYWNlIHJldHVybnMgYSBzdHJpbmcgY29udGFpbmluZyB0aGUgZXZlbnQmIzM5O3MgPGI-dHlwZTwvYj4uIEl0IGlzIHNldCB3aGVuIHRoZSBldmVudCBpcyBjb25zdHJ1Y3RlZCBhbmQmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "MDN Web Docs"
+    },
+    {
+      "position": 8,
+      "title": "Reduction in the incidence of type 2 diabetes with lifestyle ...",
+      "link": "https://pubmed.ncbi.nlm.nih.gov/11832527/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHEIkXXC3DNt3VHj1y5W2kfLZ5TjbUDGJln2Yd6mQCcHfTnYJ9Tc07Zla_G3jv2QQpBt31og27BQOVxiRy8J1Utbe2or8nq0ZgMX6cYU2dbPwqKlJKg2Qr0vRRok21HM9qbUD0KEQ&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://pubmed.ncbi.nlm.nih.gov \u203a ...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABA0lEQVR4AWJwL_ChKwYTEqE9BglJae0kYGe4AUFTPIB4ChRXAM1SxGshUHMCEP8nFQfG54tBHasItOg_Gk7EZ-EjkAFk4JVIvqxAt1QspJcb0GwdWAAIhGEYnqVtGqNtWqAlAjdKbRBNEXD5cZyPu4_zRvgF9Kh7-9UC8-jIq70ETV-Ah5xlrifaoMGYpUKToCcA2oAeDciAeEBPBORBNqDNg3xAkwfhgDzIb6CZBmPW6ik3AS8PwvGwoPk8uDOU84trYwGg4OoKJcHbLXEB0VDOxpbBQLtHUbCsrLhxKxQF2Y9cQiHBu7yuiKIXioI7sKg1lNT7Lx1BDw1Fq-yC9PwKfAFmoVRnLcb2rQAAAABJRU5ErkJggg.png",
+      "author": "by WC Knowler",
+      "snippet": "Lifestyle changes and treatment with metformin both reduced the incidence of diabetes in persons at high risk. The lifestyle intervention was more effective ...",
+      "snippet_highlighted_words": [
+        "Lifestyle changes and treatment with metformin"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Lifestyle changes and treatment with metformin both reduced the incidence of diabetes in persons at high risk. The lifestyle intervention was more effective ...",
+          "source_info_link": "https://pubmed.ncbi.nlm.nih.gov/11832527/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAABA0lEQVR4AWJwL_ChKwYTEqE9BglJae0kYGe4AUFTPIB4ChRXAM1SxGshUHMCEP8nFQfG54tBHasItOg_Gk7EZ-EjkAFk4JVIvqxAt1QspJcb0GwdWAAIhGEYnqVtGqNtWqAlAjdKbRBNEXD5cZyPu4_zRvgF9Kh7-9UC8-jIq70ETV-Ah5xlrifaoMGYpUKToCcA2oAeDciAeEBPBORBNqDNg3xAkwfhgDzIb6CZBmPW6ik3AS8PwvGwoPk8uDOU84trYwGg4OoKJcHbLXEB0VDOxpbBQLtHUbCsrLhxKxQF2Y9cQiHBu7yuiKIXioI7sKg1lNT7Lx1BDw1Fq-yC9PwKfAFmoVRnLcb2rQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hFSWtYWEtrWlUzb1BmZ0Z4WWtpWlR6YWdnRzk4TkN0VnJOUkRNMXBQRnRqWHU5eS14VXM4SGJsMWw3WUk2UktNakJUUC1tQkw5THJQTk5VNmxyRnRrQTBqamY1OEtRdXNsMXI0VWJzSVgxMjBiZG85VElxY1gxT2dJSGtRcmJNbktQbVJMU2cSBBoCCAAa6wMSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFAwgAEAAYACAAKigKBHR5cGUVtNaAQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMpgBL2dvdG8_dXJsPUNBRVNaZ0hFSWtYWEtrWlUzb1BmZ0Z4WWtpWlR6YWdnRzk4TkN0VnJOUkRNMXBQRnRqWHU5eS14VXM4SGJsMWw3WUk2UktNakJUUC1tQkw5THJQTk5VNmxyRnRrQTBqamY1OEtRdXNsMXI0VWJzSVgxMjBiZG85VElxY1gxT2dJSGtRcmJNbktQbVJMU2c6R1JlZHVjdGlvbiBpbiB0aGUgaW5jaWRlbmNlIG9mIDxiPnR5cGUgMiBkaWFiZXRlczwvYj4gd2l0aCBsaWZlc3R5bGUgLi4uQqwBPGI-TGlmZXN0eWxlIGNoYW5nZXMgYW5kIHRyZWF0bWVudCB3aXRoIG1ldGZvcm1pbjwvYj4gYm90aCByZWR1Y2VkIHRoZSBpbmNpZGVuY2Ugb2YgZGlhYmV0ZXMgaW4gcGVyc29ucyBhdCBoaWdoIHJpc2suIFRoZSBsaWZlc3R5bGUgaW50ZXJ2ZW50aW9uIHdhcyBtb3JlIGVmZmVjdGl2ZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hFSWtYWEtrWlUzb1BmZ0Z4WWtpWlR6YWdnRzk4TkN0VnJOUkRNMXBQRnRqWHU5eS14VXM4SGJsMWw3WUk2UktNakJUUC1tQkw5THJQTk5VNmxyRnRrQTBqamY1OEtRdXNsMXI0VWJzSVgxMjBiZG85VElxY1gxT2dJSGtRcmJNbktQbVJMU2cSBBoCCAAa6wMSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFAwgAEAAYACAAKigKBHR5cGUVtNaAQBoFdHlwZXMaBXR5cGUyGg10eXBlMmRpYWJldGVzMpgBL2dvdG8_dXJsPUNBRVNaZ0hFSWtYWEtrWlUzb1BmZ0Z4WWtpWlR6YWdnRzk4TkN0VnJOUkRNMXBQRnRqWHU5eS14VXM4SGJsMWw3WUk2UktNakJUUC1tQkw5THJQTk5VNmxyRnRrQTBqamY1OEtRdXNsMXI0VWJzSVgxMjBiZG85VElxY1gxT2dJSGtRcmJNbktQbVJMU2c6R1JlZHVjdGlvbiBpbiB0aGUgaW5jaWRlbmNlIG9mIDxiPnR5cGUgMiBkaWFiZXRlczwvYj4gd2l0aCBsaWZlc3R5bGUgLi4uQqwBPGI-TGlmZXN0eWxlIGNoYW5nZXMgYW5kIHRyZWF0bWVudCB3aXRoIG1ldGZvcm1pbjwvYj4gYm90aCByZWR1Y2VkIHRoZSBpbmNpZGVuY2Ugb2YgZGlhYmV0ZXMgaW4gcGVyc29ucyBhdCBoaWdoIHJpc2suIFRoZSBsaWZlc3R5bGUgaW50ZXJ2ZW50aW9uIHdhcyBtb3JlIGVmZmVjdGl2ZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)"
+    },
+    {
+      "position": 9,
+      "title": "Rae Sremmurd - No Type (Official Video)",
+      "link": "https://www.youtube.com/watch?v=wzMrK-aGCug",
+      "displayed_link": "941.2M+ views",
+      "date": "12 years ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9YTlPTZWPb89zsqoF5uzeRUjIV9wCQ7kCUbFmHCeLmdmbEtTPJKZWCw&s",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAh0lEQVR4AWP4__8_RXgwGMBgzA_EU4H4DBA_B-JPQPwfB_4EVXMGqocfZMAMkCSZeCrIgKsUGHAFZMAXrJIZbf__u-cQMuATA07JCcv-g8H2o___a4bgNASvAXDw4-f__xYJWNVR7AKKw4AqsTCdknQAS4nTgPgsEL8glBKhas5A9fAPfGYCADVteZOv2-CaAAAAAElFTkSuQmCC.png",
+      "snippet": "SremmLife\u201d available Now! iTunes: http://smarturl.it/SremmLife Google Play: http://smarturl.it/SremmLifeGP Amazon: ...",
+      "duration": "3:18",
+      "about_this_result": {
+        "source": {
+          "description": "SremmLife\u201d available Now! iTunes: http://smarturl.it/SremmLife Google Play: http://smarturl.it/SremmLifeGP Amazon: ...",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAh0lEQVR4AWP4__8_RXgwGMBgzA_EU4H4DBA_B-JPQPwfB_4EVXMGqocfZMAMkCSZeCrIgKsUGHAFZMAXrJIZbf__u-cQMuATA07JCcv-g8H2o___a4bgNASvAXDw4-f__xYJWNVR7AKKw4AqsTCdknQAS4nTgPgsEL8glBKhas5A9fAPfGYCADVteZOv2-CaAAAAAElFTkSuQmCC.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC00TUJiR2Q1bHJ0R0VNU1ZZUkRzakpfbk1LWEc5TjYzX0ljdk5idV9TMDJoeFR2S2R3cFNmN21PLUVkUDR1MHhmenpIRmczdDVNTHplaHNyeGozNlBBeldJMTJBQjRuVW9qb2FkSmd4dE5Zb2FVX2RmcFVhTzVTLXBfT3VESEhPalVQSRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhFSWtYWC00TUJiR2Q1bHJ0R0VNU1ZZUkRzakpfbk1LWEc5TjYzX0ljdk5idV9TMDJoeFR2S2R3cFNmN21PLUVkUDR1MHhmenpIRmczdDVNTHplaHNyeGozNlBBeldJMTJBQjRuVW9qb2FkSmd4dE5Zb2FVX2RmcFVhTzVTLXBfT3VESEhPalVQSRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRduaPNcOoznLQ_gqNAcK9xksWyy1ge12EK3A",
+      "source": "YouTube \u00b7 Rae Sremmurd"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Python type hint function as argument",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+type+hint+function+as+argument&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAgrEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+type+hint+function+as+argument"
+    },
+    {
+      "block_position": 1,
+      "query": "Python function type hint",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+function+type+hint&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+function+type+hint"
+    },
+    {
+      "block_position": 1,
+      "query": "Python Callable type hint",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+Callable+type+hint&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAgsEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+Callable+type+hint"
+    },
+    {
+      "block_position": 1,
+      "query": "Python type hints list",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+type+hints+list&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+type+hints+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Python type keyword",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+type+keyword&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+type+keyword"
+    },
+    {
+      "block_position": 1,
+      "query": "Python type checking",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+type+checking&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+type+checking"
+    },
+    {
+      "block_position": 1,
+      "query": "Python type hint array",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+type+hint+array&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAgvEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+type+hint+array"
+    },
+    {
+      "block_position": 1,
+      "query": "Python dict type hint",
+      "link": "https://www.google.com/search?sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&q=Python+dict+type+hint&sa=X&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ1QJ6BAguEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Python+dict+type+hint"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&ei=QXb3ao27E6LX5NoPjKKQqA8&start=10&sa=N&sstk=AYl2yk8C8iEvwijB5T3wSfzR8drbaefmCxKndJI0_4oY42Wu1S8Q3IqTwYIW7IDSdtdifSWzOVTcV-YlZtboHI5I95IesxWYkdZmPQ&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ8NMDegQIKRAG",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=type+2+diabetes+treatment+options&sca_esv=42a063fbdbb206dc&hl=en&gl=us&sxsrf=AKL5yDiWLVVFDRUD1Iy3KFeqRbW-PmND1w:1794602561327&ei=QXb3ao27E6LX5NoPjKKQqA8&start=10&sa=N&sstk=AYl2yk8C8iEvwijB5T3wSfzR8drbaefmCxKndJI0_4oY42Wu1S8Q3IqTwYIW7IDSdtdifSWzOVTcV-YlZtboHI5I95IesxWYkdZmPQ&ved=2ahUKEwjN37jB54WYAxWiK1kFHQwRBPUQ8tMDegQIKRAE"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=type+2+diabetes+treatment+options&start=10"
+    }
+  }
+}
