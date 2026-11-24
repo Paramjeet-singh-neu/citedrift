@@ -1,104 +1,104 @@
 {
-  "n_manifest_rows": 900,
+  "n_manifest_rows": 912,
   "n_citations": 4941,
   "n_answers": 582,
   "aio_presence": {
     "by_query": {
       "t2d_symptoms": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 50,
-        "runs_failed_fetch": 25,
+        "runs_failed_fetch": 26,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.6666666666666666,
-        "n": 75
+        "presence_rate": 0.6578947368421053,
+        "n": 76
       },
       "t2d_diagnosis": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 50,
-        "runs_failed_fetch": 25,
+        "runs_failed_fetch": 26,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.6666666666666666,
-        "n": 75
+        "presence_rate": 0.6578947368421053,
+        "n": 76
       },
       "t2d_treatment": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 50,
-        "runs_failed_fetch": 25,
+        "runs_failed_fetch": 26,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.6666666666666666,
-        "n": 75
+        "presence_rate": 0.6578947368421053,
+        "n": 76
       },
       "t2d_branded": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 50,
-        "runs_failed_fetch": 25,
+        "runs_failed_fetch": 26,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.6666666666666666,
-        "n": 75
+        "presence_rate": 0.6578947368421053,
+        "n": 76
       },
       "t2d_hcp": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 48,
-        "runs_failed_fetch": 26,
+        "runs_failed_fetch": 27,
         "runs_genuine_absence": 1,
-        "presence_rate": 0.64,
-        "n": 75
+        "presence_rate": 0.631578947368421,
+        "n": 76
       },
       "htn_symptoms": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 49,
-        "runs_failed_fetch": 26,
+        "runs_failed_fetch": 27,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.6533333333333333,
-        "n": 75
+        "presence_rate": 0.6447368421052632,
+        "n": 76
       },
       "htn_diagnosis": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 48,
-        "runs_failed_fetch": 27,
+        "runs_failed_fetch": 28,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.64,
-        "n": 75
+        "presence_rate": 0.631578947368421,
+        "n": 76
       },
       "htn_treatment": {
-        "runs_attempted": 75,
+        "runs_attempted": 76,
         "runs_with_complete_aio": 48,
-        "runs_failed_fetch": 26,
-        "runs_genuine_absence": 1,
-        "presence_rate": 0.64,
-        "n": 75
-      },
-      "htn_branded": {
-        "runs_attempted": 75,
-        "runs_with_complete_aio": 49,
-        "runs_failed_fetch": 26,
-        "runs_genuine_absence": 0,
-        "presence_rate": 0.6533333333333333,
-        "n": 75
-      },
-      "htn_hcp": {
-        "runs_attempted": 75,
-        "runs_with_complete_aio": 47,
         "runs_failed_fetch": 27,
         "runs_genuine_absence": 1,
-        "presence_rate": 0.6266666666666667,
-        "n": 75
+        "presence_rate": 0.631578947368421,
+        "n": 76
       },
-      "pah_symptoms": {
-        "runs_attempted": 75,
-        "runs_with_complete_aio": 46,
-        "runs_failed_fetch": 28,
-        "runs_genuine_absence": 1,
-        "presence_rate": 0.6133333333333333,
-        "n": 75
+      "htn_branded": {
+        "runs_attempted": 76,
+        "runs_with_complete_aio": 49,
+        "runs_failed_fetch": 27,
+        "runs_genuine_absence": 0,
+        "presence_rate": 0.6447368421052632,
+        "n": 76
       },
-      "pah_branded": {
-        "runs_attempted": 75,
+      "htn_hcp": {
+        "runs_attempted": 76,
         "runs_with_complete_aio": 47,
         "runs_failed_fetch": 28,
+        "runs_genuine_absence": 1,
+        "presence_rate": 0.618421052631579,
+        "n": 76
+      },
+      "pah_symptoms": {
+        "runs_attempted": 76,
+        "runs_with_complete_aio": 46,
+        "runs_failed_fetch": 29,
+        "runs_genuine_absence": 1,
+        "presence_rate": 0.6052631578947368,
+        "n": 76
+      },
+      "pah_branded": {
+        "runs_attempted": 76,
+        "runs_with_complete_aio": 47,
+        "runs_failed_fetch": 29,
         "runs_genuine_absence": 0,
-        "presence_rate": 0.6266666666666667,
-        "n": 75
+        "presence_rate": 0.618421052631579,
+        "n": 76
       }
     },
     "n_queries": 12
@@ -108,74 +108,74 @@
       "t2d_symptoms": {
         "inline": 48,
         "expanded": 2,
-        "none": 25,
-        "n": 75
+        "none": 26,
+        "n": 76
       },
       "t2d_diagnosis": {
         "inline": 43,
         "expanded": 7,
-        "none": 25,
-        "n": 75
+        "none": 26,
+        "n": 76
       },
       "t2d_treatment": {
         "inline": 47,
         "expanded": 3,
-        "none": 25,
-        "n": 75
+        "none": 26,
+        "n": 76
       },
       "t2d_branded": {
         "inline": 47,
         "expanded": 3,
-        "none": 25,
-        "n": 75
+        "none": 26,
+        "n": 76
       },
       "t2d_hcp": {
         "inline": 0,
         "expanded": 48,
-        "none": 27,
-        "n": 75
+        "none": 28,
+        "n": 76
       },
       "htn_symptoms": {
         "inline": 45,
         "expanded": 4,
-        "none": 26,
-        "n": 75
+        "none": 27,
+        "n": 76
       },
       "htn_diagnosis": {
         "inline": 47,
         "expanded": 1,
-        "none": 27,
-        "n": 75
+        "none": 28,
+        "n": 76
       },
       "htn_treatment": {
         "inline": 45,
         "expanded": 3,
-        "none": 27,
-        "n": 75
+        "none": 28,
+        "n": 76
       },
       "htn_branded": {
         "inline": 40,
         "expanded": 9,
-        "none": 26,
-        "n": 75
+        "none": 27,
+        "n": 76
       },
       "htn_hcp": {
         "inline": 0,
         "expanded": 47,
-        "none": 28,
-        "n": 75
+        "none": 29,
+        "n": 76
       },
       "pah_symptoms": {
         "inline": 44,
         "expanded": 2,
-        "none": 29,
-        "n": 75
+        "none": 30,
+        "n": 76
       },
       "pah_branded": {
         "inline": 46,
         "expanded": 1,
-        "none": 28,
-        "n": 75
+        "none": 29,
+        "n": 76
       }
     },
     "by_audience": {
